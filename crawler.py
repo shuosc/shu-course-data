@@ -7,6 +7,7 @@ import os
 import random
 import re
 import ssl
+import time
 
 import aiohttp
 import certifi
@@ -68,6 +69,10 @@ class CrawlerSession:
         }, ssl=SSL_CONTEXT)
         r.raise_for_status()
 
+        if self.__termid is None:
+            soup = BeautifulSoup(await r.text(), 'html.parser')
+            self.__termid = max([tr['value'] for tr in soup.find_all('tr', attrs={'name': 'rowterm'})])
+
         r = await self.__session.post(f'{self.__backend}/Home/TermSelect', data={
             'termId': self.__termid,
         }, ssl=SSL_CONTEXT)
@@ -77,6 +82,7 @@ class CrawlerSession:
         assert match is not None
         assert int(match.group(2)) - int(match.group(1)) == 1
         self.__trimester = match.group(0)
+        print(f'Current trimester: {self.__trimester} ({self.__termid})')
         await asyncio.sleep(0.5)
 
     async def crawl(self):
@@ -146,9 +152,9 @@ class CrawlerSession:
         data_hash = hashlib.md5(json.dumps(data, sort_keys=True).encode()).hexdigest()
         info = {
             'hash': data_hash[:8],
-            'long_hash': data_hash,
             'trimester': self.__trimester,
-            'backend': self.__backend
+            'backend': self.__backend,
+            'timestamp': time.time_ns() // 1000
         }
         return {
             'info': info,
@@ -167,14 +173,18 @@ async def do_crawl(output_dir, backend, termid, username, password):
     os.makedirs(output_dir, 0o755, True)
     session = CrawlerSession(backend, termid, username, password)
     try:
+        print('Processing login...')
         await session.login()
+        print('Processing crawl...')
         result = await session.crawl()
         json.dump(result['info'], open(os.path.join(output_dir, 'info.json'), 'w'))
         json.dump(result['data'], open(os.path.join(output_dir, f'{result["info"]["hash"]}.json'), 'w'))
         json.dump(result['extra'], open(os.path.join(output_dir, 'extra.json'), 'w'))
     finally:
         try:
+            print('Processing logout...')
             await session.logout()
+            print('Finished.')
         finally:
             pass
 
@@ -183,7 +193,7 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Crawl courses data from SHU courses selection website.')
     parser.add_argument('backend', nargs='?', help='Backend URL.', default=DEFAULT_BACKEND)
     parser.add_argument('-o, --output-dir', nargs=1, help='Output dir, default is "data".', metavar='TERMID')
-    parser.add_argument('-t, --termid', nargs=1, help='The term ID like "20203".', metavar='TERMID', required=True)
+    parser.add_argument('-t, --termid', nargs=1, help='The term ID like "20203".', metavar='TERMID')
     parser.add_argument('-u, --username', nargs=1, help='Your username.', metavar='USERNAME', required=True)
     password_group = parser.add_mutually_exclusive_group()
     password_group.add_argument('-p, --password', nargs=1, metavar='PASSWORD', help='Your password.')
@@ -193,7 +203,7 @@ if __name__ == '__main__':
 
     _output_dir = args['o, __output_dir'][0] if args['o, __output_dir'] is not None else 'data'
     _backend = args['backend']
-    _termid = args['t, __termid'][0]
+    _termid = args['t, __termid'][0] if args['t, __termid'] is not None else None
     _username = args['u, __username'][0]
     if args['p, __password'] is not None:
         _password = args['p, __password'][0]

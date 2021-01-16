@@ -1,14 +1,6 @@
 name: Interval Crawler Task
 
-on:
-  workflow_dispatch:
-    inputs:
-      backend:
-        description: 'Backend url of course selection system to crawl.'
-        default: 'http://xk.autoisp.shu.edu.cn'
-      termid:
-        description: 'The term ID. (Example: 20203)'
-        default: '20203'
+on: workflow_dispatch
 
 jobs:
   crawl:
@@ -40,7 +32,7 @@ jobs:
 
       - name: Fetch data
         run: |
-          echo "${{ secrets.SHU_PASSWORD }}" | pipenv run python crawler.py -o data -t ${{ github.event.inputs.termid }} -u ${{ secrets.SHU_USERNAME }} --password-stdin ${{ github.event.inputs.backend }}
+          echo "${{ secrets.SHU_PASSWORD }}" | pipenv run python crawler.py -o data -u ${{ secrets.SHU_USERNAME }} --password-stdin
 
       - name: Push to temporary data branch
         run: |
@@ -48,5 +40,5 @@ jobs:
           git config user.email github-actions@github.com
           git add data
           git commit -am "$(TZ=Asia/Shanghai date)"
-          git subtree split --prefix data --branch temporary-data
-          git push --force origin temporary-data:temporary-data
+          git subtree split --prefix data --branch interval-crawler-task-result
+          git push --force origin interval-crawler-task-result:interval-crawler-task-result
