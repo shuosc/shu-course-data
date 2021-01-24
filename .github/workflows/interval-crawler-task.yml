@@ -3,11 +3,17 @@ name: Interval Crawler Task
 on: workflow_dispatch
 
 jobs:
-  crawl:
+  crawl-and-push:
     runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@v2
+
+      - name: Pull the latest data branch
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git subtree add --prefix=data origin data
 
       - name: Set up Python 3.9
         uses: actions/setup-python@v2
@@ -34,10 +40,8 @@ jobs:
         run: |
           echo "${{ secrets.SHU_PASSWORD }}" | pipenv run python crawler.py -o data -u ${{ secrets.SHU_USERNAME }} --password-stdin
 
-      - name: Push to temporary data branch
+      - name: Push
         run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
           git add data
           git commit -am "$(TZ=Asia/Shanghai date)"
           git subtree split --prefix data --branch interval-crawler-task-result
