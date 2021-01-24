@@ -153,13 +153,17 @@ class CrawlerSession:
         info = {
             'hash': data_hash[:8],
             'trimester': self.__trimester,
-            'backend': self.__backend,
-            'timestamp': time.time_ns() // 1000
+            'backend': self.__backend
+        }
+        extra = {
+            'data': extra_data,
+            'hash': data_hash[:8],
+            'update_time': time.time_ns() // 1000
         }
         return {
             'info': info,
             'data': data,
-            'extra': extra_data,
+            'extra': extra
         }
 
     async def logout(self):
@@ -177,9 +181,9 @@ async def do_crawl(output_dir, backend, termid, username, password):
         await session.login()
         print('Processing crawl...')
         result = await session.crawl()
-        json.dump(result['info'], open(os.path.join(output_dir, 'info.json'), 'w'))
-        json.dump(result['data'], open(os.path.join(output_dir, f'{result["info"]["hash"]}.json'), 'w'))
-        json.dump(result['extra'], open(os.path.join(output_dir, 'extra.json'), 'w'))
+        json.dump(result['info'], open(os.path.join(output_dir, 'info.json'), 'w'), sort_keys=True)
+        json.dump(result['data'], open(os.path.join(output_dir, f'{result["info"]["hash"]}.json'), 'w'), sort_keys=True)
+        json.dump(result['extra'], open(os.path.join(output_dir, 'extra.json'), 'w'), sort_keys=True)
     finally:
         try:
             print('Processing logout...')
@@ -201,7 +205,7 @@ if __name__ == '__main__':
 
     args = vars(parser.parse_args())
 
-    _output_dir = args['o, __output_dir'][0] if args['o, __output_dir'] is not None else 'data'
+    _output_dir = args['o, __output_dir'][0] if args['o, __output_dir'] is not None else 'interval-crawler-task-result'
     _backend = args['backend']
     _termid = args['t, __termid'][0] if args['t, __termid'] is not None else None
     _username = args['u, __username'][0]
