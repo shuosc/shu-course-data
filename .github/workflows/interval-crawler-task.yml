@@ -46,3 +46,42 @@ jobs:
           git commit -am "$(TZ=Asia/Shanghai date)"
           git subtree split --prefix data --branch interval-crawler-task-result
           git push --force origin interval-crawler-task-result:interval-crawler-task-result
+
+  create-pull-request:
+    needs: crawl-and-push
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Close existing pull request
+        uses: actions/github-script@v3
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const options = github.pulls.list.endpoint.merge({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: 'open',
+              head: 'interval-crawler-task-result',
+              base: 'data',
+              title: 'Update'
+            });
+            const pulls = await github.paginate(options);
+            await pulls.forEach(pull => github.pulls.update({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              pull_number: pull.number,
+              state: 'closed'
+            }));
+
+      - name: Create pull request
+        uses: actions/github-script@v3
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            await github.pulls.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              head: 'interval-crawler-task-result',
+              base: 'data',
+              title: 'chore: auto update'
+            });
