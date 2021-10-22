@@ -188,6 +188,7 @@ class CrawlerSession:
 
 async def do_crawl(output_dir, backend, username, password):
     os.makedirs(output_dir, 0o755, True)
+    os.makedirs(os.path.join(output_dir, 'terms'), 0o755, True)
     session = CrawlerSession(backend, username, password)
     try:
         result = {}
@@ -198,8 +199,8 @@ async def do_crawl(output_dir, backend, username, password):
             await session.select_term(term_id)
             result[term_id] = await session.crawl()
         for term_id, data in result.items():
-            with open(os.path.join(output_dir, f'{term_id}.json'), 'w') as fp:
-                print(f'Save term data to {term_id}.json')
+            with open(os.path.join(output_dir, 'terms', f'{term_id}.json'), 'w') as fp:
+                print(f'Save term data to terms/{term_id}.json')
                 json.dump(data, fp, indent=2, sort_keys=True)
         metadata = {
             'currentTerms': sorted([{
