@@ -1,5 +1,6 @@
 import argparse
 import asyncio
+import base64
 import getpass
 import hashlib
 import json
@@ -11,6 +12,7 @@ import time
 
 import aiohttp
 import certifi
+import rsa
 from bs4 import BeautifulSoup
 
 DEFAULT_BACKEND = 'http://xk.autoisp.shu.edu.cn'
@@ -19,6 +21,13 @@ USER_AGENTS = [
     'Opera/9.80 (Windows NT 6.0) Presto/2.12.388 Version/12.14',
     'Mozilla/5.0 (MSIE 10.0; Windows NT 6.1; Trident/5.0)',
 ]
+# noinspection SpellCheckingInspection
+RSA_PUBKEY = '''-----BEGIN PUBLIC KEY-----
+MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDl/aCgRl9f/4ON9MewoVnV58OL
+OU2ALBi2FKc5yIsfSpivKxe7A6FitJjHva3WpM7gvVOinMehp6if2UNIkbaN+plW
+f5IwqEVxsNZpeixc4GsbY9dXEk3WtRjwGSyDLySzEESH/kpJVoxO7ijRYqU+2oSR
+wTBNePOk1H+LRQokgQIDAQAB
+-----END PUBLIC KEY-----'''
 PAGE_SIZE = 5000
 SSL_CONTEXT = ssl.create_default_context(cafile=certifi.where())
 
@@ -45,15 +54,25 @@ class CrawlerSession:
             'TimeText': ''
         }
 
-    def __init__(self, backend, termid, username, password):
+    @staticmethod
+    def __encrypt_password(password):
+        key = rsa.PublicKey.load_pkcs1_openssl_pem(RSA_PUBKEY.encode())
+        return base64.b64encode(rsa.encrypt(password.encode(), key)).decode()
+
+    def __init__(self, backend, username, password):
         self.__session = aiohttp.ClientSession(headers={
             'User-Agent': random.choice(USER_AGENTS),
         })
         self.__backend = backend
-        self.__termid = termid
+        self.__term_id_list = []
+        self.__term_name = None
+        self.__term_id = None
         self.__username = username
         self.__password = password
-        self.__trimester = None
+
+    @property
+    def term_id_list(self):
+        return self.__term_id_list
 
     async def login(self):
         assert not self.__session.closed
@@ -65,32 +84,35 @@ class CrawlerSession:
 
         r = await self.__session.post(r.url, data={
             'username': self.__username,
-            'password': self.__password
+            'password': self.__encrypt_password(self.__password)
         }, ssl=SSL_CONTEXT)
         r.raise_for_status()
 
-        if self.__termid is None:
-            soup = BeautifulSoup(await r.text(), 'html.parser')
-            self.__termid = max([tr['value'] for tr in soup.find_all('tr', attrs={'name': 'rowterm'})])
+        soup = BeautifulSoup(await r.text(), 'html.parser')
+        self.__term_id_list = [tr['value'] for tr in soup.find_all('tr', attrs={'name': 'rowterm'})]
+
+    async def select_term(self, term_id):
+        assert term_id in self.__term_id_list
 
         r = await self.__session.post(f'{self.__backend}/Home/TermSelect', data={
-            'termId': self.__termid,
+            'termId': term_id,
         }, ssl=SSL_CONTEXT)
         r.raise_for_status()
 
         match = re.search(r'(\d{4})-(\d{4})学年[秋冬春夏]季学期', await r.text())
         assert match is not None
         assert int(match.group(2)) - int(match.group(1)) == 1
-        self.__trimester = match.group(0)
-        print(f'Current trimester: {self.__trimester} ({self.__termid})')
+        self.__term_name = match.group(0)
+        self.__term_id = term_id
+        print(f'Select term: {self.__term_name} ({self.__term_id})')
         await asyncio.sleep(0.5)
 
     async def crawl(self):
         assert not self.__session.closed
-        assert self.__trimester is not None
+        assert self.__term_id is not None
+        assert self.__term_name is not None
 
-        data = []
-        extra_data = {}
+        courses = []
         page, total, num = 1, PAGE_SIZE, 0
         while (page - 1) * PAGE_SIZE < total:
             r = await self.__session.post(f'{self.__backend}/StudentQuery/QueryCourseList',
@@ -121,72 +143,79 @@ class CrawlerSession:
                     teacher_id = tds[0].get_text(strip=True)
                     teacher_name = tds[1].get_text(strip=True)
                     class_time = tds[2].get_text(strip=True)
-                    venue = tds[3].get_text(strip=True)
+                    position = tds[3].get_text(strip=True)
                     capacity = tds[4].get_text(strip=True)
                     number = tds[5].get_text(strip=True)
                     campus = tds[6].get_text(strip=True)
                     limitations = tds[7].get_text(strip=True)
 
-                    limitations = [] if limitations == '' else limitations.split(',')
-                    print(course_id, course_name, credit, teacher_id, teacher_name, class_time, campus,
-                          venue, capacity, number, limitations)
+                    limitations = [] if limitations == '' else [x.strip() for x in limitations.split(',')]
 
-                    data.append({
-                        'course_id': course_id,
-                        'course_name': course_name,
+                    courses.append({
+                        'courseId': course_id,
+                        'courseName': course_name,
                         'credit': credit,
-                        'teacher_id': teacher_id,
-                        'teacher_name': teacher_name,
-                        'class_time': class_time,
-                        'campus': campus
-                    })
-                    extra_data[f'{course_id}-{teacher_id}'] = {
-                        'venue': venue,
+                        'teacherId': teacher_id,
+                        'teacherName': teacher_name,
+                        'classTime': class_time,
+                        'campus': campus,
+                        'position': position,
                         'capacity': capacity,
                         'number': number,
                         'limitations': limitations
-                    }
+                    })
                     num += 1
             page += 1
             await asyncio.sleep(0.5)
-        data_hash = hashlib.md5(json.dumps(data, sort_keys=True).encode()).hexdigest()
-        info = {
-            'hash': data_hash[:8],
-            'trimester': self.__trimester,
-            'backend': self.__backend
-        }
-        extra = {
-            'data': extra_data,
-            'hash': data_hash[:8],
-            'update_time': time.time_ns() // 1000
-        }
+        data_hash = hashlib.md5(json.dumps(courses, sort_keys=True).encode()).hexdigest()
+        print(f'Fetch {len(courses)} courses ({data_hash})')
         return {
-            'info': info,
-            'data': data,
-            'extra': extra
+            'hash': data_hash,
+            'termName': self.__term_name,
+            'backendOrigin': self.__backend,
+            'updateTimeMs': int(time.time() * 1000),
+            'courses': courses,
         }
 
     async def logout(self):
         if self.__session.closed:
             return
         await self.__session.get(f'{self.__backend}/Login/Logout', ssl=SSL_CONTEXT)
+        await asyncio.sleep(0.5)
         await self.__session.close()
+        await asyncio.sleep(0.5)
 
 
-async def do_crawl(output_dir, backend, termid, username, password):
+async def do_crawl(output_dir, backend, username, password):
     os.makedirs(output_dir, 0o755, True)
-    session = CrawlerSession(backend, termid, username, password)
+    session = CrawlerSession(backend, username, password)
     try:
-        print('Processing login...')
+        result = {}
+        print('Process login...')
         await session.login()
-        print('Processing crawl...')
-        result = await session.crawl()
-        json.dump(result['info'], open(os.path.join(output_dir, 'info.json'), 'w'), sort_keys=True)
-        json.dump(result['data'], open(os.path.join(output_dir, f'{result["info"]["hash"]}.json'), 'w'), sort_keys=True)
-        json.dump(result['extra'], open(os.path.join(output_dir, 'extra.json'), 'w'), sort_keys=True)
+        print('Process crawl...')
+        for term_id in session.term_id_list:
+            await session.select_term(term_id)
+            result[term_id] = await session.crawl()
+        for term_id, data in result.items():
+            with open(os.path.join(output_dir, f'{term_id}.json'), 'w') as fp:
+                print(f'Save term data to {term_id}.json')
+                json.dump(data, fp, indent=2, sort_keys=True)
+        metadata = {
+            'currentTerms': sorted([{
+                'termId': term_id,
+                'hash': data['hash'],
+                'termName': data['termName'],
+                'backendOrigin': data['backendOrigin'],
+                'updateTimeMs': data['updateTimeMs'],
+            } for term_id, data in result.items()], key=lambda x: x['termId'], reverse=True),
+        }
+        with open(os.path.join(output_dir, 'meta.json'), 'w') as fp:
+            print('Save meta data to meta.json')
+            json.dump(metadata, fp, indent=2, sort_keys=True)
     finally:
         try:
-            print('Processing logout...')
+            print('Process logout...')
             await session.logout()
             print('Finished.')
         finally:
@@ -196,8 +225,7 @@ async def do_crawl(output_dir, backend, termid, username, password):
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Crawl courses data from SHU courses selection website.')
     parser.add_argument('backend', nargs='?', help='Backend URL.', default=DEFAULT_BACKEND)
-    parser.add_argument('-o, --output-dir', nargs=1, help='Output dir, default is "data".', metavar='TERMID')
-    parser.add_argument('-t, --termid', nargs=1, help='The term ID like "20203".', metavar='TERMID')
+    parser.add_argument('-o, --output-dir', nargs=1, help='Output dir, default is "data".', metavar='DIR')
     parser.add_argument('-u, --username', nargs=1, help='Your username.', metavar='USERNAME', required=True)
     password_group = parser.add_mutually_exclusive_group()
     password_group.add_argument('-p, --password', nargs=1, metavar='PASSWORD', help='Your password.')
@@ -207,7 +235,6 @@ if __name__ == '__main__':
 
     _output_dir = args['o, __output_dir'][0] if args['o, __output_dir'] is not None else 'interval-crawler-task-result'
     _backend = args['backend']
-    _termid = args['t, __termid'][0] if args['t, __termid'] is not None else None
     _username = args['u, __username'][0]
     if args['p, __password'] is not None:
         _password = args['p, __password'][0]
@@ -217,4 +244,4 @@ if __name__ == '__main__':
         _password = getpass.getpass()
 
     loop = asyncio.get_event_loop()
-    loop.run_until_complete(do_crawl(_output_dir, _backend, _termid, _username, _password))
+    loop.run_until_complete(do_crawl(_output_dir, _backend, _username, _password))

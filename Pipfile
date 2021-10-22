@@ -11,6 +11,7 @@ cchardet = "*"
 aiodns = "*"
 beautifulsoup4 = "*"
 certifi = "*"
+rsa = "*"
 
 [requires]
 python_version = "3"
