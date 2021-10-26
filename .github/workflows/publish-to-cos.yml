@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  crawl-and-push:
+  publish:
     runs-on: ubuntu-latest
 
     steps:
