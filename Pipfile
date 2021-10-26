@@ -12,6 +12,7 @@ aiodns = "*"
 beautifulsoup4 = "*"
 certifi = "*"
 rsa = "*"
+cos-python-sdk-v5 = "*"
 
 [requires]
 python_version = "3"
