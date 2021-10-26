@@ -1,6 +1,9 @@
 name: Interval Crawler Task
 
-on: workflow_dispatch
+on:
+  schedule:
+    - cron: '35 7,9,11,13,15,17,19,21 * * *'
+  workflow_dispatch:
 
 jobs:
   crawl-and-push:
