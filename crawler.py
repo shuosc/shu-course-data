@@ -59,6 +59,12 @@ class CrawlerSession:
         key = rsa.PublicKey.load_pkcs1_openssl_pem(RSA_PUBKEY.encode())
         return base64.b64encode(rsa.encrypt(password.encode(), key)).decode()
 
+    @staticmethod
+    def __sanitize_text(text):
+        text = re.sub(r'[\uff01-\uff5e]', lambda x: chr(ord(x.group(0)) - 0xfee0), text, flags=re.I | re.S)
+        text = re.sub(r'\s+', ' ', text, flags=re.I | re.S)
+        return text.strip()
+
     def __init__(self, backend, username, password):
         self.__session = aiohttp.ClientSession(headers={
             'User-Agent': random.choice(USER_AGENTS),
@@ -102,7 +108,7 @@ class CrawlerSession:
         match = re.search(r'(\d{4})-(\d{4})学年[秋冬春夏]季学期', await r.text())
         assert match is not None
         assert int(match.group(2)) - int(match.group(1)) == 1
-        self.__term_name = match.group(0)
+        self.__term_name = self.__sanitize_text(match.group(0))
         self.__term_id = term_id
         print(f'Select term: {self.__term_name} ({self.__term_id})')
         await asyncio.sleep(0.5)
@@ -136,20 +142,20 @@ class CrawlerSession:
                     if len(tds) < num_cols - 3:
                         continue
                     if len(tds) == num_cols:
-                        course_id = tds[0].get_text(strip=True)
-                        course_name = tds[1].get_text(strip=True)
-                        credit = tds[2].get_text(strip=True)
+                        course_id = self.__sanitize_text(tds[0].get_text(strip=True))
+                        course_name = self.__sanitize_text(tds[1].get_text(strip=True))
+                        credit = self.__sanitize_text(tds[2].get_text(strip=True))
                         del tds[:3]
-                    teacher_id = tds[0].get_text(strip=True)
-                    teacher_name = tds[1].get_text(strip=True)
-                    class_time = tds[2].get_text(strip=True)
-                    position = tds[3].get_text(strip=True)
-                    capacity = tds[4].get_text(strip=True)
-                    number = tds[5].get_text(strip=True)
-                    campus = tds[6].get_text(strip=True)
-                    limitations = tds[7].get_text(strip=True)
+                    teacher_id = self.__sanitize_text(tds[0].get_text(strip=True))
+                    teacher_name = self.__sanitize_text(tds[1].get_text(strip=True))
+                    class_time = self.__sanitize_text(tds[2].get_text(strip=True))
+                    position = self.__sanitize_text(tds[3].get_text(strip=True))
+                    capacity = self.__sanitize_text(tds[4].get_text(strip=True))
+                    number = self.__sanitize_text(tds[5].get_text(strip=True))
+                    campus = self.__sanitize_text(tds[6].get_text(strip=True))
+                    limitations = self.__sanitize_text(tds[7].get_text(strip=True))
 
-                    limitations = [] if limitations == '' else [x.strip() for x in limitations.split(',')]
+                    limitations = [y for y in [self.__sanitize_text(x) for x in limitations.split(',')] if len(y) > 0]
 
                     courses.append({
                         'courseId': course_id,
@@ -199,21 +205,13 @@ async def do_crawl(output_dir, backend, username, password):
             await session.select_term(term_id)
             result[term_id] = await session.crawl()
         for term_id, data in result.items():
-            with open(os.path.join(output_dir, 'terms', f'{term_id}.json'), 'w') as fp:
-                print(f'Save term data to terms/{term_id}.json')
-                json.dump(data, fp, indent=2, sort_keys=True)
-        metadata = {
-            'currentTerms': sorted([{
-                'termId': term_id,
-                'hash': data['hash'],
-                'termName': data['termName'],
-                'backendOrigin': data['backendOrigin'],
-                'updateTimeMs': data['updateTimeMs'],
-            } for term_id, data in result.items()], key=lambda x: x['termId'], reverse=True),
-        }
-        with open(os.path.join(output_dir, 'meta.json'), 'w') as fp:
-            print('Save meta data to meta.json')
-            json.dump(metadata, fp, indent=2, sort_keys=True)
+            with open(os.path.join(output_dir, os.path.join('terms', f'{term_id}.json')), 'w') as fp:
+                print(f'Save term data to {os.path.join("terms", f"{term_id}.json")}')
+                json.dump(data, fp, ensure_ascii=False, indent=2, sort_keys=True)
+        current = sorted([term_id for term_id in result.keys()], reverse=True)
+        with open(os.path.join(output_dir, 'current.json'), 'w') as fp:
+            print('Save meta data to current.json')
+            json.dump(current, fp, ensure_ascii=False, indent=2, sort_keys=True)
     finally:
         try:
             print('Process logout...')
