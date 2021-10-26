@@ -17,6 +17,8 @@ jobs:
 
       - name: Pull the latest data branch
         run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
           git subtree add --prefix=data origin data
 
       - name: Set up Python 3.9
