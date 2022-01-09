@@ -137,7 +137,7 @@ class CrawlerSession:
                 if len(ths) > 0:
                     num_cols = len(ths)
                 else:
-                    assert num_cols >= 13
+                    assert num_cols >= 14
                     tds = tr.find_all('td')
                     if len(tds) < num_cols - 3:
                         continue
@@ -148,12 +148,13 @@ class CrawlerSession:
                         del tds[:3]
                     teacher_id = self.__sanitize_text(tds[0].get_text(strip=True))
                     teacher_name = self.__sanitize_text(tds[1].get_text(strip=True))
-                    class_time = self.__sanitize_text(tds[2].get_text(strip=True))
-                    position = self.__sanitize_text(tds[3].get_text(strip=True))
-                    capacity = self.__sanitize_text(tds[4].get_text(strip=True))
-                    number = self.__sanitize_text(tds[5].get_text(strip=True))
-                    campus = self.__sanitize_text(tds[6].get_text(strip=True))
-                    limitations = self.__sanitize_text(tds[7].get_text(strip=True))
+                    teacher_title = self.__sanitize_text(tds[2].get_text(strip=True))
+                    class_time = self.__sanitize_text(tds[3].get_text(strip=True))
+                    position = self.__sanitize_text(tds[4].get_text(strip=True))
+                    capacity = self.__sanitize_text(tds[5].get_text(strip=True))
+                    number = self.__sanitize_text(tds[6].get_text(strip=True))
+                    campus = self.__sanitize_text(tds[7].get_text(strip=True))
+                    limitations = self.__sanitize_text(tds[8].get_text(strip=True))
 
                     limitations = [y for y in [self.__sanitize_text(x) for x in limitations.split(',')] if len(y) > 0]
 
@@ -163,6 +164,7 @@ class CrawlerSession:
                         'credit': credit,
                         'teacherId': teacher_id,
                         'teacherName': teacher_name,
+                        'teacherTitle': teacher_title,
                         'classTime': class_time,
                         'campus': campus,
                         'position': position,
@@ -173,6 +175,7 @@ class CrawlerSession:
                     num += 1
             page += 1
             await asyncio.sleep(0.5)
+        courses.sort(key=lambda x: (x['courseId'], x['teacherId']))
         data_hash = hashlib.md5(json.dumps(courses, sort_keys=True).encode()).hexdigest()
         print(f'Fetch {len(courses)} courses ({data_hash})')
         return {

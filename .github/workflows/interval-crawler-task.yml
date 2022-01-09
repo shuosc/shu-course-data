@@ -16,7 +16,11 @@ jobs:
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git subtree add --prefix=data origin data
+          git subtree add --prefix=interval-crawler-task-result origin data
+
+      - name: Duplicate data folder
+        run: |
+          cp -r interval-crawler-task-result data
 
       - name: Set up Python 3.9
         uses: actions/setup-python@v2
@@ -41,50 +45,10 @@ jobs:
 
       - name: Fetch data
         run: |
-          echo "${{ secrets.SHU_PASSWORD }}" | pipenv run python crawler.py -o data -u ${{ secrets.SHU_USERNAME }} --password-stdin
+          echo "${{ secrets.SHU_PASSWORD }}" | pipenv run python crawler.py -o interval-crawler-task-result -u ${{ secrets.SHU_USERNAME }} --password-stdin
 
-      - name: Push
+      - name: Compare, push, and create a pull request if necessary
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          git add data
-          git commit -am "$(TZ=Asia/Shanghai date)"
-          git subtree split --prefix data --branch interval-crawler-task-result
-          git push --force origin interval-crawler-task-result:interval-crawler-task-result
-
-  create-pull-request:
-    needs: crawl-and-push
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Close existing pull request
-        uses: actions/github-script@v3
-        with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          script: |
-            const options = github.pulls.list.endpoint.merge({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              state: 'open',
-              head: 'interval-crawler-task-result',
-              base: 'data',
-              title: 'Update'
-            });
-            const pulls = await github.paginate(options);
-            await pulls.forEach(pull => github.pulls.update({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              pull_number: pull.number,
-              state: 'closed'
-            }));
-
-      - name: Create pull request
-        uses: actions/github-script@v3
-        with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          script: |
-            await github.pulls.create({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              head: 'interval-crawler-task-result',
-              base: 'data',
-              title: 'chore: auto update'
-            });
+          pipenv run python post_crawler.py
