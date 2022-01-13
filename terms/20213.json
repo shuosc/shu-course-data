@@ -7846,6 +7846,20 @@
     },
     {
       "campus": "宝山",
+      "capacity": "50",
+      "classTime": "二5-6 上机 四5-6",
+      "courseId": "00864096",
+      "courseName": "工程制图与计算机绘图基础",
+      "credit": "3",
+      "limitations": [],
+      "number": "0",
+      "position": "",
+      "teacherId": "1018",
+      "teacherName": "刘霞",
+      "teacherTitle": "讲师"
+    },
+    {
+      "campus": "宝山",
       "capacity": "78",
       "classTime": "一3-4 三3-4 上机",
       "courseId": "00864118",
@@ -17825,15 +17839,12 @@
     },
     {
       "campus": "宝山",
-      "capacity": "0",
+      "capacity": "30",
       "classTime": "二3-4 四7-8单",
       "courseId": "02605079",
       "courseName": "中国文化概论",
       "credit": "3",
-      "limitations": [
-        "禁止选课",
-        "人数已满"
-      ],
+      "limitations": [],
       "number": "0",
       "position": "",
       "teacherId": "1000",
@@ -66509,7 +66520,7 @@
       "teacherTitle": "研究馆员"
     }
   ],
-  "hash": "c9cd25368bdd187c34e4237d23a607f7",
+  "hash": "08816dd3e7d3721e710dd918c9aeee08",
   "termName": "2021-2022学年春季学期",
-  "updateTimeMs": 1642045428315
+  "updateTimeMs": 1642052387725
 }
