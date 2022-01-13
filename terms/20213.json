@@ -7664,12 +7664,14 @@
     },
     {
       "campus": "宝山",
-      "capacity": "56",
+      "capacity": "0",
       "classTime": "二1-2 上机 四1-2",
       "courseId": "00864096",
       "courseName": "工程制图与计算机绘图基础",
       "credit": "3",
-      "limitations": [],
+      "limitations": [
+        "禁止选课"
+      ],
       "number": "4",
       "position": "",
       "teacherId": "1005",
@@ -7818,12 +7820,14 @@
     },
     {
       "campus": "宝山",
-      "capacity": "56",
+      "capacity": "0",
       "classTime": "一7-8 四5-6 上机 限中欧学生",
       "courseId": "00864096",
       "courseName": "工程制图与计算机绘图基础",
       "credit": "3",
-      "limitations": [],
+      "limitations": [
+        "禁止选课"
+      ],
       "number": "6",
       "position": "",
       "teacherId": "1016",
@@ -9080,7 +9084,7 @@
       "number": "15",
       "position": "",
       "teacherId": "1000",
-      "teacherName": "侯文婷等",
+      "teacherName": "李红霞等",
       "teacherTitle": "讲师"
     },
     {
@@ -10381,12 +10385,14 @@
     },
     {
       "campus": "宝山",
-      "capacity": "90",
+      "capacity": "0",
       "classTime": "一9-10 三9-10",
       "courseId": "01014127",
       "courseName": "微积分(3)",
       "credit": "4",
-      "limitations": [],
+      "limitations": [
+        "禁止选课"
+      ],
       "number": "3",
       "position": "",
       "teacherId": "1028",
@@ -14429,12 +14435,14 @@
     },
     {
       "campus": "宝山",
-      "capacity": "16",
+      "capacity": "0",
       "classTime": "一5-10",
       "courseId": "01065034",
       "courseName": "有机化学实验A(2)",
       "credit": "3",
-      "limitations": [],
+      "limitations": [
+        "禁止选课"
+      ],
       "number": "0",
       "position": "",
       "teacherId": "1003",
@@ -14471,12 +14479,14 @@
     },
     {
       "campus": "宝山",
-      "capacity": "16",
+      "capacity": "0",
       "classTime": "二1-4",
       "courseId": "01065080",
       "courseName": "分析化学实验B",
       "credit": "2",
-      "limitations": [],
+      "limitations": [
+        "禁止选课"
+      ],
       "number": "0",
       "position": "",
       "teacherId": "1002",
@@ -14583,12 +14593,14 @@
     },
     {
       "campus": "宝山",
-      "capacity": "16",
+      "capacity": "0",
       "classTime": "二9-12",
       "courseId": "01065083",
       "courseName": "物理化学实验B",
       "credit": "2",
-      "limitations": [],
+      "limitations": [
+        "禁止选课"
+      ],
       "number": "4",
       "position": "",
       "teacherId": "1004",
@@ -16322,7 +16334,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "70",
+      "capacity": "100",
       "classTime": "五3-4",
       "courseId": "02074351",
       "courseName": "大学语文(1)",
@@ -16364,6 +16376,20 @@
     },
     {
       "campus": "宝山",
+      "capacity": "50",
+      "classTime": "五3-4",
+      "courseId": "02074351",
+      "courseName": "大学语文(1)",
+      "credit": "2",
+      "limitations": [],
+      "number": "0",
+      "position": "",
+      "teacherId": "1006",
+      "teacherName": "张宇超",
+      "teacherTitle": "副教授"
+    },
+    {
+      "campus": "宝山",
       "capacity": "30",
       "classTime": "一3-4 三3-4单",
       "courseId": "02075004",
@@ -16378,7 +16404,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "30",
+      "capacity": "31",
       "classTime": "一3-4 三3-4单",
       "courseId": "02075004",
       "courseName": "现代汉语(2)",
@@ -16406,7 +16432,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "30",
+      "capacity": "35",
       "classTime": "二3-4 四3-4单",
       "courseId": "02075033",
       "courseName": "中国文学批评史(2)",
@@ -16420,7 +16446,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "30",
+      "capacity": "40",
       "classTime": "二3-4 四3-4单",
       "courseId": "02075033",
       "courseName": "中国文学批评史(2)",
@@ -16490,7 +16516,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "30",
+      "capacity": "68",
       "classTime": "二1-2 四1-2单",
       "courseId": "02075363",
       "courseName": "比较文学",
@@ -16560,7 +16586,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "30",
+      "capacity": "60",
       "classTime": "二5-6 五1-2单",
       "courseId": "02075441",
       "courseName": "外国文学B(3)",
@@ -16588,7 +16614,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "30",
+      "capacity": "50",
       "classTime": "一1-2 四1-2双",
       "courseId": "02075444",
       "courseName": "古代汉语A(3)",
@@ -16672,7 +16698,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "30",
+      "capacity": "32",
       "classTime": "一9-11",
       "courseId": "02076291",
       "courseName": "唐宋八大家散文选读",
@@ -16898,12 +16924,14 @@
     },
     {
       "campus": "宝山",
-      "capacity": "30",
+      "capacity": "0",
       "classTime": "二9-11",
       "courseId": "02076456",
       "courseName": "文学阐释与文化批评:方法与写作",
       "credit": "3",
-      "limitations": [],
+      "limitations": [
+        "禁止选课"
+      ],
       "number": "2",
       "position": "",
       "teacherId": "1000",
@@ -16954,7 +16982,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "30",
+      "capacity": "65",
       "classTime": "另行通知",
       "courseId": "0207A003",
       "courseName": "毕业论文",
@@ -17024,7 +17052,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "30",
+      "capacity": "40",
       "classTime": "二3-4 四3-4单",
       "courseId": "02085161",
       "courseName": "中国历史文选A",
@@ -17055,7 +17083,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "30",
+      "capacity": "50",
       "classTime": "二7-8 四7-8",
       "courseId": "02085174",
       "courseName": "中国古代史A(3)",
@@ -17084,6 +17112,20 @@
     {
       "campus": "宝山",
       "capacity": "30",
+      "classTime": "二11-12 四5-6 五3-4单",
+      "courseId": "02085268",
+      "courseName": "世界近代史",
+      "credit": "5",
+      "limitations": [],
+      "number": "0",
+      "position": "",
+      "teacherId": "1001",
+      "teacherName": "吴浩",
+      "teacherTitle": "教授"
+    },
+    {
+      "campus": "宝山",
+      "capacity": "40",
       "classTime": "一5-6 三5-6",
       "courseId": "02085270",
       "courseName": "中国历史地理学A",
@@ -17237,12 +17279,14 @@
     },
     {
       "campus": "宝山",
-      "capacity": "30",
+      "capacity": "0",
       "classTime": "一9-11",
       "courseId": "02086241",
       "courseName": "中共党史专题讲座",
       "credit": "3",
-      "limitations": [],
+      "limitations": [
+        "禁止选课"
+      ],
       "number": "1",
       "position": "",
       "teacherId": "1000",
@@ -17251,12 +17295,14 @@
     },
     {
       "campus": "宝山",
-      "capacity": "30",
+      "capacity": "0",
       "classTime": "一3-4",
       "courseId": "02086249",
       "courseName": "新文化运动文献阅读会",
       "credit": "2",
-      "limitations": [],
+      "limitations": [
+        "禁止选课"
+      ],
       "number": "0",
       "position": "",
       "teacherId": "1000",
@@ -17503,7 +17549,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "30",
+      "capacity": "35",
       "classTime": "另行通知",
       "courseId": "0208A003",
       "courseName": "毕业论文",
@@ -17657,7 +17703,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "30",
+      "capacity": "59",
       "classTime": "三3-4 五3-4",
       "courseId": "02096045",
       "courseName": "社会结构与分层",
@@ -17741,12 +17787,14 @@
     },
     {
       "campus": "宝山",
-      "capacity": "30",
+      "capacity": "0",
       "classTime": "三9-11 全英语",
       "courseId": "02096164",
       "courseName": "批判性阅读与学术写作",
       "credit": "3",
-      "limitations": [],
+      "limitations": [
+        "禁止选课"
+      ],
       "number": "6",
       "position": "",
       "teacherId": "1000",
@@ -18150,12 +18198,14 @@
     },
     {
       "campus": "宝山",
-      "capacity": "30",
+      "capacity": "0",
       "classTime": "二9-11",
       "courseId": "02B56047",
       "courseName": "社会科学与考古",
       "credit": "3",
-      "limitations": [],
+      "limitations": [
+        "禁止选课"
+      ],
       "number": "0",
       "position": "",
       "teacherId": "1000",
@@ -52691,7 +52741,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "100",
+      "capacity": "120",
       "classTime": "一1-2 三1-2单",
       "courseId": "16584136",
       "courseName": "中国近现代史纲要B",
@@ -52719,7 +52769,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "100",
+      "capacity": "120",
       "classTime": "一5-6 三5-6单",
       "courseId": "16584136",
       "courseName": "中国近现代史纲要B",
@@ -52733,7 +52783,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "100",
+      "capacity": "120",
       "classTime": "一9-11",
       "courseId": "16584136",
       "courseName": "中国近现代史纲要B",
@@ -52747,7 +52797,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "100",
+      "capacity": "120",
       "classTime": "一9-11",
       "courseId": "16584136",
       "courseName": "中国近现代史纲要B",
@@ -52761,7 +52811,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "100",
+      "capacity": "120",
       "classTime": "一9-11",
       "courseId": "16584136",
       "courseName": "中国近现代史纲要B",
@@ -52845,7 +52895,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "100",
+      "capacity": "120",
       "classTime": "二9-11",
       "courseId": "16584136",
       "courseName": "中国近现代史纲要B",
@@ -52859,7 +52909,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "100",
+      "capacity": "120",
       "classTime": "三9-11",
       "courseId": "16584136",
       "courseName": "中国近现代史纲要B",
@@ -52873,7 +52923,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "100",
+      "capacity": "120",
       "classTime": "三9-11",
       "courseId": "16584136",
       "courseName": "中国近现代史纲要B",
@@ -52929,7 +52979,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "100",
+      "capacity": "120",
       "classTime": "四9-11",
       "courseId": "16584136",
       "courseName": "中国近现代史纲要B",
@@ -53677,12 +53727,14 @@
     },
     {
       "campus": "宝山",
-      "capacity": "100",
+      "capacity": "0",
       "classTime": "二5-6(6-10周)",
       "courseId": "16584172",
       "courseName": "劳动教育理论课",
       "credit": "1",
-      "limitations": [],
+      "limitations": [
+        "禁止选课"
+      ],
       "number": "13",
       "position": "",
       "teacherId": "1006",
@@ -53705,12 +53757,14 @@
     },
     {
       "campus": "宝山",
-      "capacity": "100",
+      "capacity": "0",
       "classTime": "二7-8(6-10周)",
       "courseId": "16584172",
       "courseName": "劳动教育理论课",
       "credit": "1",
-      "limitations": [],
+      "limitations": [
+        "禁止选课"
+      ],
       "number": "10",
       "position": "",
       "teacherId": "1008",
@@ -53789,12 +53843,14 @@
     },
     {
       "campus": "宝山",
-      "capacity": "100",
+      "capacity": "0",
       "classTime": "二9-10(6-10周)",
       "courseId": "16584172",
       "courseName": "劳动教育理论课",
       "credit": "1",
-      "limitations": [],
+      "limitations": [
+        "禁止选课"
+      ],
       "number": "3",
       "position": "",
       "teacherId": "1014",
@@ -53817,12 +53873,14 @@
     },
     {
       "campus": "宝山",
-      "capacity": "100",
+      "capacity": "0",
       "classTime": "四5-6(6-10周)",
       "courseId": "16584172",
       "courseName": "劳动教育理论课",
       "credit": "1",
-      "limitations": [],
+      "limitations": [
+        "禁止选课"
+      ],
       "number": "0",
       "position": "",
       "teacherId": "1016",
@@ -53845,12 +53903,14 @@
     },
     {
       "campus": "宝山",
-      "capacity": "100",
+      "capacity": "0",
       "classTime": "三3-4(6-10周)",
       "courseId": "16584172",
       "courseName": "劳动教育理论课",
       "credit": "1",
-      "limitations": [],
+      "limitations": [
+        "禁止选课"
+      ],
       "number": "3",
       "position": "",
       "teacherId": "1018",
@@ -53873,12 +53933,14 @@
     },
     {
       "campus": "宝山",
-      "capacity": "100",
+      "capacity": "0",
       "classTime": "四7-8(6-10周)",
       "courseId": "16584172",
       "courseName": "劳动教育理论课",
       "credit": "1",
-      "limitations": [],
+      "limitations": [
+        "禁止选课"
+      ],
       "number": "4",
       "position": "",
       "teacherId": "1020",
@@ -53901,12 +53963,14 @@
     },
     {
       "campus": "宝山",
-      "capacity": "100",
+      "capacity": "0",
       "classTime": "二5-6(6-10周)",
       "courseId": "16584172",
       "courseName": "劳动教育理论课",
       "credit": "1",
-      "limitations": [],
+      "limitations": [
+        "禁止选课"
+      ],
       "number": "1",
       "position": "",
       "teacherId": "1022",
@@ -66520,7 +66584,7 @@
       "teacherTitle": "研究馆员"
     }
   ],
-  "hash": "08816dd3e7d3721e710dd918c9aeee08",
+  "hash": "d54ecb5d05aa02d3c89916a9b27ce5d3",
   "termName": "2021-2022学年春季学期",
-  "updateTimeMs": 1642052387725
+  "updateTimeMs": 1642059548462
 }
