@@ -7776,13 +7776,16 @@
     },
     {
       "campus": "宝山",
-      "capacity": "80",
+      "capacity": "0",
       "classTime": "三5-6",
       "courseId": "0085J001",
       "courseName": "体育产业经营与管理",
       "credit": "2",
-      "limitations": [],
-      "number": "3",
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
+      "number": "0",
       "position": "",
       "teacherId": "1000",
       "teacherName": "刘兵",
@@ -7792,13 +7795,42 @@
       "campus": "宝山",
       "capacity": "80",
       "classTime": "三7-8",
+      "courseId": "0085J001",
+      "courseName": "体育产业经营与管理",
+      "credit": "2",
+      "limitations": [],
+      "number": "0",
+      "position": "",
+      "teacherId": "1001",
+      "teacherName": "刘兵",
+      "teacherTitle": "教授"
+    },
+    {
+      "campus": "宝山",
+      "capacity": "0",
+      "classTime": "三7-8",
       "courseId": "0085L003",
       "courseName": "体育中国",
       "credit": "2",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
-      "number": "80",
+      "number": "0",
+      "position": "",
+      "teacherId": "1000",
+      "teacherName": "刘兵等",
+      "teacherTitle": "教授"
+    },
+    {
+      "campus": "宝山",
+      "capacity": "100",
+      "classTime": "三9-11",
+      "courseId": "0085L004",
+      "courseName": "体育中国",
+      "credit": "3",
+      "limitations": [],
+      "number": "0",
       "position": "",
       "teacherId": "1000",
       "teacherName": "刘兵等",
@@ -68875,7 +68907,7 @@
       "teacherTitle": "研究馆员"
     }
   ],
-  "hash": "2e5335b809a40ae0a750b3bd8651f033",
+  "hash": "bbd7685d754aa13326bcd768b84c4e14",
   "termName": "2021-2022学年春季学期",
-  "updateTimeMs": 1642391068724
+  "updateTimeMs": 1642405181778
 }
