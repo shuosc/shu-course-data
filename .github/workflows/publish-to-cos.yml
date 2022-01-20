@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - data
+  workflow_dispatch:
 
 jobs:
   publish:
