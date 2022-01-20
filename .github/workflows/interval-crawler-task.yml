@@ -11,11 +11,13 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.GH_PAT }}
 
       - name: Pull the latest data branch
         run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
+          git config user.name ZKLlab-bot
+          git config user.email zkllab-bot@mail.zkllab.com
           git subtree add --prefix=interval-crawler-task-result origin data
 
       - name: Duplicate data folder
@@ -49,6 +51,6 @@ jobs:
 
       - name: Compare, push, and create a pull request if necessary
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
         run: |
           pipenv run python post_crawler.py
