@@ -56047,13 +56047,15 @@
     },
     {
       "campus": "延长",
-      "capacity": "90",
+      "capacity": "0",
       "classTime": "一11-12(6-10周)",
       "courseId": "16584172",
       "courseName": "劳动教育理论课",
       "credit": "1",
-      "limitations": [],
-      "number": "2",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "0",
       "position": "",
       "teacherId": "3002",
       "teacherName": "许静仪",
@@ -68907,7 +68909,7 @@
       "teacherTitle": "研究馆员"
     }
   ],
-  "hash": "fad1c109631839464f31c42b28875370",
+  "hash": "9ff9dead8117bf1dd9d2e13d51d05c61",
   "termName": "2021-2022学年春季学期",
-  "updateTimeMs": 1644557803496
+  "updateTimeMs": 1644565009613
 }
