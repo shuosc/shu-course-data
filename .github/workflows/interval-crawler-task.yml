@@ -45,6 +45,11 @@ jobs:
           pip install pipenv
           pipenv install
 
+      - name: Wait for OpenVPN connection
+        timeout-minutes: 2
+        run: |
+          until ping -c1 xk.autoisp.shu.edu.cn; do sleep 2; done
+
       - name: Fetch data
         run: |
           echo "${{ secrets.SHU_PASSWORD }}" | pipenv run python crawler.py -o interval-crawler-task-result -u ${{ secrets.SHU_USERNAME }} --password-stdin
