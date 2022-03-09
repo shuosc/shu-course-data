@@ -42246,7 +42246,7 @@
       "courseName": "神奇的微观世界",
       "credit": "2",
       "limitations": [],
-      "number": "49",
+      "number": "50",
       "position": "A211",
       "teacherId": "1000",
       "teacherName": "李平",
@@ -42766,14 +42766,17 @@
     },
     {
       "campus": "宝山",
-      "capacity": "30",
+      "capacity": "0",
       "classTime": "五1-2",
       "courseId": "12486144",
       "courseName": "基因组学与代谢组学",
       "credit": "2",
-      "limitations": [],
-      "number": "1",
-      "position": "D303",
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
+      "number": "0",
+      "position": "不开",
       "teacherId": "1000",
       "teacherName": "朱晨光",
       "teacherTitle": "副研究员"
@@ -71527,7 +71530,7 @@
       "teacherTitle": "研究馆员"
     }
   ],
-  "hash": "9582f2654eaba35580fedcc47e87d7ad",
+  "hash": "a3fcdbad3f0a5b095324a590eda38228",
   "termName": "2021-2022学年春季学期",
-  "updateTimeMs": 1646811441931
+  "updateTimeMs": 1646818806696
 }
