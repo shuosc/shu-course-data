@@ -51,11 +51,18 @@ def create_pull_request():
         repo.create_pull(title='chore: auto update', body=body_text, base=DATA, head=INTERVAL_CRAWLER_TASK_RESULT)
 
 
-def push_directly():
+def close_pull_request_and_push_directly():
+    repo = g.get_repo(repository)
+    pulls = repo.get_pulls(state='open', base=DATA, head=INTERVAL_CRAWLER_TASK_RESULT)
+    for pull in pulls:
+        pull.edit(state='closed')
     git_push(DATA, force=False)
 
 
 if __name__ == '__main__':
+    if len(new_repo.current_term_id_list) == 0:
+        print('Current term is empty. Failed to push.')
+        exit(1)
     print('Check if this is a major update or not...')
     res = is_major_update()
     time.sleep(0.5)
@@ -64,5 +71,5 @@ if __name__ == '__main__':
         create_pull_request()
     else:
         print('No. Push to data branch directly...')
-        push_directly()
+        close_pull_request_and_push_directly()
     print('Finished.')
