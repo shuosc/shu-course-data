@@ -2,6 +2,9 @@
 
 基于 Github Actions 的 SHU 课程爬虫，为 [SHU 排课助手(v3)](https://github.com/shuosc/shu-scheduling-helper/tree/v3) 等项目服务。
 
+[![Interval Crawler Task](https://github.com/ZKLlab/shu-course-data/actions/workflows/interval-crawler-task.yml/badge.svg?branch=main)](https://github.com/ZKLlab/shu-course-data/actions/workflows/interval-crawler-task.yml)
+[![Publish to COS](https://github.com/ZKLlab/shu-course-data/actions/workflows/publish-to-cos.yml/badge.svg?branch=data)](https://github.com/ZKLlab/shu-course-data/actions/workflows/publish-to-cos.yml)
+
 ## 说明
 
 ### 本项目的两个工作流
