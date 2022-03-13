@@ -1,6 +1,69 @@
 # shu-course-data
 
-基于 Github Actions 的 SHU 课程爬虫，为 [SHU 排课助手](https://github.com/shuosc/shu-scheduling-helper) 等项目服务。
+基于 Github Actions 的 SHU 课程爬虫，为 [SHU 排课助手(v3)](https://github.com/shuosc/shu-scheduling-helper/tree/v3) 等项目服务。
+
+## 说明
+
+### 本项目的两个工作流
+
+1. **Interval Crawler Task —
+   [位于`main`分支](https://github.com/ZKLlab/shu-course-data/blob/main/.github/workflows/interval-crawler-task.yml)**
+
+   抓取课程数据：`crawler.py`；分析课程数据变化并推送数据到 `data` 分支（或创建 Pull Request 人工复审）：`post_crawler.py`；
+
+2. **Publish to COS —
+   [位于`data`分支](https://github.com/ZKLlab/shu-course-data/blob/data/.github/workflows/publish-to-cos.yml)**
+
+   上传到腾讯云 COS：`cos_publish.py`。
+
+### 课程数据格式
+
+`data`分支下的目录结构如下：
+
+```
+/
+├ terms
+│ ├ 20212.json
+│ ├ 20213.json
+│ …
+└ current.json
+```
+
+`terms`目录下的每个文件以`{termId}.json`格式命名，内容包括学期的元数据和详细的课程数据。具体数据结构如下：
+
+| 字段              | 类型         | 说明                                                                                                        |
+|-----------------|------------|-----------------------------------------------------------------------------------------------------------|
+| `course`        | `Course[]` | 课程数据（`Course`具体字段略）                                                                                       |
+| `termName`      | `string`   | 学期名称                                                                                                      |
+| `backendOrigin` | `string`   | 学校选课系统后端 Origin，当前固定为 `http://xk.autoisp.shu.edu.cn`                                                      |
+| `hash`          | `string`   | 使用 Python 的`json.dumps`函数将`course`字段的值转为 JSON 格式（`sort_keys=True`，其他参数默认），对该 JSON 文本取 MD5 的值，用以标识本学期数据的版本 |
+| `updateTimeMs`  | `number`   | 数据抓取时间，单位毫秒（ms）                                                                                           |
+
+`current.json`内容为`termId`数组，即当前选课系统中开放的学期。
+
+### 数据发布到对象存储服务
+
+数据发布到对象存储服务（当前为腾讯云 COS）前，需要对数据格式进行转换，**以更好地利用缓存机制，减少 CDN 回源流量和用户在网页端消耗的流量**。
+
+发布到对象存储服务的有清单文件`manifest`和学期课程数据文件`terms/{termId}.{hash}.json`。180 天没有更新且不是当前选课系统开放的课程将不被列入清单文件，也不会被上传。对象存储服务会清理 360
+天没有更新的学期课程数据文件。
+
+#### `manifest`
+
+**Header：**`Cache-Control=no-cache`
+
+此文件较小，通过`Cache-Control`禁用了缓存，以确保用户及时获得课程数据更新信息。但在实践中 CDN 设置了过期时间为 1 分钟的强制缓存，以减少部分回源请求。
+
+| 字段        | 类型           | 说明                                                  |
+|-----------|--------------|-----------------------------------------------------|
+| `terms`   | `TermMeta[]` | 课程元数据，字段有：`termId`、`termName`、`hash`和`updateTimeMs` |
+| `current` | `string[]`   | 当前选课系统开放的学期`termId`                                 |
+
+#### `terms/{termId}.{hash}.json`
+
+**Header：**`Cache-Control=public, max-age=2592000`
+
+文件内容为课程信息数组，即`Course[]`（字段略），上传后不允许变更，因此在 CDN 和浏览器端强缓存。文件原始大小通常为 1 ~ 2 MB，但通过 Gzip 或 Brotli 压缩后实际传输的数据量仅为原始大小的 10% 左右。
 
 ## 进度
 
@@ -21,14 +84,12 @@
 
 ## 开发
 
-(以下流程未经试验，请 Contributors 麻烦核对，谢谢！)
-
 ### Github Actions 开发
 
 - Fork 为自己的项目
 - 到 Settings - Secrets 添加两条 Repository secrets：
-  - `SHU_USERNAME` 学工号
-  - `SHU_PASSWORD` 密码
+    - `SHU_USERNAME` 学工号
+    - `SHU_PASSWORD` 密码
 - 进行开发
 
 ### 本地运行爬虫
@@ -39,8 +100,22 @@
 
 ```bash
 pipenv install
-pipenv shell
-python crawler.py -u <学号>
+pipenv run python crawler.py -u <学号>
 ```
 
-如需查看所有爬虫命令，输入 `python crawler.py -h`。
+如需查看所有爬虫命令，输入`pipenv run python crawler.py -h`。
+
+## 许可证
+
+**代码：** [AGPL-3.0-or-later](https://github.com/ZKLlab/shu-course-data/main/LICENSE)
+
+基于此项目提供服务，包括发布程序运行结果以供下载，**必须**
+以相同许可证开源提供服务的源码和修改后的源码（如有）。
+
+**数据：** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+使用数据的服务请标注本项目地址，禁止商用，演绎版本需以相同方式共享。
+
+---
+
+*获取数据或使用数据提供服务时，请遵守各地法律法规。请勿滥用。*
