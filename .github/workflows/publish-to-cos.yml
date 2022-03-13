@@ -3,12 +3,13 @@ name: Publish to COS
 on:
   push:
     branches:
-      - data
+      - '*'
   workflow_dispatch:
 
 jobs:
   publish:
     runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/data'
 
     steps:
       - uses: actions/checkout@v2
