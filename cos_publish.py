@@ -1,5 +1,6 @@
 import json
 import os
+import time
 
 from qcloud_cos import CosConfig, CosS3Client
 
@@ -59,15 +60,18 @@ def extract_term_courses(term_id):
     }
 
 
-def get_all_term_meta():
+def get_all_term_meta(current):
     terms = []
     for filename in os.listdir(os.path.join(data_dir, 'terms')):
         if not filename.endswith('.json'):
             continue
         term_id = filename[:-5]
         meta = extract_term_meta(term_id)
-        if meta is not None:
-            terms.append(meta)
+        if meta is None:
+            continue
+        if term_id not in current and meta['updateTimeMs'] < (time.time() - 86400 * 180) * 1000:
+            continue
+        terms.append(meta)
     terms.sort(key=lambda x: x['termId'], reverse=True)
     return terms
 
@@ -75,7 +79,7 @@ def get_all_term_meta():
 if __name__ == '__main__':
     current_term_ids = get_current_term_ids()
     print(f'Current term ids: {", ".join(current_term_ids)}.')
-    all_term_meta = get_all_term_meta()
+    all_term_meta = get_all_term_meta(current_term_ids)
     print(f'Totally {len(all_term_meta)} terms found.')
 
     manifest = {
