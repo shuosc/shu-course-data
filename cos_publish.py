@@ -86,8 +86,8 @@ if __name__ == '__main__':
     courses_data_list = []
     manifest_data = json.dumps(manifest, **JSON_DUMPS_KWARGS).encode('utf-8')
 
-    for current_term_id in current_term_ids:
-        courses = extract_term_courses(current_term_id)
+    for term_meta in all_term_meta:
+        courses = extract_term_courses(term_meta['termId'])
         courses_data = json.dumps(courses['courses'], **JSON_DUMPS_KWARGS).encode('utf-8')
         courses_data_list.append({
             'filename': f'{courses["termId"]}.{courses["hash"]}.json',
