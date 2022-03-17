@@ -3513,7 +3513,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "30",
+      "number": "31",
       "position": "训练馆乒乓房",
       "teacherId": "1491",
       "teacherName": "林威力",
@@ -7886,10 +7886,8 @@
       "courseId": "0085X078",
       "courseName": "游泳(男、女)",
       "credit": "1",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "28",
+      "limitations": [],
+      "number": "27",
       "position": "游泳馆大池",
       "teacherId": "1097",
       "teacherName": "许汸",
@@ -7958,10 +7956,8 @@
       "courseId": "0085X078",
       "courseName": "游泳(男、女)",
       "credit": "1",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "28",
+      "limitations": [],
+      "number": "27",
       "position": "游泳馆大池",
       "teacherId": "1962",
       "teacherName": "尹默林",
@@ -8005,7 +8001,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "79",
+      "number": "81",
       "position": "EJ203",
       "teacherId": "1001",
       "teacherName": "邹启明",
@@ -8535,7 +8531,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "85",
+      "number": "86",
       "position": "EJ203",
       "teacherId": "1002",
       "teacherName": "邹启明",
@@ -10571,7 +10567,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "171",
+      "number": "173",
       "position": "CJ207",
       "teacherId": "1000",
       "teacherName": "杨建生",
@@ -10857,7 +10853,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "108",
+      "number": "109",
       "position": "BJ207",
       "teacherId": "1019",
       "teacherName": "曹正军",
@@ -10917,7 +10913,7 @@
       "courseName": "微积分(3)",
       "credit": "4",
       "limitations": [],
-      "number": "104",
+      "number": "105",
       "position": "CJ207",
       "teacherId": "1023",
       "teacherName": "李新祥",
@@ -10947,7 +10943,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "100",
+      "number": "101",
       "position": "EJ103",
       "teacherId": "1025",
       "teacherName": "王玉超",
@@ -11911,7 +11907,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "112",
+      "number": "113",
       "position": "EJ106",
       "teacherId": "1019",
       "teacherName": "颜明",
@@ -17849,7 +17845,7 @@
       "courseName": "古希腊罗马文学专题",
       "credit": "3",
       "limitations": [],
-      "number": "8",
+      "number": "9",
       "position": "A218",
       "teacherId": "1000",
       "teacherName": "肖有志",
@@ -18913,7 +18909,7 @@
       "courseName": "文献综述与论文写作",
       "credit": "3",
       "limitations": [],
-      "number": "31",
+      "number": "29",
       "position": "FJ204",
       "teacherId": "1000",
       "teacherName": "严俊",
@@ -19724,8 +19720,10 @@
       "courseId": "03004413",
       "courseName": "英美报刊选读",
       "credit": "2",
-      "limitations": [],
-      "number": "39",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "40",
       "position": "C109",
       "teacherId": "1004",
       "teacherName": "郁菊芬",
@@ -26133,7 +26131,7 @@
       "courseName": "发展经济学",
       "credit": "3",
       "limitations": [],
-      "number": "9",
+      "number": "10",
       "position": "D309",
       "teacherId": "1002",
       "teacherName": "刘亚洲",
@@ -27047,7 +27045,7 @@
       "courseName": "毕业设计(论文)",
       "credit": "20",
       "limitations": [],
-      "number": "36",
+      "number": "37",
       "position": "在线,腾讯会议号:320657738",
       "teacherId": "1000",
       "teacherName": "姚青琪",
@@ -27090,8 +27088,10 @@
       "courseId": "04165001",
       "courseName": "财政学",
       "credit": "4",
-      "limitations": [],
-      "number": "69",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "70",
       "position": "CJ303",
       "teacherId": "1001",
       "teacherName": "谭静",
@@ -33245,7 +33245,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "71",
+      "number": "70",
       "position": "通J201",
       "teacherId": "1000",
       "teacherName": "牛志华",
@@ -33671,7 +33671,7 @@
       "courseName": "计算机视觉",
       "credit": "3",
       "limitations": [],
-      "number": "42",
+      "number": "41",
       "position": "计208",
       "teacherId": "1002",
       "teacherName": "陈侨川",
@@ -41225,7 +41225,7 @@
       "courseName": "毕业设计(论文)",
       "credit": "30",
       "limitations": [],
-      "number": "56",
+      "number": "57",
       "position": "C217",
       "teacherId": "1000",
       "teacherName": "许云峰等",
@@ -41255,7 +41255,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "30",
+      "number": "32",
       "position": "",
       "teacherId": "1002",
       "teacherName": "陈会会",
@@ -41282,8 +41282,10 @@
       "courseId": "1144A013",
       "courseName": "环境工程原理课程设计",
       "credit": "2",
-      "limitations": [],
-      "number": "29",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "30",
       "position": "",
       "teacherId": "1002",
       "teacherName": "许云峰",
@@ -41581,7 +41583,7 @@
       "courseName": "毕业设计(论文)",
       "credit": "30",
       "limitations": [],
-      "number": "20",
+      "number": "18",
       "position": "C219",
       "teacherId": "1000",
       "teacherName": "孙炜伟等",
@@ -41875,7 +41877,7 @@
       "courseName": "生命智能",
       "credit": "3",
       "limitations": [],
-      "number": "99",
+      "number": "98",
       "position": "AJ203",
       "teacherId": "1000",
       "teacherName": "肖俊杰",
@@ -54397,7 +54399,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [],
-      "number": "146",
+      "number": "147",
       "position": "FJ106",
       "teacherId": "1014",
       "teacherName": "李之喆",
@@ -59372,8 +59374,10 @@
       "courseId": "1700RH01",
       "courseName": "《蔚蓝诡计》与广告创意",
       "credit": "2",
-      "limitations": [],
-      "number": "69",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "70",
       "position": "DJ103",
       "teacherId": "1000",
       "teacherName": "郜明",
@@ -70992,7 +70996,7 @@
       "teacherTitle": "研究馆员"
     }
   ],
-  "hash": "a5c3bc2435a7ef98d0e2c9be4412c8b1",
+  "hash": "52b49b5a3c3558e64c50ce3f78050c24",
   "termName": "2021-2022学年春季学期",
-  "updateTimeMs": 1647495430712
+  "updateTimeMs": 1647502651067
 }
