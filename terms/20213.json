@@ -2793,7 +2793,7 @@
       "courseName": "男生足球(基础)",
       "credit": "1",
       "limitations": [],
-      "number": "23",
+      "number": "24",
       "position": "J区足球场",
       "teacherId": "1001",
       "teacherName": "颜中杰",
@@ -8027,7 +8027,7 @@
       "courseName": "程序设计(C语言)",
       "credit": "4",
       "limitations": [],
-      "number": "59",
+      "number": "60",
       "position": "DJ303",
       "teacherId": "1002",
       "teacherName": "高珏",
@@ -10487,7 +10487,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "116",
+      "number": "117",
       "position": "1-231",
       "teacherId": "2002",
       "teacherName": "崔洪泉",
@@ -10577,7 +10577,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "173",
+      "number": "174",
       "position": "CJ207",
       "teacherId": "1000",
       "teacherName": "杨建生",
@@ -10939,7 +10939,7 @@
       "courseName": "微积分(3)",
       "credit": "4",
       "limitations": [],
-      "number": "52",
+      "number": "53",
       "position": "FJ103",
       "teacherId": "1024",
       "teacherName": "王瑞琦",
@@ -11983,7 +11983,7 @@
       "courseName": "大学物理(2)",
       "credit": "4",
       "limitations": [],
-      "number": "32",
+      "number": "33",
       "position": "BJ304",
       "teacherId": "1023",
       "teacherName": "郭盼",
@@ -12071,7 +12071,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "102",
+      "number": "101",
       "position": "CJ107",
       "teacherId": "1000",
       "teacherName": "查国桥",
@@ -16539,7 +16539,7 @@
       "courseName": "力学信息学",
       "credit": "3",
       "limitations": [],
-      "number": "16",
+      "number": "15",
       "position": "A306",
       "teacherId": "1000",
       "teacherName": "胡国辉",
@@ -18275,7 +18275,7 @@
       "courseName": "世界近代史",
       "credit": "5",
       "limitations": [],
-      "number": "19",
+      "number": "20",
       "position": "A108",
       "teacherId": "1001",
       "teacherName": "蒋华杰",
@@ -22401,6 +22401,7 @@
       "courseName": "通用学术英语A(1)",
       "credit": "4",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "0",
@@ -23456,8 +23457,10 @@
       "courseId": "03004502",
       "courseName": "欧洲文化入门",
       "credit": "2",
-      "limitations": [],
-      "number": "41",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "42",
       "position": "C115",
       "teacherId": "1006",
       "teacherName": "李泳涛",
@@ -23779,7 +23782,7 @@
       "courseName": "日语入门(3)",
       "credit": "2",
       "limitations": [],
-      "number": "17",
+      "number": "18",
       "position": "C118",
       "teacherId": "1003",
       "teacherName": "李晓光",
@@ -38033,7 +38036,7 @@
       "courseName": "材料与社会发展",
       "credit": "4",
       "limitations": [],
-      "number": "31",
+      "number": "32",
       "position": "A223",
       "teacherId": "1000",
       "teacherName": "王林军等",
@@ -54091,7 +54094,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "1",
+      "number": "0",
       "position": "不开",
       "teacherId": "1000",
       "teacherName": "杨秀君",
@@ -54671,7 +54674,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "147",
+      "number": "146",
       "position": "GJ106",
       "teacherId": "1030",
       "teacherName": "许静仪",
@@ -55211,7 +55214,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [],
-      "number": "74",
+      "number": "76",
       "position": "FJ103",
       "teacherId": "1066",
       "teacherName": "张丹华",
@@ -55603,7 +55606,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [],
-      "number": "107",
+      "number": "108",
       "position": "EJ106",
       "teacherId": "1092",
       "teacherName": "宋津明",
@@ -60529,7 +60532,7 @@
       "courseName": "土力学",
       "credit": "4",
       "limitations": [],
-      "number": "6",
+      "number": "7",
       "position": "B313",
       "teacherId": "1001",
       "teacherName": "张孟喜",
@@ -60559,7 +60562,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "22",
+      "number": "23",
       "position": "D204",
       "teacherId": "1000",
       "teacherName": "张旭东等",
@@ -60619,7 +60622,7 @@
       "courseName": "混凝土结构原理A",
       "credit": "5",
       "limitations": [],
-      "number": "11",
+      "number": "10",
       "position": "C108",
       "teacherId": "1000",
       "teacherName": "杨锋等",
@@ -60749,7 +60752,7 @@
       "courseName": "桥梁工程",
       "credit": "4",
       "limitations": [],
-      "number": "21",
+      "number": "23",
       "position": "B425",
       "teacherId": "1000",
       "teacherName": "杜晓庆",
@@ -60793,7 +60796,7 @@
       "courseName": "水文与勘察A",
       "credit": "3",
       "limitations": [],
-      "number": "32",
+      "number": "33",
       "position": "A104",
       "teacherId": "1000",
       "teacherName": "武亚军等",
@@ -60807,7 +60810,7 @@
       "courseName": "毕业设计(论文)",
       "credit": "26",
       "limitations": [],
-      "number": "83",
+      "number": "84",
       "position": "",
       "teacherId": "1000",
       "teacherName": "林永亮",
@@ -61501,7 +61504,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "1",
+      "number": "0",
       "position": "不开",
       "teacherId": "1000",
       "teacherName": "常峻",
@@ -64267,7 +64270,7 @@
       "courseName": "管理思维与方法",
       "credit": "4",
       "limitations": [],
-      "number": "33",
+      "number": "32",
       "position": "C113",
       "teacherId": "1000",
       "teacherName": "许学国等",
@@ -71022,7 +71025,7 @@
       "teacherTitle": "研究馆员"
     }
   ],
-  "hash": "15987284d2d8e609c7acbb5087651b34",
+  "hash": "30a191a85d4301ea9f6470800bb6d7b2",
   "termName": "2021-2022学年春季学期",
-  "updateTimeMs": 1647524761944
+  "updateTimeMs": 1647560373039
 }
