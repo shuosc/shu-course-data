@@ -3294,8 +3294,10 @@
       "courseId": "00853204",
       "courseName": "羽毛球(基础)",
       "credit": "1",
-      "limitations": [],
-      "number": "27",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "28",
       "position": "体育馆中心场地",
       "teacherId": "1351",
       "teacherName": "卢高峰",
@@ -51774,7 +51776,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "65",
+      "number": "66",
       "position": "文博楼502",
       "teacherId": "2000",
       "teacherName": "王瑾",
@@ -71025,7 +71027,7 @@
       "teacherTitle": "研究馆员"
     }
   ],
-  "hash": "30a191a85d4301ea9f6470800bb6d7b2",
+  "hash": "dbb7966d036edc9c97fadc3cb573e719",
   "termName": "2021-2022学年春季学期",
-  "updateTimeMs": 1647560373039
+  "updateTimeMs": 1647570907625
 }
