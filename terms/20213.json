@@ -14859,7 +14859,7 @@
       "courseName": "大学化学实验",
       "credit": "1",
       "limitations": [],
-      "number": "9",
+      "number": "10",
       "position": "HA四楼",
       "teacherId": "1014",
       "teacherName": "严晓霞",
@@ -20974,10 +20974,8 @@
       "courseId": "03004479",
       "courseName": "通用英语C(3)",
       "credit": "2",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "31",
+      "limitations": [],
+      "number": "30",
       "position": "D123",
       "teacherId": "1004",
       "teacherName": "周健华",
@@ -21194,8 +21192,10 @@
       "courseId": "03004479",
       "courseName": "通用英语C(3)",
       "credit": "2",
-      "limitations": [],
-      "number": "33",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "34",
       "position": "D309",
       "teacherId": "1018",
       "teacherName": "温年芳",
@@ -68940,7 +68940,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "1",
+      "number": "2",
       "position": "音院W305",
       "teacherId": "1001",
       "teacherName": "SHA XIAOCAO",
@@ -71025,7 +71025,7 @@
       "teacherTitle": "研究馆员"
     }
   ],
-  "hash": "d54653ae456b195f30b8b26dda8b4f0b",
+  "hash": "1ce5a804fd56e4bfed59b3fa99252915",
   "termName": "2021-2022学年春季学期",
-  "updateTimeMs": 1647574961183
+  "updateTimeMs": 1647581827862
 }
