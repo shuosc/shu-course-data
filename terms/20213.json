@@ -8029,7 +8029,7 @@
       "courseName": "程序设计(C语言)",
       "credit": "4",
       "limitations": [],
-      "number": "60",
+      "number": "61",
       "position": "DJ303",
       "teacherId": "1002",
       "teacherName": "高珏",
@@ -10489,7 +10489,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "117",
+      "number": "116",
       "position": "1-231",
       "teacherId": "2002",
       "teacherName": "崔洪泉",
@@ -10530,10 +10530,8 @@
       "courseId": "01014118",
       "courseName": "概率论与数理统计C",
       "credit": "4",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "125",
+      "limitations": [],
+      "number": "124",
       "position": "1-231",
       "teacherId": "2001",
       "teacherName": "崔洪泉",
@@ -52077,8 +52075,10 @@
       "courseId": "15196088",
       "courseName": "国际市场营销概论",
       "credit": "4",
-      "limitations": [],
-      "number": "51",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "52",
       "position": "文博楼303",
       "teacherId": "2003",
       "teacherName": "俞明舟",
@@ -71027,7 +71027,7 @@
       "teacherTitle": "研究馆员"
     }
   ],
-  "hash": "96b99a27368ccd1fcd72b6c5bce3282e",
+  "hash": "26f868306dd79ab02c925bbaabf2f552",
   "termName": "2021-2022学年春季学期",
-  "updateTimeMs": 1647589049070
+  "updateTimeMs": 1647596409797
 }
