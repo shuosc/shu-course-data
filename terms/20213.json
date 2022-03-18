@@ -52649,8 +52649,10 @@
       "courseId": "15573322",
       "courseName": "财务管理",
       "credit": "4",
-      "limitations": [],
-      "number": "29",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "32",
       "position": "在线",
       "teacherId": "2000",
       "teacherName": "陈婉怡",
@@ -63500,7 +63502,7 @@
       "courseName": "电子技术A",
       "credit": "7",
       "limitations": [],
-      "number": "24",
+      "number": "25",
       "position": "A415",
       "teacherId": "1001",
       "teacherName": "朱明",
@@ -71025,7 +71027,7 @@
       "teacherTitle": "研究馆员"
     }
   ],
-  "hash": "1ce5a804fd56e4bfed59b3fa99252915",
+  "hash": "96b99a27368ccd1fcd72b6c5bce3282e",
   "termName": "2021-2022学年春季学期",
-  "updateTimeMs": 1647581827862
+  "updateTimeMs": 1647589049070
 }
