@@ -16768,7 +16768,7 @@
       "number": "75",
       "position": "BJ203",
       "teacherId": "1000",
-      "teacherName": "郑晓渠",
+      "teacherName": "郑晓蕖",
       "teacherTitle": "讲师"
     },
     {
@@ -23151,7 +23151,7 @@
       "number": "34",
       "position": "A206",
       "teacherId": "1006",
-      "teacherName": "2Ding Dong",
+      "teacherName": "Ding Dong",
       "teacherTitle": ""
     },
     {
@@ -33092,7 +33092,7 @@
       "courseName": "计算机组成原理A(2)",
       "credit": "3",
       "limitations": [],
-      "number": "32",
+      "number": "33",
       "position": "计304",
       "teacherId": "1002",
       "teacherName": "欧阳山",
@@ -46469,7 +46469,7 @@
       "number": "16",
       "position": "美院103、104",
       "teacherId": "1000",
-      "teacherName": "待定",
+      "teacherName": "傅春禹",
       "teacherTitle": ""
     },
     {
@@ -61088,7 +61088,7 @@
       "courseName": "英语A(3)",
       "credit": "3",
       "limitations": [],
-      "number": "13",
+      "number": "14",
       "position": "A108",
       "teacherId": "1000",
       "teacherName": "陶小路",
@@ -61388,7 +61388,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "36",
+      "number": "37",
       "position": "线上",
       "teacherId": "1001",
       "teacherName": "朱焱炜",
@@ -61429,8 +61429,10 @@
       "courseId": "20626153",
       "courseName": "诗歌朗诵与欣赏",
       "credit": "2",
-      "limitations": [],
-      "number": "29",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "30",
       "position": "线上",
       "teacherId": "1000",
       "teacherName": "周梅",
@@ -61474,7 +61476,7 @@
       "courseName": "经贸汉语阅读A(2)",
       "credit": "2",
       "limitations": [],
-      "number": "23",
+      "number": "24",
       "position": "B416",
       "teacherId": "1000",
       "teacherName": "杨一飞",
@@ -61604,7 +61606,7 @@
       "courseName": "毕业论文",
       "credit": "30",
       "limitations": [],
-      "number": "40",
+      "number": "38",
       "position": "",
       "teacherId": "1000",
       "teacherName": "李文韬",
@@ -71025,7 +71027,7 @@
       "teacherTitle": "研究馆员"
     }
   ],
-  "hash": "0f3acd0dd4fe7905c7dbd2e68c191484",
+  "hash": "447f353875f9dfe72fe9c6e3254a2944",
   "termName": "2021-2022学年春季学期",
-  "updateTimeMs": 1648121844668
+  "updateTimeMs": 1648381065334
 }
