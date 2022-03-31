@@ -9796,8 +9796,10 @@
       "courseId": "0100LH03",
       "courseName": "化学与社会",
       "credit": "4",
-      "limitations": [],
-      "number": "69",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "70",
       "position": "AJ303",
       "teacherId": "1000",
       "teacherName": "陆文聪等",
@@ -71028,7 +71030,7 @@
       "teacherTitle": "研究馆员"
     }
   ],
-  "hash": "b64cb0b9d0f5c6d7dbf75127ef289c51",
+  "hash": "6aa6664c1d57c55c47ff58addd505525",
   "termName": "2021-2022学年春季学期",
-  "updateTimeMs": 1648683624469
+  "updateTimeMs": 1648694725645
 }
