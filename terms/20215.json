@@ -202,7 +202,7 @@
     {
       "campus": "宝山",
       "capacity": "25",
-      "classTime": "一 1-3 二1-3 四3-4 五3-4(2-3周)",
+      "classTime": "一1-3 二1-3 四3-4 五3-4(2-3周)",
       "courseId": "0081SY03",
       "courseName": "专业研讨课C(2)(强)",
       "credit": "2",
@@ -1583,6 +1583,20 @@
       "number": "54",
       "position": "",
       "teacherId": "1005",
+      "teacherName": "李文彬等",
+      "teacherTitle": ""
+    },
+    {
+      "campus": "宝山",
+      "capacity": "20",
+      "classTime": "7月2-7月6日 14:30-20:30(含周六周日)",
+      "courseId": "00883012",
+      "courseName": "制造技术实践C(1)",
+      "credit": "2",
+      "limitations": [],
+      "number": "0",
+      "position": "",
+      "teacherId": "1000",
       "teacherName": "李文彬等",
       "teacherTitle": ""
     },
@@ -3029,13 +3043,14 @@
     },
     {
       "campus": "宝山",
-      "capacity": "23",
+      "capacity": "0",
       "classTime": "夏季学期第2周 周一~周五每天1-2节",
       "courseId": "0311A030",
       "courseName": "跨文化交际案例分析",
       "credit": "2",
       "limitations": [
-        "禁止选课"
+        "禁止选课",
+        "人数已满"
       ],
       "number": "0",
       "position": "",
@@ -3045,13 +3060,14 @@
     },
     {
       "campus": "宝山",
-      "capacity": "23",
+      "capacity": "0",
       "classTime": "夏季学期第2周 周一~周五每天3-4节",
       "courseId": "0311A030",
       "courseName": "跨文化交际案例分析",
       "credit": "2",
       "limitations": [
-        "禁止选课"
+        "禁止选课",
+        "人数已满"
       ],
       "number": "0",
       "position": "",
@@ -3139,7 +3155,7 @@
     {
       "campus": "宝山",
       "capacity": "23",
-      "classTime": "夏季学期第2-3周 周一~周五每天1-2节",
+      "classTime": "夏季学期第2-3周 一1-2 二1-2 三1-2 四1-2 五1-2",
       "courseId": "0311A033",
       "courseName": "经典作品读书会",
       "credit": "4",
@@ -3153,7 +3169,7 @@
     {
       "campus": "宝山",
       "capacity": "23",
-      "classTime": "夏季学期第2-3周 周一~周五每天3-4节",
+      "classTime": "夏季学期第2-3周 一3-4 二3-4 三3-4 四3-4 五3-4",
       "courseId": "0311A033",
       "courseName": "经典作品读书会",
       "credit": "4",
@@ -3503,7 +3519,7 @@
     {
       "campus": "宝山",
       "capacity": "12",
-      "classTime": "夏季学期第1-2周 周三7-8 周四7-8",
+      "classTime": "夏季学期第1-2周 三7-8 四7-8",
       "courseId": "03B0A002",
       "courseName": "法语配音与演讲(1)",
       "credit": "2",
@@ -3534,7 +3550,7 @@
     {
       "campus": "宝山",
       "capacity": "12",
-      "classTime": "夏季学期第1-2周 周三5-6 周四5-6",
+      "classTime": "夏季学期第1-2周 三5-6 四5-6",
       "courseId": "03B0A006",
       "courseName": "法国经典影视作品欣赏(1)",
       "credit": "2",
@@ -9727,7 +9743,7 @@
       "teacherTitle": "副教授"
     }
   ],
-  "hash": "570ffcb13f02af70cc5eb35bd2626a2a",
+  "hash": "040340c063690c108dda283b86121d8e",
   "termName": "2021-2022学年夏季学期",
-  "updateTimeMs": 1650859173566
+  "updateTimeMs": 1650880010844
 }
