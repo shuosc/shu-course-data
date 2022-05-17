@@ -1,0 +1,43 @@
+name: Publish to OSS
+
+on:
+  push:
+    branches:
+      - data
+  workflow_dispatch:
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          ref: main
+
+      - name: Pull the latest data branch
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git subtree add --prefix=data origin data
+
+      - name: Set up Python 3.9
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.9
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install pipenv
+          pipenv install
+
+      - name: Publish
+        env:
+          DATA_DIR: data
+          OSS_ACCESS_KEY_ID: ${{ secrets.OSS_ACCESS_KEY_ID }}
+          OSS_ACCESS_KEY_SECRET: ${{ secrets.OSS_ACCESS_KEY_SECRET }}
+          OSS_ENDPOINT: ${{ secrets.OSS_ENDPOINT }}
+          OSS_BUCKET: ${{ secrets.OSS_BUCKET }}
+        run: |
+          pipenv run python oss_publish.py
