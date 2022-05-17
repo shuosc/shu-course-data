@@ -1,3 +1,4 @@
+import hashlib
 import json
 import os
 
@@ -39,7 +40,6 @@ def get_term_data(term_id):
     return {
         'termId': term_id,
         'backendOrigin': data['backendOrigin'],
-        'hash': data['hash'][:8],
         'termName': data['termName'],
         'updateTimeMs': data['updateTimeMs'],
         'courses': data['courses']
@@ -52,12 +52,6 @@ if __name__ == '__main__':
     print(f'Current term ids: {", ".join(current_term_ids)}, use {use_term_id}.')
     term_data = get_term_data(use_term_id)
 
-    info = {
-        'backend': term_data['backendOrigin'],
-        'hash': term_data['hash'],
-        'trimester': term_data['termName'],
-        'url': f'https://xk.shuosc.com/api/courses/{term_data["hash"]}.json'
-    }
     courses = [{
         'campus': course['campus'],
         'class_time': course['classTime'],
@@ -67,6 +61,15 @@ if __name__ == '__main__':
         'teacher_id': course['teacherId'],
         'teacher_name': course['teacherName']
     } for course in term_data['courses']]
+    course_hash = hashlib.md5(json.dumps(courses, sort_keys=True).encode('utf-8')).hexdigest()[:8]
+
+    info = {
+        'backend': term_data['backendOrigin'],
+        'hash': course_hash,
+        'trimester': term_data['termName'],
+        'url': f'https://xk.shuosc.com/api/courses/{course_hash}.json'
+    }
+
     extra = {
         'data': {
             f'{course["courseId"]}-{course["teacherId"]}': {
@@ -76,13 +79,13 @@ if __name__ == '__main__':
                 'venue': course['position']
             } for course in term_data['courses']
         },
-        'hash': term_data['hash'],
+        'hash': course_hash,
         'update_time': term_data['updateTimeMs']
     }
 
-    print(f'Upload term data file "api/courses/{term_data["hash"]}.json"')
+    print(f'Upload term data file "api/courses/{course_hash}.json"')
     bucket.put_object(
-        f'api/courses/{term_data["hash"]}.json',
+        f'api/courses/{course_hash}.json',
         json.dumps(courses, **JSON_DUMPS_KWARGS).encode('utf-8'),
         {'Content-Type': 'application/json'}
     )
