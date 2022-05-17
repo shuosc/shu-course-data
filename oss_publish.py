@@ -80,21 +80,21 @@ if __name__ == '__main__':
         'update_time': term_data['updateTimeMs']
     }
 
-    print(f'Upload term data file "api-v2/courses/{term_data["hash"]}.json"')
+    print(f'Upload term data file "api/courses/{term_data["hash"]}.json"')
     bucket.put_object(
-        f'api-v2/courses/{term_data["hash"]}.json',
+        f'api/courses/{term_data["hash"]}.json',
         json.dumps(courses, **JSON_DUMPS_KWARGS).encode('utf-8'),
         {'Content-Type': 'application/json'}
     )
-    print(f'Upload term info file "api-v2/courses/info"')
+    print(f'Upload term info file "api/courses/info"')
     bucket.put_object(
-        'api-v2/courses/info',
+        'api/courses/info',
         json.dumps(info, **JSON_DUMPS_KWARGS).encode('utf-8'),
         {'Content-Type': 'application/json', 'Cache-Control': 'no-cache'}
     )
-    print(f'Upload term extra data file "api-v2/courses/extra"')
+    print(f'Upload term extra data file "api/courses/extra"')
     bucket.put_object(
-        'api-v2/courses/extra',
+        'api/courses/extra',
         json.dumps(extra, **JSON_DUMPS_KWARGS).encode('utf-8'),
         {'Content-Type': 'application/json', 'Cache-Control': 'no-cache'}
     )
