@@ -20,7 +20,7 @@
 
    上传到腾讯云 COS：`cos_publish.py`。
 
-3. **Publish to COS —
+3. **Publish to OSS —
    [位于`data`分支](https://github.com/ZKLlab/shu-course-data/blob/data/.github/workflows/publish-to-oss.yml)**
 
    上传到阿里云 OSS：`oss_publish.py`，兼容当前版本的 [SHU 排课助手](https://github.com/shuosc/shu-scheduling-helper)。
