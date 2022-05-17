@@ -1,9 +1,10 @@
 # shu-course-data
 
-基于 Github Actions 的 SHU 课程爬虫，为 [SHU 排课助手(v3)](https://github.com/shuosc/shu-scheduling-helper/tree/v3) 等项目服务。
+基于 Github Actions 的 SHU 课程爬虫，为 [SHU 排课助手](https://github.com/shuosc/shu-scheduling-helper) 和 [SHU 排课助手(v3)](https://github.com/shuosc/shu-scheduling-helper/tree/v3) 项目服务。
 
 [![Interval Crawler Task](https://github.com/ZKLlab/shu-course-data/actions/workflows/interval-crawler-task.yml/badge.svg?branch=main)](https://github.com/ZKLlab/shu-course-data/actions/workflows/interval-crawler-task.yml)
 [![Publish to COS](https://github.com/ZKLlab/shu-course-data/actions/workflows/publish-to-cos.yml/badge.svg?branch=data)](https://github.com/ZKLlab/shu-course-data/actions/workflows/publish-to-cos.yml)
+[![Publish to COS](https://github.com/ZKLlab/shu-course-data/actions/workflows/publish-to-oss.yml/badge.svg?branch=data)](https://github.com/ZKLlab/shu-course-data/actions/workflows/publish-to-oss.yml)
 
 ## 说明
 
@@ -18,6 +19,11 @@
    [位于`data`分支](https://github.com/ZKLlab/shu-course-data/blob/data/.github/workflows/publish-to-cos.yml)**
 
    上传到腾讯云 COS：`cos_publish.py`。
+
+3. **Publish to COS —
+   [位于`data`分支](https://github.com/ZKLlab/shu-course-data/blob/data/.github/workflows/publish-to-oss.yml)**
+
+   上传到阿里云 OSS：`oss_publish.py`，兼容当前版本的 [SHU 排课助手](https://github.com/shuosc/shu-scheduling-helper)。
 
 ### 课程数据格式
 
@@ -44,7 +50,7 @@
 
 `current.json`内容为`termId`数组，即当前选课系统中开放的学期。
 
-### 数据发布到对象存储服务
+### 数据发布到对象存储服务（COS）
 
 数据发布到对象存储服务（当前为腾讯云 COS）前，需要对数据格式进行转换，**以更好地利用缓存机制，减少 CDN 回源流量和用户在网页端消耗的流量**。
 
