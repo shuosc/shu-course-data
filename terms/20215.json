@@ -907,7 +907,7 @@
       "courseName": "思想道德与法治(实践)",
       "credit": "1",
       "limitations": [],
-      "number": "57",
+      "number": "66",
       "position": "",
       "teacherId": "3001",
       "teacherName": "王雪薇",
@@ -954,7 +954,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "114",
+      "number": "115",
       "position": "",
       "teacherId": "3005",
       "teacherName": "韩梦媛等",
@@ -1510,7 +1510,7 @@
       "courseName": "形势与政策(实践)",
       "credit": "1",
       "limitations": [],
-      "number": "123",
+      "number": "130",
       "position": "",
       "teacherId": "3001",
       "teacherName": "王有英",
@@ -1523,8 +1523,10 @@
       "courseId": "00874008",
       "courseName": "形势与政策(实践)",
       "credit": "1",
-      "limitations": [],
-      "number": "149",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "150",
       "position": "",
       "teacherId": "3002",
       "teacherName": "王有英",
@@ -7989,7 +7991,7 @@
       "courseName": "写生",
       "credit": "4",
       "limitations": [],
-      "number": "22",
+      "number": "23",
       "position": "",
       "teacherId": "3000",
       "teacherName": "刘兆君等",
@@ -8003,7 +8005,7 @@
       "courseName": "学年联合作业(1)",
       "credit": "4",
       "limitations": [],
-      "number": "20",
+      "number": "21",
       "position": "",
       "teacherId": "3000",
       "teacherName": "刘兆君等",
@@ -9822,7 +9824,7 @@
       "teacherTitle": "副教授"
     }
   ],
-  "hash": "c950ef9707245441358ff5a7b176f3f6",
+  "hash": "0da79e6487b19be82e637ef32b0b14d6",
   "termName": "2021-2022学年夏季学期",
-  "updateTimeMs": 1652830982693
+  "updateTimeMs": 1652843341501
 }

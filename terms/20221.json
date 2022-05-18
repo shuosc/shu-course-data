@@ -24882,12 +24882,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "80",
+      "capacity": "0",
       "classTime": "二11-12",
       "courseId": "0400J506",
       "courseName": "经济学的思维方式",
       "credit": "2",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
       "number": "0",
       "position": "",
       "teacherId": "1000",
@@ -63549,7 +63552,7 @@
       "teacherTitle": "研究馆员"
     }
   ],
-  "hash": "0df0c2e12efac56f02f62fb73bbd7b6f",
+  "hash": "b89c3825cdfbd9c677342bac745e926a",
   "termName": "2022-2023学年秋季学期",
-  "updateTimeMs": 1652830995619
+  "updateTimeMs": 1652843353399
 }
