@@ -1971,9 +1971,11 @@
       "courseId": "00893001",
       "courseName": "电子实习",
       "credit": "4",
-      "limitations": [],
+      "limitations": [
+        "禁止选课"
+      ],
       "number": "0",
-      "position": "HD楼",
+      "position": "不开",
       "teacherId": "1016",
       "teacherName": "林佳等",
       "teacherTitle": "助理实验师"
@@ -9822,7 +9824,7 @@
       "teacherTitle": "副教授"
     }
   ],
-  "hash": "45de2b388f0d9fd42f6de54bd3da0f14",
+  "hash": "f571602c6111d5348000e29682122943",
   "termName": "2021-2022学年夏季学期",
-  "updateTimeMs": 1653032444769
+  "updateTimeMs": 1653039822169
 }
