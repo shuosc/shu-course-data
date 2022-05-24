@@ -1508,7 +1508,7 @@
       "courseName": "形势与政策(实践)",
       "credit": "1",
       "limitations": [],
-      "number": "130",
+      "number": "134",
       "position": "",
       "teacherId": "3001",
       "teacherName": "王有英",
@@ -1524,7 +1524,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "150",
+      "number": "152",
       "position": "",
       "teacherId": "3002",
       "teacherName": "王有英",
@@ -6178,8 +6178,10 @@
       "courseId": "13006158",
       "courseName": "中西现当代艺术家范例比较",
       "credit": "2",
-      "limitations": [],
-      "number": "29",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "30",
       "position": "C509",
       "teacherId": "1000",
       "teacherName": "Gan Yu",
@@ -6420,10 +6422,8 @@
       "courseId": "1347A063",
       "courseName": "历史建筑测绘",
       "credit": "4",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "14",
+      "limitations": [],
+      "number": "13",
       "position": "另行通知",
       "teacherId": "3001",
       "teacherName": "魏枢",
@@ -6593,7 +6593,7 @@
       "courseName": "创作实践(1)",
       "credit": "2",
       "limitations": [],
-      "number": "29",
+      "number": "31",
       "position": "美院210、211",
       "teacherId": "1000",
       "teacherName": "苗彤",
@@ -9824,7 +9824,7 @@
       "teacherTitle": "副教授"
     }
   ],
-  "hash": "72ce5bf7f02b2c85eeb98db8665beb43",
+  "hash": "ddb8ade9b9cc99dba3963f60940c7f69",
   "termName": "2021-2022学年夏季学期",
-  "updateTimeMs": 1653385455776
+  "updateTimeMs": 1653392395097
 }
