@@ -43,7 +43,7 @@
       "limitations": [
         "禁止选课"
       ],
-      "number": "3",
+      "number": "0",
       "position": "",
       "teacherId": "1003",
       "teacherName": "辅导员",
@@ -137,7 +137,7 @@
       "courseName": "活动课",
       "credit": "0",
       "limitations": [],
-      "number": "1",
+      "number": "0",
       "position": "",
       "teacherId": "3001",
       "teacherName": "辅导员",
@@ -248,8 +248,10 @@
       "courseId": "00814020",
       "courseName": "大学物理(3)(强)",
       "credit": "5",
-      "limitations": [],
-      "number": "66",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "60",
       "position": "",
       "teacherId": "1001",
       "teacherName": "杨国宏等",
@@ -276,8 +278,10 @@
       "courseId": "00814023",
       "courseName": "大学物理实验(3)(强)",
       "credit": "1.5",
-      "limitations": [],
-      "number": "31",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "20",
       "position": "",
       "teacherId": "1001",
       "teacherName": "王春涛",
@@ -571,9 +575,10 @@
       "courseName": "数值计算方法(1)(强)",
       "credit": "6",
       "limitations": [
-        "禁止选课"
+        "禁止选课",
+        "人数已满"
       ],
-      "number": "1",
+      "number": "0",
       "position": "",
       "teacherId": "1000",
       "teacherName": "刘东杰",
@@ -1065,9 +1070,10 @@
       "courseName": "认知神经科学导论(强)",
       "credit": "2",
       "limitations": [
-        "禁止选课"
+        "禁止选课",
+        "人数已满"
       ],
-      "number": "1",
+      "number": "0",
       "position": "",
       "teacherId": "1000",
       "teacherName": "李颖洁等",
@@ -1139,9 +1145,10 @@
       "courseName": "断裂力学(强)",
       "credit": "3",
       "limitations": [
-        "禁止选课"
+        "禁止选课",
+        "人数已满"
       ],
-      "number": "1",
+      "number": "0",
       "position": "",
       "teacherId": "1000",
       "teacherName": "卢鑫",
@@ -1179,15 +1186,16 @@
     },
     {
       "campus": "宝山",
-      "capacity": "30",
+      "capacity": "0",
       "classTime": "一3-4 四1-2单 四1-4双 上机",
       "courseId": "00816376",
       "courseName": "无人系统智能感知(强)",
       "credit": "4",
       "limitations": [
-        "禁止选课"
+        "禁止选课",
+        "人数已满"
       ],
-      "number": "2",
+      "number": "0",
       "position": "",
       "teacherId": "1000",
       "teacherName": "李小毛",
@@ -8237,8 +8245,10 @@
       "courseId": "00874028",
       "courseName": "大学生社会实践",
       "credit": "1",
-      "limitations": [],
-      "number": "63",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "50",
       "position": "",
       "teacherId": "1001",
       "teacherName": "薛赛男",
@@ -8265,8 +8275,10 @@
       "courseId": "00874028",
       "courseName": "大学生社会实践",
       "credit": "1",
-      "limitations": [],
-      "number": "64",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "50",
       "position": "",
       "teacherId": "1003",
       "teacherName": "胡雅",
@@ -8372,13 +8384,16 @@
     },
     {
       "campus": "宝山",
-      "capacity": "50",
+      "capacity": "0",
       "classTime": "二5-6",
       "courseId": "00874028",
       "courseName": "大学生社会实践",
       "credit": "1",
-      "limitations": [],
-      "number": "1",
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
+      "number": "0",
       "position": "",
       "teacherId": "1011",
       "teacherName": "李玲等",
@@ -8419,8 +8434,10 @@
       "courseId": "00874028",
       "courseName": "大学生社会实践",
       "credit": "1",
-      "limitations": [],
-      "number": "36",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "25",
       "position": "",
       "teacherId": "1014",
       "teacherName": "王一鸣等",
@@ -8470,7 +8487,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "40",
+      "capacity": "120",
       "classTime": "一5-6",
       "courseId": "00883014",
       "courseName": "数字制造技术",
@@ -8479,6 +8496,20 @@
       "number": "107",
       "position": "",
       "teacherId": "1000",
+      "teacherName": "宋晨霞等",
+      "teacherTitle": "工程师"
+    },
+    {
+      "campus": "宝山",
+      "capacity": "50",
+      "classTime": "四7-8",
+      "courseId": "00883014",
+      "courseName": "数字制造技术",
+      "credit": "2",
+      "limitations": [],
+      "number": "0",
+      "position": "",
+      "teacherId": "1002",
       "teacherName": "宋晨霞等",
       "teacherTitle": "工程师"
     },
@@ -8839,8 +8870,10 @@
       "courseId": "0091R800",
       "courseName": "安全、逃生与避险",
       "credit": "2",
-      "limitations": [],
-      "number": "96",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "80",
       "position": "",
       "teacherId": "1000",
       "teacherName": "沈龙骥等",
@@ -29142,8 +29175,10 @@
       "courseId": "06265051",
       "courseName": "民事诉讼法A",
       "credit": "6",
-      "limitations": [],
-      "number": "66",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "50",
       "position": "",
       "teacherId": "1002",
       "teacherName": "洪凌啸",
@@ -29212,8 +29247,10 @@
       "courseId": "06265137",
       "courseName": "法理学B(2)",
       "credit": "3",
-      "limitations": [],
-      "number": "54",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "50",
       "position": "",
       "teacherId": "1002",
       "teacherName": "潘传表",
@@ -29310,8 +29347,10 @@
       "courseId": "06265178",
       "courseName": "刑事诉讼法A",
       "credit": "6",
-      "limitations": [],
-      "number": "70",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "50",
       "position": "",
       "teacherId": "1001",
       "teacherName": "兰跃军",
@@ -29394,8 +29433,10 @@
       "courseId": "06266155",
       "courseName": "英美民事诉讼法",
       "credit": "3",
-      "limitations": [],
-      "number": "88",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "80",
       "position": "",
       "teacherId": "1000",
       "teacherName": "史长青",
@@ -29408,8 +29449,10 @@
       "courseId": "06266182",
       "courseName": "经济法C",
       "credit": "4",
-      "limitations": [],
-      "number": "92",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "80",
       "position": "",
       "teacherId": "1000",
       "teacherName": "李俊峰",
@@ -29436,8 +29479,10 @@
       "courseId": "06266183",
       "courseName": "环境资源法",
       "credit": "4",
-      "limitations": [],
-      "number": "45",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "38",
       "position": "",
       "teacherId": "1002",
       "teacherName": "李晨光",
@@ -29935,13 +29980,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "60",
+      "capacity": "75",
       "classTime": "一7-8 三7-8",
       "courseId": "07275078",
       "courseName": "概率论与随机过程A",
       "credit": "4",
-      "limitations": [],
-      "number": "90",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "75",
       "position": "",
       "teacherId": "1001",
       "teacherName": "孙晓岚",
@@ -29949,13 +29996,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "60",
+      "capacity": "75",
       "classTime": "一7-8 三7-8",
       "courseId": "07275078",
       "courseName": "概率论与随机过程A",
       "credit": "4",
-      "limitations": [],
-      "number": "94",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "75",
       "position": "",
       "teacherId": "1002",
       "teacherName": "吕东辉",
@@ -29991,13 +30040,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "60",
+      "capacity": "75",
       "classTime": "一7-8 三7-8",
       "courseId": "07275078",
       "courseName": "概率论与随机过程A",
       "credit": "4",
-      "limitations": [],
-      "number": "80",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "75",
       "position": "",
       "teacherId": "1005",
       "teacherName": "冯国瑞",
@@ -30005,13 +30056,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "60",
+      "capacity": "75",
       "classTime": "一7-8 三7-8",
       "courseId": "07275078",
       "courseName": "概率论与随机过程A",
       "credit": "4",
-      "limitations": [],
-      "number": "86",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "75",
       "position": "",
       "teacherId": "1006",
       "teacherName": "李正璇",
@@ -30038,8 +30091,10 @@
       "courseId": "07275078",
       "courseName": "概率论与随机过程A",
       "credit": "4",
-      "limitations": [],
-      "number": "37",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "30",
       "position": "",
       "teacherId": "1008",
       "teacherName": "张亮",
@@ -30047,13 +30102,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "60",
+      "capacity": "70",
       "classTime": "二1-2 四1-2",
       "courseId": "07275084",
       "courseName": "数字信号处理B",
       "credit": "4",
-      "limitations": [],
-      "number": "83",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "70",
       "position": "",
       "teacherId": "1001",
       "teacherName": "张海燕",
@@ -30061,13 +30118,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "60",
+      "capacity": "70",
       "classTime": "二1-2 四1-2",
       "courseId": "07275084",
       "courseName": "数字信号处理B",
       "credit": "4",
-      "limitations": [],
-      "number": "80",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "70",
       "position": "",
       "teacherId": "1002",
       "teacherName": "黄青华",
@@ -30103,13 +30162,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "60",
+      "capacity": "70",
       "classTime": "二1-2 四1-2",
       "courseId": "07275084",
       "courseName": "数字信号处理B",
       "credit": "4",
-      "limitations": [],
-      "number": "91",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "70",
       "position": "",
       "teacherId": "1005",
       "teacherName": "孙广玲",
@@ -30131,13 +30192,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "60",
+      "capacity": "70",
       "classTime": "二1-2 四1-2",
       "courseId": "07275084",
       "courseName": "数字信号处理B",
       "credit": "4",
-      "limitations": [],
-      "number": "84",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "70",
       "position": "",
       "teacherId": "1007",
       "teacherName": "方勇",
@@ -30159,13 +30222,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "60",
+      "capacity": "75",
       "classTime": "二7-8 四6-8单 含实验 五7-8",
       "courseId": "07275145",
       "courseName": "电磁场理论A",
       "credit": "5",
-      "limitations": [],
-      "number": "88",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "75",
       "position": "",
       "teacherId": "1001",
       "teacherName": "肖中银",
@@ -30173,13 +30238,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "60",
+      "capacity": "75",
       "classTime": "二7-8 四6-8单 含实验 五7-8",
       "courseId": "07275145",
       "courseName": "电磁场理论A",
       "credit": "5",
-      "limitations": [],
-      "number": "98",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "75",
       "position": "",
       "teacherId": "1002",
       "teacherName": "方捻",
@@ -30187,13 +30254,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "60",
+      "capacity": "75",
       "classTime": "二7-8 四6-8单 含实验 五7-8",
       "courseId": "07275145",
       "courseName": "电磁场理论A",
       "credit": "5",
-      "limitations": [],
-      "number": "83",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "75",
       "position": "",
       "teacherId": "1003",
       "teacherName": "肖诗逸",
@@ -30263,9 +30332,10 @@
       "courseName": "电路与电子线路基础(1)",
       "credit": "5",
       "limitations": [
-        "禁止选课"
+        "禁止选课",
+        "人数已满"
       ],
-      "number": "7",
+      "number": "0",
       "position": "",
       "teacherId": "1002",
       "teacherName": "金彦亮",
@@ -30413,7 +30483,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "36",
+      "capacity": "38",
       "classTime": "二7-8",
       "courseId": "07275163",
       "courseName": "电路与电子线路基础实验(1)",
@@ -30586,8 +30656,10 @@
       "courseId": "07275180",
       "courseName": "数据结构与算法基础A",
       "credit": "5",
-      "limitations": [],
-      "number": "65",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "60",
       "position": "",
       "teacherId": "1003",
       "teacherName": "沈礼权",
@@ -30595,13 +30667,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "60",
+      "capacity": "80",
       "classTime": "一3-4 三3-4 五3-4单",
       "courseId": "07275180",
       "courseName": "数据结构与算法基础A",
       "credit": "5",
-      "limitations": [],
-      "number": "82",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "80",
       "position": "",
       "teacherId": "1004",
       "teacherName": "管业鹏",
@@ -30609,13 +30683,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "60",
+      "capacity": "80",
       "classTime": "一3-4 三3-4 五3-4单",
       "courseId": "07275180",
       "courseName": "数据结构与算法基础A",
       "credit": "5",
-      "limitations": [],
-      "number": "87",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "80",
       "position": "",
       "teacherId": "1005",
       "teacherName": "马然",
@@ -30637,13 +30713,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "60",
+      "capacity": "80",
       "classTime": "一3-4 三3-4 五3-4单",
       "courseId": "07275180",
       "courseName": "数据结构与算法基础A",
       "credit": "5",
-      "limitations": [],
-      "number": "82",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "80",
       "position": "",
       "teacherId": "1007",
       "teacherName": "朱晓强",
@@ -30665,13 +30743,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "40",
+      "capacity": "70",
       "classTime": "二1-2 四3-4",
       "courseId": "07276025",
       "courseName": "移动通信",
       "credit": "4",
-      "limitations": [],
-      "number": "80",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "70",
       "position": "",
       "teacherId": "1001",
       "teacherName": "朱民耀",
@@ -30679,7 +30759,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "40",
+      "capacity": "70",
       "classTime": "二1-2 四3-4",
       "courseId": "07276025",
       "courseName": "移动通信",
@@ -30693,7 +30773,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "40",
+      "capacity": "60",
       "classTime": "二9-11 四1-2 上机",
       "courseId": "07276058",
       "courseName": "多媒体技术与通信",
@@ -30749,13 +30829,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "40",
+      "capacity": "60",
       "classTime": "三1-2 五1-2",
       "courseId": "07276166",
       "courseName": "宽带无线通信技术",
       "credit": "4",
-      "limitations": [],
-      "number": "77",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "60",
       "position": "",
       "teacherId": "1002",
       "teacherName": "吴雅婷",
@@ -30763,7 +30845,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "40",
+      "capacity": "80",
       "classTime": "一3-4 三7-8",
       "courseId": "07276167",
       "courseName": "宽带光网络A",
@@ -30875,13 +30957,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "40",
+      "capacity": "80",
       "classTime": "一5-6 三5-6",
       "courseId": "07276176",
       "courseName": "神经网络与深度学习",
       "credit": "4",
-      "limitations": [],
-      "number": "126",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "80",
       "position": "",
       "teacherId": "1001",
       "teacherName": "陈俊丽",
@@ -30889,7 +30973,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "40",
+      "capacity": "80",
       "classTime": "一5-6 三5-6",
       "courseId": "07276176",
       "courseName": "神经网络与深度学习",
@@ -30908,8 +30992,10 @@
       "courseId": "07276177",
       "courseName": "自然语言处理",
       "credit": "4",
-      "limitations": [],
-      "number": "140",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "80",
       "position": "",
       "teacherId": "1001",
       "teacherName": "金彦亮",
@@ -30922,8 +31008,10 @@
       "courseId": "07276177",
       "courseName": "自然语言处理",
       "credit": "4",
-      "limitations": [],
-      "number": "74",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "40",
       "position": "",
       "teacherId": "1002",
       "teacherName": "张琦",
@@ -31015,13 +31103,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "30",
+      "capacity": "35",
       "classTime": "二9-12 四3-4",
       "courseId": "0727A046",
       "courseName": "工程教育",
       "credit": "3",
-      "limitations": [],
-      "number": "37",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "35",
       "position": "",
       "teacherId": "1004",
       "teacherName": "钱峰",
@@ -31034,8 +31124,10 @@
       "courseId": "0727A047",
       "courseName": "综合工程设计",
       "credit": "5",
-      "limitations": [],
-      "number": "36",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "30",
       "position": "",
       "teacherId": "1001",
       "teacherName": "丁晓青",
@@ -31090,8 +31182,10 @@
       "courseId": "0727A047",
       "courseName": "综合工程设计",
       "credit": "5",
-      "limitations": [],
-      "number": "38",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "30",
       "position": "",
       "teacherId": "1005",
       "teacherName": "陆小锋",
@@ -31160,8 +31254,10 @@
       "courseId": "0727SY01",
       "courseName": "“宽带中国”战略之现代光通信网",
       "credit": "2",
-      "limitations": [],
-      "number": "43",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "30",
       "position": "",
       "teacherId": "1000",
       "teacherName": "甘朝钦",
@@ -31188,8 +31284,10 @@
       "courseId": "0727SY04",
       "courseName": "5G物联网时代的光纤接入技术",
       "credit": "2",
-      "limitations": [],
-      "number": "45",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "30",
       "position": "",
       "teacherId": "1000",
       "teacherName": "陈健",
@@ -31198,12 +31296,28 @@
     {
       "campus": "宝山",
       "capacity": "30",
+      "classTime": "三9-10",
+      "courseId": "0727SY04",
+      "courseName": "5G物联网时代的光纤接入技术",
+      "credit": "2",
+      "limitations": [],
+      "number": "0",
+      "position": "",
+      "teacherId": "1001",
+      "teacherName": "李正璇",
+      "teacherTitle": "副研究员"
+    },
+    {
+      "campus": "宝山",
+      "capacity": "30",
       "classTime": "四9-10",
       "courseId": "0727SY05",
       "courseName": "信息科技研究方法与前沿",
       "credit": "2",
-      "limitations": [],
-      "number": "33",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "30",
       "position": "",
       "teacherId": "1000",
       "teacherName": "王涛",
@@ -31253,13 +31367,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "40",
+      "capacity": "70",
       "classTime": "二7-8 五7-8",
       "courseId": "07286060",
       "courseName": "计算机视觉",
       "credit": "4",
-      "limitations": [],
-      "number": "85",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "70",
       "position": "",
       "teacherId": "1001",
       "teacherName": "王永芳",
@@ -31267,7 +31383,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "40",
+      "capacity": "70",
       "classTime": "二7-8 五7-8",
       "courseId": "07286060",
       "courseName": "计算机视觉",
@@ -31286,8 +31402,10 @@
       "courseId": "0728SY01",
       "courseName": "从傅里叶分析到小波分析",
       "credit": "2",
-      "limitations": [],
-      "number": "44",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "30",
       "position": "",
       "teacherId": "1000",
       "teacherName": "吕东辉",
@@ -31300,8 +31418,10 @@
       "courseId": "0728SY02",
       "courseName": "多媒体信息安全",
       "credit": "2",
-      "limitations": [],
-      "number": "38",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "30",
       "position": "",
       "teacherId": "1000",
       "teacherName": "方针",
@@ -31314,12 +31434,28 @@
       "courseId": "0728SY03",
       "courseName": "超高清与智能3D技术",
       "credit": "2",
-      "limitations": [],
-      "number": "47",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "30",
       "position": "",
       "teacherId": "1000",
       "teacherName": "马然",
       "teacherTitle": "副教授"
+    },
+    {
+      "campus": "宝山",
+      "capacity": "30",
+      "classTime": "二9-10",
+      "courseId": "0728SY03",
+      "courseName": "超高清与智能3D技术",
+      "credit": "2",
+      "limitations": [],
+      "number": "0",
+      "position": "",
+      "teacherId": "1001",
+      "teacherName": "安平",
+      "teacherTitle": "教授"
     },
     {
       "campus": "宝山",
@@ -55408,8 +55544,10 @@
       "courseId": "18466149",
       "courseName": "人工智能与土木工程导论",
       "credit": "2",
-      "limitations": [],
-      "number": "32",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "30",
       "position": "",
       "teacherId": "1000",
       "teacherName": "赵炎翡",
@@ -56494,8 +56632,10 @@
       "courseId": "2200R605",
       "courseName": "画说外滩建筑",
       "credit": "2",
-      "limitations": [],
-      "number": "111",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "80",
       "position": "",
       "teacherId": "1000",
       "teacherName": "黄一迁",
@@ -59170,8 +59310,10 @@
       "courseId": "3100R601",
       "courseName": "中国歌词文化",
       "credit": "2",
-      "limitations": [],
-      "number": "96",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "80",
       "position": "",
       "teacherId": "1000",
       "teacherName": "徐倩",
@@ -59226,8 +59368,10 @@
       "courseId": "3100RH60",
       "courseName": "中国经典音乐",
       "credit": "4",
-      "limitations": [],
-      "number": "89",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "70",
       "position": "",
       "teacherId": "1000",
       "teacherName": "徐倩",
@@ -59240,8 +59384,10 @@
       "courseId": "3100RH61",
       "courseName": "外国经典音乐",
       "credit": "4",
-      "limitations": [],
-      "number": "81",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "70",
       "position": "",
       "teacherId": "1000",
       "teacherName": "袁勤",
@@ -59338,8 +59484,10 @@
       "courseId": "31734093",
       "courseName": "视唱练耳B(1)",
       "credit": "2",
-      "limitations": [],
-      "number": "28",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "15",
       "position": "",
       "teacherId": "1002",
       "teacherName": "王文婷",
@@ -59702,8 +59850,10 @@
       "courseId": "31734099",
       "courseName": "钢琴演奏B(1)",
       "credit": "1",
-      "limitations": [],
-      "number": "3",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "2",
       "position": "",
       "teacherId": "1001",
       "teacherName": "纪晔晔",
@@ -59730,8 +59880,10 @@
       "courseId": "31734099",
       "courseName": "钢琴演奏B(1)",
       "credit": "1",
-      "limitations": [],
-      "number": "3",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "2",
       "position": "",
       "teacherId": "1003",
       "teacherName": "常沁怡",
@@ -59800,8 +59952,10 @@
       "courseId": "31734099",
       "courseName": "钢琴演奏B(1)",
       "credit": "1",
-      "limitations": [],
-      "number": "3",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "2",
       "position": "",
       "teacherId": "1008",
       "teacherName": "盛聪",
@@ -59814,8 +59968,10 @@
       "courseId": "31734099",
       "courseName": "钢琴演奏B(1)",
       "credit": "1",
-      "limitations": [],
-      "number": "3",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "2",
       "position": "",
       "teacherId": "1009",
       "teacherName": "盛聪",
@@ -59856,8 +60012,10 @@
       "courseId": "31734099",
       "courseName": "钢琴演奏B(1)",
       "credit": "1",
-      "limitations": [],
-      "number": "3",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "2",
       "position": "",
       "teacherId": "1012",
       "teacherName": "许妍",
@@ -59870,8 +60028,10 @@
       "courseId": "31734099",
       "courseName": "钢琴演奏B(1)",
       "credit": "1",
-      "limitations": [],
-      "number": "3",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "2",
       "position": "",
       "teacherId": "1013",
       "teacherName": "许妍",
@@ -59912,8 +60072,10 @@
       "courseId": "31734099",
       "courseName": "钢琴演奏B(1)",
       "credit": "1",
-      "limitations": [],
-      "number": "3",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "2",
       "position": "",
       "teacherId": "1016",
       "teacherName": "金艺洺",
@@ -60033,13 +60195,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "15",
+      "capacity": "20",
       "classTime": "三3-4",
       "courseId": "31735041",
       "courseName": "和声基础(3)",
       "credit": "2",
-      "limitations": [],
-      "number": "30",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "20",
       "position": "",
       "teacherId": "1002",
       "teacherName": "欧阳鑫勃",
@@ -60458,8 +60622,10 @@
       "courseId": "31735158",
       "courseName": "音乐学专业课(4)",
       "credit": "2",
-      "limitations": [],
-      "number": "2",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "1",
       "position": "",
       "teacherId": "1001",
       "teacherName": "欧阳鑫勃",
@@ -60873,6 +61039,20 @@
     },
     {
       "campus": "宝山",
+      "capacity": "1",
+      "classTime": "见学院小课表",
+      "courseId": "31735158",
+      "courseName": "音乐学专业课(4)",
+      "credit": "2",
+      "limitations": [],
+      "number": "0",
+      "position": "",
+      "teacherId": "1031",
+      "teacherName": "欧阳鑫勃",
+      "teacherTitle": "讲师"
+    },
+    {
+      "campus": "宝山",
       "capacity": "40",
       "classTime": "一1-2",
       "courseId": "31735173",
@@ -61055,13 +61235,16 @@
     },
     {
       "campus": "宝山",
-      "capacity": "30",
+      "capacity": "0",
       "classTime": "五7-8",
       "courseId": "31736213",
       "courseName": "流行音乐即兴弹奏(1)",
       "credit": "2",
-      "limitations": [],
-      "number": "2",
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
+      "number": "0",
       "position": "",
       "teacherId": "1000",
       "teacherName": "阳军",
@@ -61200,8 +61383,10 @@
       "courseId": "3173SY01",
       "courseName": "西方音乐与文化",
       "credit": "2",
-      "limitations": [],
-      "number": "39",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "26",
       "position": "",
       "teacherId": "1001",
       "teacherName": "袁勤",
@@ -61368,8 +61553,10 @@
       "courseId": "31975004",
       "courseName": "声乐演唱(4)",
       "credit": "2",
-      "limitations": [],
-      "number": "2",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "1",
       "position": "",
       "teacherId": "1001",
       "teacherName": "李建林",
@@ -61424,8 +61611,10 @@
       "courseId": "31975004",
       "courseName": "声乐演唱(4)",
       "credit": "2",
-      "limitations": [],
-      "number": "2",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "1",
       "position": "",
       "teacherId": "1005",
       "teacherName": "吕晓菲",
@@ -62180,8 +62369,10 @@
       "courseId": "31975016",
       "courseName": "器乐演奏(4)",
       "credit": "2",
-      "limitations": [],
-      "number": "2",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "1",
       "position": "",
       "teacherId": "1008",
       "teacherName": "金艺洺",
@@ -62264,8 +62455,10 @@
       "courseId": "31975016",
       "courseName": "器乐演奏(4)",
       "credit": "2",
-      "limitations": [],
-      "number": "2",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "1",
       "position": "",
       "teacherId": "1014",
       "teacherName": "唐晓斌",
@@ -62306,8 +62499,10 @@
       "courseId": "31975016",
       "courseName": "器乐演奏(4)",
       "credit": "2",
-      "limitations": [],
-      "number": "2",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "1",
       "position": "",
       "teacherId": "1017",
       "teacherName": "朴英",
@@ -62376,8 +62571,10 @@
       "courseId": "31975016",
       "courseName": "器乐演奏(4)",
       "credit": "2",
-      "limitations": [],
-      "number": "2",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "1",
       "position": "",
       "teacherId": "1022",
       "teacherName": "魏震",
@@ -62438,6 +62635,20 @@
       "teacherId": "1026",
       "teacherName": "朱顺华",
       "teacherTitle": ""
+    },
+    {
+      "campus": "宝山",
+      "capacity": "1",
+      "classTime": "见学院小课表",
+      "courseId": "31975016",
+      "courseName": "器乐演奏(4)",
+      "credit": "2",
+      "limitations": [],
+      "number": "0",
+      "position": "",
+      "teacherId": "1027",
+      "teacherName": "金艺洺",
+      "teacherTitle": "讲师"
     },
     {
       "campus": "宝山",
@@ -62838,8 +63049,10 @@
       "courseId": "31975022",
       "courseName": "器乐演奏(10)",
       "credit": "2",
-      "limitations": [],
-      "number": "2",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "1",
       "position": "",
       "teacherId": "1003",
       "teacherName": "朴英",
@@ -63258,8 +63471,10 @@
       "courseId": "31976038",
       "courseName": "舞蹈与形体(1)",
       "credit": "2",
-      "limitations": [],
-      "number": "12",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "10",
       "position": "",
       "teacherId": "1001",
       "teacherName": "还国志",
@@ -63328,8 +63543,10 @@
       "courseId": "31976067",
       "courseName": "声乐选修(1)",
       "credit": "1",
-      "limitations": [],
-      "number": "7",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "2",
       "position": "",
       "teacherId": "1001",
       "teacherName": "王石磊",
@@ -63342,8 +63559,10 @@
       "courseId": "31976067",
       "courseName": "声乐选修(1)",
       "credit": "1",
-      "limitations": [],
-      "number": "6",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "2",
       "position": "",
       "teacherId": "1002",
       "teacherName": "王石磊",
@@ -63356,8 +63575,10 @@
       "courseId": "31976067",
       "courseName": "声乐选修(1)",
       "credit": "1",
-      "limitations": [],
-      "number": "8",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "2",
       "position": "",
       "teacherId": "1003",
       "teacherName": "王石磊",
@@ -64470,7 +64691,7 @@
       "teacherTitle": "研究馆员"
     }
   ],
-  "hash": "86d40f9aa7f790ed51bf8c05c2bcd83d",
+  "hash": "b132fda609553abcfa4766abc0976139",
   "termName": "2022-2023学年秋季学期",
-  "updateTimeMs": 1653543821220
+  "updateTimeMs": 1653550854771
 }
