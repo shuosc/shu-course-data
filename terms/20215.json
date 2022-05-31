@@ -5608,8 +5608,8 @@
       "number": "10",
       "position": "",
       "teacherId": "1000",
-      "teacherName": "付建勋等",
-      "teacherTitle": "教授"
+      "teacherName": "沈平",
+      "teacherTitle": "副研究员"
     },
     {
       "campus": "宝山",
@@ -6017,13 +6017,16 @@
     },
     {
       "campus": "宝山",
-      "capacity": "100",
+      "capacity": "1",
       "classTime": "夏季学期第1周",
       "courseId": "1248A021",
       "courseName": "基础生物学训练(1)",
       "credit": "2",
-      "limitations": [],
-      "number": "48",
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
+      "number": "1",
       "position": "生命楼122",
       "teacherId": "1000",
       "teacherName": "刘振国",
@@ -6031,13 +6034,16 @@
     },
     {
       "campus": "宝山",
-      "capacity": "100",
+      "capacity": "1",
       "classTime": "夏季学期第2周",
       "courseId": "1248A022",
       "courseName": "基础生物学训练(2)",
       "credit": "2",
-      "limitations": [],
-      "number": "48",
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
+      "number": "1",
       "position": "生命楼220",
       "teacherId": "1000",
       "teacherName": "牛莉莉",
@@ -6045,13 +6051,16 @@
     },
     {
       "campus": "宝山",
-      "capacity": "100",
+      "capacity": "1",
       "classTime": "夏季学期第3周",
       "courseId": "1248A023",
       "courseName": "基础生物学训练(3)",
       "credit": "2",
-      "limitations": [],
-      "number": "48",
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
+      "number": "1",
       "position": "生命楼118",
       "teacherId": "1000",
       "teacherName": "吴靖冬等",
@@ -6087,13 +6096,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "50",
+      "capacity": "2",
       "classTime": "夏季学期第1周",
       "courseId": "1249A021",
       "courseName": "工程实训(1)",
       "credit": "2",
-      "limitations": [],
-      "number": "26",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "2",
       "position": "生命楼118",
       "teacherId": "1000",
       "teacherName": "王锦华等",
@@ -6101,13 +6112,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "50",
+      "capacity": "2",
       "classTime": "夏季学期第2周",
       "courseId": "1249A022",
       "courseName": "工程实训(2)",
       "credit": "2",
-      "limitations": [],
-      "number": "26",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "2",
       "position": "生命楼120",
       "teacherId": "1000",
       "teacherName": "韦嘉励等",
@@ -6115,13 +6128,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "50",
+      "capacity": "2",
       "classTime": "夏季学期第3周",
       "courseId": "1249A023",
       "courseName": "工程实训(3)",
       "credit": "2",
-      "limitations": [],
-      "number": "26",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "2",
       "position": "生命楼120",
       "teacherId": "1000",
       "teacherName": "贺燕云等",
@@ -6157,14 +6172,17 @@
     },
     {
       "campus": "宝山",
-      "capacity": "50",
+      "capacity": "0",
       "classTime": "夏季学期1-3周",
       "courseId": "12B3A003",
       "courseName": "生物制药实训",
       "credit": "6",
-      "limitations": [],
-      "number": "35",
-      "position": "生命楼",
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
+      "number": "0",
+      "position": "不开",
       "teacherId": "1000",
       "teacherName": "张娟等",
       "teacherTitle": "教授"
@@ -9820,7 +9838,7 @@
       "teacherTitle": "副教授"
     }
   ],
-  "hash": "bc66c99990e09313c5bc5ce74d63efff",
+  "hash": "447748e04214525459062d182d5119a6",
   "termName": "2021-2022学年夏季学期",
-  "updateTimeMs": 1653975875071
+  "updateTimeMs": 1653990217533
 }
