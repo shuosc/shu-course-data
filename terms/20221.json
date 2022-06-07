@@ -13532,14 +13532,12 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "35",
+      "capacity": "50",
       "classTime": "二1-2 二3-6 上机",
       "courseId": "01055049",
       "courseName": "微电子电路实验",
       "credit": "3",
-      "limitations": [
-        "人数已满"
-      ],
+      "limitations": [],
       "number": "35",
       "position": "",
       "teacherId": "2001",
@@ -50697,13 +50695,16 @@
     },
     {
       "campus": "延长",
-      "capacity": "70",
-      "classTime": "二9-10 四9-19",
+      "capacity": "0",
+      "classTime": "二9-10 四9-10",
       "courseId": "1600RH01",
       "courseName": "哲学与人生",
       "credit": "4",
-      "limitations": [],
-      "number": "25",
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
+      "number": "0",
       "position": "",
       "teacherId": "3000",
       "teacherName": "吴立群",
@@ -54516,8 +54517,8 @@
       "number": "11",
       "position": "",
       "teacherId": "1000",
-      "teacherName": "吴立群",
-      "teacherTitle": "教授"
+      "teacherName": "盛宁",
+      "teacherTitle": "讲师"
     },
     {
       "campus": "宝山",
@@ -65779,7 +65780,7 @@
       "teacherTitle": "研究馆员"
     }
   ],
-  "hash": "0c6700a0dc7e80baa343d97e38c65339",
+  "hash": "1b1c5b04d51c78e62b9bbbe89d8794e4",
   "termName": "2022-2023学年秋季学期",
-  "updateTimeMs": 1654571483716
+  "updateTimeMs": 1654601912814
 }
