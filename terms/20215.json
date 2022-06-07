@@ -717,7 +717,7 @@
       "courseName": "思想道德与法治(实践)",
       "credit": "1",
       "limitations": [],
-      "number": "42",
+      "number": "43",
       "position": "A112",
       "teacherId": "1026",
       "teacherName": "何雨晴等",
@@ -1076,7 +1076,7 @@
       "courseName": "形势与政策(实践)",
       "credit": "1",
       "limitations": [],
-      "number": "128",
+      "number": "129",
       "position": "GJ106",
       "teacherId": "1008",
       "teacherName": "孙士庆",
@@ -8383,6 +8383,20 @@
     },
     {
       "campus": "宝山",
+      "capacity": "30",
+      "classTime": "二1-2 四1-2 五1-2双",
+      "courseId": "1658A002",
+      "courseName": "思想政治理论课(实践)(2)",
+      "credit": "1",
+      "limitations": [],
+      "number": "0",
+      "position": "",
+      "teacherId": "1000",
+      "teacherName": "袁晓晶",
+      "teacherTitle": "副教授"
+    },
+    {
+      "campus": "宝山",
       "capacity": "20",
       "classTime": "夏季学期3-4周",
       "courseId": "1661A008",
@@ -9621,7 +9635,7 @@
       "courseName": "专业实践(1)",
       "credit": "4",
       "limitations": [],
-      "number": "43",
+      "number": "44",
       "position": "另行通知",
       "teacherId": "1000",
       "teacherName": "杨烨",
@@ -9663,7 +9677,7 @@
       "courseName": "大学生素质拓展(1)",
       "credit": "1",
       "limitations": [],
-      "number": "44",
+      "number": "45",
       "position": "另行通知",
       "teacherId": "1000",
       "teacherName": "曹茜",
@@ -9804,7 +9818,7 @@
       "teacherTitle": "副教授"
     }
   ],
-  "hash": "03a679b5a0cdc32f8ce2a8c2621bbe14",
+  "hash": "49f262db386e77338c84fd6f62b317fd",
   "termName": "2021-2022学年夏季学期",
-  "updateTimeMs": 1654558833619
+  "updateTimeMs": 1654571469234
 }
