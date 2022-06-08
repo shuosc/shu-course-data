@@ -343,7 +343,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "130",
+      "number": "131",
       "position": "BJ304",
       "teacherId": "1001",
       "teacherName": "王迪等",
@@ -1272,7 +1272,7 @@
       "courseName": "形势与政策(实践)",
       "credit": "1",
       "limitations": [],
-      "number": "129",
+      "number": "130",
       "position": "DJ208",
       "teacherId": "1021",
       "teacherName": "孙会岩",
@@ -1506,7 +1506,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "267",
+      "number": "268",
       "position": "",
       "teacherId": "1000",
       "teacherName": "李文彬等",
@@ -5869,7 +5869,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "10",
+      "number": "12",
       "position": "",
       "teacherId": "1004",
       "teacherName": "张晓磊等",
@@ -5883,7 +5883,7 @@
       "courseName": "认识实习",
       "credit": "2",
       "limitations": [],
-      "number": "37",
+      "number": "39",
       "position": "",
       "teacherId": "1000",
       "teacherName": "李小伟等",
@@ -5939,7 +5939,7 @@
       "courseName": "认识实习",
       "credit": "2",
       "limitations": [],
-      "number": "21",
+      "number": "23",
       "position": "",
       "teacherId": "1000",
       "teacherName": "李丽",
@@ -5953,7 +5953,7 @@
       "courseName": "化工设计",
       "credit": "4",
       "limitations": [],
-      "number": "11",
+      "number": "12",
       "position": "",
       "teacherId": "1001",
       "teacherName": "郭晓亚",
@@ -5967,7 +5967,7 @@
       "courseName": "化工设计",
       "credit": "4",
       "limitations": [],
-      "number": "3",
+      "number": "4",
       "position": "",
       "teacherId": "1002",
       "teacherName": "贾少晋",
@@ -8048,8 +8048,10 @@
       "courseId": "15006008",
       "courseName": "数字营销",
       "credit": "2",
-      "limitations": [],
-      "number": "69",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "70",
       "position": "AJ304",
       "teacherId": "1000",
       "teacherName": "Paul Harrigan",
@@ -8183,7 +8185,7 @@
       "courseName": "专业实习",
       "credit": "8",
       "limitations": [],
-      "number": "31",
+      "number": "32",
       "position": "自行安排",
       "teacherId": "2002",
       "teacherName": "贾利军等",
@@ -8393,7 +8395,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [],
-      "number": "105",
+      "number": "108",
       "position": "",
       "teacherId": "1000",
       "teacherName": "孙会岩",
@@ -9844,7 +9846,7 @@
       "teacherTitle": "副教授"
     }
   ],
-  "hash": "8d6e91aa0686af6a3b38224108a5ef0b",
+  "hash": "286bb1cfbc6c8d5e9288d474f6bfce3d",
   "termName": "2021-2022学年夏季学期",
-  "updateTimeMs": 1654658009976
+  "updateTimeMs": 1654661326229
 }
