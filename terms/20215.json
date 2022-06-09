@@ -865,14 +865,12 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "125",
+      "capacity": "127",
       "classTime": "二5-8 (1-2周) 三1-4 (1-2周) 四7-8 (1-2周)",
       "courseId": "00874007",
       "courseName": "思想道德与法治(实践)",
       "credit": "1",
-      "limitations": [
-        "人数已满"
-      ],
+      "limitations": [],
       "number": "126",
       "position": "",
       "teacherId": "2001",
@@ -985,7 +983,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "135",
+      "capacity": "161",
       "classTime": "一7-8(1-2周) 二7-8(1-2周) 三10-12(1-2周) 四10-12(1-2周)",
       "courseId": "00874008",
       "courseName": "形势与政策(实践)",
@@ -1021,7 +1019,7 @@
       "courseName": "形势与政策(实践)",
       "credit": "1",
       "limitations": [],
-      "number": "133",
+      "number": "134",
       "position": "DJ108",
       "teacherId": "1003",
       "teacherName": "李之喆",
@@ -1078,8 +1076,10 @@
       "courseId": "00874008",
       "courseName": "形势与政策(实践)",
       "credit": "1",
-      "limitations": [],
-      "number": "132",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "136",
       "position": "AJ107",
       "teacherId": "1007",
       "teacherName": "许静仪",
@@ -1162,10 +1162,8 @@
       "courseId": "00874008",
       "courseName": "形势与政策(实践)",
       "credit": "1",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "135",
+      "limitations": [],
+      "number": "134",
       "position": "DJ108",
       "teacherId": "1013",
       "teacherName": "李之喆",
@@ -1223,7 +1221,7 @@
       "courseName": "形势与政策(实践)",
       "credit": "1",
       "limitations": [],
-      "number": "132",
+      "number": "129",
       "position": "AJ107",
       "teacherId": "1017",
       "teacherName": "许静仪",
@@ -1295,7 +1293,7 @@
       "courseName": "形势与政策(实践)",
       "credit": "1",
       "limitations": [],
-      "number": "128",
+      "number": "127",
       "position": "BJ107",
       "teacherId": "1022",
       "teacherName": "张丹华",
@@ -1415,7 +1413,7 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "110",
+      "capacity": "111",
       "classTime": "一1-4 (1-2周) 二1-2 (1-2周) 四1-4 (1-2周)",
       "courseId": "00874008",
       "courseName": "形势与政策(实践)",
@@ -1507,8 +1505,8 @@
     },
     {
       "campus": "宝山",
-      "capacity": "266",
-      "classTime": "6月27日-7月7日 8:00-14:00;(含周六周日) 7月21日-7月24日 8:00-14:00(含周六周日)",
+      "capacity": "268",
+      "classTime": "6月27日-7月7日 8:00-14:00;(含周六周日)7月21日-7月24日 8:00-14:00(含周六周日)",
       "courseId": "00883002",
       "courseName": "金工实习A",
       "credit": "6",
@@ -2060,7 +2058,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "86",
+      "capacity": "87",
       "classTime": "一9-10(1-2周) 二9-10(1-2周) 三9-10(1-2周) 四9-10(1-2周) 五9-10(1-2周) 全英语授课",
       "courseId": "01006051",
       "courseName": "后新冠疫情时代生物信息学的发展趋势",
@@ -3573,7 +3571,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "95",
+      "capacity": "96",
       "classTime": "一7-8(1-2周) 二7-8(1-2周) 三7-8(1-2周) 四7-8(1-2周) 五5-6(1-2周) 全英语授课",
       "courseId": "04006016",
       "courseName": "疫情下的当代公司金融",
@@ -4197,7 +4195,7 @@
       "courseName": "专业实习(2)",
       "credit": "4",
       "limitations": [],
-      "number": "39",
+      "number": "42",
       "position": "",
       "teacherId": "1000",
       "teacherName": "袁真富等",
@@ -4211,7 +4209,7 @@
       "courseName": "知识产权实务与应用",
       "credit": "8",
       "limitations": [],
-      "number": "20",
+      "number": "18",
       "position": "",
       "teacherId": "1000",
       "teacherName": "袁真富等",
@@ -4681,7 +4679,7 @@
       "courseName": "电脑游戏与物理学",
       "credit": "2",
       "limitations": [],
-      "number": "99",
+      "number": "98",
       "position": "BJ104",
       "teacherId": "1000",
       "teacherName": "Valyukh Sergiy",
@@ -4751,7 +4749,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "60",
+      "capacity": "61",
       "classTime": "一7-8(1-2周) 二7-8(1-2周) 三7-8(1-2周) 四7-8(1-2周) 五9-10(1-2周) 全英语授课",
       "courseId": "09006050",
       "courseName": "未来分布式电网的挑战及电动汽车准入支持",
@@ -5989,7 +5987,7 @@
       "courseName": "创新实践",
       "credit": "6",
       "limitations": [],
-      "number": "69",
+      "number": "75",
       "position": "生命楼各团队实验室",
       "teacherId": "1000",
       "teacherName": "刘振国",
@@ -6068,7 +6066,7 @@
       "courseName": "创新实践",
       "credit": "6",
       "limitations": [],
-      "number": "25",
+      "number": "24",
       "position": "生命楼各团队实验室",
       "teacherId": "1000",
       "teacherName": "刘振国",
@@ -9850,7 +9848,7 @@
       "teacherTitle": "副教授"
     }
   ],
-  "hash": "13df8e9784949d16562d6a5f16a12540",
+  "hash": "a802723858dbd3171aeb6cb9fbbde482",
   "termName": "2021-2022学年夏季学期",
-  "updateTimeMs": 1654753161007
+  "updateTimeMs": 1654760381756
 }
