@@ -5911,7 +5911,7 @@
       "courseName": "生产实习",
       "credit": "8",
       "limitations": [],
-      "number": "9",
+      "number": "8",
       "position": "",
       "teacherId": "1002",
       "teacherName": "孙炜伟",
@@ -5919,14 +5919,17 @@
     },
     {
       "campus": "宝山",
-      "capacity": "10",
+      "capacity": "0",
       "classTime": "夏季学期1-4周",
       "courseId": "1145A004",
       "courseName": "生产实习",
       "credit": "8",
-      "limitations": [],
-      "number": "3",
-      "position": "",
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
+      "number": "0",
+      "position": "不开",
       "teacherId": "1003",
       "teacherName": "李丽",
       "teacherTitle": "副研究员"
@@ -8226,10 +8229,8 @@
       "courseId": "1557A006",
       "courseName": "专业实习",
       "credit": "8",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "67",
+      "limitations": [],
+      "number": "66",
       "position": "自行安排",
       "teacherId": "2005",
       "teacherName": "邹海亮等",
@@ -8365,7 +8366,7 @@
       "courseName": "社会调查",
       "credit": "6",
       "limitations": [],
-      "number": "39",
+      "number": "38",
       "position": "自行安排",
       "teacherId": "2006",
       "teacherName": "邹海亮等",
@@ -8863,7 +8864,7 @@
       "courseName": "生产实习",
       "credit": "8",
       "limitations": [],
-      "number": "62",
+      "number": "64",
       "position": "",
       "teacherId": "1000",
       "teacherName": "汪德江等",
@@ -9848,7 +9849,7 @@
       "teacherTitle": "副教授"
     }
   ],
-  "hash": "1e2fc980b6bbb8221c5bceb8d45be4e6",
+  "hash": "a8137587c5ad483a0568d219c7cc8b39",
   "termName": "2021-2022学年夏季学期",
-  "updateTimeMs": 1654990750221
+  "updateTimeMs": 1655003726884
 }
