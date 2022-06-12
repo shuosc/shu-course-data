@@ -1183,13 +1183,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "140",
+      "capacity": "141",
       "classTime": "一10-12(1-2周) 二10-12(1-2周) 三7-8(1-2周) 四7-8(1-2周)",
       "courseId": "00874008",
       "courseName": "形势与政策(实践)",
       "credit": "1",
-      "limitations": [],
-      "number": "135",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "141",
       "position": "CJ107",
       "teacherId": "1015",
       "teacherName": "宋津明",
@@ -4231,7 +4233,7 @@
       "courseName": "专业实习(1)",
       "credit": "8",
       "limitations": [],
-      "number": "94",
+      "number": "93",
       "position": "",
       "teacherId": "1000",
       "teacherName": "芦雪峰等",
@@ -9843,7 +9845,7 @@
       "teacherTitle": "副教授"
     }
   ],
-  "hash": "cf4b2d88c5060ed7826ad935ce41c791",
+  "hash": "470c4539ae13a8a45957151107d03375",
   "termName": "2021-2022学年夏季学期",
-  "updateTimeMs": 1655026837144
+  "updateTimeMs": 1655033851171
 }
