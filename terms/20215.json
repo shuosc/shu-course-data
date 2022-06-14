@@ -2700,8 +2700,10 @@
       "courseId": "0207A052",
       "courseName": "学术论文写作规范",
       "credit": "6",
-      "limitations": [],
-      "number": "74",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "75",
       "position": "AJ103",
       "teacherId": "1000",
       "teacherName": "张永禄",
@@ -2901,7 +2903,7 @@
       "courseName": "方言田野调查实践",
       "credit": "9",
       "limitations": [],
-      "number": "43",
+      "number": "42",
       "position": "",
       "teacherId": "1000",
       "teacherName": "凌锋",
@@ -3743,7 +3745,7 @@
       "courseName": "专业实习",
       "credit": "10",
       "limitations": [],
-      "number": "57",
+      "number": "59",
       "position": "",
       "teacherId": "1000",
       "teacherName": "姚青琪",
@@ -4246,10 +4248,8 @@
       "courseId": "0626A020",
       "courseName": "专业实习(2)",
       "credit": "4",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "112",
+      "limitations": [],
+      "number": "108",
       "position": "",
       "teacherId": "1000",
       "teacherName": "芦雪峰等",
@@ -5863,7 +5863,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "12",
+      "capacity": "13",
       "classTime": "夏季学期1-4周",
       "courseId": "1144A004",
       "courseName": "生产实习",
@@ -7334,7 +7334,7 @@
       "courseName": "创作实践(2)",
       "credit": "4",
       "limitations": [],
-      "number": "49",
+      "number": "50",
       "position": "美院418和校外",
       "teacherId": "1000",
       "teacherName": "陈文佳",
@@ -7348,7 +7348,7 @@
       "courseName": "调研实践(1)",
       "credit": "1",
       "limitations": [],
-      "number": "50",
+      "number": "51",
       "position": "美院418和校外",
       "teacherId": "1000",
       "teacherName": "陈志刚等",
@@ -7404,7 +7404,7 @@
       "courseName": "设计工作坊(2)",
       "credit": "1",
       "limitations": [],
-      "number": "49",
+      "number": "50",
       "position": "美院418和校外",
       "teacherId": "1000",
       "teacherName": "陈志刚等",
@@ -9845,7 +9845,7 @@
       "teacherTitle": "副教授"
     }
   ],
-  "hash": "3779b9d4becc047bf490e7445c4fa10e",
+  "hash": "801c43abe3b25b1252fc20d7b64c7524",
   "termName": "2021-2022学年夏季学期",
-  "updateTimeMs": 1655163628669
+  "updateTimeMs": 1655177696391
 }
