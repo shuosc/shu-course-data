@@ -265,7 +265,7 @@
       "courseName": "体育(5)",
       "credit": "1",
       "limitations": [],
-      "number": "4",
+      "number": "5",
       "position": "",
       "teacherId": "1000",
       "teacherName": "周璇",
@@ -8386,7 +8386,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [],
-      "number": "135",
+      "number": "136",
       "position": "",
       "teacherId": "1000",
       "teacherName": "孙会岩",
@@ -8653,8 +8653,10 @@
       "courseId": "1759A033",
       "courseName": "学年论文",
       "credit": "3",
-      "limitations": [],
-      "number": "57",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "60",
       "position": "学院实验大楼201室",
       "teacherId": "3000",
       "teacherName": "薛敏芝等",
@@ -8827,8 +8829,10 @@
       "courseId": "17A9A003",
       "courseName": "学年论文",
       "credit": "5",
-      "limitations": [],
-      "number": "24",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "25",
       "position": "不需要",
       "teacherId": "3000",
       "teacherName": "刘峰等",
@@ -9841,7 +9845,7 @@
       "teacherTitle": "副教授"
     }
   ],
-  "hash": "f6625d1f7d25f1de17c81f048b8563a4",
+  "hash": "3f40b2710729d856010009a17aaaaf24",
   "termName": "2021-2022学年夏季学期",
-  "updateTimeMs": 1655301653142
+  "updateTimeMs": 1655349302647
 }
