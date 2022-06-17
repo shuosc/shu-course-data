@@ -17143,7 +17143,7 @@
       "number": "3",
       "position": "",
       "teacherId": "1000",
-      "teacherName": "朱继平",
+      "teacherName": "胡宁等",
       "teacherTitle": "副教授"
     },
     {
@@ -58619,12 +58619,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "60",
+      "capacity": "0",
       "classTime": "二7-8 四11-12",
       "courseId": "23006143",
       "courseName": "物联网传感器技术与应用",
       "credit": "4",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
       "number": "0",
       "position": "",
       "teacherId": "1000",
@@ -58633,12 +58636,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "40",
+      "capacity": "0",
       "classTime": "二7-8 五1-2",
       "courseId": "23006144",
       "courseName": "智能传感材料与器件",
       "credit": "4",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
       "number": "0",
       "position": "",
       "teacherId": "1000",
@@ -65927,7 +65933,7 @@
       "teacherTitle": "研究馆员"
     }
   ],
-  "hash": "f2e7263525a9ea68062bbe6552b46eb9",
+  "hash": "76d8cfae86473c6e39790d1ca796c116",
   "termName": "2022-2023学年秋季学期",
-  "updateTimeMs": 1655352575548
+  "updateTimeMs": 1655435792705
 }
