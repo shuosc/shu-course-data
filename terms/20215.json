@@ -8,7 +8,10 @@
       "courseId": "00814165",
       "courseName": "思想道德与法治(实践)(强)",
       "credit": "1",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "禁止退课"
+      ],
       "number": "169",
       "position": "FJ106",
       "teacherId": "1000",
@@ -91,7 +94,10 @@
       "courseId": "0081A008",
       "courseName": "力学与实践(1)",
       "credit": "3",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "禁止退课"
+      ],
       "number": "1",
       "position": "A104",
       "teacherId": "1000",
@@ -122,7 +128,10 @@
       "courseId": "0081EY01",
       "courseName": "专业研讨课A(1)(强)",
       "credit": "2",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "禁止退课"
+      ],
       "number": "18",
       "position": "B425",
       "teacherId": "1000",
@@ -167,7 +176,10 @@
       "courseId": "0081EY04",
       "courseName": "专业研讨课D(1)(强)",
       "credit": "2",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "禁止退课"
+      ],
       "number": "13",
       "position": "B427",
       "teacherId": "1000",
@@ -181,7 +193,10 @@
       "courseId": "0081EY05",
       "courseName": "专业研讨课E(1)(强)",
       "credit": "2",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "禁止退课"
+      ],
       "number": "13",
       "position": "B427",
       "teacherId": "1000",
@@ -213,7 +228,10 @@
       "courseId": "0081SY01",
       "courseName": "专业研讨课A(2)(强)",
       "credit": "2",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "禁止退课"
+      ],
       "number": "10",
       "position": "B323",
       "teacherId": "1000",
@@ -244,7 +262,10 @@
       "courseId": "0081SY04",
       "courseName": "专业研讨课D(2)(强)",
       "credit": "2",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "禁止退课"
+      ],
       "number": "10",
       "position": "B425",
       "teacherId": "1000",
@@ -258,7 +279,10 @@
       "courseId": "0081SY05",
       "courseName": "专业研讨课E(2)(强)",
       "credit": "2",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "禁止退课"
+      ],
       "number": "18",
       "position": "B313",
       "teacherId": "1000",
@@ -273,7 +297,8 @@
       "courseName": "体育(2)",
       "credit": "1",
       "limitations": [
-        "禁止选课"
+        "禁止选课",
+        "禁止退课"
       ],
       "number": "2",
       "position": "",
@@ -289,7 +314,8 @@
       "courseName": "体育(4)",
       "credit": "1",
       "limitations": [
-        "禁止选课"
+        "禁止选课",
+        "禁止退课"
       ],
       "number": "1",
       "position": "",
@@ -305,7 +331,8 @@
       "courseName": "体育(5)",
       "credit": "1",
       "limitations": [
-        "禁止选课"
+        "禁止选课",
+        "禁止退课"
       ],
       "number": "5",
       "position": "",
@@ -2468,7 +2495,10 @@
       "courseId": "0102SY02",
       "courseName": "研究方法与前沿(大数据中的优化方法)",
       "credit": "2",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "禁止退课"
+      ],
       "number": "7",
       "position": "B311",
       "teacherId": "1000",
@@ -4904,6 +4934,8 @@
       "courseName": "工程教育",
       "credit": "3",
       "limitations": [
+        "禁止选课",
+        "禁止退课",
         "人数已满"
       ],
       "number": "35",
@@ -4920,6 +4952,8 @@
       "courseName": "工程教育",
       "credit": "3",
       "limitations": [
+        "禁止选课",
+        "禁止退课",
         "人数已满"
       ],
       "number": "35",
@@ -4936,6 +4970,8 @@
       "courseName": "工程教育",
       "credit": "3",
       "limitations": [
+        "禁止选课",
+        "禁止退课",
         "人数已满"
       ],
       "number": "35",
@@ -9247,7 +9283,10 @@
       "courseId": "1658A002",
       "courseName": "思想政治理论课(实践)(2)",
       "credit": "1",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "禁止退课"
+      ],
       "number": "3",
       "position": "",
       "teacherId": "1000",
@@ -10842,7 +10881,7 @@
       "teacherTitle": "副教授"
     }
   ],
-  "hash": "51280ea826de9bcacc39bdcf95cea80b",
+  "hash": "4939bffd597257202fc64486494ffba2",
   "termName": "2021-2022学年夏季学期",
-  "updateTimeMs": 1655710851055
+  "updateTimeMs": 1655718106692
 }
