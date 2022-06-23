@@ -94,9 +94,7 @@
       "courseId": "0081A008",
       "courseName": "力学与实践(1)",
       "credit": "3",
-      "limitations": [
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "1",
       "position": "A104",
       "teacherId": "1000",
@@ -127,9 +125,7 @@
       "courseId": "0081EY01",
       "courseName": "专业研讨课A(1)(强)",
       "credit": "2",
-      "limitations": [
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "18",
       "position": "B425",
       "teacherId": "1000",
@@ -143,7 +139,10 @@
       "courseId": "0081EY02",
       "courseName": "专业研讨课B(1)(强)",
       "credit": "2",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "禁止退课"
+      ],
       "number": "29",
       "position": "B316",
       "teacherId": "1000",
@@ -10879,7 +10878,7 @@
       "teacherTitle": "副教授"
     }
   ],
-  "hash": "3a2747e17bd6328c7c09f4ed0a197a80",
+  "hash": "14b5539db2727a3855a1729f933d93d8",
   "termName": "2021-2022学年夏季学期",
-  "updateTimeMs": 1655992562244
+  "updateTimeMs": 1656027639888
 }
