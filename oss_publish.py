@@ -76,7 +76,8 @@ if __name__ == '__main__':
                 'capacity': course['capacity'],
                 'limitations': course['limitations'],
                 'number': course['number'],
-                'venue': course['position']
+                'venue': course['position'],
+                'teacher_title': course['teacherTitle']
             } for course in term_data['courses']
         },
         'hash': course_hash,
