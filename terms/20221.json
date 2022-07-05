@@ -27507,7 +27507,7 @@
       "courseName": "Python金融数据分析",
       "credit": "3",
       "limitations": [],
-      "number": "12",
+      "number": "13",
       "position": "",
       "teacherId": "1000",
       "teacherName": "吕文俊",
@@ -27875,7 +27875,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "30",
+      "capacity": "31",
       "classTime": "二9-11 四5-6 上机",
       "courseId": "04175006",
       "courseName": "数据库应用",
@@ -27883,7 +27883,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "30",
+      "number": "31",
       "position": "",
       "teacherId": "1001",
       "teacherName": "刘景方",
@@ -27919,13 +27919,16 @@
     },
     {
       "campus": "宝山",
-      "capacity": "20",
+      "capacity": "0",
       "classTime": "一5-6 三9-12 上机",
       "courseId": "04175084",
       "courseName": "Python程序设计",
       "credit": "4",
-      "limitations": [],
-      "number": "3",
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
+      "number": "0",
       "position": "",
       "teacherId": "1000",
       "teacherName": "刘景方",
@@ -28165,7 +28168,7 @@
       "courseName": "系统工程导论",
       "credit": "4",
       "limitations": [],
-      "number": "14",
+      "number": "15",
       "position": "",
       "teacherId": "1000",
       "teacherName": "刘亮",
@@ -51855,10 +51858,8 @@
       "courseId": "16583109",
       "courseName": "形势与政策",
       "credit": "0",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "110",
+      "limitations": [],
+      "number": "109",
       "position": "",
       "teacherId": "1006",
       "teacherName": "张金翠",
@@ -52063,10 +52064,8 @@
       "courseId": "16583109",
       "courseName": "形势与政策",
       "credit": "0",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "140",
+      "limitations": [],
+      "number": "139",
       "position": "",
       "teacherId": "1019",
       "teacherName": "奚建群",
@@ -52234,15 +52233,13 @@
     },
     {
       "campus": "宝山",
-      "capacity": "110",
+      "capacity": "115",
       "classTime": "三11-12 (3周,8周)",
       "courseId": "16583109",
       "courseName": "形势与政策",
       "credit": "0",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "110",
+      "limitations": [],
+      "number": "111",
       "position": "",
       "teacherId": "1030",
       "teacherName": "刘子杰",
@@ -52662,7 +52659,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [],
-      "number": "150",
+      "number": "151",
       "position": "",
       "teacherId": "1057",
       "teacherName": "张丹华",
@@ -66912,7 +66909,7 @@
       "teacherTitle": "研究馆员"
     }
   ],
-  "hash": "ac5cc467b6ebdf9a02a9f3c3f6599c26",
+  "hash": "1d9566906878e1d60858e714cc357f12",
   "termName": "2022-2023学年秋季学期",
-  "updateTimeMs": 1656991664400
+  "updateTimeMs": 1656994940714
 }
