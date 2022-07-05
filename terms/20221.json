@@ -56772,12 +56772,14 @@
     },
     {
       "campus": "延长",
-      "capacity": "50",
+      "capacity": "0",
       "classTime": "二3-4 五1-2单 全英语",
       "courseId": "17656020",
       "courseName": "国际传播学概论",
       "credit": "3",
-      "limitations": [],
+      "limitations": [
+        "人数已满"
+      ],
       "number": "3",
       "position": "",
       "teacherId": "3000",
@@ -56786,12 +56788,14 @@
     },
     {
       "campus": "延长",
-      "capacity": "50",
+      "capacity": "0",
       "classTime": "三7-8 五7-8双",
       "courseId": "17656025",
       "courseName": "传媒通论",
       "credit": "3",
-      "limitations": [],
+      "limitations": [
+        "人数已满"
+      ],
       "number": "1",
       "position": "",
       "teacherId": "3000",
@@ -56800,12 +56804,14 @@
     },
     {
       "campus": "延长",
-      "capacity": "50",
+      "capacity": "0",
       "classTime": "三3-4双 五1-2",
       "courseId": "17656029",
       "courseName": "新闻发言人与危机公关",
       "credit": "3",
-      "limitations": [],
+      "limitations": [
+        "人数已满"
+      ],
       "number": "2",
       "position": "",
       "teacherId": "3000",
@@ -56903,12 +56909,14 @@
     },
     {
       "campus": "延长",
-      "capacity": "40",
+      "capacity": "0",
       "classTime": "二5-6 四1-2双",
       "courseId": "17706079",
       "courseName": "社交媒体应用",
       "credit": "3",
-      "limitations": [],
+      "limitations": [
+        "人数已满"
+      ],
       "number": "2",
       "position": "",
       "teacherId": "3000",
@@ -56973,12 +56981,15 @@
     },
     {
       "campus": "延长",
-      "capacity": "50",
+      "capacity": "0",
       "classTime": "一1-2 三5-6单",
       "courseId": "17A96014",
       "courseName": "移动信息传播",
       "credit": "3",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
       "number": "0",
       "position": "",
       "teacherId": "3000",
@@ -66909,7 +66920,7 @@
       "teacherTitle": "研究馆员"
     }
   ],
-  "hash": "1d9566906878e1d60858e714cc357f12",
+  "hash": "15ed6c5322529fdfd5f46efb469d3070",
   "termName": "2022-2023学年秋季学期",
-  "updateTimeMs": 1656999738204
+  "updateTimeMs": 1657006780061
 }
