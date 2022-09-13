@@ -1260,8 +1260,10 @@
       "courseId": "00853001",
       "courseName": "体育(1)",
       "credit": "1",
-      "limitations": [],
-      "number": "19",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "20",
       "position": "排球场",
       "teacherId": "2202",
       "teacherName": "张耘",
@@ -1290,8 +1292,10 @@
       "courseId": "00853001",
       "courseName": "体育(1)",
       "credit": "1",
-      "limitations": [],
-      "number": "19",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "20",
       "position": "排球场",
       "teacherId": "2206",
       "teacherName": "张耘",
@@ -2410,8 +2414,10 @@
       "courseId": "00853005",
       "courseName": "体育(5)",
       "credit": "1",
-      "limitations": [],
-      "number": "25",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "26",
       "position": "体操房",
       "teacherId": "2565",
       "teacherName": "陈琳",
@@ -2433,7 +2439,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "15",
+      "capacity": "20",
       "classTime": "四5-6 男女体育保健",
       "courseId": "00853067",
       "courseName": "体育(1)(保健班)",
@@ -2442,7 +2448,7 @@
         "禁止选课",
         "禁止退课"
       ],
-      "number": "11",
+      "number": "18",
       "position": "C222",
       "teacherId": "1001",
       "teacherName": "郑莉芳",
@@ -2450,16 +2456,17 @@
     },
     {
       "campus": "宝山",
-      "capacity": "15",
+      "capacity": "20",
       "classTime": "四7-8 男女体育保健",
       "courseId": "00853067",
       "courseName": "体育(1)(保健班)",
       "credit": "1",
       "limitations": [
         "禁止选课",
-        "禁止退课"
+        "禁止退课",
+        "人数已满"
       ],
-      "number": "5",
+      "number": "20",
       "position": "C222",
       "teacherId": "1002",
       "teacherName": "郑莉芳",
@@ -2467,7 +2474,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "15",
+      "capacity": "20",
       "classTime": "五1-2 男女体育保健",
       "courseId": "00853067",
       "courseName": "体育(1)(保健班)",
@@ -2476,7 +2483,7 @@
         "禁止选课",
         "禁止退课"
       ],
-      "number": "4",
+      "number": "14",
       "position": "C222",
       "teacherId": "1003",
       "teacherName": "郑莉芳",
@@ -2484,7 +2491,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "15",
+      "capacity": "20",
       "classTime": "四5-6 男女体育保健",
       "courseId": "00853070",
       "courseName": "体育(4)(保健班)",
@@ -2501,17 +2508,16 @@
     },
     {
       "campus": "宝山",
-      "capacity": "16",
+      "capacity": "20",
       "classTime": "四7-8 男女体育保健",
       "courseId": "00853070",
       "courseName": "体育(4)(保健班)",
       "credit": "1",
       "limitations": [
         "禁止选课",
-        "禁止退课",
-        "人数已满"
+        "禁止退课"
       ],
-      "number": "16",
+      "number": "18",
       "position": "C222",
       "teacherId": "1002",
       "teacherName": "郑莉芳",
@@ -2519,15 +2525,14 @@
     },
     {
       "campus": "宝山",
-      "capacity": "15",
+      "capacity": "20",
       "classTime": "五1-2 男女体育保健",
       "courseId": "00853070",
       "courseName": "体育(4)(保健班)",
       "credit": "1",
       "limitations": [
         "禁止选课",
-        "禁止退课",
-        "人数已满"
+        "禁止退课"
       ],
       "number": "15",
       "position": "C222",
@@ -2543,7 +2548,7 @@
       "courseName": "体育基础课",
       "credit": "1",
       "limitations": [],
-      "number": "30",
+      "number": "29",
       "position": "C220",
       "teacherId": "1021",
       "teacherName": "胡吉",
@@ -2556,10 +2561,8 @@
       "courseId": "00853101",
       "courseName": "体育基础课",
       "credit": "1",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "30",
+      "limitations": [],
+      "number": "29",
       "position": "C220",
       "teacherId": "1022",
       "teacherName": "胡吉",
@@ -2679,7 +2682,7 @@
       "courseName": "体育基础课",
       "credit": "1",
       "limitations": [],
-      "number": "30",
+      "number": "29",
       "position": "C212",
       "teacherId": "1051",
       "teacherName": "吕彪",
@@ -2865,7 +2868,7 @@
       "courseName": "体育基础课",
       "credit": "1",
       "limitations": [],
-      "number": "30",
+      "number": "29",
       "position": "C311",
       "teacherId": "1124",
       "teacherName": "孙岩",
@@ -2977,7 +2980,7 @@
       "courseName": "体育基础课",
       "credit": "1",
       "limitations": [],
-      "number": "30",
+      "number": "28",
       "position": "C314",
       "teacherId": "1175",
       "teacherName": "唐冬菊",
@@ -3170,10 +3173,8 @@
       "courseId": "00853101",
       "courseName": "体育基础课",
       "credit": "1",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "28",
+      "limitations": [],
+      "number": "27",
       "position": "A306",
       "teacherId": "1281",
       "teacherName": "沙俊波",
@@ -3915,7 +3916,7 @@
       "courseName": "体育基础课",
       "credit": "1",
       "limitations": [],
-      "number": "27",
+      "number": "26",
       "position": "C512",
       "teacherId": "1661",
       "teacherName": "林大参",
@@ -6488,10 +6489,8 @@
       "courseId": "00853410",
       "courseName": "游泳(1)",
       "credit": "1",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "28",
+      "limitations": [],
+      "number": "27",
       "position": "游泳馆小池",
       "teacherId": "1926",
       "teacherName": "刘超云",
@@ -20937,7 +20936,7 @@
       "position": "D204",
       "teacherId": "1000",
       "teacherName": "黄洋",
-      "teacherTitle": ""
+      "teacherTitle": "副教授"
     },
     {
       "campus": "宝山",
@@ -29829,7 +29828,7 @@
       "position": "不开",
       "teacherId": "1005",
       "teacherName": "姚圣",
-      "teacherTitle": ""
+      "teacherTitle": "教授"
     },
     {
       "campus": "宝山",
@@ -31445,7 +31444,7 @@
       "courseName": "信息高速公路",
       "credit": "1",
       "limitations": [],
-      "number": "15",
+      "number": "16",
       "position": "B311",
       "teacherId": "1000",
       "teacherName": "甘朝钦",
@@ -41942,7 +41941,7 @@
       "courseName": "生物医学的挑战与进展",
       "credit": "1",
       "limitations": [],
-      "number": "7",
+      "number": "8",
       "position": "B320",
       "teacherId": "1000",
       "teacherName": "廖新化",
@@ -45572,7 +45571,7 @@
       "position": "美院218",
       "teacherId": "1000",
       "teacherName": "吴鹏",
-      "teacherTitle": ""
+      "teacherTitle": "教授"
     },
     {
       "campus": "宝山",
@@ -53790,8 +53789,10 @@
       "courseId": "16583109",
       "courseName": "形势与政策",
       "credit": "0",
-      "limitations": [],
-      "number": "144",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "145",
       "position": "J102",
       "teacherId": "1054",
       "teacherName": "孙士庆",
@@ -54276,7 +54277,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [],
-      "number": "123",
+      "number": "124",
       "position": "J102",
       "teacherId": "1086",
       "teacherName": "顾晓英",
@@ -54448,7 +54449,7 @@
       "position": "EJ206",
       "teacherId": "1097",
       "teacherName": "徐海峰",
-      "teacherTitle": ""
+      "teacherTitle": "教授"
     },
     {
       "campus": "宝山",
@@ -54464,7 +54465,7 @@
       "position": "EJ206",
       "teacherId": "1098",
       "teacherName": "徐海峰",
-      "teacherTitle": ""
+      "teacherTitle": "教授"
     },
     {
       "campus": "宝山",
@@ -54478,7 +54479,7 @@
       "position": "EJ206",
       "teacherId": "1099",
       "teacherName": "徐海峰",
-      "teacherTitle": ""
+      "teacherTitle": "教授"
     },
     {
       "campus": "宝山",
@@ -54488,11 +54489,11 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [],
-      "number": "17",
+      "number": "19",
       "position": "EJ206",
       "teacherId": "1100",
       "teacherName": "徐海峰",
-      "teacherTitle": ""
+      "teacherTitle": "教授"
     },
     {
       "campus": "宝山",
@@ -55907,7 +55908,7 @@
       "position": "FJ306",
       "teacherId": "1010",
       "teacherName": "徐海峰",
-      "teacherTitle": ""
+      "teacherTitle": "教授"
     },
     {
       "campus": "宝山",
@@ -58485,7 +58486,7 @@
       "courseName": "生活中的土木工程",
       "credit": "1",
       "limitations": [],
-      "number": "24",
+      "number": "25",
       "position": "B427",
       "teacherId": "1000",
       "teacherName": "孙德安",
@@ -68947,7 +68948,7 @@
       "teacherTitle": ""
     }
   ],
-  "hash": "997d455cd18b8fa7f0624ce26e2998a6",
+  "hash": "01d3253312127ffea34fcd501a4fc62c",
   "termName": "2022-2023学年秋季学期",
-  "updateTimeMs": 1663026447289
+  "updateTimeMs": 1663042034313
 }
