@@ -5173,8 +5173,10 @@
       "courseId": "00853402",
       "courseName": "男生足球(1)",
       "credit": "1",
-      "limitations": [],
-      "number": "25",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "26",
       "position": "J区足球场",
       "teacherId": "1275",
       "teacherName": "颜中杰",
@@ -5746,7 +5748,7 @@
       "courseName": "羽毛球(1)",
       "credit": "1",
       "limitations": [],
-      "number": "25",
+      "number": "24",
       "position": "体育馆中心场地",
       "teacherId": "1356",
       "teacherName": "卢高峰",
@@ -8455,8 +8457,10 @@
       "courseId": "00864096",
       "courseName": "工程制图与计算机绘图基础",
       "credit": "3",
-      "limitations": [],
-      "number": "55",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "56",
       "position": "A417",
       "teacherId": "1013",
       "teacherName": "刘霞",
@@ -24504,7 +24508,7 @@
       "courseName": "欧洲文化入门",
       "credit": "2",
       "limitations": [],
-      "number": "33",
+      "number": "34",
       "position": "C511",
       "teacherId": "1008",
       "teacherName": "梅文胜",
@@ -54277,7 +54281,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [],
-      "number": "124",
+      "number": "125",
       "position": "J102",
       "teacherId": "1086",
       "teacherName": "顾晓英",
@@ -54609,7 +54613,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [],
-      "number": "16",
+      "number": "17",
       "position": "EJ206",
       "teacherId": "1108",
       "teacherName": "张富文",
@@ -55974,7 +55978,7 @@
       "courseName": "马克思主义基本原理",
       "credit": "3",
       "limitations": [],
-      "number": "51",
+      "number": "52",
       "position": "BJ207",
       "teacherId": "1015",
       "teacherName": "白一汐",
@@ -68948,7 +68952,7 @@
       "teacherTitle": ""
     }
   ],
-  "hash": "29ca343331049352015a45397a8d8916",
+  "hash": "d272cfec58f4b9639a36e2c58c6147f1",
   "termName": "2022-2023学年秋季学期",
-  "updateTimeMs": 1663055709322
+  "updateTimeMs": 1663062413188
 }
