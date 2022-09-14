@@ -127,10 +127,11 @@
       "courseName": "活动课",
       "credit": "0",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "0",
-      "position": "D304A",
+      "position": "不开",
       "teacherId": "1009",
       "teacherName": "待定",
       "teacherTitle": ""
@@ -68952,7 +68953,7 @@
       "teacherTitle": ""
     }
   ],
-  "hash": "d272cfec58f4b9639a36e2c58c6147f1",
+  "hash": "05ba7c6bfe507f01578c0ffc423c38e3",
   "termName": "2022-2023学年秋季学期",
-  "updateTimeMs": 1663112846514
+  "updateTimeMs": 1663128162425
 }
