@@ -2711,7 +2711,7 @@
       "courseName": "体育基础课",
       "credit": "1",
       "limitations": [],
-      "number": "30",
+      "number": "31",
       "position": "C212",
       "teacherId": "1053",
       "teacherName": "吕彪",
@@ -14292,7 +14292,7 @@
       "courseName": "模拟集成电路",
       "credit": "6",
       "limitations": [],
-      "number": "14",
+      "number": "13",
       "position": "2-105",
       "teacherId": "2000",
       "teacherName": "吴伟",
@@ -14464,7 +14464,7 @@
       "courseName": "大学化学",
       "credit": "2",
       "limitations": [],
-      "number": "76",
+      "number": "77",
       "position": "GJ104",
       "teacherId": "1011",
       "teacherName": "钱群",
@@ -14606,7 +14606,7 @@
       "courseName": "大学化学",
       "credit": "2",
       "limitations": [],
-      "number": "6",
+      "number": "5",
       "position": "D312",
       "teacherId": "1021",
       "teacherName": "周尉",
@@ -22611,7 +22611,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "46",
+      "number": "47",
       "position": "Ⅳ107",
       "teacherId": "3003",
       "teacherName": "周育",
@@ -40509,7 +40509,7 @@
       "courseName": "化工与健康",
       "credit": "2",
       "limitations": [],
-      "number": "52",
+      "number": "53",
       "position": "1-205",
       "teacherId": "2000",
       "teacherName": "张宝华",
@@ -41602,8 +41602,10 @@
       "courseId": "1200L003",
       "courseName": "生命科学认知实验",
       "credit": "1",
-      "limitations": [],
-      "number": "19",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "20",
       "position": "生命楼220",
       "teacherId": "1000",
       "teacherName": "周京晶等",
@@ -48452,7 +48454,7 @@
       "courseName": "影视制作管理",
       "credit": "3",
       "limitations": [],
-      "number": "36",
+      "number": "33",
       "position": "Ⅳ109",
       "teacherId": "3000",
       "teacherName": "龙锦",
@@ -50514,7 +50516,7 @@
       "courseName": "估值与风险建模",
       "credit": "4",
       "limitations": [],
-      "number": "31",
+      "number": "30",
       "position": "文博楼301,101",
       "teacherId": "2000",
       "teacherName": "张倩",
@@ -53056,7 +53058,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [],
-      "number": "148",
+      "number": "149",
       "position": "J102",
       "teacherId": "1008",
       "teacherName": "张金翠",
@@ -54898,7 +54900,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "115",
+      "number": "116",
       "position": "Ⅳ102",
       "teacherId": "3002",
       "teacherName": "李之喆",
@@ -55028,7 +55030,7 @@
         "禁止选课",
         "人数已满"
       ],
-      "number": "100",
+      "number": "101",
       "position": "Ⅳ102",
       "teacherId": "3010",
       "teacherName": "李之喆",
@@ -55044,7 +55046,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "100",
+      "number": "103",
       "position": "Ⅳ102",
       "teacherId": "3011",
       "teacherName": "李之喆",
@@ -55167,7 +55169,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "100",
+      "number": "101",
       "position": "Ⅳ102",
       "teacherId": "3019",
       "teacherName": "李之喆",
@@ -57802,8 +57804,10 @@
       "courseId": "17546036",
       "courseName": "影视制作管理",
       "credit": "3",
-      "limitations": [],
-      "number": "59",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "60",
       "position": "Ⅳ109",
       "teacherId": "3000",
       "teacherName": "龙锦",
@@ -57915,7 +57919,7 @@
       "courseName": "广告文化批评",
       "credit": "3",
       "limitations": [],
-      "number": "29",
+      "number": "28",
       "position": "Ⅳ308",
       "teacherId": "3000",
       "teacherName": "贾鉴",
@@ -58219,7 +58223,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "30",
+      "number": "31",
       "position": "Ⅳ311",
       "teacherId": "3000",
       "teacherName": "薛敏芝等",
@@ -62204,7 +62208,7 @@
       "courseName": "区块链原理与应用",
       "credit": "2",
       "limitations": [],
-      "number": "55",
+      "number": "56",
       "position": "BJ203",
       "teacherId": "1000",
       "teacherName": "吴建刚",
@@ -68949,7 +68953,7 @@
       "teacherTitle": ""
     }
   ],
-  "hash": "21df57d0d04f9f888a062a9ecd7b1584",
+  "hash": "c9c4aa8255f26a8ed71053a78888152d",
   "termName": "2022-2023学年秋季学期",
-  "updateTimeMs": 1663137287252
+  "updateTimeMs": 1663141946778
 }
