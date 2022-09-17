@@ -8358,8 +8358,10 @@
       "courseId": "00864096",
       "courseName": "工程制图与计算机绘图基础",
       "credit": "3",
-      "limitations": [],
-      "number": "55",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "56",
       "position": "A213",
       "teacherId": "1007",
       "teacherName": "严明",
@@ -17596,7 +17598,7 @@
       "courseName": "日常生活中的文化分析",
       "credit": "2",
       "limitations": [],
-      "number": "19",
+      "number": "20",
       "position": "AJ203",
       "teacherId": "1000",
       "teacherName": "徐偲骕",
@@ -26844,8 +26846,10 @@
       "courseId": "0400J999",
       "courseName": "市场经济与政府职能",
       "credit": "2",
-      "limitations": [],
-      "number": "79",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "80",
       "position": "AJ304",
       "teacherId": "1000",
       "teacherName": "卢正刚",
@@ -31013,7 +31017,7 @@
       "courseName": "民法A(1)",
       "credit": "4",
       "limitations": [],
-      "number": "36",
+      "number": "35",
       "position": "C109",
       "teacherId": "1001",
       "teacherName": "李智",
@@ -31027,7 +31031,7 @@
       "courseName": "民法A(1)",
       "credit": "4",
       "limitations": [],
-      "number": "51",
+      "number": "52",
       "position": "A121",
       "teacherId": "1002",
       "teacherName": "李凤章等",
@@ -42066,7 +42070,7 @@
       "courseName": "生命科学导论",
       "credit": "2",
       "limitations": [],
-      "number": "33",
+      "number": "34",
       "position": "DJ204",
       "teacherId": "1007",
       "teacherName": "黄海",
@@ -42080,7 +42084,7 @@
       "courseName": "生命科学导论",
       "credit": "2",
       "limitations": [],
-      "number": "73",
+      "number": "72",
       "position": "DJ108",
       "teacherId": "1008",
       "teacherName": "张文举",
@@ -56638,7 +56642,7 @@
       "courseName": "劳动教育理论课",
       "credit": "1",
       "limitations": [],
-      "number": "145",
+      "number": "146",
       "position": "J101",
       "teacherId": "1009",
       "teacherName": "许静仪",
@@ -68906,7 +68910,7 @@
       "teacherTitle": ""
     }
   ],
-  "hash": "e8d513d71cfd3b64412bf66e1140e81f",
+  "hash": "10874dfc803b0817bbe2a1254e0d493c",
   "termName": "2022-2023学年秋季学期",
-  "updateTimeMs": 1663386143500
+  "updateTimeMs": 1663394082736
 }
