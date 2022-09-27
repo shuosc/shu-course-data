@@ -2493,7 +2493,7 @@
         "禁止选课",
         "禁止退课"
       ],
-      "number": "18",
+      "number": "19",
       "position": "C222",
       "teacherId": "1001",
       "teacherName": "郑莉芳",
@@ -2528,7 +2528,7 @@
         "禁止选课",
         "禁止退课"
       ],
-      "number": "17",
+      "number": "18",
       "position": "C222",
       "teacherId": "1003",
       "teacherName": "郑莉芳",
@@ -51125,7 +51125,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "58",
+      "number": "59",
       "position": "文博楼502,303",
       "teacherId": "2000",
       "teacherName": "俞明舟等",
@@ -51935,7 +51935,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "40",
+      "number": "41",
       "position": "在线课程",
       "teacherId": "2008",
       "teacherName": "倪栩",
@@ -62576,14 +62576,17 @@
     },
     {
       "campus": "延长",
-      "capacity": "30",
+      "capacity": "0",
       "classTime": "四5-6 (7-11周) 全英语",
       "courseId": "2800Y014",
       "courseName": "国际人口迁移",
       "credit": "1",
-      "limitations": [],
-      "number": "5",
-      "position": "Ⅳ112",
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
+      "number": "0",
+      "position": "不开",
       "teacherId": "3000",
       "teacherName": "GUY JONATHAN ABEL",
       "teacherTitle": "教授"
@@ -68783,7 +68786,7 @@
       "teacherTitle": ""
     }
   ],
-  "hash": "f0d4be1f24b375b114546235da3305c8",
+  "hash": "75e2d3b8d08579fdb5c0aabc6cbf6a1b",
   "termName": "2022-2023学年秋季学期",
-  "updateTimeMs": 1664236381260
+  "updateTimeMs": 1664260224362
 }
