@@ -17873,7 +17873,7 @@
       "courseName": "《论美国的民主》与美国的政治文化",
       "credit": "2",
       "limitations": [],
-      "number": "28",
+      "number": "27",
       "position": "DJ104",
       "teacherId": "1000",
       "teacherName": "吴浩",
@@ -18479,7 +18479,7 @@
       "courseName": "当代博物馆美术馆基础理论与方法",
       "credit": "1",
       "limitations": [],
-      "number": "14",
+      "number": "13",
       "position": "B416",
       "teacherId": "1000",
       "teacherName": "安来顺",
@@ -26602,7 +26602,7 @@
       "courseName": "职场人际关系处理",
       "credit": "2",
       "limitations": [],
-      "number": "77",
+      "number": "78",
       "position": "EJ203",
       "teacherId": "1000",
       "teacherName": "陶新桂",
@@ -41739,8 +41739,10 @@
       "courseId": "1200LH05",
       "courseName": "植物与人类文明",
       "credit": "2",
-      "limitations": [],
-      "number": "69",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "70",
       "position": "AJ303",
       "teacherId": "1000",
       "teacherName": "袁晓君",
@@ -62523,7 +62525,7 @@
       "courseName": "日常生活中的社会学",
       "credit": "2",
       "limitations": [],
-      "number": "68",
+      "number": "69",
       "position": "GJ204",
       "teacherId": "1000",
       "teacherName": "李贞",
@@ -68788,7 +68790,7 @@
       "teacherTitle": ""
     }
   ],
-  "hash": "a9e768a090b49f90665a86d30b6e3cae",
+  "hash": "65aa8cf0665b5d7f9aded9b2cf68e23e",
   "termName": "2022-2023学年秋季学期",
-  "updateTimeMs": 1664409011586
+  "updateTimeMs": 1664424369964
 }
