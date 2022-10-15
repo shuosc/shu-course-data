@@ -7773,10 +7773,8 @@
       "courseId": "0085X078",
       "courseName": "游泳(男、女)",
       "credit": "1",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "28",
+      "limitations": [],
+      "number": "27",
       "position": "游泳馆小池",
       "teacherId": "1932",
       "teacherName": "卢琳",
@@ -18578,7 +18576,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "30",
+      "capacity": "31",
       "classTime": "三7-8 五7-8单",
       "courseId": "02075052",
       "courseName": "文学概论A",
@@ -18780,7 +18778,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "35",
+      "capacity": "58",
       "classTime": "二7-8 四3-4双",
       "courseId": "02075439",
       "courseName": "外国文学B(1)",
@@ -18788,22 +18786,24 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "35",
-      "position": "A419",
+      "number": "58",
+      "position": "D209",
       "teacherId": "1001",
       "teacherName": "肖有志",
       "teacherTitle": "副教授"
     },
     {
       "campus": "宝山",
-      "capacity": "35",
+      "capacity": "0",
       "classTime": "二7-8 四3-4双",
       "courseId": "02075439",
       "courseName": "外国文学B(1)",
       "credit": "3",
-      "limitations": [],
-      "number": "23",
-      "position": "D222",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "0",
+      "position": "不开",
       "teacherId": "1002",
       "teacherName": "杨嘉彦",
       "teacherTitle": "讲师"
@@ -28598,7 +28598,7 @@
       "position": "B424",
       "teacherId": "1000",
       "teacherName": "王志远",
-      "teacherTitle": ""
+      "teacherTitle": "讲师"
     },
     {
       "campus": "宝山",
@@ -36185,7 +36185,7 @@
       "credit": "3",
       "limitations": [],
       "number": "45",
-      "position": "材220",
+      "position": "D311",
       "teacherId": "1003",
       "teacherName": "朱明",
       "teacherTitle": "工程师"
@@ -39777,15 +39777,17 @@
       "teacherTitle": "副研究员"
     },
     {
-      "campus": "宝山",
+      "campus": "",
       "capacity": "1",
       "classTime": "另行通知",
       "courseId": "1041A027",
       "courseName": "毕业设计(论文)",
       "credit": "24",
-      "limitations": [],
+      "limitations": [
+        "禁止选课"
+      ],
       "number": "0",
-      "position": "",
+      "position": "不开",
       "teacherId": "1000",
       "teacherName": "谢建军",
       "teacherTitle": "副研究员"
@@ -40150,7 +40152,7 @@
       "courseName": "生活化学品探究",
       "credit": "2",
       "limitations": [],
-      "number": "37",
+      "number": "36",
       "position": "CJ103",
       "teacherId": "1000",
       "teacherName": "杜飞虎",
@@ -45553,7 +45555,7 @@
       "courseName": "创作实践",
       "credit": "8",
       "limitations": [],
-      "number": "21",
+      "number": "22",
       "position": "延长电机楼205",
       "teacherId": "3000",
       "teacherName": "周胤辰",
@@ -50979,7 +50981,7 @@
       "position": "在线课程",
       "teacherId": "2003",
       "teacherName": "何黎胜",
-      "teacherTitle": ""
+      "teacherTitle": "副教授"
     },
     {
       "campus": "嘉定",
@@ -55976,7 +55978,7 @@
       "position": "Ⅳ101",
       "teacherId": "3003",
       "teacherName": "宋津明",
-      "teacherTitle": ""
+      "teacherTitle": "讲师"
     },
     {
       "campus": "宝山",
@@ -68708,7 +68710,7 @@
       "teacherTitle": ""
     }
   ],
-  "hash": "034b644bb330fbbd7e54f12353705b31",
+  "hash": "565e25dd3427d69c1d8eae4357fd7dad",
   "termName": "2022-2023学年秋季学期",
-  "updateTimeMs": 1665036129054
+  "updateTimeMs": 1665834161464
 }
