@@ -33,17 +33,17 @@ jobs:
         run: |
           sudo apt-get update && sudo apt-get -y install openvpn
 
-      - name: Connect to OpenVPN
-        run: |
-          echo "${{ secrets.SHU_USERNAME }}" > /tmp/ovpn-auth.txt
-          echo "${{ secrets.SHU_PASSWORD }}" >> /tmp/ovpn-auth.txt
-          sudo openvpn --config ./shu-student.ovpn --auth-user-pass /tmp/ovpn-auth.txt --daemon
-
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install pipenv
           pipenv install
+
+      - name: Connect to OpenVPN
+        run: |
+          echo "${{ secrets.SHU_USERNAME }}" > /tmp/ovpn-auth.txt
+          echo "${{ secrets.SHU_PASSWORD }}" >> /tmp/ovpn-auth.txt
+          sudo openvpn --config ./shu-student.ovpn --auth-user-pass /tmp/ovpn-auth.txt --daemon
 
       - name: Wait for OpenVPN connection
         timeout-minutes: 2
@@ -53,6 +53,10 @@ jobs:
       - name: Fetch data
         run: |
           echo "${{ secrets.SHU_PASSWORD }}" | pipenv run python crawler.py -o interval-crawler-task-result -u ${{ secrets.SHU_USERNAME }} --password-stdin
+
+      - name: Shutdown OpenVPN
+        run: |
+          sudo killall openvpn
 
       - name: Compare, push, and create a pull request if necessary
         env:
