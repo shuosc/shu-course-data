@@ -2886,8 +2886,10 @@
       "courseId": "00853202",
       "courseName": "男生足球(基础)",
       "credit": "1",
-      "limitations": [],
-      "number": "32",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "33",
       "position": "J区足球场",
       "teacherId": "1332",
       "teacherName": "益广仁",
@@ -4080,7 +4082,7 @@
       "courseName": "击剑(基础)",
       "credit": "1",
       "limitations": [],
-      "number": "30",
+      "number": "31",
       "position": "体育馆2楼北侧剑道",
       "teacherId": "1702",
       "teacherName": "周珏",
@@ -53769,7 +53771,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "104",
+      "number": "105",
       "position": "1-233",
       "teacherId": "2000",
       "teacherName": "王金伟",
@@ -54173,7 +54175,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "140",
+      "number": "141",
       "position": "1-233",
       "teacherId": "2000",
       "teacherName": "王金伟",
@@ -66247,7 +66249,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "16728a6deeec0a2c75157da0cd28c7ba",
+  "hash": "3c93f0b0fa2e16de7494343d3d940b50",
   "termName": "2022-2023学年冬季学期",
-  "updateTimeMs": 1670802005338
+  "updateTimeMs": 1670812913646
 }
