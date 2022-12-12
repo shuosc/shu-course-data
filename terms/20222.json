@@ -7883,7 +7883,7 @@
       "courseName": "程序设计(C语言)",
       "credit": "4",
       "limitations": [],
-      "number": "37",
+      "number": "36",
       "position": "DJ204",
       "teacherId": "1001",
       "teacherName": "马骄阳",
@@ -8828,7 +8828,7 @@
       "courseName": "新数字媒体基础与应用",
       "credit": "3",
       "limitations": [],
-      "number": "42",
+      "number": "43",
       "position": "D315机房",
       "teacherId": "1000",
       "teacherName": "张军英",
@@ -16770,10 +16770,8 @@
       "courseId": "0200R008",
       "courseName": "日本文学名篇选讲",
       "credit": "2",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "80",
+      "limitations": [],
+      "number": "79",
       "position": "J102",
       "teacherId": "1000",
       "teacherName": "石圆圆",
@@ -29314,7 +29312,7 @@
       "courseName": "知识产权法A",
       "credit": "6",
       "limitations": [],
-      "number": "34",
+      "number": "35",
       "position": "A121",
       "teacherId": "1002",
       "teacherName": "张玉蓉",
@@ -29400,7 +29398,7 @@
       "courseName": "国际法C",
       "credit": "5",
       "limitations": [],
-      "number": "48",
+      "number": "49",
       "position": "A314",
       "teacherId": "1001",
       "teacherName": "艾素君",
@@ -29472,7 +29470,7 @@
       "courseName": "法律职业伦理",
       "credit": "2",
       "limitations": [],
-      "number": "68",
+      "number": "69",
       "position": "AJ104",
       "teacherId": "1001",
       "teacherName": "金成华",
@@ -29515,8 +29513,10 @@
       "courseId": "06266184",
       "courseName": "劳动与社会保障法A",
       "credit": "4",
-      "limitations": [],
-      "number": "69",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "70",
       "position": "AJ204",
       "teacherId": "1001",
       "teacherName": "刘华",
@@ -29571,8 +29571,10 @@
       "courseId": "06266185",
       "courseName": "证据法A",
       "credit": "4",
-      "limitations": [],
-      "number": "28",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "30",
       "position": "B427",
       "teacherId": "1003",
       "teacherName": "洪凌啸",
@@ -50948,7 +50950,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [],
-      "number": "116",
+      "number": "117",
       "position": "CJ107",
       "teacherId": "1007",
       "teacherName": "赵柯",
@@ -66243,7 +66245,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "1c7c541c5436653db2bb722688759b74",
+  "hash": "3bdac8b0ab44e5a361c9c5f68224933b",
   "termName": "2022-2023学年冬季学期",
-  "updateTimeMs": 1670837997375
+  "updateTimeMs": 1670845200515
 }
