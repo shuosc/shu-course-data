@@ -29388,8 +29388,10 @@
       "courseId": "06265179",
       "courseName": "国际法C",
       "credit": "5",
-      "limitations": [],
-      "number": "49",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "50",
       "position": "A314",
       "teacherId": "1001",
       "teacherName": "艾素君",
@@ -29491,7 +29493,7 @@
       "courseName": "法律职业伦理",
       "credit": "2",
       "limitations": [],
-      "number": "52",
+      "number": "53",
       "position": "AJ104",
       "teacherId": "1003",
       "teacherName": "金成华",
@@ -29593,7 +29595,7 @@
       "courseName": "法律谈判",
       "credit": "3",
       "limitations": [],
-      "number": "76",
+      "number": "77",
       "position": "DJ303",
       "teacherId": "1001",
       "teacherName": "郭琦",
@@ -66225,7 +66227,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "7be92db07a34aed75185034dfb21169a",
+  "hash": "9128904e43a5cdfe8b044c7cea4fe244",
   "termName": "2022-2023学年冬季学期",
-  "updateTimeMs": 1671867431685
+  "updateTimeMs": 1671874667395
 }
