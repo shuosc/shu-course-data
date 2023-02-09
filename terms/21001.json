@@ -3524,12 +3524,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "20",
+      "capacity": "0",
       "classTime": "二3-4男生游泳 (基础)",
       "courseId": "00853210",
       "courseName": "游泳(基础)",
       "credit": "1",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
       "number": "0",
       "position": "",
       "teacherId": "1094",
@@ -4647,6 +4650,20 @@
       "teacherId": "1711",
       "teacherName": "顾修红",
       "teacherTitle": "助教"
+    },
+    {
+      "campus": "宝山",
+      "capacity": "24",
+      "classTime": "二3-4男女自行车 (基础)",
+      "courseId": "00853235",
+      "courseName": "自行车(基础)",
+      "credit": "1",
+      "limitations": [],
+      "number": "0",
+      "position": "",
+      "teacherId": "1094",
+      "teacherName": "许汸",
+      "teacherTitle": "讲师"
     },
     {
       "campus": "宝山",
@@ -65438,7 +65455,7 @@
       "teacherTitle": ""
     }
   ],
-  "hash": "a1c76f94dd0d0043ad5f174588dba1fc",
+  "hash": "928037097dc8b40cfe87095524231111",
   "termName": "2022-2023学年春季学期",
-  "updateTimeMs": 1675942755926
+  "updateTimeMs": 1675950285271
 }
