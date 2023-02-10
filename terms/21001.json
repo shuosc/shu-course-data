@@ -101,8 +101,8 @@
     },
     {
       "campus": "延长",
-      "capacity": "80",
-      "classTime": "四5-6",
+      "capacity": "120",
+      "classTime": "四5-6 限电影",
       "courseId": "00000000",
       "courseName": "活动课",
       "credit": "0",
@@ -110,36 +110,24 @@
       "number": "0",
       "position": "",
       "teacherId": "3001",
-      "teacherName": "待定",
-      "teacherTitle": ""
+      "teacherName": "王雪薇",
+      "teacherTitle": "助教"
     },
     {
       "campus": "延长",
       "capacity": "80",
-      "classTime": "四5-6",
+      "classTime": "一9-10 限美院",
       "courseId": "00000000",
       "courseName": "活动课",
       "credit": "0",
-      "limitations": [],
+      "limitations": [
+        "禁止选课"
+      ],
       "number": "0",
       "position": "",
       "teacherId": "3002",
-      "teacherName": "待定",
-      "teacherTitle": ""
-    },
-    {
-      "campus": "延长",
-      "capacity": "120",
-      "classTime": "一9-10",
-      "courseId": "00000000",
-      "courseName": "活动课",
-      "credit": "0",
-      "limitations": [],
-      "number": "0",
-      "position": "",
-      "teacherId": "3003",
-      "teacherName": "待定",
-      "teacherTitle": ""
+      "teacherName": "孙玉兰",
+      "teacherTitle": "讲师"
     },
     {
       "campus": "宝山",
@@ -2681,6 +2669,23 @@
     },
     {
       "campus": "宝山",
+      "capacity": "0",
+      "classTime": "三3-4男生足球 (基础)",
+      "courseId": "00853202",
+      "courseName": "男生足球(基础)",
+      "credit": "1",
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
+      "number": "0",
+      "position": "",
+      "teacherId": "1276",
+      "teacherName": "颜中杰",
+      "teacherTitle": "教授"
+    },
+    {
+      "campus": "宝山",
       "capacity": "26",
       "classTime": "三3-4男生足球 (基础)",
       "courseId": "00853202",
@@ -2689,7 +2694,7 @@
       "limitations": [],
       "number": "0",
       "position": "",
-      "teacherId": "1276",
+      "teacherId": "1277",
       "teacherName": "颜中杰",
       "teacherTitle": "教授"
     },
@@ -22655,12 +22660,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "16",
+      "capacity": "0",
       "classTime": "三5-6",
       "courseId": "0311EY04",
       "courseName": "英美女性主义研讨",
       "credit": "2",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
       "number": "0",
       "position": "",
       "teacherId": "1001",
@@ -22669,7 +22677,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "16",
+      "capacity": "30",
       "classTime": "三7-8",
       "courseId": "0311EY04",
       "courseName": "英美女性主义研讨",
@@ -65455,7 +65463,7 @@
       "teacherTitle": ""
     }
   ],
-  "hash": "928037097dc8b40cfe87095524231111",
+  "hash": "d99fa36d20cbe7adeefa8acd184894d5",
   "termName": "2022-2023学年春季学期",
-  "updateTimeMs": 1675985919667
+  "updateTimeMs": 1675997019589
 }
