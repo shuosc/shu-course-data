@@ -21,6 +21,8 @@ new_repo = DataRepo(INTERVAL_CRAWLER_TASK_RESULT)
 def is_major_update():
     if old_repo.current_term_id_list != new_repo.current_term_id_list:
         return True
+    return False
+    # disabled
     for term_id in new_repo.current_term_id_list:
         diff = term_diff(old_repo.terms_dict[term_id], new_repo.terms_dict[term_id])
         if any(is_major_change(*x) for x in diff):
