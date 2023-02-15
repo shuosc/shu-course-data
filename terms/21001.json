@@ -45800,13 +45800,15 @@
     },
     {
       "campus": "延长",
-      "capacity": "22",
+      "capacity": "12",
       "classTime": "二5-8实验",
       "courseId": "14785017",
       "courseName": "声乐训练(3)",
       "credit": "2",
-      "limitations": [],
-      "number": "22",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "12",
       "position": "",
       "teacherId": "3001",
       "teacherName": "王志达",
@@ -45814,7 +45816,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "22",
+      "capacity": "12",
       "classTime": "二5-8实验",
       "courseId": "14785017",
       "courseName": "声乐训练(3)",
@@ -45898,13 +45900,16 @@
     },
     {
       "campus": "延长",
-      "capacity": "20",
+      "capacity": "0",
       "classTime": "一5-6 三5-6单",
       "courseId": "14786021",
       "courseName": "武侠电影史",
       "credit": "3",
-      "limitations": [],
-      "number": "4",
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
+      "number": "0",
       "position": "",
       "teacherId": "3000",
       "teacherName": "谷京盛",
@@ -45926,12 +45931,14 @@
     },
     {
       "campus": "延长",
-      "capacity": "22",
+      "capacity": "0",
       "classTime": "一9-10 四7-8单",
       "courseId": "14786037",
       "courseName": "纪录片创作",
       "credit": "3",
-      "limitations": [],
+      "limitations": [
+        "禁止选课"
+      ],
       "number": "0",
       "position": "",
       "teacherId": "3000",
@@ -45954,13 +45961,16 @@
     },
     {
       "campus": "延长",
-      "capacity": "20",
+      "capacity": "0",
       "classTime": "二7-8 五7-8单 全英语",
       "courseId": "14786039",
       "courseName": "当代华语导演",
       "credit": "3",
-      "limitations": [],
-      "number": "2",
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
+      "number": "0",
       "position": "",
       "teacherId": "3000",
       "teacherName": "刘正直",
@@ -65711,7 +65721,7 @@
       "teacherTitle": ""
     }
   ],
-  "hash": "2d691a3f281208a36551f54105787a99",
+  "hash": "88fd35122ea2fa25e2ca157792d7c64b",
   "termName": "2022-2023学年春季学期",
-  "updateTimeMs": 1676430249190
+  "updateTimeMs": 1676432519301
 }
