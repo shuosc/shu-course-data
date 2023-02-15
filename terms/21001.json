@@ -34577,7 +34577,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "50",
+      "capacity": "25",
       "classTime": "二9-11",
       "courseId": "09A36001",
       "courseName": "增材制造技术原理与应用",
@@ -37657,6 +37657,20 @@
     },
     {
       "campus": "宝山",
+      "capacity": "10",
+      "classTime": "另行通知",
+      "courseId": "1144A001",
+      "courseName": "毕业设计(论文)",
+      "credit": "30",
+      "limitations": [],
+      "number": "0",
+      "position": "",
+      "teacherId": "1000",
+      "teacherName": "许云峰",
+      "teacherTitle": "教授"
+    },
+    {
+      "campus": "宝山",
       "capacity": "22",
       "classTime": "另行通知",
       "courseId": "1144A012",
@@ -37920,6 +37934,20 @@
       "teacherId": "1000",
       "teacherName": "陈晋阳",
       "teacherTitle": "教授"
+    },
+    {
+      "campus": "宝山",
+      "capacity": "10",
+      "classTime": "另行通知",
+      "courseId": "1145A001",
+      "courseName": "毕业设计(论文)",
+      "credit": "30",
+      "limitations": [],
+      "number": "0",
+      "position": "",
+      "teacherId": "1000",
+      "teacherName": "孙炜伟",
+      "teacherTitle": "副教授"
     },
     {
       "campus": "宝山",
@@ -45042,7 +45070,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "45",
+      "capacity": "46",
       "classTime": "二1-2单 四1-2",
       "courseId": "14565294",
       "courseName": "影视编辑(2)",
@@ -45126,13 +45154,13 @@
     },
     {
       "campus": "延长",
-      "capacity": "45",
+      "capacity": "46",
       "classTime": "一5-6 三5-6单",
       "courseId": "14566071",
       "courseName": "中国电视史",
       "credit": "3",
       "limitations": [],
-      "number": "48",
+      "number": "46",
       "position": "",
       "teacherId": "3000",
       "teacherName": "徐文明",
@@ -45168,13 +45196,13 @@
     },
     {
       "campus": "延长",
-      "capacity": "30",
+      "capacity": "39",
       "classTime": "二7-8双 五7-8",
       "courseId": "14566248",
       "courseName": "拉片点读",
       "credit": "3",
       "limitations": [],
-      "number": "42",
+      "number": "39",
       "position": "",
       "teacherId": "3002",
       "teacherName": "刘延刚",
@@ -45196,13 +45224,13 @@
     },
     {
       "campus": "延长",
-      "capacity": "20",
+      "capacity": "24",
       "classTime": "一3-4 三3-4单",
       "courseId": "14566248",
       "courseName": "拉片点读",
       "credit": "3",
       "limitations": [],
-      "number": "27",
+      "number": "24",
       "position": "",
       "teacherId": "3004",
       "teacherName": "刘延刚",
@@ -45215,8 +45243,10 @@
       "courseId": "14566265",
       "courseName": "影视录音",
       "credit": "3",
-      "limitations": [],
-      "number": "43",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "30",
       "position": "",
       "teacherId": "3001",
       "teacherName": "金勇",
@@ -45252,7 +45282,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "20",
+      "capacity": "32",
       "classTime": "一5-6 三5-6单",
       "courseId": "14566300",
       "courseName": "影视产业专题",
@@ -45308,7 +45338,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "45",
+      "capacity": "53",
       "classTime": "咨询学院",
       "courseId": "1456A046",
       "courseName": "编剧工作坊",
@@ -45336,7 +45366,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "50",
+      "capacity": "54",
       "classTime": "咨询学院",
       "courseId": "1456A053",
       "courseName": "毕业论文",
@@ -45364,7 +45394,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "25",
+      "capacity": "30",
       "classTime": "五7-8",
       "courseId": "1456EY02",
       "courseName": "电视剧与大众文化",
@@ -45378,7 +45408,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "25",
+      "capacity": "30",
       "classTime": "二3-4",
       "courseId": "1456SY01",
       "courseName": "中美电视比较研究",
@@ -45756,7 +45786,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "20",
+      "capacity": "21",
       "classTime": "三5-8实验 五1-4实验",
       "courseId": "14785014",
       "courseName": "语言技巧训练(6)",
@@ -45854,7 +45884,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "20",
+      "capacity": "22",
       "classTime": "二9-12实验",
       "courseId": "14785031",
       "courseName": "影视动作技能(3)",
@@ -45916,7 +45946,7 @@
       "courseName": "拉片点读",
       "credit": "3",
       "limitations": [],
-      "number": "23",
+      "number": "20",
       "position": "",
       "teacherId": "3000",
       "teacherName": "王姜永",
@@ -45938,7 +45968,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "20",
+      "capacity": "21",
       "classTime": "咨询学院",
       "courseId": "1478A009",
       "courseName": "话筒语言(1)",
@@ -46008,7 +46038,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "20",
+      "capacity": "21",
       "classTime": "一3-4",
       "courseId": "1478SY02",
       "courseName": "研究方法与前沿(表演)",
@@ -46022,7 +46052,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "20",
+      "capacity": "22",
       "classTime": "二7-8 二9-12实验 五1-4实验",
       "courseId": "14795042",
       "courseName": "电影摄影造型创作A",
@@ -46092,7 +46122,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "20",
+      "capacity": "21",
       "classTime": "一7-8 三7-8",
       "courseId": "14795062",
       "courseName": "镜头语言概论",
@@ -46176,7 +46206,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "20",
+      "capacity": "21",
       "classTime": "三7-8",
       "courseId": "1479EY02",
       "courseName": "摄影工作坊(1)",
@@ -46218,7 +46248,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "20",
+      "capacity": "21",
       "classTime": "一3-4 三3-4单",
       "courseId": "14995019",
       "courseName": "影视类型研究",
@@ -46302,7 +46332,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "20",
+      "capacity": "21",
       "classTime": "二7-8",
       "courseId": "1499EY01",
       "courseName": "科学与幻想:电影中的高科技",
@@ -46568,7 +46598,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "20",
+      "capacity": "21",
       "classTime": "一7-8 三7-8单",
       "courseId": "14A45011",
       "courseName": "中外电影史",
@@ -46657,8 +46687,10 @@
       "courseId": "14A46028",
       "courseName": "故事疗愈",
       "credit": "3",
-      "limitations": [],
-      "number": "53",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "30",
       "position": "",
       "teacherId": "3000",
       "teacherName": "吴丽娜",
@@ -46666,7 +46698,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "20",
+      "capacity": "23",
       "classTime": "咨询学院",
       "courseId": "14A4A004",
       "courseName": "短片拍摄",
@@ -46680,7 +46712,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "20",
+      "capacity": "22",
       "classTime": "咨询学院",
       "courseId": "14A4A005",
       "courseName": "剧本工作坊",
@@ -46708,7 +46740,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "20",
+      "capacity": "21",
       "classTime": "五7-8",
       "courseId": "14A4EY01",
       "courseName": "戏曲经典研读",
@@ -46722,13 +46754,13 @@
     },
     {
       "campus": "延长",
-      "capacity": "20",
+      "capacity": "21",
       "classTime": "三5-6",
       "courseId": "14A4SY01",
       "courseName": "电影经典研读",
       "credit": "2",
       "limitations": [],
-      "number": "23",
+      "number": "21",
       "position": "",
       "teacherId": "3000",
       "teacherName": "齐伟",
@@ -46750,7 +46782,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "20",
+      "capacity": "24",
       "classTime": "二1-2 全英语",
       "courseId": "14A85007",
       "courseName": "中外绘画史",
@@ -46806,7 +46838,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "20",
+      "capacity": "21",
       "classTime": "一1-2单 五1-4 实验",
       "courseId": "14A85022",
       "courseName": "影视美术制图",
@@ -46820,7 +46852,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "20",
+      "capacity": "21",
       "classTime": "一3-4 三1-4实验",
       "courseId": "14A85024",
       "courseName": "电影摄影基础",
@@ -46890,7 +46922,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "20",
+      "capacity": "21",
       "classTime": "一5-7实验 三5-7实验",
       "courseId": "14A85040",
       "courseName": "电影导演基础A",
@@ -46932,7 +46964,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "20",
+      "capacity": "21",
       "classTime": "二7-8",
       "courseId": "14A8EY01",
       "courseName": "当代艺术研讨",
@@ -54847,8 +54879,10 @@
       "courseId": "17004003",
       "courseName": "论文写作",
       "credit": "2",
-      "limitations": [],
-      "number": "82",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "55",
       "position": "",
       "teacherId": "3003",
       "teacherName": "刘燕",
@@ -55152,12 +55186,14 @@
     },
     {
       "campus": "延长",
-      "capacity": "30",
+      "capacity": "0",
       "classTime": "一5-6",
       "courseId": "1754EY01",
       "courseName": "时尚文化与传播",
       "credit": "2",
-      "limitations": [],
+      "limitations": [
+        "禁止选课"
+      ],
       "number": "0",
       "position": "",
       "teacherId": "3000",
@@ -55423,8 +55459,10 @@
       "courseId": "1759EY03",
       "courseName": "西方广告理论与实践最新热点评析",
       "credit": "2",
-      "limitations": [],
-      "number": "37",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "30",
       "position": "",
       "teacherId": "3000",
       "teacherName": "薛敏芝",
@@ -55488,7 +55526,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "30",
+      "capacity": "35",
       "classTime": "二7-8 四5-6单",
       "courseId": "17655014",
       "courseName": "舆情调查与分析",
@@ -55591,8 +55629,10 @@
       "courseId": "1765EY01",
       "courseName": "传媒文化批评",
       "credit": "2",
-      "limitations": [],
-      "number": "37",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "30",
       "position": "",
       "teacherId": "3002",
       "teacherName": "薛中军",
@@ -65671,7 +65711,7 @@
       "teacherTitle": ""
     }
   ],
-  "hash": "c5772bab1863bc202189e5a52ad2ee12",
+  "hash": "2d691a3f281208a36551f54105787a99",
   "termName": "2022-2023学年春季学期",
-  "updateTimeMs": 1676427008079
+  "updateTimeMs": 1676430249190
 }
