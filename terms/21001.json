@@ -8871,7 +8871,7 @@
     {
       "campus": "宝山",
       "capacity": "40",
-      "classTime": "一5-6 限国际本科生线上班",
+      "classTime": "一5-6 限国际本科生线上课",
       "courseId": "00874028",
       "courseName": "大学生社会实践",
       "credit": "1",
@@ -9248,7 +9248,7 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "100",
+      "capacity": "120",
       "classTime": "五7-8 (1周,10周)",
       "courseId": "00914006",
       "courseName": "军事理论A",
@@ -9262,13 +9262,16 @@
     },
     {
       "campus": "延长",
-      "capacity": "80",
+      "capacity": "0",
       "classTime": "五7-8 (1周,10周)",
       "courseId": "00914006",
       "courseName": "军事理论A",
       "credit": "2",
-      "limitations": [],
-      "number": "11",
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
+      "number": "0",
       "position": "",
       "teacherId": "3000",
       "teacherName": "刘子杰",
@@ -49928,13 +49931,13 @@
     },
     {
       "campus": "延长",
-      "capacity": "90",
+      "capacity": "110",
       "classTime": "二9-11",
       "courseId": "16583004",
       "courseName": "当代世界经济与政治",
       "credit": "3",
       "limitations": [],
-      "number": "115",
+      "number": "109",
       "position": "",
       "teacherId": "3000",
       "teacherName": "孙士庆",
@@ -51496,12 +51499,14 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "90",
+      "capacity": "0",
       "classTime": "二11-12 (3周,8周)",
       "courseId": "16583109",
       "courseName": "形势与政策",
       "credit": "0",
-      "limitations": [],
+      "limitations": [
+        "禁止选课"
+      ],
       "number": "3",
       "position": "",
       "teacherId": "2012",
@@ -51650,7 +51655,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "90",
+      "capacity": "100",
       "classTime": "三9-10 (1周,6周)",
       "courseId": "16583109",
       "courseName": "形势与政策",
@@ -51664,7 +51669,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "90",
+      "capacity": "100",
       "classTime": "三9-10 (2周,7周)",
       "courseId": "16583109",
       "courseName": "形势与政策",
@@ -51678,7 +51683,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "90",
+      "capacity": "100",
       "classTime": "三9-10 (3周,8周)",
       "courseId": "16583109",
       "courseName": "形势与政策",
@@ -51692,7 +51697,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "90",
+      "capacity": "100",
       "classTime": "三11-12 (1周,6周)",
       "courseId": "16583109",
       "courseName": "形势与政策",
@@ -51706,7 +51711,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "90",
+      "capacity": "100",
       "classTime": "三11-12 (2周,7周)",
       "courseId": "16583109",
       "courseName": "形势与政策",
@@ -51720,7 +51725,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "90",
+      "capacity": "100",
       "classTime": "三11-12 (3周,8周)",
       "courseId": "16583109",
       "courseName": "形势与政策",
@@ -52084,7 +52089,7 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "100",
+      "capacity": "120",
       "classTime": "四9-11",
       "courseId": "16584136",
       "courseName": "中国近现代史纲要B",
@@ -52308,7 +52313,7 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "100",
+      "capacity": "120",
       "classTime": "四10-12",
       "courseId": "16584169",
       "courseName": "毛泽东思想和中国特色社会主义理论体系概论(1)",
@@ -52644,7 +52649,7 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "100",
+      "capacity": "120",
       "classTime": "三9-10",
       "courseId": "16584170",
       "courseName": "毛泽东思想和中国特色社会主义理论体系概论(2)",
@@ -52672,13 +52677,15 @@
     },
     {
       "campus": "延长",
-      "capacity": "90",
+      "capacity": "125",
       "classTime": "一9-10",
       "courseId": "16584170",
       "courseName": "毛泽东思想和中国特色社会主义理论体系概论(2)",
       "credit": "2",
-      "limitations": [],
-      "number": "143",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "125",
       "position": "",
       "teacherId": "3001",
       "teacherName": "薛军民",
@@ -52686,7 +52693,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "90",
+      "capacity": "125",
       "classTime": "一11-12",
       "courseId": "16584170",
       "courseName": "毛泽东思想和中国特色社会主义理论体系概论(2)",
@@ -52881,6 +52888,36 @@
       "teacherTitle": "助理研究员"
     },
     {
+      "campus": "嘉定",
+      "capacity": "120",
+      "classTime": "二10-12",
+      "courseId": "16584171",
+      "courseName": "习近平新时代中国特色社会主义思想概论",
+      "credit": "3",
+      "limitations": [],
+      "number": "0",
+      "position": "",
+      "teacherId": "2001",
+      "teacherName": "李大山",
+      "teacherTitle": "讲师"
+    },
+    {
+      "campus": "延长",
+      "capacity": "90",
+      "classTime": "三9-11",
+      "courseId": "16584171",
+      "courseName": "习近平新时代中国特色社会主义思想概论",
+      "credit": "3",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "90",
+      "position": "",
+      "teacherId": "3000",
+      "teacherName": "艾慧",
+      "teacherTitle": "副教授"
+    },
+    {
       "campus": "延长",
       "capacity": "90",
       "classTime": "三9-11",
@@ -52888,11 +52925,11 @@
       "courseName": "习近平新时代中国特色社会主义思想概论",
       "credit": "3",
       "limitations": [],
-      "number": "179",
+      "number": "0",
       "position": "",
-      "teacherId": "3000",
-      "teacherName": "艾慧",
-      "teacherTitle": "副教授"
+      "teacherId": "3001",
+      "teacherName": "李大山",
+      "teacherTitle": "讲师"
     },
     {
       "campus": "宝山",
@@ -53736,7 +53773,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "90",
+      "capacity": "120",
       "classTime": "三7-8 (1周,10周)",
       "courseId": "1658A001",
       "courseName": "思想政治理论课(实践)(1)",
@@ -53750,13 +53787,13 @@
     },
     {
       "campus": "延长",
-      "capacity": "90",
+      "capacity": "120",
       "classTime": "三11-12 (1周,10周)",
       "courseId": "1658A001",
       "courseName": "思想政治理论课(实践)(1)",
       "credit": "1",
       "limitations": [],
-      "number": "126",
+      "number": "120",
       "position": "",
       "teacherId": "3002",
       "teacherName": "王有英",
@@ -54295,14 +54332,30 @@
       "teacherTitle": "讲师"
     },
     {
-      "campus": "延长",
-      "capacity": "90",
-      "classTime": "四7-8 (1周,10周)",
+      "campus": "嘉定",
+      "capacity": "100",
+      "classTime": "二3-4 (1周,10周)",
       "courseId": "1658A002",
       "courseName": "思想政治理论课(实践)(2)",
       "credit": "1",
       "limitations": [],
-      "number": "149",
+      "number": "0",
+      "position": "",
+      "teacherId": "2003",
+      "teacherName": "宋政超",
+      "teacherTitle": "讲师"
+    },
+    {
+      "campus": "延长",
+      "capacity": "120",
+      "classTime": "四7-8 (1周,10周)",
+      "courseId": "1658A002",
+      "courseName": "思想政治理论课(实践)(2)",
+      "credit": "1",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "120",
       "position": "",
       "teacherId": "3001",
       "teacherName": "余浩然",
@@ -54310,17 +54363,33 @@
     },
     {
       "campus": "延长",
-      "capacity": "90",
+      "capacity": "120",
       "classTime": "四9-10 (1周,10周)",
       "courseId": "1658A002",
       "courseName": "思想政治理论课(实践)(2)",
       "credit": "1",
-      "limitations": [],
-      "number": "246",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "120",
       "position": "",
       "teacherId": "3002",
       "teacherName": "程娜",
       "teacherTitle": "教授"
+    },
+    {
+      "campus": "延长",
+      "capacity": "120",
+      "classTime": "四9-10(1周,10周)",
+      "courseId": "1658A002",
+      "courseName": "思想政治理论课(实践)(2)",
+      "credit": "1",
+      "limitations": [],
+      "number": "0",
+      "position": "",
+      "teacherId": "3003",
+      "teacherName": "余浩然",
+      "teacherTitle": "讲师"
     },
     {
       "campus": "宝山",
@@ -65372,7 +65441,7 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "20",
+      "capacity": "40",
       "classTime": "一5-6 四9-11",
       "courseId": "36056025",
       "courseName": "半导体光伏器件",
@@ -65400,7 +65469,7 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "20",
+      "capacity": "40",
       "classTime": "一9-10",
       "courseId": "36056036",
       "courseName": "数模/模数转换器原理和设计",
@@ -65414,7 +65483,7 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "20",
+      "capacity": "40",
       "classTime": "二3-4 五3-4",
       "courseId": "36056037",
       "courseName": "嵌入式系统与结构",
@@ -65428,7 +65497,7 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "20",
+      "capacity": "40",
       "classTime": "一7-8 四7-8",
       "courseId": "36056038",
       "courseName": "机器学习概论",
@@ -65721,7 +65790,7 @@
       "teacherTitle": ""
     }
   ],
-  "hash": "88fd35122ea2fa25e2ca157792d7c64b",
+  "hash": "e88e16f99008de7ccc605a23bd7106ec",
   "termName": "2022-2023学年春季学期",
-  "updateTimeMs": 1676436138236
+  "updateTimeMs": 1676439503559
 }
