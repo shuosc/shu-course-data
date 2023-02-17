@@ -9638,13 +9638,16 @@
     },
     {
       "campus": "宝山",
-      "capacity": "40",
+      "capacity": "0",
       "classTime": "一9-11 三5-6 上机",
       "courseId": "00885009",
       "courseName": "三维设计与工程制图",
       "credit": "4",
-      "limitations": [],
-      "number": "1",
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
+      "number": "0",
       "position": "",
       "teacherId": "1000",
       "teacherName": "张海光等",
@@ -69344,7 +69347,7 @@
       "teacherTitle": ""
     }
   ],
-  "hash": "643228af7121c34e4f3b444baf6ff8d9",
+  "hash": "207fd95ad50ab438feb9f8a9b758abef",
   "termName": "2022-2023学年春季学期",
-  "updateTimeMs": 1676626801390
+  "updateTimeMs": 1676630458702
 }
