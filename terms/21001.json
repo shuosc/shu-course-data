@@ -11956,8 +11956,10 @@
       "courseId": "01034118",
       "courseName": "大学物理(2)",
       "credit": "4",
-      "limitations": [],
-      "number": "143",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "100",
       "position": "",
       "teacherId": "1001",
       "teacherName": "孔茜",
@@ -11984,8 +11986,10 @@
       "courseId": "01034118",
       "courseName": "大学物理(2)",
       "credit": "4",
-      "limitations": [],
-      "number": "141",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "100",
       "position": "",
       "teacherId": "1003",
       "teacherName": "庄良",
@@ -12026,8 +12030,10 @@
       "courseId": "01034118",
       "courseName": "大学物理(2)",
       "credit": "4",
-      "limitations": [],
-      "number": "121",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "100",
       "position": "",
       "teacherId": "1006",
       "teacherName": "杨艳芳",
@@ -12054,8 +12060,10 @@
       "courseId": "01034118",
       "courseName": "大学物理(2)",
       "credit": "4",
-      "limitations": [],
-      "number": "164",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "100",
       "position": "",
       "teacherId": "1008",
       "teacherName": "白丽华",
@@ -12068,8 +12076,10 @@
       "courseId": "01034118",
       "courseName": "大学物理(2)",
       "credit": "4",
-      "limitations": [],
-      "number": "136",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "100",
       "position": "",
       "teacherId": "1009",
       "teacherName": "张丽杰",
@@ -12082,8 +12092,10 @@
       "courseId": "01034118",
       "courseName": "大学物理(2)",
       "credit": "4",
-      "limitations": [],
-      "number": "129",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "100",
       "position": "",
       "teacherId": "1010",
       "teacherName": "张萌颖",
@@ -12110,8 +12122,10 @@
       "courseId": "01034118",
       "courseName": "大学物理(2)",
       "credit": "4",
-      "limitations": [],
-      "number": "133",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "100",
       "position": "",
       "teacherId": "1012",
       "teacherName": "贾蓉蓉",
@@ -12124,8 +12138,10 @@
       "courseId": "01034118",
       "courseName": "大学物理(2)",
       "credit": "4",
-      "limitations": [],
-      "number": "161",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "100",
       "position": "",
       "teacherId": "1013",
       "teacherName": "白丽华",
@@ -12138,8 +12154,10 @@
       "courseId": "01034118",
       "courseName": "大学物理(2)",
       "credit": "4",
-      "limitations": [],
-      "number": "130",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "100",
       "position": "",
       "teacherId": "1014",
       "teacherName": "郭聪",
@@ -12166,8 +12184,10 @@
       "courseId": "01034118",
       "courseName": "大学物理(2)",
       "credit": "4",
-      "limitations": [],
-      "number": "143",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "100",
       "position": "",
       "teacherId": "1016",
       "teacherName": "庄良",
@@ -12180,8 +12200,10 @@
       "courseId": "01034118",
       "courseName": "大学物理(2)",
       "credit": "4",
-      "limitations": [],
-      "number": "132",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "100",
       "position": "",
       "teacherId": "1017",
       "teacherName": "孔茜",
@@ -12194,8 +12216,10 @@
       "courseId": "01034118",
       "courseName": "大学物理(2)",
       "credit": "4",
-      "limitations": [],
-      "number": "112",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "100",
       "position": "",
       "teacherId": "1018",
       "teacherName": "颜明",
@@ -12208,8 +12232,10 @@
       "courseId": "01034118",
       "courseName": "大学物理(2)",
       "credit": "4",
-      "limitations": [],
-      "number": "139",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "100",
       "position": "",
       "teacherId": "1019",
       "teacherName": "张丽杰",
@@ -12236,8 +12262,10 @@
       "courseId": "01034118",
       "courseName": "大学物理(2)",
       "credit": "4",
-      "limitations": [],
-      "number": "132",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "100",
       "position": "",
       "teacherId": "1021",
       "teacherName": "贾蓉蓉",
@@ -12264,8 +12292,10 @@
       "courseId": "01034118",
       "courseName": "大学物理(2)",
       "credit": "4",
-      "limitations": [],
-      "number": "140",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "100",
       "position": "",
       "teacherId": "1023",
       "teacherName": "郭聪",
@@ -12292,8 +12322,10 @@
       "courseId": "01034118",
       "courseName": "大学物理(2)",
       "credit": "4",
-      "limitations": [],
-      "number": "119",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "100",
       "position": "",
       "teacherId": "1025",
       "teacherName": "郭盼",
@@ -24890,13 +24922,16 @@
     },
     {
       "campus": "宝山",
-      "capacity": "70",
+      "capacity": "0",
       "classTime": "四5-6",
       "courseId": "0400L001",
       "courseName": "生态智慧与绿色生活",
       "credit": "2",
-      "limitations": [],
-      "number": "7",
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
+      "number": "0",
       "position": "",
       "teacherId": "1000",
       "teacherName": "朱婷",
@@ -29451,7 +29486,7 @@
       "number": "10",
       "position": "",
       "teacherId": "1001",
-      "teacherName": "李本",
+      "teacherName": "李本等",
       "teacherTitle": "教授"
     },
     {
@@ -29465,7 +29500,7 @@
       "number": "15",
       "position": "",
       "teacherId": "1002",
-      "teacherName": "李本",
+      "teacherName": "李本等",
       "teacherTitle": "教授"
     },
     {
@@ -68978,7 +69013,7 @@
       "teacherTitle": ""
     }
   ],
-  "hash": "bc669d1d823fbd410537ab4086c97715",
+  "hash": "b983f77c1f6069825cc452c40932d26f",
   "termName": "2022-2023学年春季学期",
-  "updateTimeMs": 1676612310505
+  "updateTimeMs": 1676616221856
 }
