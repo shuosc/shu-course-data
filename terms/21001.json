@@ -26105,7 +26105,7 @@
       "courseName": "统计学",
       "credit": "5",
       "limitations": [],
-      "number": "45",
+      "number": "46",
       "position": "",
       "teacherId": "1002",
       "teacherName": "陆贵斌",
@@ -31229,8 +31229,10 @@
       "courseId": "0727A047",
       "courseName": "综合工程设计",
       "credit": "5",
-      "limitations": [],
-      "number": "29",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "30",
       "position": "",
       "teacherId": "1002",
       "teacherName": "张绍军",
@@ -31292,7 +31294,7 @@
       "courseName": "毕业设计(论文)",
       "credit": "22",
       "limitations": [],
-      "number": "242",
+      "number": "243",
       "position": "",
       "teacherId": "1000",
       "teacherName": "黄微",
@@ -53880,7 +53882,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [],
-      "number": "91",
+      "number": "92",
       "position": "",
       "teacherId": "1082",
       "teacherName": "赵柯",
@@ -57018,7 +57020,7 @@
       "courseName": "思想政治理论课(实践)(2)",
       "credit": "1",
       "limitations": [],
-      "number": "98",
+      "number": "99",
       "position": "",
       "teacherId": "1010",
       "teacherName": "汪艳",
@@ -69254,7 +69256,7 @@
       "teacherTitle": ""
     }
   ],
-  "hash": "45903d40c54c81fee941aa8c0681e5af",
+  "hash": "c17139ac377818a733d0c04898f554a9",
   "termName": "2022-2023学年春季学期",
-  "updateTimeMs": 1676745652814
+  "updateTimeMs": 1676749095419
 }
