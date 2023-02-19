@@ -329,7 +329,7 @@
       "courseName": "思想道德与法治(强)",
       "credit": "3",
       "limitations": [],
-      "number": "77",
+      "number": "76",
       "position": "",
       "teacherId": "1001",
       "teacherName": "陶倩",
@@ -28931,7 +28931,7 @@
       "courseName": "婚姻家庭与继承法",
       "credit": "2",
       "limitations": [],
-      "number": "41",
+      "number": "42",
       "position": "",
       "teacherId": "1000",
       "teacherName": "李立新",
@@ -55114,8 +55114,10 @@
       "courseId": "16584153",
       "courseName": "思想道德与法治",
       "credit": "3",
-      "limitations": [],
-      "number": "79",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "80",
       "position": "",
       "teacherId": "1003",
       "teacherName": "宋哲仁",
@@ -69224,7 +69226,7 @@
       "teacherTitle": ""
     }
   ],
-  "hash": "6064c0d25639fe9fd35ede08349faaa8",
+  "hash": "e776ea3e5b709d6e84ad0491f375379b",
   "termName": "2022-2023学年春季学期",
-  "updateTimeMs": 1676832053018
+  "updateTimeMs": 1676835512994
 }
