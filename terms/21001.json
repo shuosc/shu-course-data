@@ -9999,7 +9999,10 @@
       "courseId": "0095J003",
       "courseName": "职业精英之大学生生涯规划与发展指导A",
       "credit": "2",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
       "number": "3",
       "position": "",
       "teacherId": "3000",
@@ -24946,12 +24949,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "70",
+      "capacity": "0",
       "classTime": "一9-10",
       "courseId": "0400J501",
       "courseName": "走近服务经济",
       "credit": "2",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
       "number": "0",
       "position": "",
       "teacherId": "1000",
@@ -42526,13 +42532,14 @@
     },
     {
       "campus": "延长",
-      "capacity": "10",
+      "capacity": "0",
       "classTime": "三3-4(1-5周)",
       "courseId": "1300Y001",
       "courseName": "现代艺术思潮与建筑",
       "credit": "1",
       "limitations": [
-        "禁止选课"
+        "禁止选课",
+        "人数已满"
       ],
       "number": "0",
       "position": "",
@@ -69289,7 +69296,7 @@
       "teacherTitle": ""
     }
   ],
-  "hash": "4906a69b6570dd03d040b53ebdaa53db",
+  "hash": "20f0fc4d75f0d6a3e625f100eeb6ce33",
   "termName": "2022-2023学年春季学期",
-  "updateTimeMs": 1677044351528
+  "updateTimeMs": 1677048244021
 }
