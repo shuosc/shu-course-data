@@ -1369,8 +1369,10 @@
       "courseId": "00853001",
       "courseName": "体育(1)",
       "credit": "1",
-      "limitations": [],
-      "number": "21",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "20",
       "position": "",
       "teacherId": "2507",
       "teacherName": "刘春辉",
@@ -1473,8 +1475,10 @@
       "courseId": "00853003",
       "courseName": "体育(3)",
       "credit": "1",
-      "limitations": [],
-      "number": "21",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "20",
       "position": "",
       "teacherId": "2403",
       "teacherName": "闵伟",
@@ -1501,8 +1505,10 @@
       "courseId": "00853003",
       "courseName": "体育(3)",
       "credit": "1",
-      "limitations": [],
-      "number": "22",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "20",
       "position": "",
       "teacherId": "2421",
       "teacherName": "许凤",
@@ -1545,8 +1551,10 @@
       "courseId": "00853003",
       "courseName": "体育(3)",
       "credit": "1",
-      "limitations": [],
-      "number": "21",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "20",
       "position": "",
       "teacherId": "2427",
       "teacherName": "许凤",
@@ -1589,8 +1597,10 @@
       "courseId": "00853003",
       "courseName": "体育(3)",
       "credit": "1",
-      "limitations": [],
-      "number": "22",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "20",
       "position": "",
       "teacherId": "2506",
       "teacherName": "刘春辉",
@@ -2073,8 +2083,10 @@
       "courseId": "00853006",
       "courseName": "体育(6)",
       "credit": "1",
-      "limitations": [],
-      "number": "21",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "20",
       "position": "",
       "teacherId": "2402",
       "teacherName": "闵伟",
@@ -2193,8 +2205,10 @@
       "courseId": "00853006",
       "courseName": "体育(6)",
       "credit": "1",
-      "limitations": [],
-      "number": "23",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "20",
       "position": "",
       "teacherId": "2515",
       "teacherName": "王旨明",
@@ -2271,8 +2285,10 @@
       "courseId": "00853006",
       "courseName": "体育(6)",
       "credit": "1",
-      "limitations": [],
-      "number": "24",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "20",
       "position": "",
       "teacherId": "2804",
       "teacherName": "陆英浩",
@@ -10739,12 +10755,14 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "116",
+      "capacity": "117",
       "classTime": "一1-2 三5-6",
       "courseId": "01014117",
       "courseName": "高等数学(3)",
       "credit": "4",
-      "limitations": [],
+      "limitations": [
+        "人数已满"
+      ],
       "number": "117",
       "position": "",
       "teacherId": "2001",
@@ -39989,7 +40007,7 @@
       "number": "3",
       "position": "",
       "teacherId": "1000",
-      "teacherName": "许云峰",
+      "teacherName": "许云峰等",
       "teacherTitle": "教授"
     },
     {
@@ -54287,8 +54305,10 @@
       "courseId": "16583109",
       "courseName": "形势与政策",
       "credit": "0",
-      "limitations": [],
-      "number": "132",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "100",
       "position": "",
       "teacherId": "2004",
       "teacherName": "潘哲初",
@@ -54312,13 +54332,15 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "90",
+      "capacity": "100",
       "classTime": "一11-12 (3周,8周)",
       "courseId": "16583109",
       "courseName": "形势与政策",
       "credit": "0",
-      "limitations": [],
-      "number": "111",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "100",
       "position": "",
       "teacherId": "2006",
       "teacherName": "潘哲初",
@@ -54347,8 +54369,10 @@
       "courseId": "16583109",
       "courseName": "形势与政策",
       "credit": "0",
-      "limitations": [],
-      "number": "105",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "100",
       "position": "",
       "teacherId": "2008",
       "teacherName": "韩晓春",
@@ -54420,8 +54444,10 @@
       "courseId": "16583109",
       "courseName": "形势与政策",
       "credit": "0",
-      "limitations": [],
-      "number": "108",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "100",
       "position": "",
       "teacherId": "2013",
       "teacherName": "潘哲初",
@@ -54434,8 +54460,10 @@
       "courseId": "16583109",
       "courseName": "形势与政策",
       "credit": "0",
-      "limitations": [],
-      "number": "104",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "100",
       "position": "",
       "teacherId": "2014",
       "teacherName": "潘哲初",
@@ -54448,8 +54476,10 @@
       "courseId": "16583109",
       "courseName": "形势与政策",
       "credit": "0",
-      "limitations": [],
-      "number": "106",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "100",
       "position": "",
       "teacherId": "2015",
       "teacherName": "潘哲初",
@@ -55651,7 +55681,7 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "100",
+      "capacity": "120",
       "classTime": "三11-12",
       "courseId": "16584170",
       "courseName": "毛泽东思想和中国特色社会主义理论体系概论(2)",
@@ -55900,8 +55930,10 @@
       "courseId": "16584171",
       "courseName": "习近平新时代中国特色社会主义思想概论",
       "credit": "3",
-      "limitations": [],
-      "number": "132",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "120",
       "position": "",
       "teacherId": "2001",
       "teacherName": "李大山",
@@ -56149,7 +56181,7 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "105",
+      "capacity": "107",
       "classTime": "二7-8(1-5周)",
       "courseId": "16584172",
       "courseName": "劳动教育理论课",
@@ -59145,7 +59177,7 @@
       "number": "7",
       "position": "",
       "teacherId": "1000",
-      "teacherName": "汪德江",
+      "teacherName": "汪德江等",
       "teacherTitle": "副教授"
     },
     {
@@ -68968,7 +69000,7 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "20",
+      "capacity": "30",
       "classTime": "二1-2 四5-6",
       "courseId": "36056076",
       "courseName": "集成光学与器件",
@@ -69257,7 +69289,7 @@
       "teacherTitle": ""
     }
   ],
-  "hash": "672dfc37a3f535294d1b42f0509ee852",
+  "hash": "4906a69b6570dd03d040b53ebdaa53db",
   "termName": "2022-2023学年春季学期",
-  "updateTimeMs": 1677037316139
+  "updateTimeMs": 1677044351528
 }
