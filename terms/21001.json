@@ -16496,12 +16496,14 @@
     },
     {
       "campus": "宝山",
-      "capacity": "30",
+      "capacity": "27",
       "classTime": "三7-8 五3-4双",
       "courseId": "01805063",
       "courseName": "工程力学A(4)",
       "credit": "3",
-      "limitations": [],
+      "limitations": [
+        "人数已满"
+      ],
       "number": "27",
       "position": "",
       "teacherId": "1003",
@@ -16526,12 +16528,14 @@
     },
     {
       "campus": "宝山",
-      "capacity": "30",
+      "capacity": "24",
       "classTime": "三7-8 五3-4双",
       "courseId": "01805063",
       "courseName": "工程力学A(4)",
       "credit": "3",
-      "limitations": [],
+      "limitations": [
+        "人数已满"
+      ],
       "number": "24",
       "position": "",
       "teacherId": "1005",
@@ -16540,12 +16544,14 @@
     },
     {
       "campus": "宝山",
-      "capacity": "30",
+      "capacity": "22",
       "classTime": "三7-8 五3-4双",
       "courseId": "01805063",
       "courseName": "工程力学A(4)",
       "credit": "3",
-      "limitations": [],
+      "limitations": [
+        "人数已满"
+      ],
       "number": "22",
       "position": "",
       "teacherId": "1006",
@@ -16554,7 +16560,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "30",
+      "capacity": "20",
       "classTime": "三7-8 五3-4双",
       "courseId": "01805063",
       "courseName": "工程力学A(4)",
@@ -71460,7 +71466,7 @@
       "teacherTitle": ""
     }
   ],
-  "hash": "330589217b68dabb3d34b86b6f093ddf",
+  "hash": "2d0683273f3edadad63486794113385b",
   "termName": "2022-2023学年春季学期",
-  "updateTimeMs": 1677204382029
+  "updateTimeMs": 1677207711631
 }
