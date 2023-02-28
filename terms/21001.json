@@ -2955,12 +2955,14 @@
     },
     {
       "campus": "宝山",
-      "capacity": "28",
+      "capacity": "0",
       "classTime": "四1-2男生足球 (基础)",
       "courseId": "00853202",
       "courseName": "男生足球(基础)",
       "credit": "1",
-      "limitations": [],
+      "limitations": [
+        "人数已满"
+      ],
       "number": "2",
       "position": "",
       "teacherId": "1332",
@@ -4948,12 +4950,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "28",
+      "capacity": "0",
       "classTime": "一9-10女生操舞 (基础)",
       "courseId": "00853229",
       "courseName": "操舞(基础)",
       "credit": "1",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
       "number": "4",
       "position": "",
       "teacherId": "1573",
@@ -4962,12 +4967,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "22",
+      "capacity": "0",
       "classTime": "二3-4女生操舞 (基础)",
       "courseId": "00853229",
       "courseName": "操舞(基础)",
       "credit": "1",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
       "number": "0",
       "position": "",
       "teacherId": "1574",
@@ -9457,7 +9465,7 @@
       "position": "",
       "teacherId": "1005",
       "teacherName": "王从娟等",
-      "teacherTitle": "助教"
+      "teacherTitle": "讲师"
     },
     {
       "campus": "宝山",
@@ -9595,7 +9603,7 @@
       "position": "",
       "teacherId": "1014",
       "teacherName": "黄丽娜",
-      "teacherTitle": "助教"
+      "teacherTitle": "讲师"
     },
     {
       "campus": "宝山",
@@ -28275,7 +28283,7 @@
       "position": "",
       "teacherId": "1008",
       "teacherName": "刘涛",
-      "teacherTitle": ""
+      "teacherTitle": "副教授"
     },
     {
       "campus": "宝山",
@@ -42723,7 +42731,7 @@
       "position": "",
       "teacherId": "1002",
       "teacherName": "汪一",
-      "teacherTitle": "助教"
+      "teacherTitle": "讲师"
     },
     {
       "campus": "宝山",
@@ -42769,7 +42777,7 @@
       "position": "",
       "teacherId": "1005",
       "teacherName": "张升化",
-      "teacherTitle": ""
+      "teacherTitle": "讲师"
     },
     {
       "campus": "宝山",
@@ -42797,7 +42805,7 @@
       "position": "",
       "teacherId": "1007",
       "teacherName": "羊烨",
-      "teacherTitle": ""
+      "teacherTitle": "讲师"
     },
     {
       "campus": "宝山",
@@ -42825,7 +42833,7 @@
       "position": "",
       "teacherId": "1009",
       "teacherName": "李开明",
-      "teacherTitle": ""
+      "teacherTitle": "讲师"
     },
     {
       "campus": "宝山",
@@ -43172,7 +43180,7 @@
       "position": "",
       "teacherId": "3000",
       "teacherName": "宋天颐",
-      "teacherTitle": ""
+      "teacherTitle": "讲师"
     },
     {
       "campus": "宝山",
@@ -43840,7 +43848,7 @@
       "position": "",
       "teacherId": "3007",
       "teacherName": "羊烨",
-      "teacherTitle": ""
+      "teacherTitle": "讲师"
     },
     {
       "campus": "延长",
@@ -44316,7 +44324,7 @@
       "position": "",
       "teacherId": "3000",
       "teacherName": "羊烨",
-      "teacherTitle": ""
+      "teacherTitle": "讲师"
     },
     {
       "campus": "延长",
@@ -44680,7 +44688,7 @@
       "position": "",
       "teacherId": "1001",
       "teacherName": "赵舒燕",
-      "teacherTitle": "助教"
+      "teacherTitle": "讲师"
     },
     {
       "campus": "宝山",
@@ -44774,7 +44782,7 @@
       "position": "",
       "teacherId": "1001",
       "teacherName": "赵舒燕",
-      "teacherTitle": "助教"
+      "teacherTitle": "讲师"
     },
     {
       "campus": "宝山",
@@ -44836,7 +44844,7 @@
       "position": "",
       "teacherId": "1000",
       "teacherName": "刘晓军",
-      "teacherTitle": "助教"
+      "teacherTitle": "讲师"
     },
     {
       "campus": "宝山",
@@ -45088,7 +45096,7 @@
       "position": "",
       "teacherId": "1000",
       "teacherName": "汪一",
-      "teacherTitle": "助教"
+      "teacherTitle": "讲师"
     },
     {
       "campus": "宝山",
@@ -45188,7 +45196,7 @@
       "position": "",
       "teacherId": "1000",
       "teacherName": "汪一",
-      "teacherTitle": "助教"
+      "teacherTitle": "讲师"
     },
     {
       "campus": "宝山",
@@ -45402,7 +45410,7 @@
       "position": "",
       "teacherId": "1003",
       "teacherName": "刘晓军",
-      "teacherTitle": "助教"
+      "teacherTitle": "讲师"
     },
     {
       "campus": "宝山",
@@ -45486,7 +45494,7 @@
       "position": "",
       "teacherId": "3005",
       "teacherName": "范墨",
-      "teacherTitle": ""
+      "teacherTitle": "讲师"
     },
     {
       "campus": "延长",
@@ -46297,7 +46305,7 @@
       "position": "",
       "teacherId": "3000",
       "teacherName": "谢赛特",
-      "teacherTitle": ""
+      "teacherTitle": "讲师"
     },
     {
       "campus": "延长",
@@ -47677,7 +47685,7 @@
       "position": "",
       "teacherId": "3000",
       "teacherName": "宋天颐",
-      "teacherTitle": ""
+      "teacherTitle": "讲师"
     },
     {
       "campus": "宝山",
@@ -47911,7 +47919,7 @@
       "position": "",
       "teacherId": "1002",
       "teacherName": "罗正",
-      "teacherTitle": "助教"
+      "teacherTitle": "讲师"
     },
     {
       "campus": "宝山",
@@ -60686,7 +60694,7 @@
       "position": "",
       "teacherId": "3000",
       "teacherName": "毛海俊",
-      "teacherTitle": ""
+      "teacherTitle": "讲师"
     },
     {
       "campus": "宝山",
@@ -63894,7 +63902,7 @@
       "position": "",
       "teacherId": "1000",
       "teacherName": "余鸿文",
-      "teacherTitle": "讲师"
+      "teacherTitle": "副教授"
     },
     {
       "campus": "宝山",
@@ -66085,7 +66093,7 @@
       "position": "",
       "teacherId": "1008",
       "teacherName": "吕晓菲",
-      "teacherTitle": "助教"
+      "teacherTitle": "讲师"
     },
     {
       "campus": "宝山",
@@ -66101,7 +66109,7 @@
       "position": "",
       "teacherId": "1009",
       "teacherName": "吕晓菲",
-      "teacherTitle": "助教"
+      "teacherTitle": "讲师"
     },
     {
       "campus": "宝山",
@@ -66117,7 +66125,7 @@
       "position": "",
       "teacherId": "1010",
       "teacherName": "吕晓菲",
-      "teacherTitle": "助教"
+      "teacherTitle": "讲师"
     },
     {
       "campus": "宝山",
@@ -66133,7 +66141,7 @@
       "position": "",
       "teacherId": "1011",
       "teacherName": "吕晓菲",
-      "teacherTitle": "助教"
+      "teacherTitle": "讲师"
     },
     {
       "campus": "宝山",
@@ -66149,7 +66157,7 @@
       "position": "",
       "teacherId": "1012",
       "teacherName": "吕晓菲",
-      "teacherTitle": "助教"
+      "teacherTitle": "讲师"
     },
     {
       "campus": "宝山",
@@ -66165,7 +66173,7 @@
       "position": "",
       "teacherId": "1013",
       "teacherName": "吕晓菲",
-      "teacherTitle": "助教"
+      "teacherTitle": "讲师"
     },
     {
       "campus": "宝山",
@@ -66179,7 +66187,7 @@
       "position": "",
       "teacherId": "1014",
       "teacherName": "吕晓菲",
-      "teacherTitle": "助教"
+      "teacherTitle": "讲师"
     },
     {
       "campus": "宝山",
@@ -67437,7 +67445,7 @@
       "position": "",
       "teacherId": "1009",
       "teacherName": "吕晓菲",
-      "teacherTitle": "助教"
+      "teacherTitle": "讲师"
     },
     {
       "campus": "宝山",
@@ -67533,7 +67541,7 @@
       "position": "",
       "teacherId": "1005",
       "teacherName": "吕晓菲",
-      "teacherTitle": "助教"
+      "teacherTitle": "讲师"
     },
     {
       "campus": "宝山",
@@ -67851,7 +67859,7 @@
       "position": "",
       "teacherId": "1004",
       "teacherName": "杨东瑾",
-      "teacherTitle": "助教"
+      "teacherTitle": "讲师"
     },
     {
       "campus": "宝山",
@@ -68297,7 +68305,7 @@
       "position": "",
       "teacherId": "1007",
       "teacherName": "杨东瑾",
-      "teacherTitle": "助教"
+      "teacherTitle": "讲师"
     },
     {
       "campus": "宝山",
@@ -68759,7 +68767,7 @@
       "position": "",
       "teacherId": "1010",
       "teacherName": "杨东瑾",
-      "teacherTitle": "助教"
+      "teacherTitle": "讲师"
     },
     {
       "campus": "宝山",
@@ -68775,7 +68783,7 @@
       "position": "",
       "teacherId": "1011",
       "teacherName": "杨东瑾",
-      "teacherTitle": "助教"
+      "teacherTitle": "讲师"
     },
     {
       "campus": "宝山",
@@ -69579,7 +69587,7 @@
       "position": "",
       "teacherId": "1001",
       "teacherName": "杨东瑾",
-      "teacherTitle": "助教"
+      "teacherTitle": "讲师"
     },
     {
       "campus": "宝山",
@@ -69595,7 +69603,7 @@
       "position": "",
       "teacherId": "1002",
       "teacherName": "杨东瑾",
-      "teacherTitle": "助教"
+      "teacherTitle": "讲师"
     },
     {
       "campus": "宝山",
@@ -69611,7 +69619,7 @@
       "position": "",
       "teacherId": "1003",
       "teacherName": "杨东瑾",
-      "teacherTitle": "助教"
+      "teacherTitle": "讲师"
     },
     {
       "campus": "宝山",
@@ -69627,7 +69635,7 @@
       "position": "",
       "teacherId": "1004",
       "teacherName": "杨东瑾",
-      "teacherTitle": "助教"
+      "teacherTitle": "讲师"
     },
     {
       "campus": "宝山",
@@ -69643,7 +69651,7 @@
       "position": "",
       "teacherId": "1001",
       "teacherName": "杨东瑾",
-      "teacherTitle": "助教"
+      "teacherTitle": "讲师"
     },
     {
       "campus": "宝山",
@@ -69659,7 +69667,7 @@
       "position": "",
       "teacherId": "1002",
       "teacherName": "杨东瑾",
-      "teacherTitle": "助教"
+      "teacherTitle": "讲师"
     },
     {
       "campus": "宝山",
@@ -69675,7 +69683,7 @@
       "position": "",
       "teacherId": "1003",
       "teacherName": "杨东瑾",
-      "teacherTitle": "助教"
+      "teacherTitle": "讲师"
     },
     {
       "campus": "宝山",
@@ -69691,7 +69699,7 @@
       "position": "",
       "teacherId": "1004",
       "teacherName": "杨东瑾",
-      "teacherTitle": "助教"
+      "teacherTitle": "讲师"
     },
     {
       "campus": "宝山",
@@ -69707,7 +69715,7 @@
       "position": "",
       "teacherId": "1001",
       "teacherName": "杨东瑾",
-      "teacherTitle": "助教"
+      "teacherTitle": "讲师"
     },
     {
       "campus": "宝山",
@@ -69723,7 +69731,7 @@
       "position": "",
       "teacherId": "1002",
       "teacherName": "杨东瑾",
-      "teacherTitle": "助教"
+      "teacherTitle": "讲师"
     },
     {
       "campus": "宝山",
@@ -69739,7 +69747,7 @@
       "position": "",
       "teacherId": "1003",
       "teacherName": "杨东瑾",
-      "teacherTitle": "助教"
+      "teacherTitle": "讲师"
     },
     {
       "campus": "宝山",
@@ -69755,7 +69763,7 @@
       "position": "",
       "teacherId": "1004",
       "teacherName": "杨东瑾",
-      "teacherTitle": "助教"
+      "teacherTitle": "讲师"
     },
     {
       "campus": "宝山",
@@ -69895,7 +69903,7 @@
       "position": "",
       "teacherId": "1007",
       "teacherName": "吕晓菲",
-      "teacherTitle": "助教"
+      "teacherTitle": "讲师"
     },
     {
       "campus": "宝山",
@@ -69911,7 +69919,7 @@
       "position": "",
       "teacherId": "1008",
       "teacherName": "吕晓菲",
-      "teacherTitle": "助教"
+      "teacherTitle": "讲师"
     },
     {
       "campus": "宝山",
@@ -69927,7 +69935,7 @@
       "position": "",
       "teacherId": "1009",
       "teacherName": "吕晓菲",
-      "teacherTitle": "助教"
+      "teacherTitle": "讲师"
     },
     {
       "campus": "宝山",
@@ -70807,7 +70815,7 @@
       "position": "",
       "teacherId": "1007",
       "teacherName": "杨东瑾",
-      "teacherTitle": "助教"
+      "teacherTitle": "讲师"
     },
     {
       "campus": "宝山",
@@ -71065,7 +71073,7 @@
       "position": "",
       "teacherId": "2002",
       "teacherName": "李梦姣",
-      "teacherTitle": ""
+      "teacherTitle": "副教授"
     },
     {
       "campus": "嘉定",
@@ -71480,7 +71488,7 @@
       "teacherTitle": ""
     }
   ],
-  "hash": "f4461305057d71ed7aafdb0862856594",
+  "hash": "f0fc1c49384c31a086074ca88ec21b3e",
   "termName": "2022-2023学年春季学期",
-  "updateTimeMs": 1677541158878
+  "updateTimeMs": 1677550116605
 }
