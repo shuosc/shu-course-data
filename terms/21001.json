@@ -2471,7 +2471,7 @@
     {
       "campus": "延长",
       "capacity": "24",
-      "classTime": "四3-4男女乒乓球",
+      "classTime": "四3-4女生乒乓球",
       "courseId": "00853006",
       "courseName": "体育(6)",
       "credit": "1",
@@ -50627,13 +50627,15 @@
     },
     {
       "campus": "延长",
-      "capacity": "20",
+      "capacity": "0",
       "classTime": "三3-4 五1-2单",
       "courseId": "14A46020",
       "courseName": "电影叙事学",
       "credit": "3",
-      "limitations": [],
-      "number": "5",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "0",
       "position": "",
       "teacherId": "3000",
       "teacherName": "陈瑜",
@@ -71488,7 +71490,7 @@
       "teacherTitle": ""
     }
   ],
-  "hash": "69cead5edb0d4d66f8813b1f8ed8d776",
+  "hash": "61ef8a061f67c9d1720e5035585c9c58",
   "termName": "2022-2023学年春季学期",
-  "updateTimeMs": 1677562740004
+  "updateTimeMs": 1677566653375
 }
