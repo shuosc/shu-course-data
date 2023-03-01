@@ -40508,13 +40508,14 @@
     },
     {
       "campus": "宝山",
-      "capacity": "25",
+      "capacity": "0",
       "classTime": "二3-4(1-5周)",
       "courseId": "1100Y013",
       "courseName": "原子和原子能漫谈",
       "credit": "1",
       "limitations": [
-        "禁止选课"
+        "禁止选课",
+        "人数已满"
       ],
       "number": "0",
       "position": "",
@@ -55749,15 +55750,16 @@
     },
     {
       "campus": "宝山",
-      "capacity": "105",
+      "capacity": "0",
       "classTime": "二7-8 (3周,8周)",
       "courseId": "16583109",
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
-        "禁止选课"
+        "禁止选课",
+        "人数已满"
       ],
-      "number": "7",
+      "number": "0",
       "position": "",
       "teacherId": "1105",
       "teacherName": "张金翠",
@@ -66413,14 +66415,12 @@
     },
     {
       "campus": "宝山",
-      "capacity": "0",
+      "capacity": "1",
       "classTime": "见学院小课表",
       "courseId": "31735157",
       "courseName": "音乐学专业课(3)",
       "credit": "2",
-      "limitations": [
-        "人数已满"
-      ],
+      "limitations": [],
       "number": "0",
       "position": "",
       "teacherId": "1015",
@@ -71488,7 +71488,7 @@
       "teacherTitle": ""
     }
   ],
-  "hash": "a159c0009cc4a830df871e4a59eda9cc",
+  "hash": "0abdecc08ec919e12ab9ff58525dba9e",
   "termName": "2022-2023学年春季学期",
-  "updateTimeMs": 1677645841259
+  "updateTimeMs": 1677649153236
 }
