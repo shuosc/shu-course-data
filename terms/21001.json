@@ -137,7 +137,7 @@
       "courseName": "绘画里的中国:走进大师与经典",
       "credit": "1",
       "limitations": [],
-      "number": "15",
+      "number": "14",
       "position": "",
       "teacherId": "1000",
       "teacherName": "姚喜明",
@@ -9083,7 +9083,7 @@
       "courseName": "移动应用设计与开发",
       "credit": "3",
       "limitations": [],
-      "number": "67",
+      "number": "66",
       "position": "",
       "teacherId": "1001",
       "teacherName": "佘俊",
@@ -11865,7 +11865,7 @@
       "courseName": "毕业设计(论文)",
       "credit": "24",
       "limitations": [],
-      "number": "125",
+      "number": "126",
       "position": "",
       "teacherId": "1000",
       "teacherName": "丁洋",
@@ -21573,7 +21573,7 @@
       "courseName": "通用英语C(3)",
       "credit": "2",
       "limitations": [],
-      "number": "8",
+      "number": "9",
       "position": "",
       "teacherId": "1030",
       "teacherName": "张秀丽",
@@ -49152,7 +49152,7 @@
       "courseName": "拉片点读",
       "credit": "3",
       "limitations": [],
-      "number": "29",
+      "number": "28",
       "position": "",
       "teacherId": "3004",
       "teacherName": "刘延刚",
@@ -56002,7 +56002,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [],
-      "number": "67",
+      "number": "68",
       "position": "",
       "teacherId": "2009",
       "teacherName": "韩晓春",
@@ -58298,10 +58298,8 @@
       "courseId": "1658A001",
       "courseName": "思想政治理论课(实践)(1)",
       "credit": "1",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "115",
+      "limitations": [],
+      "number": "114",
       "position": "",
       "teacherId": "1026",
       "teacherName": "童颖",
@@ -58438,7 +58436,7 @@
       "courseName": "思想政治理论课(实践)(1)",
       "credit": "1",
       "limitations": [],
-      "number": "84",
+      "number": "85",
       "position": "",
       "teacherId": "1035",
       "teacherName": "宋芳明",
@@ -59149,8 +59147,10 @@
       "courseId": "1658A002",
       "courseName": "思想政治理论课(实践)(2)",
       "credit": "1",
-      "limitations": [],
-      "number": "111",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "112",
       "position": "",
       "teacherId": "1037",
       "teacherName": "张彦青",
@@ -71604,7 +71604,7 @@
       "teacherTitle": ""
     }
   ],
-  "hash": "e216cc3f2b862a9a2d15548b26749f14",
+  "hash": "00bd180fb776590cac83db57af1982b4",
   "termName": "2022-2023学年春季学期",
-  "updateTimeMs": 1677883198892
+  "updateTimeMs": 1677886713747
 }
