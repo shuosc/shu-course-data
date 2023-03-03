@@ -23859,7 +23859,7 @@
       "courseName": "日语入门(3)",
       "credit": "2",
       "limitations": [],
-      "number": "14",
+      "number": "13",
       "position": "",
       "teacherId": "1000",
       "teacherName": "青菁",
@@ -43606,8 +43606,10 @@
       "courseId": "1300RH62",
       "courseName": "意大利文艺复兴时期的艺术与爱",
       "credit": "2",
-      "limitations": [],
-      "number": "69",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "70",
       "position": "",
       "teacherId": "1000",
       "teacherName": "郭亮",
@@ -71602,7 +71604,7 @@
       "teacherTitle": ""
     }
   ],
-  "hash": "310de3fd6590cb5bd145c78c1c98f9b2",
+  "hash": "e216cc3f2b862a9a2d15548b26749f14",
   "termName": "2022-2023学年春季学期",
-  "updateTimeMs": 1677879534068
+  "updateTimeMs": 1677883198892
 }
