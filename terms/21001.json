@@ -2414,7 +2414,7 @@
       "courseName": "体育(6)",
       "credit": "1",
       "limitations": [],
-      "number": "20",
+      "number": "19",
       "position": "",
       "teacherId": "3035",
       "teacherName": "林建华",
@@ -2457,8 +2457,10 @@
       "courseId": "00853006",
       "courseName": "体育(6)",
       "credit": "1",
-      "limitations": [],
-      "number": "21",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "22",
       "position": "",
       "teacherId": "3482",
       "teacherName": "贺晓明",
@@ -23348,10 +23350,8 @@
       "courseId": "03004493",
       "courseName": "英语演辩与思辨",
       "credit": "2",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "45",
+      "limitations": [],
+      "number": "44",
       "position": "",
       "teacherId": "1007",
       "teacherName": "Ding Dong",
@@ -51677,7 +51677,7 @@
       "courseName": "毕业设计(论文)",
       "credit": "20",
       "limitations": [],
-      "number": "28",
+      "number": "29",
       "position": "",
       "teacherId": "2002",
       "teacherName": "贾利军等",
@@ -71602,7 +71602,7 @@
       "teacherTitle": ""
     }
   ],
-  "hash": "98eeb64e5b7983c87cc42ef00db23fc0",
+  "hash": "d29867f39fe2b75dea764685135c67d6",
   "termName": "2022-2023学年春季学期",
-  "updateTimeMs": 1677969493066
+  "updateTimeMs": 1677973122463
 }
