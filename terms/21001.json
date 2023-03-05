@@ -6873,8 +6873,10 @@
       "courseId": "00853610",
       "courseName": "游泳(3)",
       "credit": "1",
-      "limitations": [],
-      "number": "19",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "20",
       "position": "",
       "teacherId": "1921",
       "teacherName": "刘超云",
@@ -7447,7 +7449,7 @@
       "courseName": "高尔夫球(3)",
       "credit": "1",
       "limitations": [],
-      "number": "25",
+      "number": "24",
       "position": "",
       "teacherId": "1243",
       "teacherName": "郭蘋蘋",
@@ -29783,7 +29785,7 @@
       "courseName": "英美法经典案例解读",
       "credit": "2",
       "limitations": [],
-      "number": "24",
+      "number": "23",
       "position": "",
       "teacherId": "1000",
       "teacherName": "芦雪峰",
@@ -71622,7 +71624,7 @@
       "teacherTitle": ""
     }
   ],
-  "hash": "c0292e0d7014f189110f7366ed8ca09e",
+  "hash": "9e2b08f4a943fdf4f47fe0484f38b91e",
   "termName": "2022-2023学年春季学期",
-  "updateTimeMs": 1678055922033
+  "updateTimeMs": 1678059551608
 }
