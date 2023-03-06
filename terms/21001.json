@@ -23697,7 +23697,7 @@
       "courseName": "西班牙语入门(1)",
       "credit": "4",
       "limitations": [],
-      "number": "11",
+      "number": "10",
       "position": "",
       "teacherId": "1000",
       "teacherName": "夏婷婷",
@@ -27267,8 +27267,10 @@
       "courseId": "04156016",
       "courseName": "WTO概论",
       "credit": "3",
-      "limitations": [],
-      "number": "69",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "70",
       "position": "",
       "teacherId": "1000",
       "teacherName": "史青",
@@ -29872,8 +29874,10 @@
       "courseId": "0600RH33",
       "courseName": "一带一路与国际海事安全",
       "credit": "2",
-      "limitations": [],
-      "number": "69",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "70",
       "position": "",
       "teacherId": "1000",
       "teacherName": "陈敬根等",
@@ -71504,7 +71508,7 @@
       "teacherTitle": ""
     }
   ],
-  "hash": "53f4d864211181d679f08a6644807ae7",
+  "hash": "58b7d066f2c03a8d00705018fd549dd5",
   "termName": "2022-2023学年春季学期",
-  "updateTimeMs": 1678138739800
+  "updateTimeMs": 1678142448442
 }
