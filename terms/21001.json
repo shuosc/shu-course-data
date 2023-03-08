@@ -117,12 +117,14 @@
     },
     {
       "campus": "延长",
-      "capacity": "120",
+      "capacity": "0",
       "classTime": "一9-10 限美院",
       "courseId": "00000000",
       "courseName": "活动课",
       "credit": "0",
-      "limitations": [],
+      "limitations": [
+        "人数已满"
+      ],
       "number": "0",
       "position": "",
       "teacherId": "3002",
@@ -8863,7 +8865,7 @@
       "courseName": "工程制图与计算机绘图基础",
       "credit": "3",
       "limitations": [],
-      "number": "43",
+      "number": "44",
       "position": "",
       "teacherId": "1015",
       "teacherName": "刘霞",
@@ -17321,7 +17323,7 @@
       "courseName": "《新青年》与新文化运动",
       "credit": "2",
       "limitations": [],
-      "number": "50",
+      "number": "49",
       "position": "",
       "teacherId": "1000",
       "teacherName": "刘长林等",
@@ -31927,7 +31929,7 @@
       "courseName": "顶岗实习及毕业设计",
       "credit": "44",
       "limitations": [],
-      "number": "0",
+      "number": "3",
       "position": "",
       "teacherId": "1000",
       "teacherName": "马秀丽",
@@ -32123,7 +32125,7 @@
       "courseName": "顶岗实习及毕业设计",
       "credit": "38",
       "limitations": [],
-      "number": "7",
+      "number": "64",
       "position": "",
       "teacherId": "1000",
       "teacherName": "马秀丽",
@@ -32782,7 +32784,7 @@
       "courseName": "数据结构(2)",
       "credit": "4",
       "limitations": [],
-      "number": "31",
+      "number": "32",
       "position": "",
       "teacherId": "1001",
       "teacherName": "张景峤",
@@ -32969,8 +32971,10 @@
       "courseId": "08305076",
       "courseName": "计算机组成原理实验(2)",
       "credit": "1",
-      "limitations": [],
-      "number": "36",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "37",
       "position": "",
       "teacherId": "1002",
       "teacherName": "欧阳山",
@@ -38664,7 +38668,7 @@
       "courseName": "研究方法与前沿(冶金工程)",
       "credit": "2",
       "limitations": [],
-      "number": "23",
+      "number": "22",
       "position": "",
       "teacherId": "1000",
       "teacherName": "张云虎等",
@@ -38695,7 +38699,7 @@
       "courseName": "考古中的冶金",
       "credit": "2",
       "limitations": [],
-      "number": "6",
+      "number": "7",
       "position": "",
       "teacherId": "1000",
       "teacherName": "赵炳戈",
@@ -47139,8 +47143,10 @@
       "courseId": "1353A408",
       "courseName": "毕业设计(论文)",
       "credit": "30",
-      "limitations": [],
-      "number": "5",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "6",
       "position": "",
       "teacherId": "3005",
       "teacherName": "吴莹",
@@ -48953,7 +48959,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "45",
+      "number": "46",
       "position": "",
       "teacherId": "3000",
       "teacherName": "廖亮",
@@ -54511,8 +54517,10 @@
       "courseId": "16583109",
       "courseName": "形势与政策",
       "credit": "0",
-      "limitations": [],
-      "number": "111",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "112",
       "position": "",
       "teacherId": "1019",
       "teacherName": "李之喆",
@@ -55706,7 +55714,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [],
-      "number": "103",
+      "number": "104",
       "position": "",
       "teacherId": "1096",
       "teacherName": "张丹华",
@@ -61093,12 +61101,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "15",
+      "capacity": "0",
       "classTime": "三7-8 五3-4",
       "courseId": "18466156",
       "courseName": "钢及组合结构设计A",
       "credit": "4",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
       "number": "0",
       "position": "",
       "teacherId": "1000",
@@ -61922,8 +61933,10 @@
       "courseId": "2062A023",
       "courseName": "学年论文训练与写作",
       "credit": "2",
-      "limitations": [],
-      "number": "29",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "30",
       "position": "",
       "teacherId": "1000",
       "teacherName": "何二林",
@@ -64012,7 +64025,7 @@
       "courseName": "数字信号处理",
       "credit": "5",
       "limitations": [],
-      "number": "25",
+      "number": "24",
       "position": "",
       "teacherId": "1000",
       "teacherName": "余鸿文",
@@ -70993,7 +71006,7 @@
       "courseName": "理论中国",
       "credit": "3",
       "limitations": [],
-      "number": "56",
+      "number": "57",
       "position": "",
       "teacherId": "1000",
       "teacherName": "高立伟等",
@@ -71604,7 +71617,7 @@
       "teacherTitle": ""
     }
   ],
-  "hash": "cd83c86964a1aeb17174fef27c06df98",
+  "hash": "a93915917674a9cc440af9530586069a",
   "termName": "2022-2023学年春季学期",
-  "updateTimeMs": 1678232363338
+  "updateTimeMs": 1678241584019
 }
