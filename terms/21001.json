@@ -65811,12 +65811,14 @@
     },
     {
       "campus": "宝山",
-      "capacity": "2",
+      "capacity": "0",
       "classTime": "见学院小课表",
       "courseId": "31734101",
       "courseName": "钢琴演奏B(3)",
       "credit": "1",
-      "limitations": [],
+      "limitations": [
+        "人数已满"
+      ],
       "number": "0",
       "position": "",
       "teacherId": "1007",
@@ -65901,12 +65903,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "2",
+      "capacity": "0",
       "classTime": "见学院小课表",
       "courseId": "31734101",
       "courseName": "钢琴演奏B(3)",
       "credit": "1",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
       "number": "0",
       "position": "",
       "teacherId": "1013",
@@ -66306,12 +66311,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "2",
+      "capacity": "0",
       "classTime": "见学院小课表",
       "courseId": "31735118",
       "courseName": "声乐基础(3)",
       "credit": "1",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
       "number": "0",
       "position": "",
       "teacherId": "1014",
@@ -66446,12 +66454,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "1",
+      "capacity": "0",
       "classTime": "见学院小课表",
       "courseId": "31735157",
       "courseName": "音乐学专业课(3)",
       "credit": "2",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
       "number": "0",
       "position": "",
       "teacherId": "1009",
@@ -67946,12 +67957,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "1",
+      "capacity": "0",
       "classTime": "见学院小课表",
       "courseId": "31975015",
       "courseName": "器乐演奏(3)",
       "credit": "2",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
       "number": "0",
       "position": "",
       "teacherId": "1002",
@@ -68200,12 +68214,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "1",
+      "capacity": "0",
       "classTime": "见学院小课表",
       "courseId": "31975015",
       "courseName": "器乐演奏(3)",
       "credit": "2",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
       "number": "0",
       "position": "",
       "teacherId": "1018",
@@ -68438,12 +68455,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "1",
+      "capacity": "0",
       "classTime": "见学院小课表",
       "courseId": "31975018",
       "courseName": "器乐演奏(6)",
       "credit": "2",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
       "number": "0",
       "position": "",
       "teacherId": "1008",
@@ -71617,7 +71637,7 @@
       "teacherTitle": ""
     }
   ],
-  "hash": "a93915917674a9cc440af9530586069a",
+  "hash": "750aa724119f5271b727267b8fb4c0f8",
   "termName": "2022-2023学年春季学期",
-  "updateTimeMs": 1678241584019
+  "updateTimeMs": 1678244907216
 }
