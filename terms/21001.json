@@ -38925,14 +38925,17 @@
     },
     {
       "campus": "宝山",
-      "capacity": "25",
+      "capacity": "0",
       "classTime": "五7-8",
       "courseId": "10396102",
       "courseName": "有色合金材料",
       "credit": "2",
-      "limitations": [],
-      "number": "1",
-      "position": "计203",
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
+      "number": "0",
+      "position": "不开",
       "teacherId": "1000",
       "teacherName": "金曼",
       "teacherTitle": "副教授"
@@ -71649,7 +71652,7 @@
       "teacherTitle": ""
     }
   ],
-  "hash": "07359f3ef833519e458bbe859beb8d9d",
+  "hash": "40a9f04997540187c1f3028215bede7c",
   "termName": "2022-2023学年春季学期",
-  "updateTimeMs": 1678420006753
+  "updateTimeMs": 1678426742784
 }
