@@ -2010,7 +2010,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "20",
+      "number": "21",
       "position": "体操房",
       "teacherId": "2566",
       "teacherName": "陈琳",
@@ -9093,7 +9093,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "50",
+      "number": "51",
       "position": "D503机房",
       "teacherId": "1002",
       "teacherName": "邹启明",
@@ -10867,7 +10867,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "111",
+      "number": "112",
       "position": "CJ103",
       "teacherId": "1003",
       "teacherName": "徐玉兰",
@@ -11352,8 +11352,10 @@
       "courseId": "01014127",
       "courseName": "微积分(3)",
       "credit": "4",
-      "limitations": [],
-      "number": "101",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "102",
       "position": "AJ204",
       "teacherId": "1015",
       "teacherName": "刘东杰",
@@ -12566,7 +12568,7 @@
       "courseName": "大学物理(2)",
       "credit": "4",
       "limitations": [],
-      "number": "100",
+      "number": "101",
       "position": "EJ104",
       "teacherId": "1022",
       "teacherName": "查访星",
@@ -14191,8 +14193,10 @@
       "courseId": "01034121",
       "courseName": "大学物理实验(2)",
       "credit": "1",
-      "limitations": [],
-      "number": "21",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "22",
       "position": "F楼1楼",
       "teacherId": "1097",
       "teacherName": "耿在斌",
@@ -15122,7 +15126,7 @@
       "courseName": "大学化学实验",
       "credit": "1",
       "limitations": [],
-      "number": "11",
+      "number": "12",
       "position": "HA四楼",
       "teacherId": "1006",
       "teacherName": "徐鹏",
@@ -21003,7 +21007,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "41",
+      "number": "42",
       "position": "D121",
       "teacherId": "1008",
       "teacherName": "蔡石兴",
@@ -56462,7 +56466,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "130",
+      "number": "131",
       "position": "BJ303",
       "teacherId": "1003",
       "teacherName": "孙会岩",
@@ -57801,7 +57805,7 @@
       "courseName": "劳动教育理论课",
       "credit": "1",
       "limitations": [],
-      "number": "22",
+      "number": "23",
       "position": "A214",
       "teacherId": "1012",
       "teacherName": "高红明",
@@ -58414,7 +58418,7 @@
       "courseName": "思想政治理论课(实践)(1)",
       "credit": "1",
       "limitations": [],
-      "number": "47",
+      "number": "48",
       "position": "D112",
       "teacherId": "1033",
       "teacherName": "李坚",
@@ -71654,7 +71658,7 @@
       "teacherTitle": ""
     }
   ],
-  "hash": "66c8b0aa1e3097dc444c4f9ae12e214a",
+  "hash": "de86554c7f609ed3d777d40d86dc1def",
   "termName": "2022-2023学年春季学期",
-  "updateTimeMs": 1678931873830
+  "updateTimeMs": 1678935232365
 }
