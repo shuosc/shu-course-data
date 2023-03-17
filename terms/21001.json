@@ -1026,7 +1026,7 @@
       "credit": "4",
       "limitations": [],
       "number": "28",
-      "position": "D220",
+      "position": "HE304b",
       "teacherId": "1000",
       "teacherName": "李凯",
       "teacherTitle": "副教授"
@@ -16779,7 +16779,7 @@
       "credit": "1",
       "limitations": [],
       "number": "24",
-      "position": "A117",
+      "position": "HE109",
       "teacherId": "1000",
       "teacherName": "冯捷敏",
       "teacherTitle": "实验师"
@@ -20910,8 +20910,10 @@
       "courseId": "03004474",
       "courseName": "通用英语D(3)",
       "credit": "2",
-      "limitations": [],
-      "number": "36",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "42",
       "position": "C111",
       "teacherId": "1002",
       "teacherName": "陈荣",
@@ -20925,7 +20927,7 @@
       "courseName": "通用英语D(3)",
       "credit": "2",
       "limitations": [],
-      "number": "46",
+      "number": "49",
       "position": "C111",
       "teacherId": "1003",
       "teacherName": "陈荣",
@@ -20938,8 +20940,10 @@
       "courseId": "03004474",
       "courseName": "通用英语D(3)",
       "credit": "2",
-      "limitations": [],
-      "number": "41",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "47",
       "position": "C111",
       "teacherId": "1004",
       "teacherName": "陈荣",
@@ -20953,7 +20957,7 @@
       "courseName": "通用英语D(3)",
       "credit": "2",
       "limitations": [],
-      "number": "26",
+      "number": "37",
       "position": "D121",
       "teacherId": "1005",
       "teacherName": "蔡石兴",
@@ -20966,8 +20970,10 @@
       "courseId": "03004474",
       "courseName": "通用英语D(3)",
       "credit": "2",
-      "limitations": [],
-      "number": "41",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "47",
       "position": "D121",
       "teacherId": "1006",
       "teacherName": "蔡石兴",
@@ -20981,7 +20987,7 @@
       "courseName": "通用英语D(3)",
       "credit": "2",
       "limitations": [],
-      "number": "31",
+      "number": "34",
       "position": "D121",
       "teacherId": "1007",
       "teacherName": "蔡石兴",
@@ -20997,7 +21003,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "41",
+      "number": "42",
       "position": "D121",
       "teacherId": "1008",
       "teacherName": "蔡石兴",
@@ -21011,7 +21017,7 @@
       "courseName": "通用英语D(3)",
       "credit": "2",
       "limitations": [],
-      "number": "31",
+      "number": "32",
       "position": "Ⅳ204",
       "teacherId": "3001",
       "teacherName": "黄红",
@@ -21034,12 +21040,12 @@
     {
       "campus": "延长",
       "capacity": "41",
-      "classTime": "(一5-6",
+      "classTime": "一5-6",
       "courseId": "03004474",
       "courseName": "通用英语D(3)",
       "credit": "2",
       "limitations": [],
-      "number": "34",
+      "number": "35",
       "position": "Ⅳ204",
       "teacherId": "3003",
       "teacherName": "黄红",
@@ -21053,7 +21059,7 @@
       "courseName": "通用英语D(3)",
       "credit": "2",
       "limitations": [],
-      "number": "31",
+      "number": "34",
       "position": "Ⅳ104",
       "teacherId": "3004",
       "teacherName": "黄红",
@@ -21095,7 +21101,7 @@
       "courseName": "通用英语C(3)",
       "credit": "2",
       "limitations": [],
-      "number": "27",
+      "number": "31",
       "position": "C108",
       "teacherId": "1002",
       "teacherName": "宋勤",
@@ -21123,7 +21129,7 @@
       "courseName": "通用英语C(3)",
       "credit": "2",
       "limitations": [],
-      "number": "29",
+      "number": "31",
       "position": "D109",
       "teacherId": "1004",
       "teacherName": "徐群",
@@ -21151,7 +21157,7 @@
       "courseName": "通用英语C(3)",
       "credit": "2",
       "limitations": [],
-      "number": "29",
+      "number": "31",
       "position": "A206",
       "teacherId": "1006",
       "teacherName": "蔡春红",
@@ -21179,7 +21185,7 @@
       "courseName": "通用英语C(3)",
       "credit": "2",
       "limitations": [],
-      "number": "29",
+      "number": "32",
       "position": "A206",
       "teacherId": "1008",
       "teacherName": "蔡春红",
@@ -21192,8 +21198,10 @@
       "courseId": "03004479",
       "courseName": "通用英语C(3)",
       "credit": "2",
-      "limitations": [],
-      "number": "31",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "32",
       "position": "A206",
       "teacherId": "1009",
       "teacherName": "蔡春红",
@@ -21220,8 +21228,10 @@
       "courseId": "03004479",
       "courseName": "通用英语C(3)",
       "credit": "2",
-      "limitations": [],
-      "number": "31",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "36",
       "position": "A306",
       "teacherId": "1011",
       "teacherName": "陈卫民",
@@ -21234,8 +21244,10 @@
       "courseId": "03004479",
       "courseName": "通用英语C(3)",
       "credit": "2",
-      "limitations": [],
-      "number": "30",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "33",
       "position": "A306",
       "teacherId": "1012",
       "teacherName": "陈卫民",
@@ -21248,8 +21260,10 @@
       "courseId": "03004479",
       "courseName": "通用英语C(3)",
       "credit": "2",
-      "limitations": [],
-      "number": "29",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "35",
       "position": "A306",
       "teacherId": "1013",
       "teacherName": "陈卫民",
@@ -21277,7 +21291,7 @@
       "courseName": "通用英语C(3)",
       "credit": "2",
       "limitations": [],
-      "number": "31",
+      "number": "32",
       "position": "C112",
       "teacherId": "1015",
       "teacherName": "戴朝晖",
@@ -21305,7 +21319,7 @@
       "courseName": "通用英语C(3)",
       "credit": "2",
       "limitations": [],
-      "number": "29",
+      "number": "30",
       "position": "A306",
       "teacherId": "1017",
       "teacherName": "张季红",
@@ -21318,8 +21332,10 @@
       "courseId": "03004479",
       "courseName": "通用英语C(3)",
       "credit": "2",
-      "limitations": [],
-      "number": "28",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "36",
       "position": "A306",
       "teacherId": "1018",
       "teacherName": "张季红",
@@ -21332,8 +21348,10 @@
       "courseId": "03004479",
       "courseName": "通用英语C(3)",
       "credit": "2",
-      "limitations": [],
-      "number": "30",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "33",
       "position": "A306",
       "teacherId": "1019",
       "teacherName": "张季红",
@@ -21361,7 +21379,7 @@
       "courseName": "通用英语C(3)",
       "credit": "2",
       "limitations": [],
-      "number": "28",
+      "number": "30",
       "position": "A214",
       "teacherId": "1021",
       "teacherName": "温年芳",
@@ -21374,8 +21392,10 @@
       "courseId": "03004479",
       "courseName": "通用英语C(3)",
       "credit": "2",
-      "limitations": [],
-      "number": "29",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "32",
       "position": "A214",
       "teacherId": "1022",
       "teacherName": "温年芳",
@@ -21388,8 +21408,10 @@
       "courseId": "03004479",
       "courseName": "通用英语C(3)",
       "credit": "2",
-      "limitations": [],
-      "number": "31",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "37",
       "position": "A214",
       "teacherId": "1023",
       "teacherName": "温年芳",
@@ -21416,8 +21438,10 @@
       "courseId": "03004479",
       "courseName": "通用英语C(3)",
       "credit": "2",
-      "limitations": [],
-      "number": "31",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "33",
       "position": "C512",
       "teacherId": "1025",
       "teacherName": "叶玮玮",
@@ -21430,8 +21454,10 @@
       "courseId": "03004479",
       "courseName": "通用英语C(3)",
       "credit": "2",
-      "limitations": [],
-      "number": "29",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "36",
       "position": "A214",
       "teacherId": "1026",
       "teacherName": "周健华",
@@ -21444,8 +21470,10 @@
       "courseId": "03004479",
       "courseName": "通用英语C(3)",
       "credit": "2",
-      "limitations": [],
-      "number": "31",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "33",
       "position": "A214",
       "teacherId": "1027",
       "teacherName": "周健华",
@@ -21458,8 +21486,10 @@
       "courseId": "03004479",
       "courseName": "通用英语C(3)",
       "credit": "2",
-      "limitations": [],
-      "number": "29",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "33",
       "position": "A214",
       "teacherId": "1028",
       "teacherName": "周健华",
@@ -21472,8 +21502,10 @@
       "courseId": "03004479",
       "courseName": "通用英语C(3)",
       "credit": "2",
-      "limitations": [],
-      "number": "32",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "36",
       "position": "A214",
       "teacherId": "1029",
       "teacherName": "周健华",
@@ -21487,7 +21519,7 @@
       "courseName": "通用英语C(3)",
       "credit": "2",
       "limitations": [],
-      "number": "10",
+      "number": "19",
       "position": "D314",
       "teacherId": "1030",
       "teacherName": "张秀丽",
@@ -21501,7 +21533,7 @@
       "courseName": "通用英语C(3)",
       "credit": "2",
       "limitations": [],
-      "number": "25",
+      "number": "31",
       "position": "D314",
       "teacherId": "1031",
       "teacherName": "张秀丽",
@@ -21544,8 +21576,10 @@
       "courseId": "03004479",
       "courseName": "通用英语C(3)",
       "credit": "2",
-      "limitations": [],
-      "number": "28",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "33",
       "position": "Ⅳ207",
       "teacherId": "3003",
       "teacherName": "周育",
@@ -21559,7 +21593,7 @@
       "courseName": "通用英语C(3)",
       "credit": "2",
       "limitations": [],
-      "number": "21",
+      "number": "23",
       "position": "Ⅳ207",
       "teacherId": "3004",
       "teacherName": "周育",
@@ -21589,8 +21623,10 @@
       "courseId": "03004482",
       "courseName": "通用学术英语B(3)",
       "credit": "2",
-      "limitations": [],
-      "number": "27",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "30",
       "position": "A104",
       "teacherId": "1001",
       "teacherName": "白静远",
@@ -21604,7 +21640,7 @@
       "courseName": "通用学术英语B(3)",
       "credit": "2",
       "limitations": [],
-      "number": "26",
+      "number": "28",
       "position": "A104",
       "teacherId": "1002",
       "teacherName": "白静远",
@@ -21617,8 +21653,10 @@
       "courseId": "03004482",
       "courseName": "通用学术英语B(3)",
       "credit": "2",
-      "limitations": [],
-      "number": "31",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "37",
       "position": "A104",
       "teacherId": "1003",
       "teacherName": "白静远",
@@ -21632,7 +21670,7 @@
       "courseName": "通用学术英语B(3)",
       "credit": "2",
       "limitations": [],
-      "number": "27",
+      "number": "29",
       "position": "A104",
       "teacherId": "1004",
       "teacherName": "白静远",
@@ -21659,8 +21697,10 @@
       "courseId": "03004482",
       "courseName": "通用学术英语B(3)",
       "credit": "2",
-      "limitations": [],
-      "number": "28",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "30",
       "position": "C510",
       "teacherId": "1006",
       "teacherName": "蔡俏兰",
@@ -21687,8 +21727,10 @@
       "courseId": "03004482",
       "courseName": "通用学术英语B(3)",
       "credit": "2",
-      "limitations": [],
-      "number": "29",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "30",
       "position": "C510",
       "teacherId": "1008",
       "teacherName": "蔡俏兰",
@@ -21715,8 +21757,10 @@
       "courseId": "03004482",
       "courseName": "通用学术英语B(3)",
       "credit": "2",
-      "limitations": [],
-      "number": "26",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "30",
       "position": "A308",
       "teacherId": "1010",
       "teacherName": "范金萍",
@@ -21730,7 +21774,7 @@
       "courseName": "通用学术英语B(3)",
       "credit": "2",
       "limitations": [],
-      "number": "26",
+      "number": "29",
       "position": "A308",
       "teacherId": "1011",
       "teacherName": "范金萍",
@@ -21799,8 +21843,10 @@
       "courseId": "03004482",
       "courseName": "通用学术英语B(3)",
       "credit": "2",
-      "limitations": [],
-      "number": "28",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "30",
       "position": "A113",
       "teacherId": "1016",
       "teacherName": "金焱",
@@ -21814,7 +21860,7 @@
       "courseName": "通用学术英语B(3)",
       "credit": "2",
       "limitations": [],
-      "number": "13",
+      "number": "17",
       "position": "A425",
       "teacherId": "1017",
       "teacherName": "贺莉",
@@ -21828,7 +21874,7 @@
       "courseName": "通用学术英语B(3)",
       "credit": "2",
       "limitations": [],
-      "number": "26",
+      "number": "29",
       "position": "C601",
       "teacherId": "1018",
       "teacherName": "徐婷",
@@ -21844,7 +21890,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "30",
+      "number": "31",
       "position": "B426",
       "teacherId": "1019",
       "teacherName": "杨兆明",
@@ -21930,7 +21976,7 @@
       "courseName": "通用学术英语B(3)",
       "credit": "2",
       "limitations": [],
-      "number": "28",
+      "number": "29",
       "position": "A204",
       "teacherId": "1025",
       "teacherName": "谢怡沁",
@@ -21943,8 +21989,10 @@
       "courseId": "03004482",
       "courseName": "通用学术英语B(3)",
       "credit": "2",
-      "limitations": [],
-      "number": "28",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "31",
       "position": "A204",
       "teacherId": "1026",
       "teacherName": "谢怡沁",
@@ -21986,7 +22034,7 @@
       "courseName": "通用学术英语B(3)",
       "credit": "2",
       "limitations": [],
-      "number": "27",
+      "number": "29",
       "position": "D111",
       "teacherId": "1029",
       "teacherName": "薛清",
@@ -21999,8 +22047,10 @@
       "courseId": "03004482",
       "courseName": "通用学术英语B(3)",
       "credit": "2",
-      "limitations": [],
-      "number": "28",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "31",
       "position": "D111",
       "teacherId": "1030",
       "teacherName": "薛清",
@@ -22014,7 +22064,7 @@
       "courseName": "通用学术英语B(3)",
       "credit": "2",
       "limitations": [],
-      "number": "27",
+      "number": "29",
       "position": "D111",
       "teacherId": "1031",
       "teacherName": "薛清",
@@ -22045,7 +22095,7 @@
       "courseName": "通用学术英语B(3)",
       "credit": "2",
       "limitations": [],
-      "number": "18",
+      "number": "29",
       "position": "B325",
       "teacherId": "1033",
       "teacherName": "杨兆明",
@@ -22075,8 +22125,10 @@
       "courseId": "03004482",
       "courseName": "通用学术英语B(3)",
       "credit": "2",
-      "limitations": [],
-      "number": "26",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "30",
       "position": "B320",
       "teacherId": "1035",
       "teacherName": "杨兆明",
@@ -22089,8 +22141,10 @@
       "courseId": "03004482",
       "courseName": "通用学术英语B(3)",
       "credit": "2",
-      "limitations": [],
-      "number": "29",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "31",
       "position": "C116",
       "teacherId": "1036",
       "teacherName": "张岚",
@@ -22120,7 +22174,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "33",
+      "number": "36",
       "position": "C116",
       "teacherId": "1038",
       "teacherName": "张岚",
@@ -22134,7 +22188,7 @@
       "courseName": "通用学术英语B(3)",
       "credit": "2",
       "limitations": [],
-      "number": "27",
+      "number": "28",
       "position": "C116",
       "teacherId": "1039",
       "teacherName": "张岚",
@@ -22162,7 +22216,7 @@
       "courseName": "通用学术英语B(3)",
       "credit": "2",
       "limitations": [],
-      "number": "27",
+      "number": "29",
       "position": "A310",
       "teacherId": "1041",
       "teacherName": "张苹",
@@ -22175,8 +22229,10 @@
       "courseId": "03004482",
       "courseName": "通用学术英语B(3)",
       "credit": "2",
-      "limitations": [],
-      "number": "26",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "32",
       "position": "A310",
       "teacherId": "1042",
       "teacherName": "张苹",
@@ -22190,7 +22246,7 @@
       "courseName": "通用学术英语B(3)",
       "credit": "2",
       "limitations": [],
-      "number": "26",
+      "number": "28",
       "position": "A310",
       "teacherId": "1043",
       "teacherName": "张苹",
@@ -22204,7 +22260,7 @@
       "courseName": "通用学术英语B(3)",
       "credit": "2",
       "limitations": [],
-      "number": "9",
+      "number": "16",
       "position": "A114",
       "teacherId": "1044",
       "teacherName": "章健",
@@ -22218,7 +22274,7 @@
       "courseName": "通用学术英语B(3)",
       "credit": "2",
       "limitations": [],
-      "number": "28",
+      "number": "29",
       "position": "A114",
       "teacherId": "1045",
       "teacherName": "章健",
@@ -22232,7 +22288,7 @@
       "courseName": "通用学术英语B(3)",
       "credit": "2",
       "limitations": [],
-      "number": "16",
+      "number": "19",
       "position": "A114",
       "teacherId": "1046",
       "teacherName": "章健",
@@ -22245,8 +22301,10 @@
       "courseId": "03004482",
       "courseName": "通用学术英语B(3)",
       "credit": "2",
-      "limitations": [],
-      "number": "22",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "30",
       "position": "A114",
       "teacherId": "1047",
       "teacherName": "章健",
@@ -22274,7 +22332,7 @@
       "courseName": "通用学术英语B(3)",
       "credit": "2",
       "limitations": [],
-      "number": "28",
+      "number": "29",
       "position": "A421",
       "teacherId": "1049",
       "teacherName": "朱虹",
@@ -22287,8 +22345,10 @@
       "courseId": "03004482",
       "courseName": "通用学术英语B(3)",
       "credit": "2",
-      "limitations": [],
-      "number": "29",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "31",
       "position": "A421",
       "teacherId": "1050",
       "teacherName": "朱虹",
@@ -22315,8 +22375,10 @@
       "courseId": "03004482",
       "courseName": "通用学术英语B(3)",
       "credit": "2",
-      "limitations": [],
-      "number": "13",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "15",
       "position": "Ⅳ206",
       "teacherId": "3001",
       "teacherName": "叶新",
@@ -22393,7 +22455,7 @@
       "courseName": "通用学术英语A(3)",
       "credit": "2",
       "limitations": [],
-      "number": "25",
+      "number": "26",
       "position": "C110",
       "teacherId": "1002",
       "teacherName": "白岸杨",
@@ -22406,8 +22468,10 @@
       "courseId": "03004485",
       "courseName": "通用学术英语A(3)",
       "credit": "2",
-      "limitations": [],
-      "number": "24",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "26",
       "position": "A416",
       "teacherId": "1003",
       "teacherName": "陈莎",
@@ -22448,8 +22512,10 @@
       "courseId": "03004485",
       "courseName": "通用学术英语A(3)",
       "credit": "2",
-      "limitations": [],
-      "number": "21",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "28",
       "position": "A412",
       "teacherId": "1006",
       "teacherName": "程倩雯",
@@ -22462,8 +22528,10 @@
       "courseId": "03004485",
       "courseName": "通用学术英语A(3)",
       "credit": "2",
-      "limitations": [],
-      "number": "25",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "26",
       "position": "A412",
       "teacherId": "1007",
       "teacherName": "程倩雯",
@@ -22491,7 +22559,7 @@
       "courseName": "通用学术英语A(3)",
       "credit": "2",
       "limitations": [],
-      "number": "22",
+      "number": "23",
       "position": "C118",
       "teacherId": "1009",
       "teacherName": "雷远旻",
@@ -22518,8 +22586,10 @@
       "courseId": "03004485",
       "courseName": "通用学术英语A(3)",
       "credit": "2",
-      "limitations": [],
-      "number": "28",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "32",
       "position": "C510",
       "teacherId": "1011",
       "teacherName": "邵庆华",
@@ -22549,7 +22619,7 @@
       "courseName": "通用学术英语A(3)",
       "credit": "2",
       "limitations": [],
-      "number": "12",
+      "number": "24",
       "position": "A114",
       "teacherId": "1013",
       "teacherName": "沈力",
@@ -22562,8 +22632,10 @@
       "courseId": "03004485",
       "courseName": "通用学术英语A(3)",
       "credit": "2",
-      "limitations": [],
-      "number": "25",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "32",
       "position": "A114",
       "teacherId": "1014",
       "teacherName": "沈力",
@@ -22590,8 +22662,10 @@
       "courseId": "03004485",
       "courseName": "通用学术英语A(3)",
       "credit": "2",
-      "limitations": [],
-      "number": "23",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "25",
       "position": "A114",
       "teacherId": "1016",
       "teacherName": "沈力",
@@ -22605,7 +22679,7 @@
       "courseName": "通用学术英语A(3)",
       "credit": "2",
       "limitations": [],
-      "number": "25",
+      "number": "26",
       "position": "A310",
       "teacherId": "1017",
       "teacherName": "孙序",
@@ -22618,8 +22692,10 @@
       "courseId": "03004485",
       "courseName": "通用学术英语A(3)",
       "credit": "2",
-      "limitations": [],
-      "number": "25",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "26",
       "position": "B427",
       "teacherId": "1018",
       "teacherName": "虞怡达",
@@ -22674,8 +22750,10 @@
       "courseId": "03004485",
       "courseName": "通用学术英语A(3)",
       "credit": "2",
-      "limitations": [],
-      "number": "21",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "26",
       "position": "A123",
       "teacherId": "1022",
       "teacherName": "吴雁翔",
@@ -22688,8 +22766,10 @@
       "courseId": "03004485",
       "courseName": "通用学术英语A(3)",
       "credit": "2",
-      "limitations": [],
-      "number": "19",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "26",
       "position": "A123",
       "teacherId": "1023",
       "teacherName": "吴雁翔",
@@ -42468,7 +42548,7 @@
     {
       "campus": "宝山",
       "capacity": "45",
-      "classTime": "一9-11 (1-10周)",
+      "classTime": "",
       "courseId": "13004035",
       "courseName": "美学A",
       "credit": "3",
@@ -42484,7 +42564,7 @@
     {
       "campus": "宝山",
       "capacity": "45",
-      "classTime": "二9-11 (1-10周)",
+      "classTime": "",
       "courseId": "13004035",
       "courseName": "美学A",
       "credit": "3",
@@ -42498,7 +42578,7 @@
     {
       "campus": "宝山",
       "capacity": "32",
-      "classTime": "二9-11 (1-10周)",
+      "classTime": "",
       "courseId": "13004099",
       "courseName": "外国美术史A",
       "credit": "3",
@@ -42514,7 +42594,7 @@
     {
       "campus": "宝山",
       "capacity": "32",
-      "classTime": "三9-11 (1-10周)",
+      "classTime": "",
       "courseId": "13004099",
       "courseName": "外国美术史A",
       "credit": "3",
@@ -42752,7 +42832,7 @@
     {
       "campus": "宝山",
       "capacity": "50",
-      "classTime": "二5-6双 四5-6 (1-10周)",
+      "classTime": "",
       "courseId": "13004154",
       "courseName": "世界设计史",
       "credit": "3",
@@ -42766,7 +42846,7 @@
     {
       "campus": "延长",
       "capacity": "41",
-      "classTime": "二1-2 (1-10周) 四1-2单",
+      "classTime": "",
       "courseId": "13004154",
       "courseName": "世界设计史",
       "credit": "3",
@@ -42780,7 +42860,7 @@
     {
       "campus": "延长",
       "capacity": "15",
-      "classTime": "二3-4 (1-10周) 四3-4单",
+      "classTime": "",
       "courseId": "13004154",
       "courseName": "世界设计史",
       "credit": "3",
@@ -42796,7 +42876,7 @@
     {
       "campus": "宝山",
       "capacity": "20",
-      "classTime": "一1-4 (9-10周) 二1-4 (9-10周) 三1-4 (9-10周) 四1-4 (9-10周) 五1-4 (9-10周)",
+      "classTime": "",
       "courseId": "13006045",
       "courseName": "书法(选)",
       "credit": "3",
@@ -42810,7 +42890,7 @@
     {
       "campus": "宝山",
       "capacity": "8",
-      "classTime": "一1-4 (9-10周) 二1-4 (9-10周) 三1-4 (9-10周) 四1-4 (9-10周) 五1-4 (9-10周)",
+      "classTime": "",
       "courseId": "13006047",
       "courseName": "油画临摹(1)(选)",
       "credit": "3",
@@ -42824,7 +42904,7 @@
     {
       "campus": "宝山",
       "capacity": "0",
-      "classTime": "(一1-4(9-10周) (二1-4(9-10周) (三1-4(9-10周) (四1-4(9-10周) (五1-4(9-10周)",
+      "classTime": "",
       "courseId": "13006048",
       "courseName": "油画临摹(2)(选)",
       "credit": "3",
@@ -42841,7 +42921,7 @@
     {
       "campus": "宝山",
       "capacity": "0",
-      "classTime": "(一1-4(9-10周) (二1-4(9-10周) (三1-4(9-10周) (四1-4(9-10周) (五1-4(9-10周)",
+      "classTime": "",
       "courseId": "13006049",
       "courseName": "油画临摹(3)(选)",
       "credit": "3",
@@ -42858,7 +42938,7 @@
     {
       "campus": "宝山",
       "capacity": "0",
-      "classTime": "(一1-4(9-10周) (二1-4(9-10周) (三1-4(9-10周) (四1-4(9-10周) (五1-4(9-10周)",
+      "classTime": "",
       "courseId": "13006066",
       "courseName": "陶艺创作(选)",
       "credit": "3",
@@ -42875,7 +42955,7 @@
     {
       "campus": "宝山",
       "capacity": "0",
-      "classTime": "(一1-4(9-10周) (二1-4(9-10周) (三1-4(9-10周) (四1-4(9-10周) (五1-4(9-10周)",
+      "classTime": "",
       "courseId": "13006067",
       "courseName": "玻璃艺术(选)",
       "credit": "3",
@@ -42892,7 +42972,7 @@
     {
       "campus": "宝山",
       "capacity": "10",
-      "classTime": "一1-4 (9-10周) 二1-4 (9-10周) 三1-4 (9-10周) 四1-4 (9-10周) 五1-4 (9-10周)",
+      "classTime": "",
       "courseId": "13006067",
       "courseName": "玻璃艺术(选)",
       "credit": "3",
@@ -42906,7 +42986,7 @@
     {
       "campus": "宝山",
       "capacity": "20",
-      "classTime": "一5-8 (9-10周) 二5-8 (9-10周) 四5-8 (9-10周) 五2-4 (9-10周)",
+      "classTime": "",
       "courseId": "13006070",
       "courseName": "现代水彩画技法(3)(选)",
       "credit": "3",
@@ -42920,7 +43000,7 @@
     {
       "campus": "宝山",
       "capacity": "0",
-      "classTime": "(一1-4(9-10周) (二1-4(9-10周) (三1-4(9-10周) (四1-4(9-10周) (五1-4(9-10周)",
+      "classTime": "",
       "courseId": "13006074",
       "courseName": "黑白木刻(选)",
       "credit": "3",
@@ -42937,7 +43017,7 @@
     {
       "campus": "宝山",
       "capacity": "6",
-      "classTime": "一1-4 (9-10周) 二1-4 (9-10周) 三1-4 (9-10周) 四1-4 (9-10周) 五1-4 (9-10周)",
+      "classTime": "",
       "courseId": "13006075",
       "courseName": "版画(藏书票艺术)(选)",
       "credit": "3",
@@ -42951,7 +43031,7 @@
     {
       "campus": "宝山",
       "capacity": "10",
-      "classTime": "一1-4 (9-10周) 二1-4 (9-10周) 三1-4 (9-10周) 四1-3 (9-10周)",
+      "classTime": "",
       "courseId": "13006082",
       "courseName": "首饰/金工艺术(选)",
       "credit": "3",
@@ -42967,7 +43047,7 @@
     {
       "campus": "宝山",
       "capacity": "20",
-      "classTime": "一1-4 (9-10周) 二1-4 (9-10周) 三1-4 (9-10周) 四1-4 (9-10周) 五1-4 (9-10周)",
+      "classTime": "",
       "courseId": "13006107",
       "courseName": "材料与空间造型(选)",
       "credit": "3",
@@ -42981,7 +43061,7 @@
     {
       "campus": "宝山",
       "capacity": "10",
-      "classTime": "一5-8 (9-10周) 二5-8 (9-10周) 三5-8 (9-10周) 四5-7 (9-10周)",
+      "classTime": "",
       "courseId": "13006122",
       "courseName": "现代首饰艺术设计与欣赏(选)",
       "credit": "3",
@@ -42995,7 +43075,7 @@
     {
       "campus": "宝山",
       "capacity": "0",
-      "classTime": "(一1-4(9-10周) (二1-4(9-10周) (三1-4(9-10周) (四1-4(9-10周) (五1-4(9-10周)",
+      "classTime": "",
       "courseId": "13006145",
       "courseName": "色粉笔画基础(3)(选)",
       "credit": "3",
@@ -43012,7 +43092,7 @@
     {
       "campus": "宝山",
       "capacity": "20",
-      "classTime": "一1-4 (9-10周) 二1-4 (9-10周) 三1-4 (9-10周) 四1-3 (9-10周)",
+      "classTime": "",
       "courseId": "13006146",
       "courseName": "数字生成艺术(选)",
       "credit": "3",
@@ -43026,7 +43106,7 @@
     {
       "campus": "宝山",
       "capacity": "0",
-      "classTime": "(一1-4(9-10周) (二1-4(9-10周) (三1-4(9-10周) (四1-3(9-10周)",
+      "classTime": "",
       "courseId": "13006146",
       "courseName": "数字生成艺术(选)",
       "credit": "3",
@@ -43043,7 +43123,7 @@
     {
       "campus": "宝山",
       "capacity": "20",
-      "classTime": "一1-4 (9-10周) 二1-4 (9-10周) 三1-4 (9-10周) 四1-3 (9-10周)",
+      "classTime": "",
       "courseId": "13006147",
       "courseName": "交互界面设计(选)",
       "credit": "3",
@@ -43057,7 +43137,7 @@
     {
       "campus": "延长",
       "capacity": "20",
-      "classTime": "一1-4 (9-10周) 二5-8 (9-10周) 三1-4 (9-10周) 四6-8 (9-10周)",
+      "classTime": "",
       "courseId": "13006147",
       "courseName": "交互界面设计(选)",
       "credit": "3",
@@ -43071,7 +43151,7 @@
     {
       "campus": "宝山",
       "capacity": "20",
-      "classTime": "一1-4 (9-10周) 二1-4 (9-10周) 三1-4 (9-10周) 四1-3 (9-10周)",
+      "classTime": "",
       "courseId": "13006149",
       "courseName": "插画基础(选)",
       "credit": "3",
@@ -43085,7 +43165,7 @@
     {
       "campus": "宝山",
       "capacity": "20",
-      "classTime": "一1-4 (9-10周) 二1-4 (9-10周) 三1-4 (9-10周) 四1-3 (9-10周)",
+      "classTime": "",
       "courseId": "13006150",
       "courseName": "绘本创作(选)",
       "credit": "3",
@@ -43099,7 +43179,7 @@
     {
       "campus": "宝山",
       "capacity": "0",
-      "classTime": "一5-8(1-8周)",
+      "classTime": "",
       "courseId": "13006160",
       "courseName": "非遗衍生品设计与制作(选)",
       "credit": "3",
@@ -43116,7 +43196,7 @@
     {
       "campus": "宝山",
       "capacity": "20",
-      "classTime": "二5-8 (1-8周)",
+      "classTime": "",
       "courseId": "13006160",
       "courseName": "非遗衍生品设计与制作(选)",
       "credit": "3",
@@ -43130,7 +43210,7 @@
     {
       "campus": "宝山",
       "capacity": "0",
-      "classTime": "(一1-4(9-10周) (二1-4(9-10周) (三1-4(9-10周) (四1-3(9-10周)",
+      "classTime": "",
       "courseId": "13006160",
       "courseName": "非遗衍生品设计与制作(选)",
       "credit": "3",
@@ -43147,7 +43227,7 @@
     {
       "campus": "延长",
       "capacity": "0",
-      "classTime": "(一1-4(9-10周) (二5-8(9-10周) (三1-4(9-10周) (四5-8(9-10周) (五1-4(9-10周)",
+      "classTime": "",
       "courseId": "13006161",
       "courseName": "非遗传承与数字化保护(选)",
       "credit": "3",
@@ -43198,7 +43278,7 @@
     {
       "campus": "延长",
       "capacity": "10",
-      "classTime": "一1-4 (9-10周) 二5-8 (9-10周) 三1-4 (9-10周) 四5-8 (9-10周) 五1-4 (9-10周)",
+      "classTime": "",
       "courseId": "13006163",
       "courseName": "植物草木染与现代中国画",
       "credit": "3",
@@ -43449,7 +43529,7 @@
     {
       "campus": "延长",
       "capacity": "0",
-      "classTime": "三3-4(1-5周)",
+      "classTime": "",
       "courseId": "1300Y001",
       "courseName": "现代艺术思潮与建筑",
       "credit": "1",
@@ -43466,7 +43546,7 @@
     {
       "campus": "宝山",
       "capacity": "0",
-      "classTime": "二9-10(1-5周)",
+      "classTime": "",
       "courseId": "1300Y007",
       "courseName": "建筑与建筑师的气质",
       "credit": "1",
@@ -43483,7 +43563,7 @@
     {
       "campus": "宝山",
       "capacity": "25",
-      "classTime": "四3-4(1-5周)",
+      "classTime": "",
       "courseId": "1300Y015",
       "courseName": "西方美术馆之旅",
       "credit": "1",
@@ -43497,7 +43577,7 @@
     {
       "campus": "宝山",
       "capacity": "30",
-      "classTime": "二7-8(1-5周)",
+      "classTime": "",
       "courseId": "1300Y016",
       "courseName": "历史人文与中国画的关系",
       "credit": "1",
@@ -43898,7 +43978,7 @@
     {
       "campus": "延长",
       "capacity": "15",
-      "classTime": "三5-8(1-5周)",
+      "classTime": "",
       "courseId": "13476233",
       "courseName": "综合艺术基础B(1)",
       "credit": "2",
@@ -43912,7 +43992,7 @@
     {
       "campus": "延长",
       "capacity": "15",
-      "classTime": "三5-8(1-5周)",
+      "classTime": "",
       "courseId": "13476233",
       "courseName": "综合艺术基础B(1)",
       "credit": "2",
@@ -43928,7 +44008,7 @@
     {
       "campus": "延长",
       "capacity": "15",
-      "classTime": "三5-8(1-5周)",
+      "classTime": "",
       "courseId": "13476233",
       "courseName": "综合艺术基础B(1)",
       "credit": "2",
@@ -43942,7 +44022,7 @@
     {
       "campus": "延长",
       "capacity": "15",
-      "classTime": "三5-8(1-5周)",
+      "classTime": "",
       "courseId": "13476233",
       "courseName": "综合艺术基础B(1)",
       "credit": "2",
@@ -43956,7 +44036,7 @@
     {
       "campus": "延长",
       "capacity": "15",
-      "classTime": "三5-8(1-5周)",
+      "classTime": "",
       "courseId": "13476233",
       "courseName": "综合艺术基础B(1)",
       "credit": "2",
@@ -43986,7 +44066,7 @@
     {
       "campus": "延长",
       "capacity": "15",
-      "classTime": "三5-8(6-10周)",
+      "classTime": "",
       "courseId": "13476239",
       "courseName": "综合艺术实践(1)",
       "credit": "2",
@@ -44000,7 +44080,7 @@
     {
       "campus": "延长",
       "capacity": "15",
-      "classTime": "三5-8(6-10周)",
+      "classTime": "",
       "courseId": "13476239",
       "courseName": "综合艺术实践(1)",
       "credit": "2",
@@ -44014,7 +44094,7 @@
     {
       "campus": "延长",
       "capacity": "10",
-      "classTime": "三5-8(6-10周)",
+      "classTime": "",
       "courseId": "13476239",
       "courseName": "综合艺术实践(1)",
       "credit": "2",
@@ -44030,7 +44110,7 @@
     {
       "campus": "延长",
       "capacity": "15",
-      "classTime": "三5-8(6-10周)",
+      "classTime": "",
       "courseId": "13476239",
       "courseName": "综合艺术实践(1)",
       "credit": "2",
@@ -44044,7 +44124,7 @@
     {
       "campus": "延长",
       "capacity": "15",
-      "classTime": "三5-8(6-10周)",
+      "classTime": "",
       "courseId": "13476239",
       "courseName": "综合艺术实践(1)",
       "credit": "2",
@@ -44058,7 +44138,7 @@
     {
       "campus": "延长",
       "capacity": "0",
-      "classTime": "五1-4(1-2周) 五3-4(第3周)",
+      "classTime": "",
       "courseId": "13476242",
       "courseName": "综合艺术实验(2)",
       "credit": "1",
@@ -44075,7 +44155,7 @@
     {
       "campus": "延长",
       "capacity": "0",
-      "classTime": "五1-4(1-2周) 五3-4(第3周)",
+      "classTime": "",
       "courseId": "13476242",
       "courseName": "综合艺术实验(2)",
       "credit": "1",
@@ -44092,7 +44172,7 @@
     {
       "campus": "延长",
       "capacity": "0",
-      "classTime": "五1-4(1-2周) 五3-4(第3周)",
+      "classTime": "",
       "courseId": "13476242",
       "courseName": "综合艺术实验(2)",
       "credit": "1",
@@ -44109,7 +44189,7 @@
     {
       "campus": "延长",
       "capacity": "0",
-      "classTime": "五1-4(1-2周) 五3-4(第3周)",
+      "classTime": "",
       "courseId": "13476242",
       "courseName": "综合艺术实验(2)",
       "credit": "1",
@@ -44126,7 +44206,7 @@
     {
       "campus": "延长",
       "capacity": "0",
-      "classTime": "五1-4(1-2周) 五3-4(第3周)",
+      "classTime": "",
       "courseId": "13476242",
       "courseName": "综合艺术实验(2)",
       "credit": "1",
@@ -44569,7 +44649,7 @@
     {
       "campus": "宝山",
       "capacity": "11",
-      "classTime": "一1-4 (1-4周) 二1-4 (1-4周) 三1-4 (1-4周) 四1-4 (1-4周) 五1-4 (1-4周)",
+      "classTime": "",
       "courseId": "13505222",
       "courseName": "素描(人物)A(2)",
       "credit": "6",
@@ -44583,7 +44663,7 @@
     {
       "campus": "宝山",
       "capacity": "10",
-      "classTime": "一1-4 (1-4周) 二1-4 (1-4周) 三1-4 (1-4周) 四1-4 (1-4周) 五1-4 (1-4周)",
+      "classTime": "",
       "courseId": "13505222",
       "courseName": "素描(人物)A(2)",
       "credit": "6",
@@ -44599,7 +44679,7 @@
     {
       "campus": "宝山",
       "capacity": "12",
-      "classTime": "一1-4 (3-4周) 二1-4 (3-4周) 三1-4 (3-4周) 四1-4 (3-4周) 五1-4 (3-4周)",
+      "classTime": "",
       "courseId": "13505226",
       "courseName": "油画静物A(2)",
       "credit": "3",
@@ -44615,7 +44695,7 @@
     {
       "campus": "宝山",
       "capacity": "12",
-      "classTime": "一1-4 (3-4周) 二1-4 (3-4周) 三1-4 (3-4周) 四1-4 (3-4周) 五1-4 (3-4周)",
+      "classTime": "",
       "courseId": "13505226",
       "courseName": "油画静物A(2)",
       "credit": "3",
@@ -44631,7 +44711,7 @@
     {
       "campus": "宝山",
       "capacity": "12",
-      "classTime": "一1-4 (1-2周) 二1-4 (1-2周) 三1-4 (1-2周) 四1-4 (1-2周) 五1-4 (1-2周)",
+      "classTime": "",
       "courseId": "13505227",
       "courseName": "构图A",
       "credit": "3",
@@ -44647,7 +44727,7 @@
     {
       "campus": "宝山",
       "capacity": "12",
-      "classTime": "一1-4 (1-2周) 二1-4 (1-2周) 三1-4 (1-2周) 四1-4 (1-2周) 五1-4 (1-2周)",
+      "classTime": "",
       "courseId": "13505227",
       "courseName": "构图A",
       "credit": "3",
@@ -44663,7 +44743,7 @@
     {
       "campus": "宝山",
       "capacity": "10",
-      "classTime": "一1-4 (5-8周) 二1-4 (5-8周) 三1-4 (5-8周) 四1-4 (5-8周) 五1-4 (5-8周)",
+      "classTime": "",
       "courseId": "13505228",
       "courseName": "油画人物A(1)",
       "credit": "6",
@@ -44679,7 +44759,7 @@
     {
       "campus": "宝山",
       "capacity": "10",
-      "classTime": "一1-4 (5-8周) 二1-4 (5-8周) 三1-4 (5-8周) 四1-4 (5-8周) 五1-4 (5-8周)",
+      "classTime": "",
       "courseId": "13505228",
       "courseName": "油画人物A(1)",
       "credit": "6",
@@ -44695,7 +44775,7 @@
     {
       "campus": "宝山",
       "capacity": "13",
-      "classTime": "一1-4 (5-8周) 二1-4 (5-8周) 三1-4 (5-8周) 四1-4 (5-8周) 五1-4 (5-8周)",
+      "classTime": "",
       "courseId": "13505231",
       "courseName": "油画人体B(2)",
       "credit": "6",
@@ -44711,7 +44791,7 @@
     {
       "campus": "宝山",
       "capacity": "12",
-      "classTime": "一1-4 (5-8周) 二1-4 (5-8周) 三1-4 (5-8周) 四1-4 (5-8周) 五1-4 (5-8周)",
+      "classTime": "",
       "courseId": "13505231",
       "courseName": "油画人体B(2)",
       "credit": "6",
@@ -44727,7 +44807,7 @@
     {
       "campus": "宝山",
       "capacity": "22",
-      "classTime": "一1-4 (1-4周) 一5-8 (1-4周) 三1-4 (1-4周) 三5-8 (1-4周) 五1-4 (1-4周)",
+      "classTime": "",
       "courseId": "13505455",
       "courseName": "传统版画A",
       "credit": "6",
@@ -44741,7 +44821,7 @@
     {
       "campus": "宝山",
       "capacity": "22",
-      "classTime": "一1-4 (1-4周) 一5-8 (1-4周) 三1-4 (1-4周) 三5-7 (1-4周)",
+      "classTime": "",
       "courseId": "13505518",
       "courseName": "设计基础C(3)",
       "credit": "6",
@@ -44755,7 +44835,7 @@
     {
       "campus": "宝山",
       "capacity": "22",
-      "classTime": "二1-4 (1-3周) 二5-8 (1-3周) 四1-4 (1-3周) 四5-8 (1-3周) 五1-4 (1-3周)",
+      "classTime": "",
       "courseId": "13505536",
       "courseName": "素描E(2)",
       "credit": "4.5",
@@ -44769,7 +44849,7 @@
     {
       "campus": "宝山",
       "capacity": "22",
-      "classTime": "二1-4 (4-5周) 二5-8 (4-5周) 四1-4 (4-5周) 四5-8 (4-5周) 五1-4 (4-5周)",
+      "classTime": "",
       "courseId": "13505537",
       "courseName": "素描E(3)",
       "credit": "3",
@@ -44783,7 +44863,7 @@
     {
       "campus": "宝山",
       "capacity": "22",
-      "classTime": "二1-4 (6-9周) 二5-8 (6-9周) 四1-4 (6-9周) 四5-8 (6-9周) 五1-4 (6-9周)",
+      "classTime": "",
       "courseId": "13505543",
       "courseName": "丝网版画普修",
       "credit": "6",
@@ -44797,7 +44877,7 @@
     {
       "campus": "宝山",
       "capacity": "22",
-      "classTime": "一1-4 (5-8周) 一5-8 (5-8周) 三1-4 (5-8周) 三5-8 (5-8周) 五1-4 (5-8周)",
+      "classTime": "",
       "courseId": "13505546",
       "courseName": "版画插图",
       "credit": "6",
@@ -44811,7 +44891,7 @@
     {
       "campus": "宝山",
       "capacity": "11",
-      "classTime": "一1-4 (7-8周) 二1-4 (7-8周) 三1-4 (7-8周) 四1-4 (7-8周) 五1-4 (7-8周)",
+      "classTime": "",
       "courseId": "13505696",
       "courseName": "书法篆刻(2)",
       "credit": "3",
@@ -44827,7 +44907,7 @@
     {
       "campus": "宝山",
       "capacity": "11",
-      "classTime": "一1-4 (1-3周) 二1-4 (1-3周) 三1-4 (1-3周) 四1-4 (1-3周) 五1-4 (1-3周)",
+      "classTime": "",
       "courseId": "13505700",
       "courseName": "线性素描(4)",
       "credit": "4.5",
@@ -44841,7 +44921,7 @@
     {
       "campus": "宝山",
       "capacity": "30",
-      "classTime": "一1-4 (3-4周) 二1-4 (3-4周) 三1-4 (3-4周) 四1-4 (3-4周) 五1-4 (3-4周)",
+      "classTime": "",
       "courseId": "13505703",
       "courseName": "色彩",
       "credit": "3",
@@ -44857,7 +44937,7 @@
     {
       "campus": "宝山",
       "capacity": "30",
-      "classTime": "一1-4 (1-2周) 二1-4 (1-2周) 三1-4 (1-2周) 四1-4 (1-2周) 五1-4 (1-2周)",
+      "classTime": "",
       "courseId": "13505704",
       "courseName": "创作构图",
       "credit": "3",
@@ -44873,7 +44953,7 @@
     {
       "campus": "宝山",
       "capacity": "32",
-      "classTime": "一1-4 (8周) 二1-4 (8周) 三1-4 (8周) 四1-4 (8周) 五1-4 (8周)",
+      "classTime": "",
       "courseId": "13505705",
       "courseName": "文史哲基础(1)",
       "credit": "1.5",
@@ -44887,7 +44967,7 @@
     {
       "campus": "宝山",
       "capacity": "11",
-      "classTime": "一1-4 (4-8周) 二1-4 (4-8周) 三1-4 (4-8周) 四1-4 (4-8周) 五1-4 (4-8周)",
+      "classTime": "",
       "courseId": "13505711",
       "courseName": "水墨人物写生(2)",
       "credit": "7.5",
@@ -44901,7 +44981,7 @@
     {
       "campus": "宝山",
       "capacity": "11",
-      "classTime": "一1-4 (1-4周) 二1-4 (1-4周) 三1-4 (1-4周) 四1-4 (1-4周) 五1-4 (1-4周)",
+      "classTime": "",
       "courseId": "13505716",
       "courseName": "宋元山水C(3)",
       "credit": "6",
@@ -44915,7 +44995,7 @@
     {
       "campus": "宝山",
       "capacity": "11",
-      "classTime": "一1-4 (5-6周) 二1-4 (5-6周) 三1-4 (5-6周) 四1-4 (5-6周) 五1-4 (5-6周)",
+      "classTime": "",
       "courseId": "13505719",
       "courseName": "花鸟造型(线描写生)(2)",
       "credit": "3",
@@ -44931,7 +45011,7 @@
     {
       "campus": "宝山",
       "capacity": "11",
-      "classTime": "一1-4 (1-4周) 二1-4 (1-4周) 三1-4 (1-4周) 四1-4 (1-4周) 五1-4 (1-4周)",
+      "classTime": "",
       "courseId": "13505726",
       "courseName": "工笔花鸟临摹(宋人小品)",
       "credit": "6",
@@ -44947,7 +45027,7 @@
     {
       "campus": "宝山",
       "capacity": "11",
-      "classTime": "一1-4 (5-8周) 二1-4 (5-8周) 三1-4 (5-8周) 四1-4 (5-8周) 五1-4 (5-8周)",
+      "classTime": "",
       "courseId": "13505731",
       "courseName": "山水创作(小品册页)",
       "credit": "6",
@@ -44961,7 +45041,7 @@
     {
       "campus": "宝山",
       "capacity": "13",
-      "classTime": "一1-3 (1-2周) 二1-4 (1-2周) 三1-4 (1-2周) 四1-4 (1-2周)",
+      "classTime": "",
       "courseId": "13506236",
       "courseName": "油画静物B",
       "credit": "3",
@@ -44977,7 +45057,7 @@
     {
       "campus": "宝山",
       "capacity": "14",
-      "classTime": "一1-3 (3-4周) 二1-4 (3-4周) 三1-4 (3-4周) 四1-4 (3-4周 )",
+      "classTime": "",
       "courseId": "13506237",
       "courseName": "创作构图A",
       "credit": "3",
@@ -44993,7 +45073,7 @@
     {
       "campus": "宝山",
       "capacity": "10",
-      "classTime": "一1-3 (5-10周) 二1-4 (5-10周) 三1-4 (5-10周) 四1-4 (5-10周 )",
+      "classTime": "",
       "courseId": "13506239",
       "courseName": "油画人体C(2)",
       "credit": "9",
@@ -45007,7 +45087,7 @@
     {
       "campus": "宝山",
       "capacity": "10",
-      "classTime": "一1-3 (5-10周) 二1-4 (5-10周) 三1-4 (5-10周) 四1-4 (5-10周 )",
+      "classTime": "",
       "courseId": "13506239",
       "courseName": "油画人体C(2)",
       "credit": "9",
@@ -45023,7 +45103,7 @@
     {
       "campus": "宝山",
       "capacity": "10",
-      "classTime": "一1-3 (3-4周) 二1-4 (3-4周) 三1-4 (3-4周) 四1-4 (3-4周 )",
+      "classTime": "",
       "courseId": "13506241",
       "courseName": "创作构图B",
       "credit": "3",
@@ -45037,7 +45117,7 @@
     {
       "campus": "宝山",
       "capacity": "10",
-      "classTime": "一1-3 (1-2周) 二1-4 (1-2周) 三1-4 (1-2周) 四1-4 (1-2周)",
+      "classTime": "",
       "courseId": "13506243",
       "courseName": "油画静物C",
       "credit": "3",
@@ -45051,7 +45131,7 @@
     {
       "campus": "宝山",
       "capacity": "6",
-      "classTime": "一1-4 (9-10周) 二1-4 (9-10周) 三1-4 (9-10周) 四1-4 (9-10周) 五1-4 (9-10周)",
+      "classTime": "",
       "courseId": "13506248",
       "courseName": "油画修复基础(3)",
       "credit": "3",
@@ -45065,7 +45145,7 @@
     {
       "campus": "宝山",
       "capacity": "6",
-      "classTime": "一1-4 (9-10周) 二1-4 (9-10周) 三1-4 (9-10周) 四1-3 (9-10周)",
+      "classTime": "",
       "courseId": "13506254",
       "courseName": "绘画细节分析",
       "credit": "3",
@@ -45079,7 +45159,7 @@
     {
       "campus": "宝山",
       "capacity": "8",
-      "classTime": "一1-4 (9-10周) 二1-4 (9-10周) 三1-4 (9-10周) 四1-3 (9-10周)",
+      "classTime": "",
       "courseId": "13506255",
       "courseName": "绘画技法",
       "credit": "3",
@@ -45095,7 +45175,7 @@
     {
       "campus": "宝山",
       "capacity": "22",
-      "classTime": "一1-4 (5-10周) 一5-8 (5-10周) 三1-4 (5-10周) 三5-7 (5-10周)",
+      "classTime": "",
       "courseId": "13506524",
       "courseName": "铜版C",
       "credit": "9",
@@ -45123,7 +45203,7 @@
     {
       "campus": "宝山",
       "capacity": "11",
-      "classTime": "一1-4 (1-3周) 二1-4 (1-3周) 三1-4 (1-3周) 四1-3 (1-3周)",
+      "classTime": "",
       "courseId": "13506639",
       "courseName": "工笔花鸟临摹(1)",
       "credit": "4.5",
@@ -45137,7 +45217,7 @@
     {
       "campus": "宝山",
       "capacity": "30",
-      "classTime": "一1-4 (5-7周) 二1-4 (5-7周) 三1-4 (5-7周) 四1-4 (5-7周) 五1-4 (5-7周)",
+      "classTime": "",
       "courseId": "13506681",
       "courseName": "山水小品B",
       "credit": "4.5",
@@ -45153,7 +45233,7 @@
     {
       "campus": "宝山",
       "capacity": "11",
-      "classTime": "一1-4 (4-6周) 二1-4 (4-6周) 三1-4 (4-6周) 四1-3 (4-6周)",
+      "classTime": "",
       "courseId": "13506710",
       "courseName": "工笔人物写生B(3)",
       "credit": "4.5",
@@ -45167,7 +45247,7 @@
     {
       "campus": "宝山",
       "capacity": "11",
-      "classTime": "一1-4 (5-6周) 二1-4 (5-6周) 三1-4 (5-6周) 四1-3 (5-6周)",
+      "classTime": "",
       "courseId": "13506720",
       "courseName": "花鸟造型(没骨写生)",
       "credit": "3",
@@ -45181,7 +45261,7 @@
     {
       "campus": "宝山",
       "capacity": "11",
-      "classTime": "一1-4 (1-4周) 二1-4 (1-4周) 三1-4 (1-4周) 四1-3 (1-4周)",
+      "classTime": "",
       "courseId": "13506724",
       "courseName": "写意花鸟临摹(鳞介走兽)",
       "credit": "6",
@@ -45195,7 +45275,7 @@
     {
       "campus": "宝山",
       "capacity": "11",
-      "classTime": "一1-4 (7-10周) 二1-4 (7-10周) 三1-4 (7-10周) 四1-3 (7-10周)",
+      "classTime": "",
       "courseId": "13506728",
       "courseName": "工笔花鸟临摹(近现代)",
       "credit": "6",
@@ -45209,7 +45289,7 @@
     {
       "campus": "宝山",
       "capacity": "11",
-      "classTime": "一1-4 (7-10周) 二1-4 (7-10周) 三1-4 (7-10周) 四1-3 (7-10周)",
+      "classTime": "",
       "courseId": "13506736",
       "courseName": "人物(水墨)B",
       "credit": "6",
@@ -45223,7 +45303,7 @@
     {
       "campus": "宝山",
       "capacity": "11",
-      "classTime": "一1-4 (1-2周) 二1-4 (1-2周) 三1-4 (1-2周) 四1-3 (1-2周)",
+      "classTime": "",
       "courseId": "13506737",
       "courseName": "山水写生B",
       "credit": "3",
@@ -45237,7 +45317,7 @@
     {
       "campus": "宝山",
       "capacity": "11",
-      "classTime": "一1-4 (5-10周) 二1-4 (5-10周) 三1-4 (5-10周) 四1-3 (5-10周)",
+      "classTime": "",
       "courseId": "13506738",
       "courseName": "创作A",
       "credit": "9",
@@ -45251,7 +45331,7 @@
     {
       "campus": "宝山",
       "capacity": "11",
-      "classTime": "一1-4 (3-4周) 二1-4 (3-4周) 三1-4 (3-4周) 四1-3 (3-4周)",
+      "classTime": "",
       "courseId": "13506742",
       "courseName": "水墨理念(形式构成)A",
       "credit": "3",
@@ -45453,7 +45533,7 @@
     {
       "campus": "宝山",
       "capacity": "22",
-      "classTime": "一5-6 (1-10周) 三5-6单",
+      "classTime": "",
       "courseId": "13515099",
       "courseName": "中国美术史A(3)",
       "credit": "3",
@@ -45469,7 +45549,7 @@
     {
       "campus": "宝山",
       "capacity": "22",
-      "classTime": "二5-6 (1-10周) 四5-6单",
+      "classTime": "",
       "courseId": "13515103",
       "courseName": "世界美术史A(3)",
       "credit": "3",
@@ -45485,7 +45565,7 @@
     {
       "campus": "宝山",
       "capacity": "22",
-      "classTime": "二3-4 (1-10周) 四3-4单",
+      "classTime": "",
       "courseId": "13515187",
       "courseName": "画学文献B",
       "credit": "3",
@@ -45501,7 +45581,7 @@
     {
       "campus": "宝山",
       "capacity": "24",
-      "classTime": "二7-8 (1-10周) 四7-8单",
+      "classTime": "",
       "courseId": "13515188",
       "courseName": "美术史学史A",
       "credit": "3",
@@ -45517,7 +45597,7 @@
     {
       "campus": "宝山",
       "capacity": "22",
-      "classTime": "二5-6 (1-10周) 四5-6单",
+      "classTime": "",
       "courseId": "13515198",
       "courseName": "中国现当代美术史(2)",
       "credit": "3",
@@ -45533,7 +45613,7 @@
     {
       "campus": "宝山",
       "capacity": "22",
-      "classTime": "一5-6 (1-10周) 三5-6单",
+      "classTime": "",
       "courseId": "13515200",
       "courseName": "西方现当代美术史(2)",
       "credit": "3",
@@ -45549,7 +45629,7 @@
     {
       "campus": "宝山",
       "capacity": "22",
-      "classTime": "一7-8 (1-10周) 三7-8单",
+      "classTime": "",
       "courseId": "13515211",
       "courseName": "西方思想史(1)",
       "credit": "3",
@@ -45565,7 +45645,7 @@
     {
       "campus": "宝山",
       "capacity": "22",
-      "classTime": "一3-4 (1-10周) 三3-4单",
+      "classTime": "",
       "courseId": "13515231",
       "courseName": "文献精读A(1)",
       "credit": "3",
@@ -45581,7 +45661,7 @@
     {
       "campus": "宝山",
       "capacity": "22",
-      "classTime": "一3-4 (1-10周) 三3-4单",
+      "classTime": "",
       "courseId": "13515234",
       "courseName": "文献精读A(4)",
       "credit": "3",
@@ -45597,7 +45677,7 @@
     {
       "campus": "宝山",
       "capacity": "24",
-      "classTime": "一3-4 (1-10周) 三3-4单",
+      "classTime": "",
       "courseId": "13515253",
       "courseName": "公共艺术研究A",
       "credit": "3",
@@ -45613,7 +45693,7 @@
     {
       "campus": "宝山",
       "capacity": "22",
-      "classTime": "一1-2 (1-10周) 三1-2单",
+      "classTime": "",
       "courseId": "13516240",
       "courseName": "海外中国美术研究述评A",
       "credit": "3",
@@ -45627,7 +45707,7 @@
     {
       "campus": "宝山",
       "capacity": "24",
-      "classTime": "二3-4 (1-10周) 四3-4单",
+      "classTime": "",
       "courseId": "13516243",
       "courseName": "中国近现代美术教育史",
       "credit": "3",
@@ -45657,7 +45737,7 @@
     {
       "campus": "宝山",
       "capacity": "20",
-      "classTime": "二7-8 (1-10周) 四7-8单",
+      "classTime": "",
       "courseId": "13516257",
       "courseName": "艺术设计史专题研究",
       "credit": "3",
@@ -45671,7 +45751,7 @@
     {
       "campus": "宝山",
       "capacity": "20",
-      "classTime": "一11-12 (1-10周) 五3-4单",
+      "classTime": "",
       "courseId": "13516257",
       "courseName": "艺术设计史专题研究",
       "credit": "3",
@@ -45685,7 +45765,7 @@
     {
       "campus": "宝山",
       "capacity": "15",
-      "classTime": "一2-4 (9-10周) 二1-4 (9-10周) 三1-4 (9-10周) 四1-4 (9-10周)",
+      "classTime": "",
       "courseId": "13516258",
       "courseName": "坦培拉绘画技法与运用",
       "credit": "3",
@@ -45907,7 +45987,7 @@
     {
       "campus": "宝山",
       "capacity": "22",
-      "classTime": "一1-4 (5-10周) 二1-4 (5-10周) 三1-4 (5-10周) 四1-4 (5-10周) 五1-4 (5-10周)",
+      "classTime": "",
       "courseId": "13525105",
       "courseName": "泥塑D(二)(3)",
       "credit": "6",
@@ -45921,7 +46001,7 @@
     {
       "campus": "宝山",
       "capacity": "22",
-      "classTime": "一1-4 (5-10周) 二1-4 (5-10周) 三1-4 (5-10周) 四1-4 (5-10周) 五1-4 (5-10周)",
+      "classTime": "",
       "courseId": "13525107",
       "courseName": "泥塑D(二)(5)",
       "credit": "6",
@@ -45935,7 +46015,7 @@
     {
       "campus": "宝山",
       "capacity": "22",
-      "classTime": "一1-4 (1-4周) 二1-4 (1-4周) 三1-4 (1-4周) 四1-4 (1-4周) 五1-4 (1-4周)",
+      "classTime": "",
       "courseId": "13525118",
       "courseName": "创作C",
       "credit": "6",
@@ -45949,7 +46029,7 @@
     {
       "campus": "宝山",
       "capacity": "22",
-      "classTime": "一1-3 (1-8周) 二1-3 (1-8周) 三1-3 (1-8周) 四1-3 (1-8周) 五1-3 (1-8周)",
+      "classTime": "",
       "courseId": "13526121",
       "courseName": "石雕C",
       "credit": "12",
@@ -45963,7 +46043,7 @@
     {
       "campus": "宝山",
       "capacity": "22",
-      "classTime": "一1-3 (1-8周) 二1-3 (1-8周) 三1-3 (1-8周) 四1-3 (1-8周) 五1-3 (1-8周)",
+      "classTime": "",
       "courseId": "13526126",
       "courseName": "金属加工类雕塑C",
       "credit": "12",
@@ -45977,7 +46057,7 @@
     {
       "campus": "宝山",
       "capacity": "22",
-      "classTime": "一1-4 (1-4周) 二1-4 (1-4周) 三1-4 (1-4周) 四1-4 (1-4周) 五1-4 (1-4周) 全英语",
+      "classTime": "",
       "courseId": "13526128",
       "courseName": "软材料空间造型",
       "credit": "6",
@@ -46067,7 +46147,7 @@
     {
       "campus": "延长",
       "capacity": "30",
-      "classTime": "一1-4 (1-4周) 二5-8 (1-4周) 三1-4 (1-4周) 四6-8 (1-4周)",
+      "classTime": "",
       "courseId": "13535027",
       "courseName": "手绘效果图",
       "credit": "6",
@@ -46081,7 +46161,7 @@
     {
       "campus": "延长",
       "capacity": "30",
-      "classTime": "一1-4 (5-8周) 二5-8 (5-8周) 三1-4 (5-8周) 四6-8 (5-8周)",
+      "classTime": "",
       "courseId": "13535027",
       "courseName": "手绘效果图",
       "credit": "6",
@@ -46095,7 +46175,7 @@
     {
       "campus": "延长",
       "capacity": "20",
-      "classTime": "一1-4 (1-4周) 二5-8 (1-4周) 三1-4 (1-4周) 四6-8 (1-4周)",
+      "classTime": "",
       "courseId": "13535027",
       "courseName": "手绘效果图",
       "credit": "6",
@@ -46109,7 +46189,7 @@
     {
       "campus": "宝山",
       "capacity": "0",
-      "classTime": "(一1-4(7-8周) (二5-8(7-8周) (三1-4(7-8周) (四6-8(7-8周)",
+      "classTime": "",
       "courseId": "13535228",
       "courseName": "基础摄影",
       "credit": "3",
@@ -46126,7 +46206,7 @@
     {
       "campus": "宝山",
       "capacity": "30",
-      "classTime": "一1-4 (9-10周) 二5-8 (9-10周) 三1-4 (9-10周) 四6-8 (9-10周)",
+      "classTime": "",
       "courseId": "13535302",
       "courseName": "摄影基础",
       "credit": "3",
@@ -46140,7 +46220,7 @@
     {
       "campus": "宝山",
       "capacity": "30",
-      "classTime": "一1-4 (4-5周) 二5-8 (4-5周) 三1-4 (4-5周) 四6-8 (4-5周)",
+      "classTime": "",
       "courseId": "13535302",
       "courseName": "摄影基础",
       "credit": "3",
@@ -46154,7 +46234,7 @@
     {
       "campus": "延长",
       "capacity": "30",
-      "classTime": "一1-4(1-5周) 二5-8(1-5周) 三1-4(1-5周) 四6-8(1-5周)",
+      "classTime": "",
       "courseId": "13535304",
       "courseName": "插画基础",
       "credit": "7.5",
@@ -46168,7 +46248,7 @@
     {
       "campus": "延长",
       "capacity": "30",
-      "classTime": "一1-4 (6-10周) 二5-8 (6-10周) 三1-4 (6-10周) 四6-8 (6-10周)",
+      "classTime": "",
       "courseId": "13535304",
       "courseName": "插画基础",
       "credit": "7.5",
@@ -46182,7 +46262,7 @@
     {
       "campus": "延长",
       "capacity": "50",
-      "classTime": "一1-4 (1-3周) 二5-8 (1-3周) 三1-4 (1-3周) 四6-8 (1-3周)",
+      "classTime": "",
       "courseId": "13535307",
       "courseName": "手绘动画",
       "credit": "4.5",
@@ -46212,7 +46292,7 @@
     {
       "campus": "延长",
       "capacity": "30",
-      "classTime": "一1-4 (6-8周) 二5-8 (6-8周) 三1-4 (6-8周) 四6-8 (6-8周)",
+      "classTime": "",
       "courseId": "13535311",
       "courseName": "网络媒介传达",
       "credit": "4.5",
@@ -46226,7 +46306,7 @@
     {
       "campus": "延长",
       "capacity": "30",
-      "classTime": "一1-4 (1-3周) 二5-8 (1-3周) 三1-4 (1-3周) 四6-8 (1-3周)",
+      "classTime": "",
       "courseId": "13535311",
       "courseName": "网络媒介传达",
       "credit": "4.5",
@@ -46240,7 +46320,7 @@
     {
       "campus": "延长",
       "capacity": "30",
-      "classTime": "一1-4 (6-8周) 二5-8 (6-8周) 三1-4 (6-8周) 四6-8 (6-8周)",
+      "classTime": "",
       "courseId": "13535344",
       "courseName": "设计思维",
       "credit": "4.5",
@@ -46254,7 +46334,7 @@
     {
       "campus": "延长",
       "capacity": "30",
-      "classTime": "一1-4 (1-3周) 二5-8 (1-3周) 三1-4 (1-3周) 四6-8 (1-3周)",
+      "classTime": "",
       "courseId": "13535344",
       "courseName": "设计思维",
       "credit": "4.5",
@@ -46268,7 +46348,7 @@
     {
       "campus": "延长",
       "capacity": "30",
-      "classTime": "一1-4 (9-10周) 二5-8 (9-10周) 三1-4 (9-10周) 四6-8 (9-10周)",
+      "classTime": "",
       "courseId": "13535348",
       "courseName": "文创衍生设计",
       "credit": "3",
@@ -46282,7 +46362,7 @@
     {
       "campus": "延长",
       "capacity": "30",
-      "classTime": "一1-4 (9-10周) 二5-8 (9-10周) 三1-4 (9-10周) 四6-8 (9-10周)",
+      "classTime": "",
       "courseId": "13535348",
       "courseName": "文创衍生设计",
       "credit": "3",
@@ -46296,7 +46376,7 @@
     {
       "campus": "延长",
       "capacity": "30",
-      "classTime": "一1-4 (4-7周) 二5-8 (4-7周) 三1-4 (4-7周) 四6-8 (4-7周)",
+      "classTime": "",
       "courseId": "13535352",
       "courseName": "书籍设计A",
       "credit": "6",
@@ -46310,7 +46390,7 @@
     {
       "campus": "延长",
       "capacity": "30",
-      "classTime": "一1-4 (4-7周) 二5-8 (4-7周) 三1-4 (4-7周) 四6-8 (4-7周)",
+      "classTime": "",
       "courseId": "13535352",
       "courseName": "书籍设计A",
       "credit": "6",
@@ -46324,7 +46404,7 @@
     {
       "campus": "宝山",
       "capacity": "20",
-      "classTime": "一1-4 (1-4周) 二1-4 (1-4周) 三1-4 (1-4周) 四1-3 (1-4周)",
+      "classTime": "",
       "courseId": "13535465",
       "courseName": "空间演绎",
       "credit": "6",
@@ -46338,7 +46418,7 @@
     {
       "campus": "延长",
       "capacity": "30",
-      "classTime": "一1-4 (1-4周) 二5-8 (1-4周) 三1-4 (1-4周) 四6-8 (1-4周)",
+      "classTime": "",
       "courseId": "13535537",
       "courseName": "基础制图",
       "credit": "6",
@@ -46352,7 +46432,7 @@
     {
       "campus": "延长",
       "capacity": "30",
-      "classTime": "一1-4 (5-8周) 二5-8 (5-8周) 三1-4 (5-8周) 四6-8 (5-8周)",
+      "classTime": "",
       "courseId": "13535537",
       "courseName": "基础制图",
       "credit": "6",
@@ -46366,7 +46446,7 @@
     {
       "campus": "延长",
       "capacity": "30",
-      "classTime": "一1-4(1-5周) 二5-8(1-5周) 三1-4(1-5周) 四6-8(1-5周)",
+      "classTime": "",
       "courseId": "13535540",
       "courseName": "展览环境设计",
       "credit": "7.5",
@@ -46380,7 +46460,7 @@
     {
       "campus": "延长",
       "capacity": "30",
-      "classTime": "一1-4 (6-10周) 二5-8 (6-10周) 三1-4 (6-10周) 四6-8 (6-10周)",
+      "classTime": "",
       "courseId": "13535540",
       "courseName": "展览环境设计",
       "credit": "7.5",
@@ -46394,7 +46474,7 @@
     {
       "campus": "延长",
       "capacity": "0",
-      "classTime": "(一1-4(9-10周) (二5-8(9-10周) (三1-4(9-10周) (四6-8(9-10周)",
+      "classTime": "",
       "courseId": "13536130",
       "courseName": "装饰绘画A",
       "credit": "3",
@@ -46411,7 +46491,7 @@
     {
       "campus": "延长",
       "capacity": "30",
-      "classTime": "一1-4(1-5周) 二5-8(1-5周) 三1-4(1-5周) 四6-8(1-5周)",
+      "classTime": "",
       "courseId": "13536197",
       "courseName": "家具设计B",
       "credit": "7.5",
@@ -46425,7 +46505,7 @@
     {
       "campus": "延长",
       "capacity": "30",
-      "classTime": "一1-4 (6-10周) 二5-8 (6-10周) 三1-4 (6-10周) 四6-8 (6-10周)",
+      "classTime": "",
       "courseId": "13536197",
       "courseName": "家具设计B",
       "credit": "7.5",
@@ -46439,7 +46519,7 @@
     {
       "campus": "延长",
       "capacity": "0",
-      "classTime": "(一1-4(9-10周) (二5-8(9-10周) (三1-4(9-10周) (四6-8(9-10周)",
+      "classTime": "",
       "courseId": "13536213",
       "courseName": "油画B",
       "credit": "3",
@@ -46456,7 +46536,7 @@
     {
       "campus": "延长",
       "capacity": "30",
-      "classTime": "一1-4 (1-4周) 二5-8 (1-4周) 三1-4 (1-4周) 四6-8 (1-4周)",
+      "classTime": "",
       "courseId": "13536242",
       "courseName": "环境装饰与陈设B",
       "credit": "6",
@@ -46470,7 +46550,7 @@
     {
       "campus": "延长",
       "capacity": "30",
-      "classTime": "一1-4 (1-4周) 二5-8 (1-4周) 三1-4 (1-4周) 四6-8 (1-4周)",
+      "classTime": "",
       "courseId": "13536242",
       "courseName": "环境装饰与陈设B",
       "credit": "6",
@@ -46484,7 +46564,7 @@
     {
       "campus": "宝山",
       "capacity": "20",
-      "classTime": "一1-4 (1-4周) 二1-4 (1-4周) 三1-4 (1-4周) 四1-3 (1-4周)",
+      "classTime": "",
       "courseId": "13536318",
       "courseName": "大数据综合设计",
       "credit": "6",
@@ -46498,7 +46578,7 @@
     {
       "campus": "延长",
       "capacity": "30",
-      "classTime": "一1-4(1-5周) 二5-8(1-5周) 三1-4(1-5周) 四6-8(1-5周)",
+      "classTime": "",
       "courseId": "13536328",
       "courseName": "广告与招贴设计",
       "credit": "7.5",
@@ -46512,7 +46592,7 @@
     {
       "campus": "延长",
       "capacity": "30",
-      "classTime": "一1-4 (4-8周) 二5-8 (4-8周) 三1-4 (4-8周) 四6-8 (4-8周)",
+      "classTime": "",
       "courseId": "13536328",
       "courseName": "广告与招贴设计",
       "credit": "7.5",
@@ -46526,7 +46606,7 @@
     {
       "campus": "宝山",
       "capacity": "0",
-      "classTime": "(一1-4(9-10周) (二1-4(9-10周) (三1-4(9-10周) (四1-3(9-10周)",
+      "classTime": "",
       "courseId": "13536355",
       "courseName": "绿色与可持续性造物(选)",
       "credit": "3",
@@ -46543,7 +46623,7 @@
     {
       "campus": "宝山",
       "capacity": "0",
-      "classTime": "(一5-8(9-10周) (二5-8(9-10周) (三5-8(9-10周) (四5-7(9-10周)",
+      "classTime": "",
       "courseId": "13536355",
       "courseName": "绿色与可持续性造物(选)",
       "credit": "3",
@@ -46560,7 +46640,7 @@
     {
       "campus": "延长",
       "capacity": "50",
-      "classTime": "一1-4 (9-10周) 二5-8 (9-10周) 三1-4 (9-10周) 四6-8 (9-10周)",
+      "classTime": "",
       "courseId": "13536517",
       "courseName": "设计创意与表现(选)",
       "credit": "3",
@@ -46588,7 +46668,7 @@
     {
       "campus": "延长",
       "capacity": "30",
-      "classTime": "一1-4 (6-10周) 二5-8 (6-10周) 三1-4 (6-10周) 四6-8 (6-10周)",
+      "classTime": "",
       "courseId": "13536523",
       "courseName": "室外环境设计D",
       "credit": "7.5",
@@ -46602,7 +46682,7 @@
     {
       "campus": "延长",
       "capacity": "30",
-      "classTime": "一1-4 (6-10周) 二5-8 (6-10周) 三1-4 (6-10周) 四6-8 (6-10周)",
+      "classTime": "",
       "courseId": "13536524",
       "courseName": "商业展示设计A",
       "credit": "7.5",
@@ -46616,7 +46696,7 @@
     {
       "campus": "延长",
       "capacity": "10",
-      "classTime": "一1-4 (6-9周) 二5-8 (6-9周) 三1-4 (6-9周) 四6-8 (6-9周)",
+      "classTime": "",
       "courseId": "13536529",
       "courseName": "纤维工艺基础",
       "credit": "6",
@@ -46630,7 +46710,7 @@
     {
       "campus": "宝山",
       "capacity": "20",
-      "classTime": "一1-4 (9-10周) 二5-8 (9-10周) 三1-4 (9-10周) 四5-7 (9-10周)",
+      "classTime": "",
       "courseId": "13536530",
       "courseName": "手工艺概论(选)",
       "credit": "3",
@@ -47504,7 +47584,7 @@
     {
       "campus": "延长",
       "capacity": "20",
-      "classTime": "一1-4 (5-6周) 二5-8 (5-6周) 三1-4 (5-6周) 四6-8 (5-6周)",
+      "classTime": "",
       "courseId": "13705056",
       "courseName": "传播学概论",
       "credit": "3",
@@ -47518,7 +47598,7 @@
     {
       "campus": "延长",
       "capacity": "20",
-      "classTime": "一1-4 (7-8周) 二5-8 (7-8周) 三1-4 (7-8周) 四6-8 (7-8周)",
+      "classTime": "",
       "courseId": "13705057",
       "courseName": "会展设计基础A",
       "credit": "3",
@@ -47532,7 +47612,7 @@
     {
       "campus": "延长",
       "capacity": "20",
-      "classTime": "一1-4(1-5周) 二5-8(1-5周) 三1-4(1-5周) 四6-8(1-5周)",
+      "classTime": "",
       "courseId": "13705060",
       "courseName": "展示形态语义与设计",
       "credit": "7.5",
@@ -47546,7 +47626,7 @@
     {
       "campus": "延长",
       "capacity": "20",
-      "classTime": "一1-4 (1-4周) 二5-8 (1-4周) 三1-4 (1-4周) 四6-8 (1-4周)",
+      "classTime": "",
       "courseId": "13705063",
       "courseName": "会展营销、设计与管理",
       "credit": "6",
@@ -47560,7 +47640,7 @@
     {
       "campus": "延长",
       "capacity": "20",
-      "classTime": "一1-4 (6-10周) 二5-8 (6-10周) 三1-4 (6-10周) 四6-8 (6-10周)",
+      "classTime": "",
       "courseId": "13706065",
       "courseName": "商业空间与传播设计",
       "credit": "7.5",
@@ -47574,7 +47654,7 @@
     {
       "campus": "延长",
       "capacity": "20",
-      "classTime": "一1-4 (6-8周) 二5-8 (6-8周) 三1-4 (6-8周) 四6-8 (6-8周)",
+      "classTime": "",
       "courseId": "13706067",
       "courseName": "媒体集成设计",
       "credit": "4.5",
@@ -47602,7 +47682,7 @@
     {
       "campus": "宝山",
       "capacity": "10",
-      "classTime": "一1-4 (9-10周) 二1-4 (9-10周) 三1-4 (9-10周) 四1-3 (9-10周)",
+      "classTime": "",
       "courseId": "13746006",
       "courseName": "漆艺技法基础(选)",
       "credit": "3",
@@ -47618,7 +47698,7 @@
     {
       "campus": "延长",
       "capacity": "0",
-      "classTime": "(一1-4(9-10周) (二5-8(9-10周) (三1-4(9-10周) (四5-7(9-10周)",
+      "classTime": "",
       "courseId": "13746009",
       "courseName": "二维数码动画设计与制作(选)",
       "credit": "3",
@@ -47635,7 +47715,7 @@
     {
       "campus": "宝山",
       "capacity": "0",
-      "classTime": "(一1-4 (9-10周) (二1-4 (9-10周) (三1-4 (9-10周) (四1-4 (9-10周) (五1-4 (9-10周)",
+      "classTime": "",
       "courseId": "13746030",
       "courseName": "珐琅工艺设计基础",
       "credit": "3",
@@ -47720,7 +47800,7 @@
     {
       "campus": "宝山",
       "capacity": "10",
-      "classTime": "一9-12 (1-8周)",
+      "classTime": "",
       "courseId": "13746031",
       "courseName": "羊毛纤维湿毡工艺与创作",
       "credit": "3",
@@ -47734,7 +47814,7 @@
     {
       "campus": "宝山",
       "capacity": "0",
-      "classTime": "四5-8(1-8周)",
+      "classTime": "",
       "courseId": "13746031",
       "courseName": "羊毛纤维湿毡工艺与创作",
       "credit": "3",
@@ -47751,7 +47831,7 @@
     {
       "campus": "宝山",
       "capacity": "0",
-      "classTime": "五1-4(1-8周)",
+      "classTime": "",
       "courseId": "13746031",
       "courseName": "羊毛纤维湿毡工艺与创作",
       "credit": "3",
@@ -47768,7 +47848,7 @@
     {
       "campus": "宝山",
       "capacity": "10",
-      "classTime": "一1-4 (9-10周) 二1-4 (9-10周) 三1-4 (9-10周) 四1-3 (9-10周)",
+      "classTime": "",
       "courseId": "13746031",
       "courseName": "羊毛纤维湿毡工艺与创作",
       "credit": "3",
@@ -47782,7 +47862,7 @@
     {
       "campus": "宝山",
       "capacity": "26",
-      "classTime": "一1-4 (1-2周) 二1-4 (1-2周) 三1-4 (1-2周) 四1-3 (1-2周)",
+      "classTime": "",
       "courseId": "13775008",
       "courseName": "音效",
       "credit": "3",
@@ -47796,7 +47876,7 @@
     {
       "campus": "宝山",
       "capacity": "26",
-      "classTime": "一1-4 (9-10周) 二1-4 (9-10周) 三1-4 (9-10周) 四1-3 (9-10周)",
+      "classTime": "",
       "courseId": "13775008",
       "courseName": "音效",
       "credit": "3",
@@ -47810,7 +47890,7 @@
     {
       "campus": "宝山",
       "capacity": "26",
-      "classTime": "一1-4 (3-6周) 二1-4 (3-6周) 三1-4 (3-6周) 四1-3 (3-6周)",
+      "classTime": "",
       "courseId": "13775009",
       "courseName": "动态影像艺术",
       "credit": "6",
@@ -47824,7 +47904,7 @@
     {
       "campus": "宝山",
       "capacity": "26",
-      "classTime": "一1-4 (5-8周) 二1-4 (5-8周) 三1-4 (5-8周) 四1-3 (5-8周)",
+      "classTime": "",
       "courseId": "13775009",
       "courseName": "动态影像艺术",
       "credit": "6",
@@ -47838,7 +47918,7 @@
     {
       "campus": "宝山",
       "capacity": "26",
-      "classTime": "一1-4 (5-8周) 二1-4 (5-8周) 三1-4 (5-8周) 四1-3 (5-8周)",
+      "classTime": "",
       "courseId": "13775017",
       "courseName": "信息图设计",
       "credit": "6",
@@ -47852,7 +47932,7 @@
     {
       "campus": "宝山",
       "capacity": "26",
-      "classTime": "一1-4 (1-4周) 二1-4 (1-4周) 三1-4 (1-4周) 四1-3 (1-4周)",
+      "classTime": "",
       "courseId": "13775017",
       "courseName": "信息图设计",
       "credit": "6",
@@ -47866,7 +47946,7 @@
     {
       "campus": "宝山",
       "capacity": "26",
-      "classTime": "一1-4 (7-10周) 二1-4 (7-10周) 三1-4 (7-10周) 四1-3 (7-10周)",
+      "classTime": "",
       "courseId": "13775030",
       "courseName": "技术基础(1)",
       "credit": "6",
@@ -47880,7 +47960,7 @@
     {
       "campus": "宝山",
       "capacity": "26",
-      "classTime": "一1-4 (1-4周) 二1-4 (1-4周) 三1-4 (1-4周) 四1-3 (1-4周)",
+      "classTime": "",
       "courseId": "13775030",
       "courseName": "技术基础(1)",
       "credit": "6",
@@ -47894,7 +47974,7 @@
     {
       "campus": "宝山",
       "capacity": "26",
-      "classTime": "一1-4 (1-4周) 二1-4 (1-4周) 三1-4 (1-4周) 四1-3 (1-4周)",
+      "classTime": "",
       "courseId": "13775031",
       "courseName": "技术基础(2)",
       "credit": "6",
@@ -47908,7 +47988,7 @@
     {
       "campus": "宝山",
       "capacity": "26",
-      "classTime": "一1-4 (5-8周) 二1-4 (5-8周) 三1-4 (5-8周) 四1-3 (5-8周)",
+      "classTime": "",
       "courseId": "13775031",
       "courseName": "技术基础(2)",
       "credit": "6",
@@ -47922,7 +48002,7 @@
     {
       "campus": "宝山",
       "capacity": "20",
-      "classTime": "一1-4 (5-8周) 二1-4 (5-8周) 三1-4 (5-8周) 四1-3 (5-8周)",
+      "classTime": "",
       "courseId": "13776020",
       "courseName": "服务设计与商业模式",
       "credit": "6",
@@ -47936,7 +48016,7 @@
     {
       "campus": "宝山",
       "capacity": "20",
-      "classTime": "一1-4 (5-8周) 二1-4 (5-8周) 三1-4 (5-8周) 四1-3 (5-8周)",
+      "classTime": "",
       "courseId": "13776021",
       "courseName": "互动装置艺术",
       "credit": "6",
@@ -47950,7 +48030,7 @@
     {
       "campus": "宝山",
       "capacity": "20",
-      "classTime": "一1-4 (1-4周) 二1-4 (1-4周) 三1-4 (1-4周) 四1-3 (1-4周)",
+      "classTime": "",
       "courseId": "13776045",
       "courseName": "引擎应用及实现",
       "credit": "6",
@@ -47964,7 +48044,7 @@
     {
       "campus": "宝山",
       "capacity": "20",
-      "classTime": "一1-4 (5-8周) 二1-4 (5-8周) 三1-4 (5-8周) 四1-3 (5-8周)",
+      "classTime": "",
       "courseId": "13776046",
       "courseName": "三维动画与特效",
       "credit": "6",
@@ -47978,7 +48058,7 @@
     {
       "campus": "宝山",
       "capacity": "0",
-      "classTime": "(一1-4(9-10周) (二1-4(9-10周) (三1-4(9-10周) (四1-3(9-10周)",
+      "classTime": "",
       "courseId": "13776049",
       "courseName": "摄影史(选)",
       "credit": "3",
@@ -47995,7 +48075,7 @@
     {
       "campus": "宝山",
       "capacity": "20",
-      "classTime": "(一1-4(9-10周) (二1-4(9-10周) (三1-4(9-10周) (四1-3(9-10周)",
+      "classTime": "",
       "courseId": "13776050",
       "courseName": "数码造物(选)",
       "credit": "3",
@@ -48009,7 +48089,7 @@
     {
       "campus": "宝山",
       "capacity": "0",
-      "classTime": "(一1-4(9-10周) (二1-4(9-10周) (三1-4(9-10周) (四1-3(9-10周)",
+      "classTime": "",
       "courseId": "13776051",
       "courseName": "擦笔水彩画基础(选)",
       "credit": "3",
@@ -71046,7 +71126,7 @@
       "number": "49",
       "position": "1-205",
       "teacherId": "2002",
-      "teacherName": "赵兴岩",
+      "teacherName": "赵兴岩等",
       "teacherTitle": "副教授"
     },
     {
@@ -71160,7 +71240,7 @@
       "number": "18",
       "position": "1-205",
       "teacherId": "2000",
-      "teacherName": "郭爱英",
+      "teacherName": "郭爱英等",
       "teacherTitle": "讲师"
     },
     {
@@ -71486,7 +71566,7 @@
       "teacherTitle": ""
     }
   ],
-  "hash": "bf200e64eba6ae4ddab6b90479718006",
+  "hash": "ce279c991db9f0d8a8a5a48cb70b73dc",
   "termName": "2022-2023学年春季学期",
-  "updateTimeMs": 1679018160590
+  "updateTimeMs": 1679021514573
 }
