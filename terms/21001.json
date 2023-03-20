@@ -2645,7 +2645,10 @@
       "courseId": "00853069",
       "courseName": "体育(3)(保健班)",
       "credit": "1",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "禁止退课"
+      ],
       "number": "8",
       "position": "C311",
       "teacherId": "1001",
@@ -2659,7 +2662,10 @@
       "courseId": "00853069",
       "courseName": "体育(3)(保健班)",
       "credit": "1",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "禁止退课"
+      ],
       "number": "17",
       "position": "A423",
       "teacherId": "1002",
@@ -2673,7 +2679,10 @@
       "courseId": "00853069",
       "courseName": "体育(3)(保健班)",
       "credit": "1",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "禁止退课"
+      ],
       "number": "6",
       "position": "C213",
       "teacherId": "1003",
@@ -2687,8 +2696,11 @@
       "courseId": "00853072",
       "courseName": "体育(6)(保健班)",
       "credit": "1",
-      "limitations": [],
-      "number": "15",
+      "limitations": [
+        "禁止选课",
+        "禁止退课"
+      ],
+      "number": "19",
       "position": "D116",
       "teacherId": "1001",
       "teacherName": "郑莉芳",
@@ -2701,7 +2713,10 @@
       "courseId": "00853072",
       "courseName": "体育(6)(保健班)",
       "credit": "1",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "禁止退课"
+      ],
       "number": "13",
       "position": "B323",
       "teacherId": "1002",
@@ -2715,8 +2730,11 @@
       "courseId": "00853072",
       "courseName": "体育(6)(保健班)",
       "credit": "1",
-      "limitations": [],
-      "number": "9",
+      "limitations": [
+        "禁止选课",
+        "禁止退课"
+      ],
+      "number": "10",
       "position": "C213",
       "teacherId": "1003",
       "teacherName": "李静静",
@@ -71745,7 +71763,7 @@
       "teacherTitle": ""
     }
   ],
-  "hash": "2f8c6897b9beec07fa389210b234d2b9",
+  "hash": "0ba6368a1da8d048bd3811fb1b6d8a06",
   "termName": "2022-2023学年春季学期",
-  "updateTimeMs": 1679294572886
+  "updateTimeMs": 1679297896701
 }
