@@ -10619,7 +10619,9 @@
       "courseId": "0100Y006",
       "courseName": "神通广大的波",
       "credit": "1",
-      "limitations": [],
+      "limitations": [
+        "禁止选课"
+      ],
       "number": "9",
       "position": "D314",
       "teacherId": "1000",
@@ -10666,7 +10668,9 @@
       "courseId": "0100Y019",
       "courseName": "癌症与纳米药物",
       "credit": "1",
-      "limitations": [],
+      "limitations": [
+        "禁止选课"
+      ],
       "number": "22",
       "position": "B320",
       "teacherId": "1000",
@@ -10697,7 +10701,9 @@
       "courseId": "0100Y028",
       "courseName": "走近化学",
       "credit": "1",
-      "limitations": [],
+      "limitations": [
+        "禁止选课"
+      ],
       "number": "20",
       "position": "B319",
       "teacherId": "1000",
@@ -10711,7 +10717,9 @@
       "courseId": "0100Y051",
       "courseName": "化学与美好生活",
       "credit": "1",
-      "limitations": [],
+      "limitations": [
+        "禁止选课"
+      ],
       "number": "8",
       "position": "B311",
       "teacherId": "1000",
@@ -10725,7 +10733,9 @@
       "courseId": "0100Y058",
       "courseName": "时间的辩白",
       "credit": "1",
-      "limitations": [],
+      "limitations": [
+        "禁止选课"
+      ],
       "number": "16",
       "position": "B318",
       "teacherId": "1000",
@@ -10756,7 +10766,9 @@
       "courseId": "0100Y063",
       "courseName": "网络科学引论",
       "credit": "1",
-      "limitations": [],
+      "limitations": [
+        "禁止选课"
+      ],
       "number": "25",
       "position": "B319",
       "teacherId": "1000",
@@ -10868,7 +10880,9 @@
       "courseId": "0100Y097",
       "courseName": "电池与新能源",
       "credit": "1",
-      "limitations": [],
+      "limitations": [
+        "禁止选课"
+      ],
       "number": "19",
       "position": "B318",
       "teacherId": "1000",
@@ -30001,7 +30015,9 @@
       "courseId": "0600Y002",
       "courseName": "法律与生活",
       "credit": "1",
-      "limitations": [],
+      "limitations": [
+        "禁止选课"
+      ],
       "number": "14",
       "position": "B320",
       "teacherId": "1000",
@@ -30920,7 +30936,9 @@
       "courseId": "0700Y031",
       "courseName": "微波与无线通信",
       "credit": "1",
-      "limitations": [],
+      "limitations": [
+        "禁止选课"
+      ],
       "number": "15",
       "position": "B318",
       "teacherId": "1000",
@@ -38191,7 +38209,9 @@
       "courseId": "1000Y066",
       "courseName": "从切尔诺贝利到福岛——核电事故分析及其影响",
       "credit": "1",
-      "limitations": [],
+      "limitations": [
+        "禁止选课"
+      ],
       "number": "10",
       "position": "B320",
       "teacherId": "1000",
@@ -40849,7 +40869,9 @@
       "courseId": "1100Y046",
       "courseName": "揭秘光化学烟雾污染",
       "credit": "1",
-      "limitations": [],
+      "limitations": [
+        "禁止选课"
+      ],
       "number": "9",
       "position": "B318",
       "teacherId": "1000",
@@ -41840,7 +41862,9 @@
       "courseId": "1200Y015",
       "courseName": "生物钟与人体健康",
       "credit": "1",
-      "limitations": [],
+      "limitations": [
+        "禁止选课"
+      ],
       "number": "14",
       "position": "B319",
       "teacherId": "1000",
@@ -43764,7 +43788,9 @@
       "courseId": "1300Y015",
       "courseName": "西方美术馆之旅",
       "credit": "1",
-      "limitations": [],
+      "limitations": [
+        "禁止选课"
+      ],
       "number": "13",
       "position": "A110",
       "teacherId": "1000",
@@ -43778,7 +43804,9 @@
       "courseId": "1300Y016",
       "courseName": "历史人文与中国画的关系",
       "credit": "1",
-      "limitations": [],
+      "limitations": [
+        "禁止选课"
+      ],
       "number": "23",
       "position": "B320",
       "teacherId": "1000",
@@ -48665,7 +48693,9 @@
       "courseId": "1400Y009",
       "courseName": "公共关系:形象与沟通的艺术",
       "credit": "1",
-      "limitations": [],
+      "limitations": [
+        "禁止选课"
+      ],
       "number": "13",
       "position": "B319",
       "teacherId": "1000",
@@ -54352,6 +54382,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "115",
@@ -54416,6 +54447,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "125",
@@ -54480,6 +54512,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "109",
@@ -54544,6 +54577,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "116",
@@ -54560,6 +54594,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "116",
@@ -54672,6 +54707,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "112",
@@ -54688,6 +54724,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "113",
@@ -54800,6 +54837,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "110",
@@ -54816,6 +54854,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "110",
@@ -54928,6 +54967,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "110",
@@ -54944,6 +54984,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "110",
@@ -55040,6 +55081,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "110",
@@ -55104,6 +55146,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "110",
@@ -55216,6 +55259,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "110",
@@ -55312,6 +55356,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "110",
@@ -55328,6 +55373,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "110",
@@ -55440,6 +55486,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "111",
@@ -55456,6 +55503,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "110",
@@ -55568,6 +55616,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "110",
@@ -55584,6 +55633,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "110",
@@ -55694,6 +55744,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "116",
@@ -55758,6 +55809,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "110",
@@ -55820,6 +55872,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "107",
@@ -55879,7 +55932,9 @@
       "courseId": "16583109",
       "courseName": "形势与政策",
       "credit": "0",
-      "limitations": [],
+      "limitations": [
+        "禁止选课"
+      ],
       "number": "109",
       "position": "DJ104",
       "teacherId": "1099",
@@ -55942,6 +55997,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "105",
@@ -56008,6 +56064,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "101",
@@ -56056,6 +56113,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "101",
@@ -56104,6 +56162,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "100",
@@ -56150,6 +56209,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "100",
@@ -56197,6 +56257,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "100",
@@ -56245,6 +56306,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "90",
@@ -56291,6 +56353,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "90",
@@ -56355,6 +56418,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "100",
@@ -56403,6 +56467,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "100",
@@ -56446,7 +56511,9 @@
       "courseId": "16583109",
       "courseName": "形势与政策",
       "credit": "0",
-      "limitations": [],
+      "limitations": [
+        "禁止选课"
+      ],
       "number": "89",
       "position": "Ⅳ301",
       "teacherId": "3014",
@@ -56491,7 +56558,9 @@
       "courseId": "16583109",
       "courseName": "形势与政策",
       "credit": "0",
-      "limitations": [],
+      "limitations": [
+        "禁止选课"
+      ],
       "number": "86",
       "position": "Ⅳ301",
       "teacherId": "3017",
@@ -56762,7 +56831,7 @@
       "number": "125",
       "position": "DJ204",
       "teacherId": "1016",
-      "teacherName": "叶海涛",
+      "teacherName": "叶海涛等",
       "teacherTitle": "教授"
     },
     {
@@ -56792,7 +56861,7 @@
       "number": "130",
       "position": "BJ304",
       "teacherId": "1018",
-      "teacherName": "叶海涛",
+      "teacherName": "叶海涛等",
       "teacherTitle": "教授"
     },
     {
@@ -58465,7 +58534,7 @@
       "courseName": "思想政治理论课(实践)(1)",
       "credit": "1",
       "limitations": [],
-      "number": "93",
+      "number": "94",
       "position": "BJ303",
       "teacherId": "1029",
       "teacherName": "李晨",
@@ -64969,7 +65038,9 @@
       "courseId": "2400Y010",
       "courseName": "沟通让我们生活更轻松",
       "credit": "1",
-      "limitations": [],
+      "limitations": [
+        "禁止选课"
+      ],
       "number": "29",
       "position": "B311",
       "teacherId": "1000",
@@ -65017,7 +65088,9 @@
       "courseId": "2400Y027",
       "courseName": "管理思维与人生智慧",
       "credit": "1",
-      "limitations": [],
+      "limitations": [
+        "禁止选课"
+      ],
       "number": "14",
       "position": "B311",
       "teacherId": "1000",
@@ -65259,7 +65332,9 @@
       "courseId": "2800Y002",
       "courseName": "消费与社会",
       "credit": "1",
-      "limitations": [],
+      "limitations": [
+        "禁止选课"
+      ],
       "number": "7",
       "position": "A104",
       "teacherId": "1000",
@@ -65324,7 +65399,9 @@
       "courseId": "2800Y015",
       "courseName": "全球化与中国企业“走出去”",
       "credit": "1",
-      "limitations": [],
+      "limitations": [
+        "禁止选课"
+      ],
       "number": "9",
       "position": "B320",
       "teacherId": "1000",
@@ -71763,7 +71840,7 @@
       "teacherTitle": ""
     }
   ],
-  "hash": "8cbbbd228a0ea9fbfc9a154827ff063a",
+  "hash": "1a76354ea31df8f8e89c5d0dbe0fcc31",
   "termName": "2022-2023学年春季学期",
-  "updateTimeMs": 1679355522312
+  "updateTimeMs": 1679366771383
 }
