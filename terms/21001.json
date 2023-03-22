@@ -18070,7 +18070,7 @@
       "courseName": "大学语文(1)",
       "credit": "2",
       "limitations": [],
-      "number": "56",
+      "number": "57",
       "position": "A111",
       "teacherId": "1004",
       "teacherName": "聂世昌",
@@ -21110,7 +21110,7 @@
       "courseName": "通用英语D(3)",
       "credit": "2",
       "limitations": [],
-      "number": "35",
+      "number": "36",
       "position": "D121",
       "teacherId": "1007",
       "teacherName": "蔡石兴",
@@ -28320,7 +28320,7 @@
       "courseName": "管理学",
       "credit": "4",
       "limitations": [],
-      "number": "18",
+      "number": "19",
       "position": "C112",
       "teacherId": "1012",
       "teacherName": "余玲玲",
@@ -56258,9 +56258,10 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
-        "禁止选课"
+        "禁止选课",
+        "人数已满"
       ],
-      "number": "89",
+      "number": "90",
       "position": "Ⅳ301",
       "teacherId": "3014",
       "teacherName": "宋哲仁",
@@ -56391,7 +56392,7 @@
     {
       "campus": "宝山",
       "capacity": "120",
-      "classTime": "二3-4单 四3-4",
+      "classTime": "二3-4 四3-4单",
       "courseId": "16584136",
       "courseName": "中国近现代史纲要B",
       "credit": "3",
@@ -57514,7 +57515,7 @@
       "courseName": "劳动教育理论课",
       "credit": "1",
       "limitations": [],
-      "number": "36",
+      "number": "37",
       "position": "A204",
       "teacherId": "1002",
       "teacherName": "高红明",
@@ -59074,7 +59075,7 @@
       "credit": "3",
       "limitations": [],
       "number": "50",
-      "position": "A417",
+      "position": "AJ107",
       "teacherId": "1005",
       "teacherName": "茅宇凡",
       "teacherTitle": "副教授"
@@ -61761,7 +61762,7 @@
       "courseName": "品牌与传播智慧",
       "credit": "2",
       "limitations": [],
-      "number": "40",
+      "number": "41",
       "position": "Ⅳ303",
       "teacherId": "3000",
       "teacherName": "宋瑜",
@@ -61805,7 +61806,7 @@
       "courseName": "霓裳之舞:服饰艺术与生活",
       "credit": "2",
       "limitations": [],
-      "number": "27",
+      "number": "28",
       "position": "A109",
       "teacherId": "1000",
       "teacherName": "王敏",
@@ -70787,7 +70788,7 @@
       "courseName": "理论中国",
       "credit": "3",
       "limitations": [],
-      "number": "58",
+      "number": "59",
       "position": "J201",
       "teacherId": "1000",
       "teacherName": "高立伟等",
@@ -71398,7 +71399,7 @@
       "teacherTitle": ""
     }
   ],
-  "hash": "55ccaf16a05efcfced9f222e9b53f870",
+  "hash": "c7f8b881a79fb1c93d52545a0fcce471",
   "termName": "2022-2023学年春季学期",
-  "updateTimeMs": 1679460021655
+  "updateTimeMs": 1679463531529
 }
