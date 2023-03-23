@@ -15389,7 +15389,7 @@
       "courseName": "无机化学(1)",
       "credit": "4",
       "limitations": [],
-      "number": "8",
+      "number": "9",
       "position": "D116",
       "teacherId": "1000",
       "teacherName": "安保礼",
@@ -17225,8 +17225,10 @@
       "courseId": "0200R022",
       "courseName": "20世纪中国特工史",
       "credit": "3",
-      "limitations": [],
-      "number": "69",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "70",
       "position": "FJ104",
       "teacherId": "1000",
       "teacherName": "徐有威",
@@ -26412,7 +26414,7 @@
       "courseName": "产业经济学",
       "credit": "3",
       "limitations": [],
-      "number": "15",
+      "number": "16",
       "position": "线上",
       "teacherId": "1001",
       "teacherName": "史东辉",
@@ -71413,7 +71415,7 @@
       "teacherTitle": ""
     }
   ],
-  "hash": "a96377d9f57731359845ed84d6dbb91f",
+  "hash": "85e898de774585e637908b3bf1f069ea",
   "termName": "2022-2023学年春季学期",
-  "updateTimeMs": 1679593123992
+  "updateTimeMs": 1679596780896
 }
