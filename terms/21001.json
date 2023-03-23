@@ -11041,8 +11041,10 @@
       "courseId": "01014104",
       "courseName": "线性代数",
       "credit": "3",
-      "limitations": [],
-      "number": "117",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "118",
       "position": "CJ103",
       "teacherId": "1003",
       "teacherName": "徐玉兰",
@@ -11111,8 +11113,10 @@
       "courseId": "01014104",
       "courseName": "线性代数",
       "credit": "3",
-      "limitations": [],
-      "number": "123",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "125",
       "position": "EJ204",
       "teacherId": "1008",
       "teacherName": "吴华",
@@ -25773,7 +25777,7 @@
       "courseName": "市场经济与政府职能",
       "credit": "2",
       "limitations": [],
-      "number": "24",
+      "number": "25",
       "position": "A217",
       "teacherId": "1000",
       "teacherName": "卢正刚",
@@ -53373,7 +53377,7 @@
       "courseName": "会计学",
       "credit": "4",
       "limitations": [],
-      "number": "38",
+      "number": "39",
       "position": "文博101",
       "teacherId": "2000",
       "teacherName": "程敏",
@@ -54213,7 +54217,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [],
-      "number": "117",
+      "number": "118",
       "position": "AJ203",
       "teacherId": "1002",
       "teacherName": "顾晓英",
@@ -60853,7 +60857,7 @@
       "courseName": "人工智能与土木工程导论",
       "credit": "2",
       "limitations": [],
-      "number": "17",
+      "number": "18",
       "position": "A419",
       "teacherId": "1000",
       "teacherName": "王长青",
@@ -71399,7 +71403,7 @@
       "teacherTitle": ""
     }
   ],
-  "hash": "eb4b7ebf73e4843e30c8645369d684b5",
+  "hash": "ecccdf2919d09128817c7e6fa870f905",
   "termName": "2022-2023学年春季学期",
-  "updateTimeMs": 1679578885123
+  "updateTimeMs": 1679582357386
 }
