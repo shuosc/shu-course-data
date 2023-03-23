@@ -9265,8 +9265,10 @@
       "courseId": "00864119",
       "courseName": "移动应用设计与开发",
       "credit": "3",
-      "limitations": [],
-      "number": "49",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "50",
       "position": "D503机房",
       "teacherId": "1003",
       "teacherName": "邹启明",
@@ -9658,7 +9660,7 @@
       "courseName": "大学生社会实践",
       "credit": "1",
       "limitations": [],
-      "number": "47",
+      "number": "48",
       "position": "A415",
       "teacherId": "1003",
       "teacherName": "陈中元等",
@@ -12568,8 +12570,10 @@
       "courseId": "01034118",
       "courseName": "大学物理(2)",
       "credit": "4",
-      "limitations": [],
-      "number": "109",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "110",
       "position": "AJ204",
       "teacherId": "1013",
       "teacherName": "白丽华",
@@ -12767,7 +12771,7 @@
       "courseName": "大学物理(3)",
       "credit": "4",
       "limitations": [],
-      "number": "112",
+      "number": "113",
       "position": "FJ304",
       "teacherId": "1000",
       "teacherName": "查国桥",
@@ -22968,7 +22972,7 @@
       "courseName": "英语阅读",
       "credit": "2",
       "limitations": [],
-      "number": "30",
+      "number": "31",
       "position": "C110",
       "teacherId": "1001",
       "teacherName": "吴羊",
@@ -32706,7 +32710,7 @@
       "courseName": "生活中的计算思维",
       "credit": "4",
       "limitations": [],
-      "number": "34",
+      "number": "35",
       "position": "A214",
       "teacherId": "1000",
       "teacherName": "彭俊杰",
@@ -55312,7 +55316,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [],
-      "number": "107",
+      "number": "108",
       "position": "J201",
       "teacherId": "1075",
       "teacherName": "刘子杰",
@@ -57813,7 +57817,7 @@
       "courseName": "思想政治理论课(实践)(1)",
       "credit": "1",
       "limitations": [],
-      "number": "105",
+      "number": "106",
       "position": "DJ108",
       "teacherId": "1004",
       "teacherName": "许俊琳",
@@ -71403,7 +71407,7 @@
       "teacherTitle": ""
     }
   ],
-  "hash": "ecccdf2919d09128817c7e6fa870f905",
+  "hash": "00d063435aeb5109ece1fb42c45c5c1b",
   "termName": "2022-2023学年春季学期",
-  "updateTimeMs": 1679582357386
+  "updateTimeMs": 1679585923478
 }
