@@ -8784,7 +8784,7 @@
       "courseName": "程序设计(C语言)",
       "credit": "4",
       "limitations": [],
-      "number": "30",
+      "number": "31",
       "position": "D315机房",
       "teacherId": "1002",
       "teacherName": "邹启明",
@@ -25596,8 +25596,10 @@
       "courseId": "0400J498",
       "courseName": "职场人际关系处理",
       "credit": "2",
-      "limitations": [],
-      "number": "69",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "70",
       "position": "J102",
       "teacherId": "1000",
       "teacherName": "陶新桂",
@@ -29812,7 +29814,7 @@
       "courseName": "创新创业与知识产权",
       "credit": "4",
       "limitations": [],
-      "number": "54",
+      "number": "55",
       "position": "A221",
       "teacherId": "1000",
       "teacherName": "徐红菊等",
@@ -71417,7 +71419,7 @@
       "teacherTitle": ""
     }
   ],
-  "hash": "102a124bdfcf0f6078f72fc17d1d6e86",
+  "hash": "5aea89bef1c610176174babad7765cb0",
   "termName": "2022-2023学年春季学期",
-  "updateTimeMs": 1679600337473
+  "updateTimeMs": 1679603937125
 }
