@@ -9202,8 +9202,10 @@
       "courseId": "00864118",
       "courseName": "数据分析与智能计算",
       "credit": "3",
-      "limitations": [],
-      "number": "51",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "52",
       "position": "D111",
       "teacherId": "1009",
       "teacherName": "马骄阳",
@@ -11664,7 +11666,7 @@
       "courseName": "微积分(3)",
       "credit": "4",
       "limitations": [],
-      "number": "98",
+      "number": "99",
       "position": "EJ404",
       "teacherId": "1025",
       "teacherName": "赵凤珍",
@@ -48374,7 +48376,7 @@
       "courseName": "好莱坞电影——1891年以来的电影工业发展史",
       "credit": "2",
       "limitations": [],
-      "number": "20",
+      "number": "21",
       "position": "A217",
       "teacherId": "1000",
       "teacherName": "陈寅",
@@ -53380,8 +53382,10 @@
       "courseId": "15575164",
       "courseName": "会计学",
       "credit": "4",
-      "limitations": [],
-      "number": "39",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "40",
       "position": "文博101",
       "teacherId": "2000",
       "teacherName": "程敏",
@@ -54221,7 +54225,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [],
-      "number": "118",
+      "number": "119",
       "position": "AJ203",
       "teacherId": "1002",
       "teacherName": "顾晓英",
@@ -54592,8 +54596,10 @@
       "courseId": "16583109",
       "courseName": "形势与政策",
       "credit": "0",
-      "limitations": [],
-      "number": "114",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "115",
       "position": "J101",
       "teacherId": "1026",
       "teacherName": "孙士庆",
@@ -71407,7 +71413,7 @@
       "teacherTitle": ""
     }
   ],
-  "hash": "ddd46b4ba6e82fb030c54f9e14e15ec0",
+  "hash": "a96377d9f57731359845ed84d6dbb91f",
   "termName": "2022-2023学年春季学期",
-  "updateTimeMs": 1679589949371
+  "updateTimeMs": 1679593123992
 }
