@@ -107,7 +107,7 @@
       "courseName": "活动课",
       "credit": "0",
       "limitations": [],
-      "number": "148",
+      "number": "149",
       "position": "Ⅳ102",
       "teacherId": "3001",
       "teacherName": "王雪薇",
@@ -1752,7 +1752,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "22",
+      "number": "23",
       "position": "篮球场",
       "teacherId": "3031",
       "teacherName": "林建华",
@@ -1898,7 +1898,7 @@
       "courseName": "体育(3)",
       "credit": "1",
       "limitations": [],
-      "number": "11",
+      "number": "12",
       "position": "行健楼二楼",
       "teacherId": "3613",
       "teacherName": "张靖",
@@ -1906,14 +1906,12 @@
     },
     {
       "campus": "延长",
-      "capacity": "22",
+      "capacity": "24",
       "classTime": "三3-4男女武术",
       "courseId": "00853003",
       "courseName": "体育(3)",
       "credit": "1",
-      "limitations": [
-        "人数已满"
-      ],
+      "limitations": [],
       "number": "22",
       "position": "行健楼二楼",
       "teacherId": "3651",
@@ -2543,10 +2541,8 @@
       "courseId": "00853006",
       "courseName": "体育(6)",
       "credit": "1",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "22",
+      "limitations": [],
+      "number": "21",
       "position": "行健楼二楼",
       "teacherId": "3714",
       "teacherName": "顾修红",
@@ -6685,10 +6681,8 @@
       "courseId": "00853606",
       "courseName": "网球(3)",
       "credit": "1",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "26",
+      "limitations": [],
+      "number": "25",
       "position": "E区网球场",
       "teacherId": "1844",
       "teacherName": "杨小明",
@@ -21147,7 +21141,7 @@
       "courseName": "通用英语D(3)",
       "credit": "2",
       "limitations": [],
-      "number": "35",
+      "number": "36",
       "position": "Ⅳ204",
       "teacherId": "3003",
       "teacherName": "黄红",
@@ -25868,10 +25862,8 @@
       "courseId": "0400R800",
       "courseName": "大学生情感认知",
       "credit": "2",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "70",
+      "limitations": [],
+      "number": "69",
       "position": "J201",
       "teacherId": "1000",
       "teacherName": "李晨",
@@ -48706,7 +48698,7 @@
       "courseName": "电影前沿技术讲座",
       "credit": "1",
       "limitations": [],
-      "number": "62",
+      "number": "63",
       "position": "Ⅳ102",
       "teacherId": "3000",
       "teacherName": "张添一等",
@@ -49069,8 +49061,10 @@
       "courseId": "14566248",
       "courseName": "拉片点读",
       "credit": "3",
-      "limitations": [],
-      "number": "27",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "30",
       "position": "四教502",
       "teacherId": "3001",
       "teacherName": "刘延刚",
@@ -49117,7 +49111,7 @@
       "courseName": "拉片点读",
       "credit": "3",
       "limitations": [],
-      "number": "25",
+      "number": "21",
       "position": "四教502",
       "teacherId": "3004",
       "teacherName": "MUELLER MARCO",
@@ -49500,7 +49494,7 @@
       "courseName": "数字特效技术",
       "credit": "4",
       "limitations": [],
-      "number": "6",
+      "number": "7",
       "position": "电机楼411",
       "teacherId": "3000",
       "teacherName": "张军",
@@ -49776,7 +49770,7 @@
       "courseName": "声乐训练(3)",
       "credit": "2",
       "limitations": [],
-      "number": "4",
+      "number": "10",
       "position": "四教501B",
       "teacherId": "3002",
       "teacherName": "董玉青",
@@ -49881,7 +49875,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "23",
+      "number": "24",
       "position": "Ⅳ107",
       "teacherId": "3000",
       "teacherName": "何欢",
@@ -50713,7 +50707,7 @@
         "人数已满"
       ],
       "number": "30",
-      "position": "电机楼406",
+      "position": "电机楼409",
       "teacherId": "3000",
       "teacherName": "吴丽娜",
       "teacherTitle": "讲师"
@@ -57284,7 +57278,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "140",
+      "number": "141",
       "position": "Ⅳ101",
       "teacherId": "3002",
       "teacherName": "薛军民",
@@ -57500,7 +57494,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "91",
+      "number": "92",
       "position": "Ⅳ102",
       "teacherId": "3000",
       "teacherName": "艾慧",
@@ -71412,7 +71406,7 @@
       "teacherTitle": ""
     }
   ],
-  "hash": "d85ea22df6df643d195e418719bf88ca",
+  "hash": "01a5a60e286edb7b87a630645fc0601c",
   "termName": "2022-2023学年春季学期",
-  "updateTimeMs": 1679981884656
+  "updateTimeMs": 1679985670827
 }
