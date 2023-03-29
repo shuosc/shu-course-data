@@ -1330,7 +1330,7 @@
       "courseName": "思想政治理论课(实践)(2)",
       "credit": "1",
       "limitations": [],
-      "number": "144",
+      "number": "143",
       "position": "AJ107",
       "teacherId": "1000",
       "teacherName": "袁晓晶",
@@ -10718,7 +10718,7 @@
       "courseName": "生命过程中的化学反应",
       "credit": "1",
       "limitations": [],
-      "number": "14",
+      "number": "15",
       "position": "B315",
       "teacherId": "1000",
       "teacherName": "姚建",
@@ -12465,10 +12465,8 @@
       "courseId": "01034118",
       "courseName": "大学物理(2)",
       "credit": "4",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "107",
+      "limitations": [],
+      "number": "106",
       "position": "AJ104",
       "teacherId": "1008",
       "teacherName": "白丽华",
@@ -30569,10 +30567,8 @@
       "courseId": "07005002",
       "courseName": "电路电子实验技术(2)",
       "credit": "1.5",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "28",
+      "limitations": [],
+      "number": "27",
       "position": "B601",
       "teacherId": "1006",
       "teacherName": "夏强",
@@ -35221,7 +35217,7 @@
       "courseName": "毕业设计(论文)",
       "credit": "28",
       "limitations": [],
-      "number": "1",
+      "number": "0",
       "position": "另行通知",
       "teacherId": "1000",
       "teacherName": "张捷",
@@ -35695,7 +35691,7 @@
       "courseName": "现代控制理论基础",
       "credit": "3",
       "limitations": [],
-      "number": "22",
+      "number": "21",
       "position": "D314",
       "teacherId": "1002",
       "teacherName": "沈天飞",
@@ -35869,7 +35865,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "53",
+      "number": "52",
       "position": "D108",
       "teacherId": "1003",
       "teacherName": "赵剑飞",
@@ -36975,7 +36971,7 @@
       "courseName": "机电系统控制设计",
       "credit": "4",
       "limitations": [],
-      "number": "38",
+      "number": "37",
       "position": "另行通知",
       "teacherId": "1002",
       "teacherName": "张勇",
@@ -45227,7 +45223,7 @@
     {
       "campus": "宝山",
       "capacity": "11",
-      "classTime": "一1-4 (1-3周) 二1-4 (1-3周) 三1-4 (1-3周) 四1-3 (1-3周)",
+      "classTime": "(一1-4 (1-3周) (二1-4 (1-3周) (三1-4 (1-3周) (四1-3 (1-3周)",
       "courseId": "13506639",
       "courseName": "工笔花鸟临摹(1)",
       "credit": "4.5",
@@ -45318,7 +45314,7 @@
       "courseName": "人物(水墨)B",
       "credit": "6",
       "limitations": [],
-      "number": "9",
+      "number": "10",
       "position": "美院203",
       "teacherId": "1000",
       "teacherName": "贺戈箫",
@@ -45327,7 +45323,7 @@
     {
       "campus": "宝山",
       "capacity": "11",
-      "classTime": "一1-4 (1-2周) 二1-4 (1-2周) 三1-4 (1-2周) 四1-3 (1-2周)",
+      "classTime": "(一1-4 (1-2周) (二1-4 (1-2周) (三1-4 (1-2周) (四1-3 (1-2周)",
       "courseId": "13506737",
       "courseName": "山水写生B",
       "credit": "3",
@@ -45341,7 +45337,7 @@
     {
       "campus": "宝山",
       "capacity": "11",
-      "classTime": "一1-4(5-10周) 二1-4(5-10周) 三1-4(5-10周) 四1-3(5-10周)",
+      "classTime": "(一1-4(5-10周) (二1-4(5-10周) (三1-4(5-10周) (四1-3(5-10周)",
       "courseId": "13506738",
       "courseName": "创作A",
       "credit": "9",
@@ -45360,7 +45356,7 @@
       "courseName": "水墨理念(形式构成)A",
       "credit": "3",
       "limitations": [],
-      "number": "6",
+      "number": "7",
       "position": "美院204",
       "teacherId": "1000",
       "teacherName": "周隽",
@@ -54449,8 +54445,10 @@
       "courseId": "16583109",
       "courseName": "形势与政策",
       "credit": "0",
-      "limitations": [],
-      "number": "118",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "119",
       "position": "DJ104",
       "teacherId": "1017",
       "teacherName": "李之喆",
@@ -71393,7 +71391,7 @@
       "teacherTitle": ""
     }
   ],
-  "hash": "2fbe85a72aaa1c10aa4423aa93c1ba21",
+  "hash": "d83e8d92256dd96077f2b461c9fbc5eb",
   "termName": "2022-2023学年春季学期",
-  "updateTimeMs": 1680068288970
+  "updateTimeMs": 1680072081813
 }
