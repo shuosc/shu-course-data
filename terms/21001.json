@@ -2874,7 +2874,7 @@
       "courseName": "男生足球(基础)",
       "credit": "1",
       "limitations": [],
-      "number": "23",
+      "number": "24",
       "position": "J区足球场",
       "teacherId": "1303",
       "teacherName": "沈强",
@@ -10718,7 +10718,7 @@
       "courseName": "生命过程中的化学反应",
       "credit": "1",
       "limitations": [],
-      "number": "15",
+      "number": "16",
       "position": "B315",
       "teacherId": "1000",
       "teacherName": "姚建",
@@ -17511,7 +17511,7 @@
       "courseName": "启蒙思想家与日本近代化",
       "credit": "2",
       "limitations": [],
-      "number": "67",
+      "number": "68",
       "position": "J102",
       "teacherId": "1000",
       "teacherName": "张智慧等",
@@ -34453,7 +34453,7 @@
       "courseName": "数字电路A",
       "credit": "3",
       "limitations": [],
-      "number": "13",
+      "number": "12",
       "position": "计304",
       "teacherId": "1000",
       "teacherName": "鲍晟等",
@@ -34543,7 +34543,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "50",
+      "number": "51",
       "position": "DJ204",
       "teacherId": "1002",
       "teacherName": "金健",
@@ -35913,7 +35913,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "40",
+      "number": "41",
       "position": "D211",
       "teacherId": "1003",
       "teacherName": "杨庆华",
@@ -36881,7 +36881,7 @@
       "courseName": "制造技术基础C",
       "credit": "4",
       "limitations": [],
-      "number": "52",
+      "number": "51",
       "position": "材324",
       "teacherId": "1002",
       "teacherName": "李宝福",
@@ -36925,7 +36925,7 @@
       "courseName": "工程项目管理",
       "credit": "2",
       "limitations": [],
-      "number": "40",
+      "number": "39",
       "position": "计308",
       "teacherId": "1002",
       "teacherName": "丁基恒",
@@ -41340,7 +41340,7 @@
       "courseName": "微生物与人类健康",
       "credit": "2",
       "limitations": [],
-      "number": "43",
+      "number": "44",
       "position": "D211",
       "teacherId": "1000",
       "teacherName": "牛莉莉",
@@ -64971,8 +64971,10 @@
       "courseId": "3100R601",
       "courseName": "中国歌词文化",
       "credit": "2",
-      "limitations": [],
-      "number": "69",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "70",
       "position": "DJ103",
       "teacherId": "1000",
       "teacherName": "徐倩",
@@ -71391,7 +71393,7 @@
       "teacherTitle": ""
     }
   ],
-  "hash": "d83e8d92256dd96077f2b461c9fbc5eb",
+  "hash": "1a88e18f8d3eda2e683b996e2a703604",
   "termName": "2022-2023学年春季学期",
-  "updateTimeMs": 1680072081813
+  "updateTimeMs": 1680075536195
 }
