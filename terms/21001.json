@@ -11098,8 +11098,10 @@
       "courseId": "01014104",
       "courseName": "线性代数",
       "credit": "3",
-      "limitations": [],
-      "number": "124",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "125",
       "position": "FJ103",
       "teacherId": "1009",
       "teacherName": "张琴",
@@ -54728,7 +54730,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [],
-      "number": "111",
+      "number": "112",
       "position": "J101",
       "teacherId": "1035",
       "teacherName": "孙士庆",
@@ -62480,7 +62482,7 @@
       "courseName": "大学物理A(力学)",
       "credit": "6",
       "limitations": [],
-      "number": "55",
+      "number": "56",
       "position": "BJ107",
       "teacherId": "1002",
       "teacherName": "王燕等",
@@ -71393,7 +71395,7 @@
       "teacherTitle": ""
     }
   ],
-  "hash": "45341fcbf212ba9ef11725fd25590b30",
+  "hash": "ab2b7c877ca2ecbf27828a8fbb1c8ce9",
   "termName": "2022-2023学年春季学期",
-  "updateTimeMs": 1680046726892
+  "updateTimeMs": 1680055439905
 }
