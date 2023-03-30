@@ -29584,7 +29584,7 @@
       "courseName": "让证据说话",
       "credit": "2",
       "limitations": [],
-      "number": "54",
+      "number": "53",
       "position": "A101",
       "teacherId": "1000",
       "teacherName": "史长青",
@@ -51637,10 +51637,8 @@
       "courseId": "1517A002",
       "courseName": "毕业设计(论文)",
       "credit": "20",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "65",
+      "limitations": [],
+      "number": "64",
       "position": "",
       "teacherId": "2001",
       "teacherName": "贾利军等",
@@ -51684,7 +51682,7 @@
       "courseName": "毕业设计(论文)",
       "credit": "20",
       "limitations": [],
-      "number": "39",
+      "number": "37",
       "position": "",
       "teacherId": "2004",
       "teacherName": "邹海亮等",
@@ -52222,7 +52220,7 @@
       "courseName": "毕业设计(论文)",
       "credit": "30",
       "limitations": [],
-      "number": "14",
+      "number": "9",
       "position": "",
       "teacherId": "2000",
       "teacherName": "胡笑寒等",
@@ -52479,8 +52477,10 @@
       "courseId": "15573322",
       "courseName": "财务管理",
       "credit": "4",
-      "limitations": [],
-      "number": "64",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "65",
       "position": "文博402",
       "teacherId": "2003",
       "teacherName": "王兰芳",
@@ -52528,7 +52528,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "58",
+      "number": "59",
       "position": "文博404",
       "teacherId": "2006",
       "teacherName": "王妍玲",
@@ -52542,7 +52542,7 @@
       "courseName": "财务管理",
       "credit": "4",
       "limitations": [],
-      "number": "43",
+      "number": "44",
       "position": "文博402",
       "teacherId": "2007",
       "teacherName": "赵敏",
@@ -71393,7 +71393,7 @@
       "teacherTitle": ""
     }
   ],
-  "hash": "358e3750c15f6f170b9b4aad61c8ae6e",
+  "hash": "d2634262584abc6309b9210405419cf0",
   "termName": "2022-2023学年春季学期",
-  "updateTimeMs": 1680154706433
+  "updateTimeMs": 1680158492407
 }
