@@ -9315,7 +9315,7 @@
       "courseName": "程序设计(Python语言)",
       "credit": "4",
       "limitations": [],
-      "number": "41",
+      "number": "42",
       "position": "DJ104",
       "teacherId": "1001",
       "teacherName": "钟宝燕",
@@ -9389,7 +9389,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "59",
+      "number": "60",
       "position": "D316",
       "teacherId": "1001",
       "teacherName": "马骄阳",
@@ -10965,7 +10965,7 @@
       "courseName": "微积分C",
       "credit": "3",
       "limitations": [],
-      "number": "25",
+      "number": "24",
       "position": "A412",
       "teacherId": "1000",
       "teacherName": "杨永建",
@@ -14548,7 +14548,7 @@
       "courseName": "大学物理实验(2)",
       "credit": "1",
       "limitations": [],
-      "number": "18",
+      "number": "21",
       "position": "F楼1楼",
       "teacherId": "1113",
       "teacherName": "安康",
@@ -14562,7 +14562,7 @@
       "courseName": "大学物理实验(3)",
       "credit": "1",
       "limitations": [],
-      "number": "19",
+      "number": "16",
       "position": "F楼1楼",
       "teacherId": "1000",
       "teacherName": "马洪良",
@@ -36476,10 +36476,8 @@
       "courseId": "09375014",
       "courseName": "现代控制理论基础",
       "credit": "3",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "35",
+      "limitations": [],
+      "number": "34",
       "position": "B424",
       "teacherId": "1004",
       "teacherName": "任肖强",
@@ -52357,10 +52355,8 @@
       "courseId": "1519SY01",
       "courseName": "需求链设计与管理",
       "credit": "2",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "30",
+      "limitations": [],
+      "number": "29",
       "position": "文达605",
       "teacherId": "2004",
       "teacherName": "刘典",
@@ -52556,7 +52552,7 @@
       "courseName": "财务管理",
       "credit": "4",
       "limitations": [],
-      "number": "26",
+      "number": "27",
       "position": "文博306",
       "teacherId": "2008",
       "teacherName": "李玉博",
@@ -52957,8 +52953,10 @@
       "courseId": "15575067",
       "courseName": "财务计价与策略",
       "credit": "4",
-      "limitations": [],
-      "number": "69",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "70",
       "position": "文博402",
       "teacherId": "2004",
       "teacherName": "方慧",
@@ -53825,7 +53823,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "30",
+      "number": "31",
       "position": "文达605",
       "teacherId": "2004",
       "teacherName": "谢娅敏等",
@@ -71393,7 +71391,7 @@
       "teacherTitle": ""
     }
   ],
-  "hash": "d2634262584abc6309b9210405419cf0",
+  "hash": "9734b5a22e0f0639727d97e0027864e5",
   "termName": "2022-2023学年春季学期",
-  "updateTimeMs": 1680158492407
+  "updateTimeMs": 1680165711596
 }
