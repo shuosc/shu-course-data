@@ -2778,8 +2778,10 @@
       "courseId": "00853202",
       "courseName": "男生足球(基础)",
       "credit": "1",
-      "limitations": [],
-      "number": "29",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "30",
       "position": "J区足球场",
       "teacherId": "1231",
       "teacherName": "王文胜",
@@ -4831,7 +4833,7 @@
       "courseName": "旱地冰球(基础)",
       "credit": "1",
       "limitations": [],
-      "number": "28",
+      "number": "29",
       "position": "训练馆二楼",
       "teacherId": "1176",
       "teacherName": "唐冬菊",
@@ -5596,7 +5598,7 @@
       "courseName": "男生足球(3)",
       "credit": "1",
       "limitations": [],
-      "number": "15",
+      "number": "14",
       "position": "J区足球场",
       "teacherId": "1336",
       "teacherName": "益广仁",
@@ -7292,7 +7294,7 @@
       "courseName": "攀岩(3)",
       "credit": "1",
       "limitations": [],
-      "number": "22",
+      "number": "21",
       "position": "C区风雨操场",
       "teacherId": "1774",
       "teacherName": "陈利荣",
@@ -69394,7 +69396,7 @@
       "courseName": "中国音乐简史(1)",
       "credit": "3",
       "limitations": [],
-      "number": "35",
+      "number": "34",
       "position": "音院W207",
       "teacherId": "1001",
       "teacherName": "张晓东",
@@ -71397,7 +71399,7 @@
       "teacherTitle": ""
     }
   ],
-  "hash": "007a21a20323174d45345b815ede767f",
+  "hash": "314abbbd17d0271458bca4eb6d6d4504",
   "termName": "2022-2023学年春季学期",
-  "updateTimeMs": 1680252020098
+  "updateTimeMs": 1680255550923
 }
