@@ -1840,7 +1840,7 @@
       "courseName": "体育(3)",
       "credit": "1",
       "limitations": [],
-      "number": "4",
+      "number": "5",
       "position": "行健楼二楼",
       "teacherId": "3522",
       "teacherName": "谢秀雯",
@@ -1968,7 +1968,7 @@
       "courseName": "体育(3)",
       "credit": "1",
       "limitations": [],
-      "number": "5",
+      "number": "4",
       "position": "行健楼二楼",
       "teacherId": "3694",
       "teacherName": "徐漫云",
@@ -6392,7 +6392,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "29",
+      "number": "30",
       "position": "训练馆乒乓房",
       "teacherId": "1493",
       "teacherName": "林威力",
@@ -9513,7 +9513,7 @@
       "courseName": "新数字媒体基础与应用",
       "credit": "3",
       "limitations": [],
-      "number": "78",
+      "number": "79",
       "position": "211机房",
       "teacherId": "3002",
       "teacherName": "佘俊",
@@ -14547,8 +14547,10 @@
       "courseId": "01034121",
       "courseName": "大学物理实验(2)",
       "credit": "1",
-      "limitations": [],
-      "number": "21",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "22",
       "position": "F楼1楼",
       "teacherId": "1113",
       "teacherName": "安康",
@@ -14562,7 +14564,7 @@
       "courseName": "大学物理实验(3)",
       "credit": "1",
       "limitations": [],
-      "number": "16",
+      "number": "15",
       "position": "F楼1楼",
       "teacherId": "1000",
       "teacherName": "马洪良",
@@ -25288,7 +25290,7 @@
       "courseName": "日本文学名著导读",
       "credit": "2",
       "limitations": [],
-      "number": "26",
+      "number": "25",
       "position": "A116",
       "teacherId": "1000",
       "teacherName": "李晓光",
@@ -43930,7 +43932,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "13",
+      "number": "14",
       "position": "行健楼1105",
       "teacherId": "3004",
       "teacherName": "章迎庆",
@@ -46558,7 +46560,7 @@
     {
       "campus": "延长",
       "capacity": "30",
-      "classTime": "一1-4 (1-4周) 二5-8 (1-4周) 三1-4 (1-4周) 四6-8 (1-4周)",
+      "classTime": "一1-4 (1-4周) 二5-8 (1-4周) 三1-4 (1-4周) 四6-8 (1-4周",
       "courseId": "13536242",
       "courseName": "环境装饰与陈设B",
       "credit": "6",
@@ -47058,10 +47060,8 @@
       "courseId": "1353A408",
       "courseName": "毕业设计(论文)",
       "credit": "30",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "6",
+      "limitations": [],
+      "number": "5",
       "position": "另行通知",
       "teacherId": "3003",
       "teacherName": "丁蔚",
@@ -47077,7 +47077,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "5",
+      "number": "6",
       "position": "另行通知",
       "teacherId": "3004",
       "teacherName": "成义祺",
@@ -47384,8 +47384,10 @@
       "courseId": "13685088",
       "courseName": "城乡社会综合调查研究",
       "credit": "4",
-      "limitations": [],
-      "number": "9",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "10",
       "position": "Ⅳ307",
       "teacherId": "3002",
       "teacherName": "李峰清",
@@ -48369,7 +48371,7 @@
       "courseName": "电影中的音乐",
       "credit": "2",
       "limitations": [],
-      "number": "20",
+      "number": "19",
       "position": "Ⅳ310",
       "teacherId": "3000",
       "teacherName": "张莹",
@@ -56119,7 +56121,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [],
-      "number": "31",
+      "number": "32",
       "position": "Ⅳ301",
       "teacherId": "3005",
       "teacherName": "宋哲仁",
@@ -56186,7 +56188,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "100",
+      "number": "101",
       "position": "Ⅳ301",
       "teacherId": "3009",
       "teacherName": "李之喆",
@@ -56832,7 +56834,7 @@
       "courseName": "马克思主义基本原理",
       "credit": "3",
       "limitations": [],
-      "number": "50",
+      "number": "49",
       "position": "Ⅳ102",
       "teacherId": "3000",
       "teacherName": "徐海峰",
@@ -71391,7 +71393,7 @@
       "teacherTitle": ""
     }
   ],
-  "hash": "9734b5a22e0f0639727d97e0027864e5",
+  "hash": "3d229f06d0ca5a141b4ad3a07e105345",
   "termName": "2022-2023学年春季学期",
-  "updateTimeMs": 1680219510012
+  "updateTimeMs": 1680227598197
 }
