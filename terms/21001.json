@@ -27013,7 +27013,7 @@
       "courseName": "统计软件应用",
       "credit": "3",
       "limitations": [],
-      "number": "48",
+      "number": "49",
       "position": "A123",
       "teacherId": "1000",
       "teacherName": "李武",
@@ -54971,8 +54971,10 @@
       "courseId": "16583109",
       "courseName": "形势与政策",
       "credit": "0",
-      "limitations": [],
-      "number": "114",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "115",
       "position": "J101",
       "teacherId": "1052",
       "teacherName": "张金翠",
@@ -71395,7 +71397,7 @@
       "teacherTitle": ""
     }
   ],
-  "hash": "93f5e9c6b41bd6cc3375842757fd1e1f",
+  "hash": "221ec5c2229340981a70427a01a0d399",
   "termName": "2022-2023学年春季学期",
-  "updateTimeMs": 1680244893850
+  "updateTimeMs": 1680248316235
 }
