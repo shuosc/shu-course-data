@@ -1611,10 +1611,8 @@
       "courseId": "00853003",
       "courseName": "体育(3)",
       "credit": "1",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "20",
+      "limitations": [],
+      "number": "19",
       "position": "体育馆内场",
       "teacherId": "2505",
       "teacherName": "刘春辉",
@@ -9675,7 +9673,7 @@
       "courseName": "大学生社会实践",
       "credit": "1",
       "limitations": [],
-      "number": "19",
+      "number": "18",
       "position": "A302",
       "teacherId": "1006",
       "teacherName": "孙越",
@@ -23805,7 +23803,7 @@
       "courseName": "全球商务活动中的跨文化解读",
       "credit": "2",
       "limitations": [],
-      "number": "38",
+      "number": "39",
       "position": "A204",
       "teacherId": "1000",
       "teacherName": "虞怡达",
@@ -29693,7 +29691,7 @@
       "courseName": "英美法经典案例解读",
       "credit": "2",
       "limitations": [],
-      "number": "23",
+      "number": "24",
       "position": "B416",
       "teacherId": "1000",
       "teacherName": "芦雪峰",
@@ -30184,7 +30182,7 @@
       "courseName": "商法C",
       "credit": "6",
       "limitations": [],
-      "number": "24",
+      "number": "25",
       "position": "A102",
       "teacherId": "1000",
       "teacherName": "李立新",
@@ -51301,10 +51299,8 @@
       "courseId": "15174092",
       "courseName": "现代计算机检索技术",
       "credit": "1",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "62",
+      "limitations": [],
+      "number": "61",
       "position": "文德301",
       "teacherId": "2001",
       "teacherName": "杜娟",
@@ -51966,10 +51962,8 @@
       "courseId": "15195111",
       "courseName": "导论之商业初体验",
       "credit": "2",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "45",
+      "limitations": [],
+      "number": "44",
       "position": "文博504",
       "teacherId": "2002",
       "teacherName": "帅萍等",
@@ -52584,7 +52578,7 @@
       "courseName": "学术英语(2)",
       "credit": "10",
       "limitations": [],
-      "number": "20",
+      "number": "19",
       "position": "文博310,307,307,307,210",
       "teacherId": "2001",
       "teacherName": "王菊兰等",
@@ -52639,8 +52633,10 @@
       "courseId": "15574251",
       "courseName": "学术英语(2)",
       "credit": "10",
-      "limitations": [],
-      "number": "21",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "22",
       "position": "文博310,206,210",
       "teacherId": "2005",
       "teacherName": "王菊兰",
@@ -53022,7 +53018,7 @@
       "courseName": "市场营销概论",
       "credit": "4",
       "limitations": [],
-      "number": "37",
+      "number": "38",
       "position": "文博302",
       "teacherId": "2001",
       "teacherName": "田圣炳",
@@ -54621,8 +54617,10 @@
       "courseId": "16583109",
       "courseName": "形势与政策",
       "credit": "0",
-      "limitations": [],
-      "number": "114",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "116",
       "position": "J101",
       "teacherId": "1028",
       "teacherName": "孙士庆",
@@ -55538,7 +55536,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [],
-      "number": "116",
+      "number": "117",
       "position": "BJ103",
       "teacherId": "1089",
       "teacherName": "宋津明",
@@ -57984,7 +57982,7 @@
       "courseName": "思想政治理论课(实践)(1)",
       "credit": "1",
       "limitations": [],
-      "number": "106",
+      "number": "107",
       "position": "BJ203",
       "teacherId": "1015",
       "teacherName": "陈碧舟",
@@ -61580,7 +61578,7 @@
       "courseName": "中国简史A(2)",
       "credit": "2",
       "limitations": [],
-      "number": "20",
+      "number": "19",
       "position": "B426",
       "teacherId": "1000",
       "teacherName": "张丽华",
@@ -65023,8 +65021,10 @@
       "courseId": "3100RH60",
       "courseName": "中国经典音乐",
       "credit": "4",
-      "limitations": [],
-      "number": "69",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "70",
       "position": "AJ203",
       "teacherId": "1000",
       "teacherName": "还国志",
@@ -71399,7 +71399,7 @@
       "teacherTitle": ""
     }
   ],
-  "hash": "41b213592ba5196cf98517742b2516ef",
+  "hash": "8c384a8d4beee995b208b212322a8f4e",
   "termName": "2022-2023学年春季学期",
-  "updateTimeMs": 1680500299787
+  "updateTimeMs": 1680503999264
 }
