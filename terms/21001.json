@@ -1996,7 +1996,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "21",
+      "number": "22",
       "position": "体操房",
       "teacherId": "2566",
       "teacherName": "陈琳",
@@ -2663,7 +2663,7 @@
         "禁止选课",
         "禁止退课"
       ],
-      "number": "10",
+      "number": "9",
       "position": "C213",
       "teacherId": "1003",
       "teacherName": "李静静",
@@ -9073,8 +9073,10 @@
       "courseId": "00864118",
       "courseName": "数据分析与智能计算",
       "credit": "3",
-      "limitations": [],
-      "number": "69",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "70",
       "position": "DJ103",
       "teacherId": "1002",
       "teacherName": "邹启明",
@@ -71399,7 +71401,7 @@
       "teacherTitle": ""
     }
   ],
-  "hash": "1bbdd32179b3d0f5d31348c4dc4958d2",
+  "hash": "9a8b2f6d8f8733370a3bcad43cd63a01",
   "termName": "2022-2023学年春季学期",
-  "updateTimeMs": 1680676804654
+  "updateTimeMs": 1680680353049
 }
