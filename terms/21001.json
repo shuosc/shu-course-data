@@ -10173,10 +10173,8 @@
       "courseId": "00914006",
       "courseName": "军事理论A",
       "credit": "2",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "150",
+      "limitations": [],
+      "number": "149",
       "position": "FJ106",
       "teacherId": "1001",
       "teacherName": "孙士庆",
@@ -21076,8 +21074,10 @@
       "courseId": "03004474",
       "courseName": "通用英语D(3)",
       "credit": "2",
-      "limitations": [],
-      "number": "37",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "38",
       "position": "D121",
       "teacherId": "1007",
       "teacherName": "蔡石兴",
@@ -21128,12 +21128,12 @@
     {
       "campus": "延长",
       "capacity": "41",
-      "classTime": "(一5-6",
+      "classTime": "一5-6",
       "courseId": "03004474",
       "courseName": "通用英语D(3)",
       "credit": "2",
       "limitations": [],
-      "number": "36",
+      "number": "37",
       "position": "Ⅳ204",
       "teacherId": "3003",
       "teacherName": "黄红",
@@ -25548,7 +25548,7 @@
       "courseName": "智能社会中的商业模式创新",
       "credit": "2",
       "limitations": [],
-      "number": "60",
+      "number": "61",
       "position": "J102",
       "teacherId": "1000",
       "teacherName": "乌力吉图",
@@ -43104,12 +43104,12 @@
     {
       "campus": "宝山",
       "capacity": "20",
-      "classTime": "一1-4(9-10周) 二1-4(9-10周) 三1-4(9-10周) 四1-3(9-10周)",
+      "classTime": "(一1-4(9-10周) (二1-4(9-10周) (三1-4(9-10周) (四1-3(9-10周)",
       "courseId": "13006146",
       "courseName": "数字生成艺术(选)",
       "credit": "3",
       "limitations": [],
-      "number": "9",
+      "number": "10",
       "position": "美院321",
       "teacherId": "1001",
       "teacherName": "蒋飞",
@@ -47924,12 +47924,12 @@
     {
       "campus": "宝山",
       "capacity": "26",
-      "classTime": "一1-4(5-8周) 二1-4(5-8周) 三1-4(5-8周) 四1-3(5-8周)",
+      "classTime": "(一1-4(5-8周) (二1-4(5-8周) (三1-4(5-8周) (四1-3(5-8周)",
       "courseId": "13775009",
       "courseName": "动态影像艺术",
       "credit": "6",
       "limitations": [],
-      "number": "23",
+      "number": "24",
       "position": "美院118",
       "teacherId": "1002",
       "teacherName": "罗正",
@@ -54416,7 +54416,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [],
-      "number": "117",
+      "number": "118",
       "position": "DJ104",
       "teacherId": "1015",
       "teacherName": "李之喆",
@@ -55006,7 +55006,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "120",
+      "number": "121",
       "position": "J101",
       "teacherId": "1054",
       "teacherName": "张金翠",
@@ -57284,7 +57284,7 @@
       "courseName": "习近平新时代中国特色社会主义思想概论",
       "credit": "3",
       "limitations": [],
-      "number": "98",
+      "number": "99",
       "position": "AJ203",
       "teacherId": "1001",
       "teacherName": "张富文",
@@ -58661,7 +58661,7 @@
       "courseName": "思想政治理论课(实践)(2)",
       "credit": "1",
       "limitations": [],
-      "number": "106",
+      "number": "107",
       "position": "BJ204",
       "teacherId": "1018",
       "teacherName": "申小翠",
@@ -71399,7 +71399,7 @@
       "teacherTitle": ""
     }
   ],
-  "hash": "2334fcb09f90742fc689af678d2f912c",
+  "hash": "2bbd2ef3224639946d2b0840795c2aa2",
   "termName": "2022-2023学年春季学期",
-  "updateTimeMs": 1680662342009
+  "updateTimeMs": 1680665894908
 }
