@@ -28145,8 +28145,10 @@
       "courseId": "04195003",
       "courseName": "管理学",
       "credit": "4",
-      "limitations": [],
-      "number": "37",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "38",
       "position": "D312",
       "teacherId": "1006",
       "teacherName": "朱希德等",
@@ -54526,7 +54528,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [],
-      "number": "113",
+      "number": "114",
       "position": "DJ103",
       "teacherId": "1027",
       "teacherName": "徐海峰",
@@ -69318,7 +69320,7 @@
       "courseName": "中国音乐简史(1)",
       "credit": "3",
       "limitations": [],
-      "number": "34",
+      "number": "35",
       "position": "音院W207",
       "teacherId": "1001",
       "teacherName": "张晓东",
@@ -71321,7 +71323,7 @@
       "teacherTitle": ""
     }
   ],
-  "hash": "8175c435be706e3759dfc76e4f75140c",
+  "hash": "f74c231cd725e694fde8abc9805a0959",
   "termName": "2022-2023学年春季学期",
-  "updateTimeMs": 1680763146871
+  "updateTimeMs": 1680766725547
 }
