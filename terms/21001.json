@@ -36146,16 +36146,16 @@
     },
     {
       "campus": "宝山",
-      "capacity": "30",
+      "capacity": "0",
       "classTime": "三5-6",
       "courseId": "0936EY06",
       "courseName": "电气化车辆概论与课程设计",
       "credit": "2",
       "limitations": [
-        "人数已满"
+        "禁止选课"
       ],
-      "number": "30",
-      "position": "D117",
+      "number": "0",
+      "position": "不开",
       "teacherId": "1000",
       "teacherName": "徐国卿",
       "teacherTitle": "教授"
@@ -36167,8 +36167,11 @@
       "courseId": "0936EY06",
       "courseName": "电气化车辆概论与课程设计",
       "credit": "2",
-      "limitations": [],
-      "number": "13",
+      "limitations": [
+        "禁止选课",
+        "禁止退课"
+      ],
+      "number": "43",
       "position": "B421",
       "teacherId": "1001",
       "teacherName": "张晓康",
@@ -71318,7 +71321,7 @@
       "teacherTitle": ""
     }
   ],
-  "hash": "8970a7a3cd4d590746d598625644a0ad",
+  "hash": "8175c435be706e3759dfc76e4f75140c",
   "termName": "2022-2023学年春季学期",
-  "updateTimeMs": 1680755923926
+  "updateTimeMs": 1680759504919
 }
