@@ -11033,7 +11033,7 @@
       "courseName": "线性代数",
       "credit": "3",
       "limitations": [],
-      "number": "111",
+      "number": "112",
       "position": "AJ303",
       "teacherId": "1006",
       "teacherName": "刘见礼",
@@ -16818,7 +16818,7 @@
       "courseName": "材料力学C(2)",
       "credit": "2",
       "limitations": [],
-      "number": "15",
+      "number": "16",
       "position": "A110",
       "teacherId": "1000",
       "teacherName": "郭战胜",
@@ -20658,8 +20658,10 @@
       "courseId": "03004419",
       "courseName": "旅游英语",
       "credit": "2",
-      "limitations": [],
-      "number": "49",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "50",
       "position": "D217",
       "teacherId": "1009",
       "teacherName": "沈澄",
@@ -29806,8 +29808,10 @@
       "courseId": "0600RH33",
       "courseName": "一带一路与国际海事安全",
       "credit": "2",
-      "limitations": [],
-      "number": "69",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "70",
       "position": "AJ203",
       "teacherId": "1000",
       "teacherName": "陈敬根等",
@@ -56495,7 +56499,7 @@
       "courseName": "中国近现代史纲要B",
       "credit": "3",
       "limitations": [],
-      "number": "111",
+      "number": "112",
       "position": "AJ204",
       "teacherId": "1011",
       "teacherName": "许俊琳",
@@ -60715,7 +60719,7 @@
       "courseName": "工程结构抗震及防灾",
       "credit": "4",
       "limitations": [],
-      "number": "28",
+      "number": "29",
       "position": "A416",
       "teacherId": "1000",
       "teacherName": "李春祥等",
@@ -60743,7 +60747,7 @@
       "courseName": "结构力学(1)",
       "credit": "5",
       "limitations": [],
-      "number": "14",
+      "number": "15",
       "position": "A203",
       "teacherId": "1000",
       "teacherName": "戴柳丝",
@@ -60841,7 +60845,7 @@
       "courseName": "土木工程应用程序设计",
       "credit": "3",
       "limitations": [],
-      "number": "11",
+      "number": "12",
       "position": "D116",
       "teacherId": "1000",
       "teacherName": "徐金明",
@@ -60886,7 +60890,7 @@
       "courseName": "水文与勘察A",
       "credit": "3",
       "limitations": [],
-      "number": "8",
+      "number": "9",
       "position": "A416",
       "teacherId": "1000",
       "teacherName": "武亚军",
@@ -71386,7 +71390,7 @@
       "teacherTitle": ""
     }
   ],
-  "hash": "4d937d7e256f2ef696b19fa20eae0048",
+  "hash": "dda8dc670331f954dd07e741b9ca1723",
   "termName": "2022-2023学年春季学期",
-  "updateTimeMs": 1680853105284
+  "updateTimeMs": 1680856703629
 }
