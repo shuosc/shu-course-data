@@ -2627,7 +2627,7 @@
         "禁止选课",
         "禁止退课"
       ],
-      "number": "12",
+      "number": "11",
       "position": "C311",
       "teacherId": "1001",
       "teacherName": "郑莉芳",
@@ -2661,7 +2661,7 @@
         "禁止选课",
         "禁止退课"
       ],
-      "number": "9",
+      "number": "10",
       "position": "C213",
       "teacherId": "1003",
       "teacherName": "李静静",
@@ -2696,7 +2696,7 @@
         "禁止选课",
         "禁止退课"
       ],
-      "number": "22",
+      "number": "23",
       "position": "B323",
       "teacherId": "1002",
       "teacherName": "金海秀",
@@ -2713,7 +2713,7 @@
         "禁止选课",
         "禁止退课"
       ],
-      "number": "14",
+      "number": "17",
       "position": "C213",
       "teacherId": "1003",
       "teacherName": "李静静",
@@ -4924,10 +4924,8 @@
       "courseId": "00853229",
       "courseName": "操舞(基础)",
       "credit": "1",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "28",
+      "limitations": [],
+      "number": "27",
       "position": "训练馆X107",
       "teacherId": "1571",
       "teacherName": "李燕",
@@ -6236,10 +6234,8 @@
       "courseId": "00853605",
       "courseName": "乒乓球(3)",
       "credit": "1",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "26",
+      "limitations": [],
+      "number": "25",
       "position": "训练馆乒乓房",
       "teacherId": "1451",
       "teacherName": "张轶",
@@ -7582,10 +7578,8 @@
       "courseId": "00853624",
       "courseName": "养生普拉提(3)",
       "credit": "1",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "28",
+      "limitations": [],
+      "number": "27",
       "position": "体育馆T101",
       "teacherId": "1733",
       "teacherName": "周艳",
@@ -8141,7 +8135,7 @@
       "courseName": "武术(3)",
       "credit": "1",
       "limitations": [],
-      "number": "15",
+      "number": "14",
       "position": "训练馆X106",
       "teacherId": "1643",
       "teacherName": "申亮",
@@ -54228,8 +54222,10 @@
       "courseId": "16583109",
       "courseName": "形势与政策",
       "credit": "0",
-      "limitations": [],
-      "number": "124",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "125",
       "position": "AJ203",
       "teacherId": "1004",
       "teacherName": "顾晓英",
@@ -55213,10 +55209,8 @@
       "courseId": "16583109",
       "courseName": "形势与政策",
       "credit": "0",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "115",
+      "limitations": [],
+      "number": "114",
       "position": "J201",
       "teacherId": "1069",
       "teacherName": "李昊匡",
@@ -71390,7 +71384,7 @@
       "teacherTitle": ""
     }
   ],
-  "hash": "3fce6be56c741245fd127e19d0c08299",
+  "hash": "64fc4b72b94fb6356d6a957fdff203f6",
   "termName": "2022-2023学年春季学期",
-  "updateTimeMs": 1681169895520
+  "updateTimeMs": 1681177819395
 }
