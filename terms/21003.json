@@ -918,8 +918,10 @@
       "courseId": "00874007",
       "courseName": "思想道德与法治(实践)",
       "credit": "1",
-      "limitations": [],
-      "number": "145",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "90",
       "position": "",
       "teacherId": "2001",
       "teacherName": "徐娴等",
@@ -932,8 +934,10 @@
       "courseId": "00874007",
       "courseName": "思想道德与法治(实践)",
       "credit": "1",
-      "limitations": [],
-      "number": "113",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "90",
       "position": "",
       "teacherId": "2002",
       "teacherName": "唐玲等",
@@ -960,8 +964,10 @@
       "courseId": "00874007",
       "courseName": "思想道德与法治(实践)",
       "credit": "1",
-      "limitations": [],
-      "number": "128",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "90",
       "position": "",
       "teacherId": "2004",
       "teacherName": "钱俊迪等",
@@ -1478,8 +1484,10 @@
       "courseId": "00874008",
       "courseName": "形势与政策(实践)",
       "credit": "1",
-      "limitations": [],
-      "number": "163",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "130",
       "position": "",
       "teacherId": "2003",
       "teacherName": "潘哲初",
@@ -4428,7 +4436,7 @@
     {
       "campus": "宝山",
       "capacity": "30",
-      "classTime": "一1-2(1-2周) 二1-2(1-2周) 三1-2(1-2周) 四1-2(1-2周) 五1-2(1-2周) 全英语授课",
+      "classTime": "一1-2(1-2周) 二1-2(1-2周) 三1-2(1-2周) 四1-2(1-2周) 五1-2(1-2周) 全英语线上授课",
       "courseId": "09006047",
       "courseName": "机器学习概论",
       "credit": "2",
@@ -5716,7 +5724,7 @@
     {
       "campus": "宝山",
       "capacity": "30",
-      "classTime": "一1-2(1-2周) 二1-2(1-2周) 三1-2(1-2周) 四1-2(1-2周) 五1-2(1-2周) 全英语授课",
+      "classTime": "一1-2(1-2周) 二1-2(1-2周) 三1-2(1-2周) 四1-2(1-2周) 五1-2(1-2周) 全英语线上授课",
       "courseId": "13006167",
       "courseName": "艺术的跨学科探索",
       "credit": "2",
@@ -7722,8 +7730,10 @@
       "courseId": "1557A006",
       "courseName": "专业实习",
       "credit": "8",
-      "limitations": [],
-      "number": "75",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "73",
       "position": "",
       "teacherId": "2005",
       "teacherName": "马汉阳等",
@@ -7778,8 +7788,10 @@
       "courseId": "1557A010",
       "courseName": "社会调查",
       "credit": "6",
-      "limitations": [],
-      "number": "73",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "72",
       "position": "",
       "teacherId": "2002",
       "teacherName": "贾利军等",
@@ -7792,8 +7804,10 @@
       "courseId": "1557A010",
       "courseName": "社会调查",
       "credit": "6",
-      "limitations": [],
-      "number": "71",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "70",
       "position": "",
       "teacherId": "2003",
       "teacherName": "孙覃玥等",
@@ -9055,8 +9069,10 @@
       "courseId": "3605A008",
       "courseName": "电子实习",
       "credit": "2",
-      "limitations": [],
-      "number": "53",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "40",
       "position": "",
       "teacherId": "2001",
       "teacherName": "刘成",
@@ -9091,7 +9107,7 @@
       "teacherTitle": "实验师"
     }
   ],
-  "hash": "e1e4770810a83550b7851235820420a5",
+  "hash": "2dcf4700110d68941a36495919ccefcd",
   "termName": "2022-2023学年夏季学期",
-  "updateTimeMs": 1681947496621
+  "updateTimeMs": 1681955293570
 }
