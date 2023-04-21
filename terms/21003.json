@@ -2358,8 +2358,10 @@
       "courseId": "02006109",
       "courseName": "疫情时代的跨宗教与文化对话",
       "credit": "2",
-      "limitations": [],
-      "number": "132",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "30",
       "position": "",
       "teacherId": "1000",
       "teacherName": "Kahl Werner",
@@ -9356,7 +9358,7 @@
       "teacherTitle": "实验师"
     }
   ],
-  "hash": "652aa9add9cff7d861a8f334798b9fc7",
+  "hash": "2d6dfc6e9660f0f0a8aaf68f8d9d3f95",
   "termName": "2022-2023学年夏季学期",
-  "updateTimeMs": 1682033900540
+  "updateTimeMs": 1682041714539
 }
