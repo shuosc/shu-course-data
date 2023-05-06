@@ -9271,8 +9271,10 @@
       "courseId": "2328A009",
       "courseName": "生产实习",
       "credit": "8",
-      "limitations": [],
-      "number": "49",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "50",
       "position": "",
       "teacherId": "1001",
       "teacherName": "赵恒凯等",
@@ -9286,7 +9288,7 @@
       "courseName": "生产实习",
       "credit": "8",
       "limitations": [],
-      "number": "49",
+      "number": "48",
       "position": "",
       "teacherId": "1002",
       "teacherName": "赵恒凯等",
@@ -9553,7 +9555,7 @@
       "teacherTitle": "实验师"
     }
   ],
-  "hash": "3a3a794c35e5a588cbbcbaea22b385f0",
+  "hash": "d348264e7266b39a399230c334b1c149",
   "termName": "2022-2023学年夏季学期",
-  "updateTimeMs": 1683412703163
+  "updateTimeMs": 1683416305270
 }
