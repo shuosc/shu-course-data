@@ -2416,10 +2416,8 @@
       "courseId": "02006111",
       "courseName": "疗愈写作",
       "credit": "2",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "30",
+      "limitations": [],
+      "number": "29",
       "position": "",
       "teacherId": "1000",
       "teacherName": "Adsit Janelle Marie",
@@ -2432,8 +2430,10 @@
       "courseId": "02006113",
       "courseName": "现代阿根廷社会史(1880年至今)",
       "credit": "2",
-      "limitations": [],
-      "number": "60",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "61",
       "position": "",
       "teacherId": "1000",
       "teacherName": "Mallimaci Fortunato",
@@ -3732,7 +3732,7 @@
       "courseName": "大数据与人工智能实践",
       "credit": "4",
       "limitations": [],
-      "number": "17",
+      "number": "18",
       "position": "",
       "teacherId": "1000",
       "teacherName": "李树刚等",
@@ -5306,7 +5306,7 @@
       "courseName": "认识实习",
       "credit": "2",
       "limitations": [],
-      "number": "34",
+      "number": "35",
       "position": "",
       "teacherId": "1000",
       "teacherName": "谈定生等",
@@ -5937,8 +5937,10 @@
       "courseId": "13006166",
       "courseName": "电影美学:历史与风格",
       "credit": "2",
-      "limitations": [],
-      "number": "39",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "40",
       "position": "",
       "teacherId": "1000",
       "teacherName": "Nuse Deland",
@@ -6448,7 +6450,7 @@
       "courseName": "创作实践(3)",
       "credit": "2",
       "limitations": [],
-      "number": "6",
+      "number": "7",
       "position": "",
       "teacherId": "1002",
       "teacherName": "史晨曦",
@@ -7843,8 +7845,10 @@
       "courseId": "15006008",
       "courseName": "数字营销",
       "credit": "2",
-      "limitations": [],
-      "number": "59",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "60",
       "position": "",
       "teacherId": "1000",
       "teacherName": "Harrigan Paul",
@@ -9268,7 +9272,7 @@
       "courseName": "生产实习",
       "credit": "8",
       "limitations": [],
-      "number": "48",
+      "number": "49",
       "position": "",
       "teacherId": "1001",
       "teacherName": "赵恒凯等",
@@ -9281,10 +9285,8 @@
       "courseId": "2328A009",
       "courseName": "生产实习",
       "credit": "8",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "50",
+      "limitations": [],
+      "number": "49",
       "position": "",
       "teacherId": "1002",
       "teacherName": "赵恒凯等",
@@ -9551,7 +9553,7 @@
       "teacherTitle": "实验师"
     }
   ],
-  "hash": "006a644be1208315150f454fe3c5db67",
+  "hash": "dcb88d9fa3633402cbbc7abd47cc702f",
   "termName": "2022-2023学年夏季学期",
-  "updateTimeMs": 1683391166562
+  "updateTimeMs": 1683394716831
 }
