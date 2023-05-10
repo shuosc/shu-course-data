@@ -1979,13 +1979,16 @@
     },
     {
       "campus": "宝山",
-      "capacity": "40",
+      "capacity": "0",
       "classTime": "一9-10(1-2周) 二9-10(1-2周) 三9-10(1-2周) 四9-10(1-2周) 五9-10(1-2周) 全英语线上",
       "courseId": "01006055",
       "courseName": "生物基化学品与产物的催化转化",
       "credit": "2",
-      "limitations": [],
-      "number": "1",
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
+      "number": "0",
       "position": "",
       "teacherId": "1000",
       "teacherName": "Sivakumar Kulanthaivel",
@@ -4656,13 +4659,16 @@
     },
     {
       "campus": "宝山",
-      "capacity": "30",
+      "capacity": "0",
       "classTime": "一7-8(1-2周) 二7-8(1-2周) 三7-8(1-2周) 四7-8(1-2周) 五9-10(1-2周) 全英语线上授课",
       "courseId": "09006048",
       "courseName": "线性系统与模型降阶概论",
       "credit": "2",
-      "limitations": [],
-      "number": "4",
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
+      "number": "0",
       "position": "",
       "teacherId": "1000",
       "teacherName": "Heiland Jan",
@@ -5528,12 +5534,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "30",
+      "capacity": "0",
       "classTime": "一1-2(1-2周) 二1-2(1-2周) 三1-2(1-2周) 四1-2(1-2周) 五1-2(1-2周) 全英语授课",
       "courseId": "11006013",
       "courseName": "面源污染及控制",
       "credit": "2",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
       "number": "0",
       "position": "",
       "teacherId": "1000",
@@ -9599,7 +9608,7 @@
       "teacherTitle": "实验师"
     }
   ],
-  "hash": "c0c60939c718129adda2ebe1c50a1a05",
+  "hash": "84c58aff6b6378122af4c237eaa624e6",
   "termName": "2022-2023学年夏季学期",
-  "updateTimeMs": 1683683317386
+  "updateTimeMs": 1683686705824
 }
