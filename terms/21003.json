@@ -999,7 +999,7 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "90",
+      "capacity": "93",
       "classTime": "三5-8(1-2周) 四5-6(1-2周) 五1-4(1-2周)",
       "courseId": "00874007",
       "courseName": "思想道德与法治(实践)",
@@ -1007,7 +1007,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "90",
+      "number": "93",
       "position": "",
       "teacherId": "2004",
       "teacherName": "钱俊迪等",
@@ -1020,8 +1020,10 @@
       "courseId": "00874007",
       "courseName": "思想道德与法治(实践)",
       "credit": "1",
-      "limitations": [],
-      "number": "3",
+      "limitations": [
+        "禁止选课"
+      ],
+      "number": "0",
       "position": "",
       "teacherId": "2005",
       "teacherName": "尹春艳等",
@@ -9608,7 +9610,7 @@
       "teacherTitle": "实验师"
     }
   ],
-  "hash": "ef50c12b4ca2a2776d5ab2143eafc294",
+  "hash": "721bd73ad01ec446cd6a47e982ff806f",
   "termName": "2022-2023学年夏季学期",
-  "updateTimeMs": 1683761902844
+  "updateTimeMs": 1683769788704
 }
