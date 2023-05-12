@@ -2546,7 +2546,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "30",
+      "capacity": "10",
       "classTime": "夏季学期1-2周",
       "courseId": "0207A051",
       "courseName": "古籍整理实践",
@@ -2794,12 +2794,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "30",
+      "capacity": "0",
       "classTime": "夏季学期1-2周",
       "courseId": "0260A053",
       "courseName": "汉语方言田野调查",
       "credit": "4",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
       "number": "0",
       "position": "",
       "teacherId": "1000",
@@ -8855,12 +8858,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "80",
+      "capacity": "0",
       "classTime": "夏季第1周:周一1-2节集合",
       "courseId": "1846A030",
       "courseName": "工程项目管理类课程设计",
       "credit": "2",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
       "number": "0",
       "position": "",
       "teacherId": "1000",
@@ -9612,7 +9618,7 @@
       "teacherTitle": "实验师"
     }
   ],
-  "hash": "9288798db77f72aebf2c014aa391efaf",
+  "hash": "fcafd906e2d88112f071c5dcbf9feaff",
   "termName": "2022-2023学年夏季学期",
-  "updateTimeMs": 1683856027871
+  "updateTimeMs": 1683859471426
 }
