@@ -1888,7 +1888,7 @@
         "禁止退课",
         "人数已满"
       ],
-      "number": "150",
+      "number": "154",
       "position": "",
       "teacherId": "3001",
       "teacherName": "王有英",
@@ -7963,6 +7963,20 @@
     },
     {
       "campus": "宝山",
+      "capacity": "10",
+      "classTime": "另行通知",
+      "courseId": "1350A085",
+      "courseName": "毕业创作(论文)",
+      "credit": "24",
+      "limitations": [],
+      "number": "0",
+      "position": "",
+      "teacherId": "1000",
+      "teacherName": "桑茂林",
+      "teacherTitle": "副教授"
+    },
+    {
+      "campus": "宝山",
       "capacity": "20",
       "classTime": "一1-8(1-2周) 三1-8(1-2周) 五1-4(1-2周)",
       "courseId": "1350A092",
@@ -8203,6 +8217,20 @@
       "teacherId": "3002",
       "teacherName": "李敏",
       "teacherTitle": "教授"
+    },
+    {
+      "campus": "延长",
+      "capacity": "10",
+      "classTime": "另行通知",
+      "courseId": "1353A408",
+      "courseName": "毕业设计(论文)",
+      "credit": "30",
+      "limitations": [],
+      "number": "0",
+      "position": "",
+      "teacherId": "3000",
+      "teacherName": "葛天卿",
+      "teacherTitle": ""
     },
     {
       "campus": "延长",
@@ -8836,7 +8864,7 @@
         "禁止选课",
         "禁止退课"
       ],
-      "number": "47",
+      "number": "45",
       "position": "",
       "teacherId": "3000",
       "teacherName": "张婷婷等",
@@ -9021,9 +9049,10 @@
       "credit": "4",
       "limitations": [
         "禁止选课",
-        "禁止退课"
+        "禁止退课",
+        "人数已满"
       ],
-      "number": "18",
+      "number": "20",
       "position": "",
       "teacherId": "3000",
       "teacherName": "谷京盛",
@@ -9109,7 +9138,7 @@
         "禁止选课",
         "禁止退课"
       ],
-      "number": "18",
+      "number": "19",
       "position": "",
       "teacherId": "3000",
       "teacherName": "谢悦等",
@@ -9143,7 +9172,7 @@
         "禁止选课",
         "禁止退课"
       ],
-      "number": "18",
+      "number": "19",
       "position": "",
       "teacherId": "3000",
       "teacherName": "谢悦等",
@@ -9261,9 +9290,10 @@
       "credit": "3",
       "limitations": [
         "禁止选课",
-        "禁止退课"
+        "禁止退课",
+        "人数已满"
       ],
-      "number": "18",
+      "number": "20",
       "position": "",
       "teacherId": "3000",
       "teacherName": "吕永华等",
@@ -11446,7 +11476,7 @@
       "teacherTitle": "实验师"
     }
   ],
-  "hash": "aac0e4f0b8e4e17028e393b13e369151",
+  "hash": "eb97e4537b6e6cbf1c4cefdc6056810b",
   "termName": "2022-2023学年夏季学期",
-  "updateTimeMs": 1684982809450
+  "updateTimeMs": 1684989491597
 }
