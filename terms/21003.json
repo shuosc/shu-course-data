@@ -64,7 +64,7 @@
         "禁止选课",
         "禁止退课"
       ],
-      "number": "50",
+      "number": "51",
       "position": "",
       "teacherId": "1000",
       "teacherName": "ALESSANDRO STROPPA",
@@ -544,7 +544,7 @@
         "禁止选课",
         "禁止退课"
       ],
-      "number": "30",
+      "number": "31",
       "position": "",
       "teacherId": "1004",
       "teacherName": "刘霞",
@@ -1905,7 +1905,7 @@
         "禁止选课",
         "禁止退课"
       ],
-      "number": "110",
+      "number": "111",
       "position": "",
       "teacherId": "3002",
       "teacherName": "王有英",
@@ -2061,7 +2061,7 @@
         "禁止选课",
         "禁止退课"
       ],
-      "number": "73",
+      "number": "74",
       "position": "",
       "teacherId": "1001",
       "teacherName": "李晨阳等",
@@ -2112,7 +2112,7 @@
         "禁止选课",
         "禁止退课"
       ],
-      "number": "36",
+      "number": "37",
       "position": "",
       "teacherId": "1000",
       "teacherName": "葛梦滢等",
@@ -2197,7 +2197,7 @@
         "禁止选课",
         "禁止退课"
       ],
-      "number": "66",
+      "number": "67",
       "position": "",
       "teacherId": "1000",
       "teacherName": "何岚岚等",
@@ -2264,7 +2264,7 @@
         "禁止选课",
         "禁止退课"
       ],
-      "number": "73",
+      "number": "72",
       "position": "",
       "teacherId": "1003",
       "teacherName": "李晋等",
@@ -5553,7 +5553,7 @@
         "禁止选课",
         "禁止退课"
       ],
-      "number": "35",
+      "number": "36",
       "position": "",
       "teacherId": "1000",
       "teacherName": "GIERNACKI WOJCIECH",
@@ -5708,7 +5708,7 @@
         "禁止选课",
         "禁止退课"
       ],
-      "number": "33",
+      "number": "34",
       "position": "",
       "teacherId": "1000",
       "teacherName": "蔡纯之等",
@@ -5725,7 +5725,7 @@
         "禁止选课",
         "禁止退课"
       ],
-      "number": "34",
+      "number": "35",
       "position": "",
       "teacherId": "1000",
       "teacherName": "王亚珍",
@@ -5948,7 +5948,7 @@
         "禁止选课",
         "禁止退课"
       ],
-      "number": "5",
+      "number": "6",
       "position": "",
       "teacherId": "1000",
       "teacherName": "谭沧海",
@@ -6124,7 +6124,7 @@
         "禁止选课",
         "禁止退课"
       ],
-      "number": "44",
+      "number": "45",
       "position": "",
       "teacherId": "1002",
       "teacherName": "李楠",
@@ -6159,7 +6159,7 @@
         "禁止选课",
         "禁止退课"
       ],
-      "number": "145",
+      "number": "144",
       "position": "",
       "teacherId": "1000",
       "teacherName": "孙鑫",
@@ -6229,7 +6229,7 @@
         "禁止选课",
         "禁止退课"
       ],
-      "number": "40",
+      "number": "42",
       "position": "",
       "teacherId": "1003",
       "teacherName": "郭文彬",
@@ -6282,7 +6282,7 @@
         "禁止选课",
         "禁止退课"
       ],
-      "number": "42",
+      "number": "43",
       "position": "",
       "teacherId": "1003",
       "teacherName": "仵大奎",
@@ -6317,7 +6317,7 @@
         "禁止选课",
         "禁止退课"
       ],
-      "number": "25",
+      "number": "27",
       "position": "",
       "teacherId": "1002",
       "teacherName": "任彬",
@@ -6349,9 +6349,10 @@
       "credit": "3",
       "limitations": [
         "禁止选课",
-        "禁止退课"
+        "禁止退课",
+        "人数已满"
       ],
-      "number": "59",
+      "number": "60",
       "position": "",
       "teacherId": "1002",
       "teacherName": "徐智武",
@@ -7989,8 +7990,8 @@
       "number": "18",
       "position": "",
       "teacherId": "1001",
-      "teacherName": "王嘉逸",
-      "teacherTitle": "讲师"
+      "teacherName": "张如怡",
+      "teacherTitle": "助教"
     },
     {
       "campus": "宝山",
@@ -8864,7 +8865,7 @@
         "禁止选课",
         "禁止退课"
       ],
-      "number": "45",
+      "number": "46",
       "position": "",
       "teacherId": "3000",
       "teacherName": "张婷婷等",
@@ -9485,7 +9486,7 @@
         "禁止选课",
         "禁止退课"
       ],
-      "number": "24",
+      "number": "25",
       "position": "",
       "teacherId": "1000",
       "teacherName": "Sugumaran Vijayan",
@@ -11476,7 +11477,7 @@
       "teacherTitle": "实验师"
     }
   ],
-  "hash": "eb97e4537b6e6cbf1c4cefdc6056810b",
+  "hash": "d9c69d8c8ef47019b35925771fbbe3fc",
   "termName": "2022-2023学年夏季学期",
-  "updateTimeMs": 1684989491597
+  "updateTimeMs": 1685003918509
 }
