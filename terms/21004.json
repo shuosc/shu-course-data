@@ -25616,12 +25616,14 @@
     },
     {
       "campus": "宝山",
-      "capacity": "30",
+      "capacity": "27",
       "classTime": "一5-6 三5-6",
       "courseId": "04165001",
       "courseName": "财政学",
       "credit": "4",
-      "limitations": [],
+      "limitations": [
+        "人数已满"
+      ],
       "number": "27",
       "position": "",
       "teacherId": "1001",
@@ -25630,7 +25632,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "30",
+      "capacity": "27",
       "classTime": "一5-6 三5-6 全英语",
       "courseId": "04165001",
       "courseName": "财政学",
@@ -28864,7 +28866,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "40",
+      "capacity": "70",
       "classTime": "二7-8 四9-10",
       "courseId": "07275158",
       "courseName": "信息论与编码",
@@ -29032,7 +29034,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "33",
+      "capacity": "36",
       "classTime": "二7-8",
       "courseId": "07275163",
       "courseName": "电路与电子线路基础实验(1)",
@@ -29186,12 +29188,14 @@
     },
     {
       "campus": "宝山",
-      "capacity": "60",
+      "capacity": "70",
       "classTime": "一3-4 三3-4 五3-4单",
       "courseId": "07275180",
       "courseName": "数据结构与算法基础A",
       "credit": "5",
-      "limitations": [],
+      "limitations": [
+        "人数已满"
+      ],
       "number": "88",
       "position": "",
       "teacherId": "1001",
@@ -29200,12 +29204,14 @@
     },
     {
       "campus": "宝山",
-      "capacity": "60",
+      "capacity": "70",
       "classTime": "一1-2 三1-2 五1-2单",
       "courseId": "07275180",
       "courseName": "数据结构与算法基础A",
       "credit": "5",
-      "limitations": [],
+      "limitations": [
+        "人数已满"
+      ],
       "number": "70",
       "position": "",
       "teacherId": "1002",
@@ -29214,13 +29220,13 @@
     },
     {
       "campus": "宝山",
-      "capacity": "60",
-      "classTime": "一1-2 三1-2 五1-2单",
+      "capacity": "70",
+      "classTime": "一3-4 三3-4 五3-4单",
       "courseId": "07275180",
       "courseName": "数据结构与算法基础A",
       "credit": "5",
       "limitations": [],
-      "number": "13",
+      "number": "0",
       "position": "",
       "teacherId": "1003",
       "teacherName": "杨超",
@@ -29228,7 +29234,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "60",
+      "capacity": "70",
       "classTime": "一3-4 三3-4 五3-4单",
       "courseId": "07275180",
       "courseName": "数据结构与算法基础A",
@@ -29242,12 +29248,14 @@
     },
     {
       "campus": "宝山",
-      "capacity": "60",
+      "capacity": "70",
       "classTime": "一3-4 三3-4 五3-4单",
       "courseId": "07275180",
       "courseName": "数据结构与算法基础A",
       "credit": "5",
-      "limitations": [],
+      "limitations": [
+        "人数已满"
+      ],
       "number": "86",
       "position": "",
       "teacherId": "1005",
@@ -29256,12 +29264,14 @@
     },
     {
       "campus": "宝山",
-      "capacity": "30",
+      "capacity": "51",
       "classTime": "一3-4 三3-4 五3-4单",
       "courseId": "07275180",
       "courseName": "数据结构与算法基础A",
       "credit": "5",
-      "limitations": [],
+      "limitations": [
+        "人数已满"
+      ],
       "number": "51",
       "position": "",
       "teacherId": "1006",
@@ -29270,7 +29280,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "30",
+      "capacity": "60",
       "classTime": "一1-2 三5-6",
       "courseId": "07275181",
       "courseName": "计算机网络",
@@ -29284,12 +29294,14 @@
     },
     {
       "campus": "宝山",
-      "capacity": "40",
+      "capacity": "70",
       "classTime": "一3-4 四7-8",
       "courseId": "07276025",
       "courseName": "移动通信",
       "credit": "4",
-      "limitations": [],
+      "limitations": [
+        "人数已满"
+      ],
       "number": "114",
       "position": "",
       "teacherId": "1001",
@@ -29298,7 +29310,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "40",
+      "capacity": "70",
       "classTime": "一3-4 四7-8",
       "courseId": "07276025",
       "courseName": "移动通信",
@@ -29368,12 +29380,14 @@
     },
     {
       "campus": "宝山",
-      "capacity": "60",
+      "capacity": "71",
       "classTime": "一5-6 四1-2",
       "courseId": "07276167",
       "courseName": "宽带光网络A",
       "credit": "4",
-      "limitations": [],
+      "limitations": [
+        "人数已满"
+      ],
       "number": "71",
       "position": "",
       "teacherId": "1000",
@@ -29466,7 +29480,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "40",
+      "capacity": "70",
       "classTime": "二3-4 四3-4",
       "courseId": "07276176",
       "courseName": "神经网络与深度学习",
@@ -29480,7 +29494,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "40",
+      "capacity": "70",
       "classTime": "二3-4 四3-4",
       "courseId": "07276176",
       "courseName": "神经网络与深度学习",
@@ -29816,7 +29830,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "20",
+      "capacity": "30",
       "classTime": "二5-6 四1-2",
       "courseId": "07286056",
       "courseName": "数字视音频技术与应用A",
@@ -29830,7 +29844,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "20",
+      "capacity": "30",
       "classTime": "二5-6 四1-2",
       "courseId": "07286056",
       "courseName": "数字视音频技术与应用A",
@@ -29844,7 +29858,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "40",
+      "capacity": "70",
       "classTime": "二7-8 五7-8",
       "courseId": "07286060",
       "courseName": "计算机视觉",
@@ -29858,7 +29872,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "40",
+      "capacity": "70",
       "classTime": "二7-8 五7-8",
       "courseId": "07286060",
       "courseName": "计算机视觉",
@@ -29956,7 +29970,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "30",
+      "capacity": "40",
       "classTime": "四7-8",
       "courseId": "07296035",
       "courseName": "生物医学工程进展A",
@@ -29970,12 +29984,14 @@
     },
     {
       "campus": "宝山",
-      "capacity": "25",
+      "capacity": "0",
       "classTime": "二9-11 全英语",
       "courseId": "07296054",
       "courseName": "脑电信号分析方法A",
       "credit": "3",
-      "limitations": [],
+      "limitations": [
+        "禁止选课"
+      ],
       "number": "2",
       "position": "",
       "teacherId": "1000",
@@ -62472,7 +62488,7 @@
       "teacherTitle": ""
     }
   ],
-  "hash": "323bfdd37d588bf15dd2a9a3bf62836b",
+  "hash": "5e29889afebfcfea39ae7f1179805886",
   "termName": "2023-2024学年秋季学期",
-  "updateTimeMs": 1684967904847
+  "updateTimeMs": 1684979437276
 }
