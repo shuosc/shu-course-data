@@ -813,7 +813,7 @@
         "禁止选课",
         "禁止退课"
       ],
-      "number": "104",
+      "number": "118",
       "position": "",
       "teacherId": "1015",
       "teacherName": "朱文妃等",
@@ -865,7 +865,7 @@
         "禁止选课",
         "禁止退课"
       ],
-      "number": "174",
+      "number": "173",
       "position": "",
       "teacherId": "1018",
       "teacherName": "李文华等",
@@ -899,7 +899,7 @@
         "禁止选课",
         "禁止退课"
       ],
-      "number": "74",
+      "number": "73",
       "position": "",
       "teacherId": "1020",
       "teacherName": "崔一冰",
@@ -1269,7 +1269,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "141",
+      "capacity": "142",
       "classTime": "一7-8(1-2周) 二7-8(1-2周) 三10-12(1-2周) 四10-12(1-2周)",
       "courseId": "00874008",
       "courseName": "形势与政策(实践)",
@@ -1279,7 +1279,7 @@
         "禁止退课",
         "人数已满"
       ],
-      "number": "141",
+      "number": "142",
       "position": "",
       "teacherId": "1001",
       "teacherName": "孙会岩",
@@ -1449,7 +1449,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "130",
+      "capacity": "131",
       "classTime": "一10-12(1-2周) 二10-12(1-2周) 三7-8(1-2周) 四7-8(1-2周)",
       "courseId": "00874008",
       "courseName": "形势与政策(实践)",
@@ -1459,7 +1459,7 @@
         "禁止退课",
         "人数已满"
       ],
-      "number": "130",
+      "number": "131",
       "position": "",
       "teacherId": "1011",
       "teacherName": "孙会岩",
@@ -1510,9 +1510,10 @@
       "credit": "1",
       "limitations": [
         "禁止选课",
-        "禁止退课"
+        "禁止退课",
+        "人数已满"
       ],
-      "number": "132",
+      "number": "133",
       "position": "",
       "teacherId": "1014",
       "teacherName": "张金翠",
@@ -1520,7 +1521,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "131",
+      "capacity": "132",
       "classTime": "一10-12(1-2周) 二10-12(1-2周) 三7-8(1-2周) 四7-8(1-2周)",
       "courseId": "00874008",
       "courseName": "形势与政策(实践)",
@@ -1530,7 +1531,7 @@
         "禁止退课",
         "人数已满"
       ],
-      "number": "131",
+      "number": "132",
       "position": "",
       "teacherId": "1015",
       "teacherName": "宋芳明",
@@ -1761,9 +1762,10 @@
       "credit": "1",
       "limitations": [
         "禁止选课",
-        "禁止退课"
+        "禁止退课",
+        "人数已满"
       ],
-      "number": "131",
+      "number": "132",
       "position": "",
       "teacherId": "1028",
       "teacherName": "孙士庆",
@@ -1878,7 +1880,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "150",
+      "capacity": "154",
       "classTime": "一6-8 (1-2周) 三7-8 (1-2周) 四10-12 (1-2周) 五1-2 (1-2周)",
       "courseId": "00874008",
       "courseName": "形势与政策(实践)",
@@ -5965,7 +5967,7 @@
         "禁止选课",
         "禁止退课"
       ],
-      "number": "65",
+      "number": "66",
       "position": "",
       "teacherId": "1001",
       "teacherName": "李智华",
@@ -6071,7 +6073,7 @@
         "禁止选课",
         "禁止退课"
       ],
-      "number": "61",
+      "number": "62",
       "position": "",
       "teacherId": "1001",
       "teacherName": "任春明",
@@ -11477,7 +11479,7 @@
       "teacherTitle": "实验师"
     }
   ],
-  "hash": "d9c69d8c8ef47019b35925771fbbe3fc",
+  "hash": "a7f073627b0e830e02e92c3269f3b0d8",
   "termName": "2022-2023学年夏季学期",
-  "updateTimeMs": 1685057910863
+  "updateTimeMs": 1685090340902
 }

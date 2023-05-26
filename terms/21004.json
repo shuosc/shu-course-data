@@ -21103,8 +21103,10 @@
       "courseId": "03004475",
       "courseName": "通用英语D(4)",
       "credit": "2",
-      "limitations": [],
-      "number": "50",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "35",
       "position": "",
       "teacherId": "3001",
       "teacherName": "谈小兰",
@@ -21117,8 +21119,10 @@
       "courseId": "03004475",
       "courseName": "通用英语D(4)",
       "credit": "2",
-      "limitations": [],
-      "number": "48",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "35",
       "position": "",
       "teacherId": "3002",
       "teacherName": "谈小兰",
@@ -21196,13 +21200,16 @@
     },
     {
       "campus": "延长",
-      "capacity": "30",
+      "capacity": "0",
       "classTime": "一3-4 三3-4",
       "courseId": "03004477",
       "courseName": "通用英语C(1)",
       "credit": "4",
-      "limitations": [],
-      "number": "1",
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
+      "number": "0",
       "position": "",
       "teacherId": "3002",
       "teacherName": "周育",
@@ -21215,7 +21222,9 @@
       "courseId": "03004477",
       "courseName": "通用英语C(1)",
       "credit": "4",
-      "limitations": [],
+      "limitations": [
+        "禁止选课"
+      ],
       "number": "0",
       "position": "",
       "teacherId": "3003",
@@ -28182,7 +28191,7 @@
       "courseName": "民事诉讼法A",
       "credit": "6",
       "limitations": [],
-      "number": "39",
+      "number": "40",
       "position": "",
       "teacherId": "1002",
       "teacherName": "洪凌啸",
@@ -28246,7 +28255,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "40",
+      "capacity": "41",
       "classTime": "四9-11",
       "courseId": "06265137",
       "courseName": "法理学B(2)",
@@ -28254,7 +28263,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "40",
+      "number": "41",
       "position": "",
       "teacherId": "1002",
       "teacherName": "潘传表",
@@ -28346,7 +28355,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "45",
+      "capacity": "46",
       "classTime": "一3-4 三3-4 五3-4",
       "courseId": "06265178",
       "courseName": "刑事诉讼法A",
@@ -28354,7 +28363,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "45",
+      "number": "46",
       "position": "",
       "teacherId": "1001",
       "teacherName": "兰跃军",
@@ -28424,7 +28433,7 @@
       "courseName": "国际贸易法A",
       "credit": "3",
       "limitations": [],
-      "number": "54",
+      "number": "55",
       "position": "",
       "teacherId": "1000",
       "teacherName": "李本",
@@ -28476,7 +28485,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "60",
+      "capacity": "61",
       "classTime": "三5-6",
       "courseId": "06266196",
       "courseName": "案例刑法学",
@@ -28484,7 +28493,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "60",
+      "number": "61",
       "position": "",
       "teacherId": "1000",
       "teacherName": "张开骏",
@@ -28506,7 +28515,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "60",
+      "capacity": "61",
       "classTime": "一9-11 含其他",
       "courseId": "0626A023",
       "courseName": "法律写作",
@@ -28514,7 +28523,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "60",
+      "number": "61",
       "position": "",
       "teacherId": "1001",
       "teacherName": "李思远",
@@ -63566,7 +63575,7 @@
       "teacherTitle": ""
     }
   ],
-  "hash": "7f1afaec73e512e0524e2061e06290b2",
+  "hash": "df6f1906da2f783c5ff1f02d9442b4f7",
   "termName": "2023-2024学年秋季学期",
-  "updateTimeMs": 1685057923146
+  "updateTimeMs": 1685090354749
 }
