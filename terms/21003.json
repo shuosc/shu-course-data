@@ -7966,12 +7966,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "10",
+      "capacity": "0",
       "classTime": "另行通知",
       "courseId": "1350A085",
       "courseName": "毕业创作(论文)",
       "credit": "24",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
       "number": "0",
       "position": "",
       "teacherId": "1000",
@@ -8223,12 +8226,15 @@
     },
     {
       "campus": "延长",
-      "capacity": "10",
+      "capacity": "0",
       "classTime": "另行通知",
       "courseId": "1353A408",
       "courseName": "毕业设计(论文)",
       "credit": "30",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
       "number": "0",
       "position": "",
       "teacherId": "3000",
@@ -11479,7 +11485,7 @@
       "teacherTitle": "实验师"
     }
   ],
-  "hash": "7fe03d81b67d6b1dedbfeb26a18bb76d",
+  "hash": "94e2cf5d6a292ba9148dbed81301ae26",
   "termName": "2022-2023学年夏季学期",
-  "updateTimeMs": 1685317126677
+  "updateTimeMs": 1685325415820
 }
