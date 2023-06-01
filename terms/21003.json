@@ -2212,8 +2212,10 @@
       "courseId": "00885033",
       "courseName": "医学前沿工程技术创新与实践",
       "credit": "2",
-      "limitations": [],
-      "number": "17",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "20",
       "position": "",
       "teacherId": "1000",
       "teacherName": "郭帅",
@@ -5015,8 +5017,10 @@
       "courseId": "07005025",
       "courseName": "生物医药大数据与智能分析",
       "credit": "2",
-      "limitations": [],
-      "number": "17",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "20",
       "position": "",
       "teacherId": "1000",
       "teacherName": "王骏等",
@@ -5523,8 +5527,10 @@
       "courseId": "09005061",
       "courseName": "医用机器人与医学仿真入门",
       "credit": "2",
-      "limitations": [],
-      "number": "17",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "20",
       "position": "",
       "teacherId": "1000",
       "teacherName": "田应仲等",
@@ -11489,7 +11495,7 @@
       "teacherTitle": "实验师"
     }
   ],
-  "hash": "9f7dc636821e92806f9cca08859c0ace",
+  "hash": "e1a9dea6cc95f8dc8ddb8bc1126729b6",
   "termName": "2022-2023学年夏季学期",
-  "updateTimeMs": 1685619515364
+  "updateTimeMs": 1685624135134
 }
