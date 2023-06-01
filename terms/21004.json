@@ -1506,12 +1506,15 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "20",
-      "classTime": "二03-04 男女体育舞蹈 (1)",
+      "capacity": "0",
+      "classTime": "",
       "courseId": "00853001",
       "courseName": "体育(1)",
       "credit": "1",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
       "number": "0",
       "position": "",
       "teacherId": "2601",
@@ -2152,13 +2155,16 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "20",
+      "capacity": "0",
       "classTime": "二05-06 男女体育舞蹈 (4)",
       "courseId": "00853004",
       "courseName": "体育(4)",
       "credit": "1",
-      "limitations": [],
-      "number": "3",
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
+      "number": "0",
       "position": "",
       "teacherId": "2602",
       "teacherName": "俞华",
@@ -2166,13 +2172,16 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "20",
+      "capacity": "0",
       "classTime": "二07-08 男女体育舞蹈 (4)",
       "courseId": "00853004",
       "courseName": "体育(4)",
       "credit": "1",
-      "limitations": [],
-      "number": "9",
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
+      "number": "0",
       "position": "",
       "teacherId": "2603",
       "teacherName": "俞华",
@@ -64757,7 +64766,7 @@
       "teacherTitle": ""
     }
   ],
-  "hash": "403ba45f1e8c41ba0c26ff930715cd81",
+  "hash": "7fac927d0fd63d7a64df37055db9560b",
   "termName": "2023-2024学年秋季学期",
-  "updateTimeMs": 1685601581272
+  "updateTimeMs": 1685605114591
 }
