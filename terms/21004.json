@@ -17971,13 +17971,16 @@
     },
     {
       "campus": "宝山",
-      "capacity": "30",
+      "capacity": "0",
       "classTime": "二5-6(1-5周)",
       "courseId": "0200Y058",
       "courseName": "通俗小说研读",
       "credit": "1",
-      "limitations": [],
-      "number": "5",
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
+      "number": "0",
       "position": "",
       "teacherId": "1000",
       "teacherName": "石娟",
@@ -64769,7 +64772,7 @@
       "teacherTitle": ""
     }
   ],
-  "hash": "c1ce228196251cbb983958d870cdb095",
+  "hash": "25ef7ad3c15f45c5b080dddb152262a4",
   "termName": "2023-2024学年秋季学期",
-  "updateTimeMs": 1685680754358
+  "updateTimeMs": 1685684295166
 }
