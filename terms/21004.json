@@ -46561,13 +46561,16 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "20",
+      "capacity": "0",
       "classTime": "二7-8 全英语",
       "courseId": "1500R010",
       "courseName": "美国节日及其文化",
       "credit": "2",
-      "limitations": [],
-      "number": "3",
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
+      "number": "0",
       "position": "",
       "teacherId": "2000",
       "teacherName": "孙燕",
@@ -64766,7 +64769,7 @@
       "teacherTitle": ""
     }
   ],
-  "hash": "7fac927d0fd63d7a64df37055db9560b",
+  "hash": "9c8f5ef93844eb81383006010fa777c9",
   "termName": "2023-2024学年秋季学期",
-  "updateTimeMs": 1685662734345
+  "updateTimeMs": 1685671893190
 }
