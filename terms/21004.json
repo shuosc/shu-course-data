@@ -47031,7 +47031,7 @@
       "courseName": "项目管理",
       "credit": "4",
       "limitations": [],
-      "number": "55",
+      "number": "56",
       "position": "",
       "teacherId": "2000",
       "teacherName": "马汉阳",
@@ -47316,7 +47316,7 @@
       "courseName": "管理学研究方法:定量方法",
       "credit": "3",
       "limitations": [],
-      "number": "65",
+      "number": "66",
       "position": "",
       "teacherId": "2002",
       "teacherName": "张可",
@@ -47416,7 +47416,7 @@
       "courseName": "商业洞察与创新",
       "credit": "4",
       "limitations": [],
-      "number": "55",
+      "number": "56",
       "position": "",
       "teacherId": "2007",
       "teacherName": "帅萍",
@@ -47654,7 +47654,7 @@
       "courseName": "网络和新媒体营销",
       "credit": "4",
       "limitations": [],
-      "number": "68",
+      "number": "69",
       "position": "",
       "teacherId": "2000",
       "teacherName": "张可",
@@ -47667,8 +47667,10 @@
       "courseId": "15196114",
       "courseName": "市场决策模拟",
       "credit": "3",
-      "limitations": [],
-      "number": "27",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "28",
       "position": "",
       "teacherId": "2000",
       "teacherName": "吴海宁",
@@ -50959,7 +50961,7 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "90",
+      "capacity": "91",
       "classTime": "二11-12 (1周,6周)",
       "courseId": "16583109",
       "courseName": "形势与政策",
@@ -50967,7 +50969,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "90",
+      "number": "91",
       "position": "",
       "teacherId": "2010",
       "teacherName": "韩晓春",
@@ -64772,7 +64774,7 @@
       "teacherTitle": ""
     }
   ],
-  "hash": "25ef7ad3c15f45c5b080dddb152262a4",
+  "hash": "b199dce2dd4dd4054aa91a01884505d3",
   "termName": "2023-2024学年秋季学期",
-  "updateTimeMs": 1685921900580
+  "updateTimeMs": 1685931194207
 }
