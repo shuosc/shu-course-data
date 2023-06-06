@@ -1940,7 +1940,7 @@
         "禁止选课",
         "禁止退课"
       ],
-      "number": "220",
+      "number": "221",
       "position": "",
       "teacherId": "1001",
       "teacherName": "胥健等",
@@ -2026,7 +2026,7 @@
         "禁止选课",
         "禁止退课"
       ],
-      "number": "52",
+      "number": "50",
       "position": "",
       "teacherId": "1006",
       "teacherName": "刘利等",
@@ -2227,10 +2227,9 @@
       "credit": "4",
       "limitations": [
         "禁止选课",
-        "禁止退课",
-        "人数已满"
+        "禁止退课"
       ],
-      "number": "140",
+      "number": "139",
       "position": "",
       "teacherId": "1001",
       "teacherName": "饶珺等",
@@ -2245,10 +2244,9 @@
       "credit": "4",
       "limitations": [
         "禁止选课",
-        "禁止退课",
-        "人数已满"
+        "禁止退课"
       ],
-      "number": "140",
+      "number": "139",
       "position": "",
       "teacherId": "1002",
       "teacherName": "林佳等",
@@ -2265,7 +2263,7 @@
         "禁止选课",
         "禁止退课"
       ],
-      "number": "70",
+      "number": "52",
       "position": "",
       "teacherId": "1003",
       "teacherName": "李晋等",
@@ -2453,9 +2451,10 @@
       "credit": "6",
       "limitations": [
         "禁止选课",
-        "禁止退课"
+        "禁止退课",
+        "人数已满"
       ],
-      "number": "79",
+      "number": "81",
       "position": "",
       "teacherId": "1002",
       "teacherName": "张红娟",
@@ -2901,10 +2900,9 @@
       "credit": "2",
       "limitations": [
         "禁止选课",
-        "禁止退课",
-        "人数已满"
+        "禁止退课"
       ],
-      "number": "40",
+      "number": "39",
       "position": "",
       "teacherId": "1000",
       "teacherName": "Jowett Sarah",
@@ -5614,7 +5612,7 @@
         "禁止选课",
         "禁止退课"
       ],
-      "number": "39",
+      "number": "37",
       "position": "",
       "teacherId": "1000",
       "teacherName": "M Emad Farrag",
@@ -6667,10 +6665,9 @@
       "credit": "2",
       "limitations": [
         "禁止选课",
-        "禁止退课",
-        "人数已满"
+        "禁止退课"
       ],
-      "number": "30",
+      "number": "29",
       "position": "",
       "teacherId": "1000",
       "teacherName": "ROMANIAS Emmanouil",
@@ -11492,7 +11489,7 @@
       "teacherTitle": "实验师"
     }
   ],
-  "hash": "ace191bd710f9d72877c62c0e5808f89",
+  "hash": "d0b8429940f4de428f1f0e03d9e502d3",
   "termName": "2022-2023学年夏季学期",
-  "updateTimeMs": 1686026325088
+  "updateTimeMs": 1686029894175
 }
