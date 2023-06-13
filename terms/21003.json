@@ -561,7 +561,7 @@
         "禁止退课",
         "人数已满"
       ],
-      "number": "150",
+      "number": "151",
       "position": "AJ107",
       "teacherId": "1001",
       "teacherName": "王利等",
@@ -669,7 +669,7 @@
         "禁止退课",
         "人数已满"
       ],
-      "number": "152",
+      "number": "153",
       "position": "DJ108",
       "teacherId": "1007",
       "teacherName": "廖香园等",
@@ -687,7 +687,7 @@
         "禁止退课",
         "人数已满"
       ],
-      "number": "153",
+      "number": "155",
       "position": "EJ206",
       "teacherId": "1008",
       "teacherName": "高琪等",
@@ -723,7 +723,7 @@
         "禁止退课",
         "人数已满"
       ],
-      "number": "154",
+      "number": "155",
       "position": "AJ207",
       "teacherId": "1010",
       "teacherName": "徐磊等",
@@ -1383,9 +1383,10 @@
       "credit": "1",
       "limitations": [
         "禁止选课",
-        "禁止退课"
+        "禁止退课",
+        "人数已满"
       ],
-      "number": "140",
+      "number": "141",
       "position": "BJ207",
       "teacherId": "1007",
       "teacherName": "许静仪",
@@ -1400,10 +1401,9 @@
       "credit": "1",
       "limitations": [
         "禁止选课",
-        "禁止退课",
-        "人数已满"
+        "禁止退课"
       ],
-      "number": "141",
+      "number": "140",
       "position": "CJ103",
       "teacherId": "1008",
       "teacherName": "孙士庆",
@@ -1493,7 +1493,7 @@
         "禁止退课",
         "人数已满"
       ],
-      "number": "133",
+      "number": "134",
       "position": "BJ107",
       "teacherId": "1013",
       "teacherName": "宋津明",
@@ -1727,7 +1727,7 @@
         "禁止退课",
         "人数已满"
       ],
-      "number": "133",
+      "number": "134",
       "position": "CJ203",
       "teacherId": "1026",
       "teacherName": "宋芳明",
@@ -2245,7 +2245,7 @@
         "禁止选课",
         "禁止退课"
       ],
-      "number": "122",
+      "number": "121",
       "position": "HD302c",
       "teacherId": "1002",
       "teacherName": "林佳等",
@@ -2277,9 +2277,10 @@
       "credit": "4",
       "limitations": [
         "禁止选课",
-        "禁止退课"
+        "禁止退课",
+        "人数已满"
       ],
-      "number": "139",
+      "number": "140",
       "position": "HD302c",
       "teacherId": "1004",
       "teacherName": "周昕等",
@@ -2313,7 +2314,7 @@
         "禁止选课",
         "禁止退课"
       ],
-      "number": "45",
+      "number": "41",
       "position": "BJ304",
       "teacherId": "1000",
       "teacherName": "Rungrotmongkol Thanyada",
@@ -2810,7 +2811,7 @@
         "禁止选课",
         "禁止退课"
       ],
-      "number": "46",
+      "number": "45",
       "position": "DJ203",
       "teacherId": "1000",
       "teacherName": "MURPHY ORLA",
@@ -2859,10 +2860,9 @@
       "credit": "2",
       "limitations": [
         "禁止选课",
-        "禁止退课",
-        "人数已满"
+        "禁止退课"
       ],
-      "number": "30",
+      "number": "29",
       "position": "B417",
       "teacherId": "1000",
       "teacherName": "Adsit Janelle Marie",
@@ -2879,7 +2879,7 @@
         "禁止选课",
         "禁止退课"
       ],
-      "number": "54",
+      "number": "53",
       "position": "BJ203",
       "teacherId": "1000",
       "teacherName": "Mallimaci Fortunato",
@@ -5533,7 +5533,7 @@
         "禁止选课",
         "禁止退课"
       ],
-      "number": "75",
+      "number": "74",
       "position": "BJ303",
       "teacherId": "1000",
       "teacherName": "Sergiy Valyukh",
@@ -5568,7 +5568,7 @@
         "禁止退课",
         "人数已满"
       ],
-      "number": "32",
+      "number": "31",
       "position": "B310",
       "teacherId": "1000",
       "teacherName": "Hernadez-Vargas Esteban Abelar",
@@ -5654,7 +5654,7 @@
         "禁止选课",
         "禁止退课"
       ],
-      "number": "18",
+      "number": "17",
       "position": "B308",
       "teacherId": "1000",
       "teacherName": "CHADLI Mohammed",
@@ -5671,7 +5671,7 @@
         "禁止选课",
         "禁止退课"
       ],
-      "number": "14",
+      "number": "13",
       "position": "B416",
       "teacherId": "1000",
       "teacherName": "Zuazua Enrique",
@@ -5807,7 +5807,7 @@
         "禁止选课",
         "禁止退课"
       ],
-      "number": "40",
+      "number": "41",
       "position": "另行通知",
       "teacherId": "1000",
       "teacherName": "刘韵佳",
@@ -5824,7 +5824,7 @@
         "禁止选课",
         "禁止退课"
       ],
-      "number": "40",
+      "number": "41",
       "position": "另行通知",
       "teacherId": "1000",
       "teacherName": "刘吉成",
@@ -5858,7 +5858,7 @@
         "禁止选课",
         "禁止退课"
       ],
-      "number": "38",
+      "number": "39",
       "position": "另行通知",
       "teacherId": "1000",
       "teacherName": "李晓溪等",
@@ -5875,7 +5875,7 @@
         "禁止选课",
         "禁止退课"
       ],
-      "number": "37",
+      "number": "38",
       "position": "另行通知",
       "teacherId": "1000",
       "teacherName": "高增桂等",
@@ -5962,7 +5962,7 @@
         "禁止选课",
         "禁止退课"
       ],
-      "number": "68",
+      "number": "66",
       "position": "另行通知",
       "teacherId": "1001",
       "teacherName": "李智华",
@@ -6135,7 +6135,7 @@
         "禁止选课",
         "禁止退课"
       ],
-      "number": "45",
+      "number": "44",
       "position": "另行通知",
       "teacherId": "1002",
       "teacherName": "李楠",
@@ -6240,7 +6240,7 @@
         "禁止选课",
         "禁止退课"
       ],
-      "number": "43",
+      "number": "45",
       "position": "另行通知",
       "teacherId": "1003",
       "teacherName": "郭文彬",
@@ -6293,7 +6293,7 @@
         "禁止选课",
         "禁止退课"
       ],
-      "number": "43",
+      "number": "42",
       "position": "另行通知",
       "teacherId": "1003",
       "teacherName": "仵大奎",
@@ -6670,7 +6670,7 @@
         "禁止选课",
         "禁止退课"
       ],
-      "number": "20",
+      "number": "18",
       "position": "B317",
       "teacherId": "1000",
       "teacherName": "ROMANIAS Emmanouil",
@@ -7150,7 +7150,7 @@
         "禁止选课",
         "禁止退课"
       ],
-      "number": "39",
+      "number": "38",
       "position": "DJ104",
       "teacherId": "1000",
       "teacherName": "MANFREDO MANFREDINI",
@@ -7167,7 +7167,7 @@
         "禁止选课",
         "禁止退课"
       ],
-      "number": "38",
+      "number": "37",
       "position": "DJ104",
       "teacherId": "1000",
       "teacherName": "Nuse Deland",
@@ -7184,7 +7184,7 @@
         "禁止选课",
         "禁止退课"
       ],
-      "number": "40",
+      "number": "37",
       "position": "DJ103",
       "teacherId": "1000",
       "teacherName": "Lopez Marie Jazmin",
@@ -7199,10 +7199,9 @@
       "credit": "2",
       "limitations": [
         "禁止选课",
-        "禁止退课",
-        "人数已满"
+        "禁止退课"
       ],
-      "number": "30",
+      "number": "29",
       "position": "美院107、108、113教室",
       "teacherId": "1000",
       "teacherName": "Nikita Kazarnovskiy",
@@ -9890,7 +9889,7 @@
         "禁止退课",
         "人数已满"
       ],
-      "number": "176",
+      "number": "178",
       "position": "DJ108",
       "teacherId": "1000",
       "teacherName": "赵宁",
@@ -10989,7 +10988,7 @@
         "禁止退课",
         "人数已满"
       ],
-      "number": "30",
+      "number": "31",
       "position": "另行通知",
       "teacherId": "1009",
       "teacherName": "章婵",
@@ -11166,7 +11165,7 @@
         "禁止选课",
         "禁止退课"
       ],
-      "number": "42",
+      "number": "43",
       "position": "另行通知",
       "teacherId": "1001",
       "teacherName": "赵恒凯等",
@@ -11218,7 +11217,7 @@
         "禁止退课",
         "人数已满"
       ],
-      "number": "21",
+      "number": "20",
       "position": "另行通知",
       "teacherId": "1002",
       "teacherName": "徐德华等",
@@ -11252,7 +11251,7 @@
         "禁止选课",
         "禁止退课"
       ],
-      "number": "12",
+      "number": "13",
       "position": "另行通知",
       "teacherId": "1001",
       "teacherName": "高琼",
@@ -11499,7 +11498,7 @@
       "teacherTitle": "实验师"
     }
   ],
-  "hash": "2e165fc830fa943adfe0bc62e04f1f00",
+  "hash": "7b30d212c78493674557979c8bfc4fb2",
   "termName": "2022-2023学年夏季学期",
-  "updateTimeMs": 1686641908094
+  "updateTimeMs": 1686645517171
 }
