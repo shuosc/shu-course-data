@@ -46,7 +46,7 @@
         "禁止选课",
         "禁止退课"
       ],
-      "number": "44",
+      "number": "39",
       "position": "BJ103",
       "teacherId": "1000",
       "teacherName": "Singh David",
@@ -597,7 +597,7 @@
         "禁止退课",
         "人数已满"
       ],
-      "number": "151",
+      "number": "152",
       "position": "BJ107",
       "teacherId": "1003",
       "teacherName": "薛赛男",
@@ -651,7 +651,7 @@
         "禁止退课",
         "人数已满"
       ],
-      "number": "155",
+      "number": "157",
       "position": "CJ207",
       "teacherId": "1006",
       "teacherName": "刘文敏",
@@ -830,7 +830,7 @@
         "禁止退课",
         "人数已满"
       ],
-      "number": "150",
+      "number": "151",
       "position": "BJ104",
       "teacherId": "1016",
       "teacherName": "丁小苜等",
@@ -1383,10 +1383,9 @@
       "credit": "1",
       "limitations": [
         "禁止选课",
-        "禁止退课",
-        "人数已满"
+        "禁止退课"
       ],
-      "number": "141",
+      "number": "140",
       "position": "BJ207",
       "teacherId": "1007",
       "teacherName": "许静仪",
@@ -1494,7 +1493,7 @@
         "禁止退课",
         "人数已满"
       ],
-      "number": "132",
+      "number": "133",
       "position": "BJ107",
       "teacherId": "1013",
       "teacherName": "宋津明",
@@ -1674,7 +1673,7 @@
         "禁止退课",
         "人数已满"
       ],
-      "number": "133",
+      "number": "134",
       "position": "BJ203",
       "teacherId": "1023",
       "teacherName": "申小翠",
@@ -2828,7 +2827,7 @@
         "禁止选课",
         "禁止退课"
       ],
-      "number": "39",
+      "number": "38",
       "position": "DJ203",
       "teacherId": "1000",
       "teacherName": "Meritano Corrales Edgar",
@@ -2880,7 +2879,7 @@
         "禁止选课",
         "禁止退课"
       ],
-      "number": "55",
+      "number": "54",
       "position": "BJ203",
       "teacherId": "1000",
       "teacherName": "Mallimaci Fortunato",
@@ -2897,7 +2896,7 @@
         "禁止选课",
         "禁止退课"
       ],
-      "number": "31",
+      "number": "29",
       "position": "B316",
       "teacherId": "1000",
       "teacherName": "Jowett Sarah",
@@ -5534,7 +5533,7 @@
         "禁止选课",
         "禁止退课"
       ],
-      "number": "77",
+      "number": "76",
       "position": "BJ303",
       "teacherId": "1000",
       "teacherName": "Sergiy Valyukh",
@@ -9461,10 +9460,9 @@
       "credit": "2",
       "limitations": [
         "禁止选课",
-        "禁止退课",
-        "人数已满"
+        "禁止退课"
       ],
-      "number": "60",
+      "number": "59",
       "position": "DJ108",
       "teacherId": "1000",
       "teacherName": "Harrigan Paul",
@@ -9504,6 +9502,20 @@
       "teacherId": "1000",
       "teacherName": "Sugumaran Vijayan",
       "teacherTitle": ""
+    },
+    {
+      "campus": "嘉定",
+      "capacity": "40",
+      "classTime": "二7-8 三9-11 四9-11 五7-8",
+      "courseId": "15573322",
+      "courseName": "财务管理",
+      "credit": "4",
+      "limitations": [],
+      "number": "0",
+      "position": "文博楼301",
+      "teacherId": "2000",
+      "teacherName": "李玉博",
+      "teacherTitle": "讲师"
     },
     {
       "campus": "嘉定",
@@ -11489,7 +11501,7 @@
       "teacherTitle": "实验师"
     }
   ],
-  "hash": "49741b98c938b074d000e21b0e48500e",
+  "hash": "6f30b8317dc88233ce37a002d4df3908",
   "termName": "2022-2023学年夏季学期",
-  "updateTimeMs": 1686613097540
+  "updateTimeMs": 1686621725861
 }
