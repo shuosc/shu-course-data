@@ -669,7 +669,7 @@
         "禁止退课",
         "人数已满"
       ],
-      "number": "153",
+      "number": "152",
       "position": "DJ108",
       "teacherId": "1007",
       "teacherName": "廖香园等",
@@ -1260,7 +1260,7 @@
         "禁止选课",
         "禁止退课"
       ],
-      "number": "118",
+      "number": "119",
       "position": "Ⅳ202",
       "teacherId": "3002",
       "teacherName": "刘蓉蓉",
@@ -6895,7 +6895,7 @@
       "courseName": "植物与人类文明",
       "credit": "2",
       "limitations": [],
-      "number": "9",
+      "number": "10",
       "position": "DJ304",
       "teacherId": "1000",
       "teacherName": "袁晓君",
@@ -7233,10 +7233,9 @@
       "credit": "8",
       "limitations": [
         "禁止选课",
-        "禁止退课",
-        "人数已满"
+        "禁止退课"
       ],
-      "number": "16",
+      "number": "15",
       "position": "另行通知",
       "teacherId": "3002",
       "teacherName": "李剑",
@@ -9922,9 +9921,10 @@
       "credit": "0",
       "limitations": [
         "禁止选课",
-        "禁止退课"
+        "禁止退课",
+        "人数已满"
       ],
-      "number": "175",
+      "number": "176",
       "position": "DJ208",
       "teacherId": "1002",
       "teacherName": "冯君妍",
@@ -11498,7 +11498,7 @@
       "teacherTitle": "实验师"
     }
   ],
-  "hash": "7b30d212c78493674557979c8bfc4fb2",
+  "hash": "7a7f6791e1bea345b41a59790da1f6ea",
   "termName": "2022-2023学年夏季学期",
-  "updateTimeMs": 1686645517171
+  "updateTimeMs": 1686649115476
 }
