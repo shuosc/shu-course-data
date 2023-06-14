@@ -27277,6 +27277,20 @@
     },
     {
       "campus": "宝山",
+      "capacity": "3",
+      "classTime": "另行通知",
+      "courseId": "0419A011",
+      "courseName": "毕业设计(论文)",
+      "credit": "20",
+      "limitations": [],
+      "number": "0",
+      "position": "",
+      "teacherId": "1000",
+      "teacherName": "魏芳",
+      "teacherTitle": "讲师"
+    },
+    {
+      "campus": "宝山",
       "capacity": "30",
       "classTime": "三7-8",
       "courseId": "0419SY01",
@@ -27636,6 +27650,20 @@
       "teacherId": "1000",
       "teacherName": "章贵桥",
       "teacherTitle": "副教授"
+    },
+    {
+      "campus": "宝山",
+      "capacity": "1",
+      "classTime": "另行通知",
+      "courseId": "0420A010",
+      "courseName": "毕业设计(论文)",
+      "credit": "20",
+      "limitations": [],
+      "number": "0",
+      "position": "",
+      "teacherId": "1000",
+      "teacherName": "李应招",
+      "teacherTitle": "助理研究员"
     },
     {
       "campus": "宝山",
@@ -64774,7 +64802,7 @@
       "teacherTitle": ""
     }
   ],
-  "hash": "4bce55d94c6d12232f4d69a1408e4aef",
+  "hash": "2f2d2790d551962465a9a2c0251ca0b9",
   "termName": "2023-2024学年秋季学期",
-  "updateTimeMs": 1686724758534
+  "updateTimeMs": 1686728368725
 }
