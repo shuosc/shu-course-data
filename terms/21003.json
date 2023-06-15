@@ -46,7 +46,7 @@
         "禁止选课",
         "禁止退课"
       ],
-      "number": "39",
+      "number": "40",
       "position": "BJ103",
       "teacherId": "1000",
       "teacherName": "Singh David",
@@ -63,7 +63,7 @@
         "禁止选课",
         "禁止退课"
       ],
-      "number": "48",
+      "number": "47",
       "position": "DJ103",
       "teacherId": "1000",
       "teacherName": "ALESSANDRO STROPPA",
@@ -2879,7 +2879,7 @@
         "禁止选课",
         "禁止退课"
       ],
-      "number": "52",
+      "number": "51",
       "position": "BJ203",
       "teacherId": "1000",
       "teacherName": "Mallimaci Fortunato",
@@ -2911,9 +2911,10 @@
       "credit": "5",
       "limitations": [
         "禁止选课",
-        "禁止退课"
+        "禁止退课",
+        "人数已满"
       ],
-      "number": "64",
+      "number": "65",
       "position": "另行通知",
       "teacherId": "1000",
       "teacherName": "张宇超",
@@ -3601,7 +3602,7 @@
         "禁止选课",
         "禁止退课"
       ],
-      "number": "20",
+      "number": "21",
       "position": "B428",
       "teacherId": "1001",
       "teacherName": "龚萍",
@@ -5533,7 +5534,7 @@
         "禁止选课",
         "禁止退课"
       ],
-      "number": "74",
+      "number": "73",
       "position": "BJ303",
       "teacherId": "1000",
       "teacherName": "Sergiy Valyukh",
@@ -6895,7 +6896,7 @@
       "courseName": "植物与人类文明",
       "credit": "2",
       "limitations": [],
-      "number": "10",
+      "number": "11",
       "position": "DJ304",
       "teacherId": "1000",
       "teacherName": "袁晓君",
@@ -11512,7 +11513,7 @@
       "teacherTitle": "实验师"
     }
   ],
-  "hash": "3d7ea6608efd2265449d431559ecb097",
+  "hash": "5c7b0f34ed0e3ce2599d85bd3876c8c1",
   "termName": "2022-2023学年夏季学期",
-  "updateTimeMs": 1686807496406
+  "updateTimeMs": 1686811162726
 }
