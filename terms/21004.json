@@ -5981,8 +5981,10 @@
       "courseId": "00853404",
       "courseName": "羽毛球(1)",
       "credit": "1",
-      "limitations": [],
-      "number": "24",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "25",
       "position": "",
       "teacherId": "1433",
       "teacherName": "柴承军",
@@ -32061,7 +32063,7 @@
       "courseName": "多媒体信息安全",
       "credit": "2",
       "limitations": [],
-      "number": "17",
+      "number": "18",
       "position": "",
       "teacherId": "1002",
       "teacherName": "方针",
@@ -48878,7 +48880,7 @@
       "courseName": "公共管理",
       "credit": "4",
       "limitations": [],
-      "number": "23",
+      "number": "24",
       "position": "",
       "teacherId": "2000",
       "teacherName": "陈跃刚",
@@ -66056,7 +66058,7 @@
       "teacherTitle": ""
     }
   ],
-  "hash": "72d0a5430e6d65cf2bfbdf4511e4ba77",
+  "hash": "b5f20a46afbef3e18f2811b861cdbee9",
   "termName": "2023-2024学年秋季学期",
-  "updateTimeMs": 1686951508951
+  "updateTimeMs": 1686955114465
 }
