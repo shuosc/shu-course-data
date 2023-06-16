@@ -127,10 +127,7 @@
       "courseId": "0081A003",
       "courseName": "科学研究训练",
       "credit": "1",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "136",
       "position": "机房D413+D406",
       "teacherId": "1000",
@@ -161,10 +158,7 @@
       "courseId": "0081A008",
       "courseName": "力学与实践(1)",
       "credit": "3",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "29",
       "position": "C415机房",
       "teacherId": "1000",
@@ -195,10 +189,7 @@
       "courseId": "0081EY01",
       "courseName": "专业研讨课A(1)(强)",
       "credit": "2",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "14",
       "position": "D114",
       "teacherId": "1000",
@@ -298,10 +289,7 @@
       "courseId": "0081SY02",
       "courseName": "专业研讨课B(2)(强)",
       "credit": "2",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "29",
       "position": "D112",
       "teacherId": "1000",
@@ -486,8 +474,6 @@
       "courseName": "制图测绘",
       "credit": "2",
       "limitations": [
-        "禁止选课",
-        "禁止退课",
         "人数已满"
       ],
       "number": "32",
@@ -504,8 +490,6 @@
       "courseName": "制图测绘",
       "credit": "2",
       "limitations": [
-        "禁止选课",
-        "禁止退课",
         "人数已满"
       ],
       "number": "32",
@@ -522,8 +506,6 @@
       "courseName": "制图测绘",
       "credit": "2",
       "limitations": [
-        "禁止选课",
-        "禁止退课",
         "人数已满"
       ],
       "number": "32",
@@ -539,10 +521,7 @@
       "courseId": "00866034",
       "courseName": "制图测绘",
       "credit": "2",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "31",
       "position": "C418",
       "teacherId": "1004",
@@ -1918,8 +1897,6 @@
       "courseName": "金工实习A",
       "credit": "6",
       "limitations": [
-        "禁止选课",
-        "禁止退课",
         "人数已满"
       ],
       "number": "282",
@@ -1935,10 +1912,7 @@
       "courseId": "00883006",
       "courseName": "金工实习E",
       "credit": "5",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "222",
       "position": "HC楼",
       "teacherId": "1001",
@@ -1952,10 +1926,7 @@
       "courseId": "00883006",
       "courseName": "金工实习E",
       "credit": "5",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "41",
       "position": "HC楼",
       "teacherId": "1002",
@@ -1969,10 +1940,7 @@
       "courseId": "00883006",
       "courseName": "金工实习E",
       "credit": "5",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "33",
       "position": "HC楼",
       "teacherId": "1003",
@@ -1986,10 +1954,7 @@
       "courseId": "00883006",
       "courseName": "金工实习E",
       "credit": "5",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "44",
       "position": "HC楼",
       "teacherId": "1004",
@@ -2016,14 +1981,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "54",
+      "capacity": "48",
       "classTime": "6月12日-6月24日(含周六周日)8:00-14:00",
       "courseId": "00883006",
       "courseName": "金工实习E",
       "credit": "5",
       "limitations": [
         "禁止选课",
-        "禁止退课"
+        "禁止退课",
+        "人数已满"
       ],
       "number": "48",
       "position": "HC楼",
@@ -2038,10 +2004,7 @@
       "courseId": "00883012",
       "courseName": "制造技术实践C(1)",
       "credit": "2",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "87",
       "position": "HC楼",
       "teacherId": "1000",
@@ -2055,10 +2018,7 @@
       "courseId": "00883017",
       "courseName": "工程训练(1)",
       "credit": "2",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "75",
       "position": "HC楼",
       "teacherId": "1001",
@@ -2072,10 +2032,7 @@
       "courseId": "00883017",
       "courseName": "工程训练(1)",
       "credit": "2",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "9",
       "position": "HC楼",
       "teacherId": "1002",
@@ -2089,10 +2046,7 @@
       "courseId": "00883017",
       "courseName": "工程训练(1)",
       "credit": "2",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "3",
       "position": "HC楼",
       "teacherId": "1003",
@@ -2106,10 +2060,7 @@
       "courseId": "00883020",
       "courseName": "机械制造创新实践(1)",
       "credit": "2",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "37",
       "position": "HC楼",
       "teacherId": "1000",
@@ -2174,10 +2125,7 @@
       "courseId": "00883027",
       "courseName": "工程综合创新实践(1)",
       "credit": "2",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "5",
       "position": "HC楼",
       "teacherId": "1000",
@@ -2219,14 +2167,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "140",
+      "capacity": "131",
       "classTime": "夏季学期1-2周 1-8节 6月12日-6月23日",
       "courseId": "00893001",
       "courseName": "电子实习",
       "credit": "4",
       "limitations": [
         "禁止选课",
-        "禁止退课"
+        "禁止退课",
+        "人数已满"
       ],
       "number": "131",
       "position": "HD302c",
@@ -2241,10 +2190,7 @@
       "courseId": "00893001",
       "courseName": "电子实习",
       "credit": "4",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "121",
       "position": "HD302c",
       "teacherId": "1002",
@@ -2258,10 +2204,7 @@
       "courseId": "00893001",
       "courseName": "电子实习",
       "credit": "4",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "31",
       "position": "HD302c",
       "teacherId": "1003",
@@ -2276,8 +2219,6 @@
       "courseName": "电子实习",
       "credit": "4",
       "limitations": [
-        "禁止选课",
-        "禁止退课",
         "人数已满"
       ],
       "number": "140",
@@ -2293,10 +2234,7 @@
       "courseId": "00893001",
       "courseName": "电子实习",
       "credit": "4",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "136",
       "position": "HD302c",
       "teacherId": "1005",
@@ -2396,10 +2334,7 @@
       "courseId": "0101A008",
       "courseName": "计算实习B(1)",
       "credit": "5",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "7",
       "position": "机房",
       "teacherId": "1001",
@@ -2413,10 +2348,7 @@
       "courseId": "0101A008",
       "courseName": "计算实习B(1)",
       "credit": "5",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "52",
       "position": "机房",
       "teacherId": "1002",
@@ -2482,10 +2414,7 @@
       "courseId": "0102A008",
       "courseName": "计算实习B(1)",
       "credit": "5",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "0",
       "position": "机房",
       "teacherId": "1000",
@@ -2516,10 +2445,7 @@
       "courseId": "0103A002",
       "courseName": "计算机实习",
       "credit": "2",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "38",
       "position": "另行通知",
       "teacherId": "1000",
@@ -2550,10 +2476,7 @@
       "courseId": "0103A004",
       "courseName": "认识实习",
       "credit": "2",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "37",
       "position": "另行通知",
       "teacherId": "1000",
@@ -2567,10 +2490,7 @@
       "courseId": "0104A002",
       "courseName": "计算机实习",
       "credit": "2",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "49",
       "position": "另行通知",
       "teacherId": "1000",
@@ -2601,10 +2521,7 @@
       "courseId": "0104A004",
       "courseName": "认识实习",
       "credit": "2",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "49",
       "position": "另行通知",
       "teacherId": "1000",
@@ -2705,10 +2622,7 @@
       "courseId": "0106A010",
       "courseName": "应用化学认知实践",
       "credit": "2",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "3",
       "position": "另行通知",
       "teacherId": "1000",
@@ -2722,10 +2636,7 @@
       "courseId": "0106A011",
       "courseName": "专业认识和创新实践",
       "credit": "3",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "58",
       "position": "另行通知",
       "teacherId": "1000",
@@ -2756,10 +2667,7 @@
       "courseId": "0182A012",
       "courseName": "力学与实践(1)",
       "credit": "2",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "2",
       "position": "B420",
       "teacherId": "1000",
@@ -2773,10 +2681,7 @@
       "courseId": "0182A013",
       "courseName": "力学与实践(2)",
       "credit": "2",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "23",
       "position": "D204",
       "teacherId": "1000",
@@ -2910,8 +2815,6 @@
       "courseName": "学年论文训练与写作",
       "credit": "5",
       "limitations": [
-        "禁止选课",
-        "禁止退课",
         "人数已满"
       ],
       "number": "65",
@@ -2927,10 +2830,7 @@
       "courseId": "0207A044",
       "courseName": "编辑",
       "credit": "3",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "63",
       "position": "另行通知",
       "teacherId": "1000",
@@ -2961,10 +2861,7 @@
       "courseId": "0207A048",
       "courseName": "写作夏令营",
       "credit": "4",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "18",
       "position": "另行通知",
       "teacherId": "1000",
@@ -2978,10 +2875,7 @@
       "courseId": "0207A050",
       "courseName": "学术论文习作规范",
       "credit": "5",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "1",
       "position": "另行通知",
       "teacherId": "1000",
@@ -3098,10 +2992,7 @@
       "courseId": "0208A018",
       "courseName": "古书注疏体例认知",
       "credit": "5",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "45",
       "position": "另行通知",
       "teacherId": "1000",
@@ -3115,10 +3006,7 @@
       "courseId": "0208A019",
       "courseName": "学年论文训练与写作",
       "credit": "5",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "32",
       "position": "另行通知",
       "teacherId": "1000",
@@ -3132,10 +3020,7 @@
       "courseId": "0208A020",
       "courseName": "认识实习",
       "credit": "5",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "35",
       "position": "另行通知",
       "teacherId": "1000",
@@ -3167,8 +3052,6 @@
       "courseName": "社会学专题研讨",
       "credit": "2",
       "limitations": [
-        "禁止选课",
-        "禁止退课",
         "人数已满"
       ],
       "number": "25",
@@ -3185,8 +3068,6 @@
       "courseName": "社会学专题研讨",
       "credit": "2",
       "limitations": [
-        "禁止选课",
-        "禁止退课",
         "人数已满"
       ],
       "number": "25",
@@ -3202,10 +3083,7 @@
       "courseId": "02095166",
       "courseName": "社会学专题研讨",
       "credit": "2",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "6",
       "position": "B323",
       "teacherId": "1003",
@@ -3219,10 +3097,7 @@
       "courseId": "0209A009",
       "courseName": "认识实习(1)",
       "credit": "5",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "18",
       "position": "另行通知",
       "teacherId": "1000",
@@ -3236,10 +3111,7 @@
       "courseId": "0209A018",
       "courseName": "认识实习(2)",
       "credit": "11",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "67",
       "position": "另行通知",
       "teacherId": "1000",
@@ -3271,8 +3143,6 @@
       "courseName": "方言田野调查实践",
       "credit": "9",
       "limitations": [
-        "禁止选课",
-        "禁止退课",
         "人数已满"
       ],
       "number": "60",
@@ -3306,10 +3176,7 @@
       "courseId": "0260A056",
       "courseName": "语言文字使用调查",
       "credit": "4",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "2",
       "position": "另行通知",
       "teacherId": "1000",
@@ -3357,10 +3224,7 @@
       "courseId": "0275A006",
       "courseName": "认识实习(1)",
       "credit": "5",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "1",
       "position": "另行通知",
       "teacherId": "1000",
@@ -3374,10 +3238,7 @@
       "courseId": "0275A007",
       "courseName": "认识实习(2)",
       "credit": "11",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "20",
       "position": "社会学院楼214",
       "teacherId": "1000",
@@ -3391,10 +3252,7 @@
       "courseId": "0275A008",
       "courseName": "认识实习(3)(含学年论文)",
       "credit": "11",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "23",
       "position": "社会学院楼216",
       "teacherId": "1000",
@@ -3408,10 +3266,7 @@
       "courseId": "0275A010",
       "courseName": "社会工作实务与应用",
       "credit": "11",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "7",
       "position": "社会学院楼214",
       "teacherId": "1000",
@@ -3425,10 +3280,7 @@
       "courseId": "02B5A001",
       "courseName": "认识实习",
       "credit": "2",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "13",
       "position": "另行通知",
       "teacherId": "1000",
@@ -3442,10 +3294,7 @@
       "courseId": "02B5A002",
       "courseName": "暑期学校",
       "credit": "5",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "19",
       "position": "另行通知",
       "teacherId": "1000",
@@ -3476,10 +3325,7 @@
       "courseId": "02B5A005",
       "courseName": "实验室工作实践",
       "credit": "3",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "9",
       "position": "另行通知",
       "teacherId": "1000",
@@ -3585,7 +3431,7 @@
         "禁止选课",
         "禁止退课"
       ],
-      "number": "22",
+      "number": "21",
       "position": "C112",
       "teacherId": "1002",
       "teacherName": "雷婷",
@@ -3598,10 +3444,7 @@
       "courseId": "0311A028",
       "courseName": "英语思辨与论辩",
       "credit": "4",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "21",
       "position": "B428",
       "teacherId": "1001",
@@ -3616,8 +3459,6 @@
       "courseName": "英语思辨与论辩",
       "credit": "4",
       "limitations": [
-        "禁止选课",
-        "禁止退课",
         "人数已满"
       ],
       "number": "25",
@@ -3668,10 +3509,7 @@
       "courseId": "0311A035",
       "courseName": "社会调查与实践",
       "credit": "4",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "21",
       "position": "另行通知",
       "teacherId": "1001",
@@ -3686,8 +3524,6 @@
       "courseName": "社会调查与实践",
       "credit": "4",
       "limitations": [
-        "禁止选课",
-        "禁止退课",
         "人数已满"
       ],
       "number": "24",
@@ -4172,10 +4008,7 @@
       "courseId": "0410A009",
       "courseName": "认识实习(1)",
       "credit": "5",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "6",
       "position": "另行通知",
       "teacherId": "1000",
@@ -4257,10 +4090,7 @@
       "courseId": "0413A006",
       "courseName": "社会调查",
       "credit": "5",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "2",
       "position": "另行通知",
       "teacherId": "1000",
@@ -4308,10 +4138,7 @@
       "courseId": "0414A008",
       "courseName": "社会调查",
       "credit": "5",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "34",
       "position": "另行通知",
       "teacherId": "1000",
@@ -4359,10 +4186,7 @@
       "courseId": "0415A008",
       "courseName": "社会调查",
       "credit": "5",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "16",
       "position": "另行通知",
       "teacherId": "1000",
@@ -4376,10 +4200,7 @@
       "courseId": "0417A009",
       "courseName": "社会调查",
       "credit": "5",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "1",
       "position": "另行通知",
       "teacherId": "1000",
@@ -4444,10 +4265,7 @@
       "courseId": "0417A013",
       "courseName": "冶金与信息管理课程设计",
       "credit": "4",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "22",
       "position": "另行通知",
       "teacherId": "1000",
@@ -4461,10 +4279,7 @@
       "courseId": "0418A010",
       "courseName": "社会调查",
       "credit": "5",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "0",
       "position": "另行通知",
       "teacherId": "1000",
@@ -4529,10 +4344,7 @@
       "courseId": "0419A012",
       "courseName": "社会调查",
       "credit": "5",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "30",
       "position": "另行通知",
       "teacherId": "1000",
@@ -4580,10 +4392,7 @@
       "courseId": "0420A011",
       "courseName": "社会调查",
       "credit": "5",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "21",
       "position": "另行通知",
       "teacherId": "1000",
@@ -4614,10 +4423,7 @@
       "courseId": "0423A001",
       "courseName": "认识实习(1)",
       "credit": "5",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "1",
       "position": "另行通知",
       "teacherId": "1000",
@@ -4665,10 +4471,7 @@
       "courseId": "0463A009",
       "courseName": "社会调查",
       "credit": "5",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "0",
       "position": "另行通知",
       "teacherId": "1000",
@@ -4716,10 +4519,7 @@
       "courseId": "0464A009",
       "courseName": "社会调查",
       "credit": "5",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "1",
       "position": "另行通知",
       "teacherId": "1000",
@@ -4767,10 +4567,7 @@
       "courseId": "0466A009",
       "courseName": "社会调查",
       "credit": "5",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "0",
       "position": "另行通知",
       "teacherId": "1000",
@@ -4818,10 +4615,7 @@
       "courseId": "0471A009",
       "courseName": "社会调查",
       "credit": "5",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "0",
       "position": "另行通知",
       "teacherId": "1000",
@@ -4869,10 +4663,7 @@
       "courseId": "0624A006",
       "courseName": "认识实习",
       "credit": "4",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "2",
       "position": "另行通知",
       "teacherId": "1000",
@@ -4937,10 +4728,7 @@
       "courseId": "0626A018",
       "courseName": "认识实习",
       "credit": "4",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "14",
       "position": "另行通知",
       "teacherId": "1000",
@@ -5037,10 +4825,7 @@
       "courseId": "0725A002",
       "courseName": "生产实习",
       "credit": "8",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "27",
       "position": "另行通知",
       "teacherId": "1000",
@@ -5054,10 +4839,7 @@
       "courseId": "0727A008",
       "courseName": "生产实习",
       "credit": "8",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "213",
       "position": "另行通知",
       "teacherId": "1000",
@@ -5158,10 +4940,7 @@
       "courseId": "0728A008",
       "courseName": "生产实习",
       "credit": "8",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "60",
       "position": "另行通知",
       "teacherId": "1000",
@@ -5209,10 +4988,7 @@
       "courseId": "0729A009",
       "courseName": "生产实习",
       "credit": "8",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "25",
       "position": "另行通知",
       "teacherId": "1000",
@@ -5226,10 +5002,7 @@
       "courseId": "07B1A002",
       "courseName": "认识实习",
       "credit": "1",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "59",
       "position": "另行通知",
       "teacherId": "1000",
@@ -5310,10 +5083,7 @@
       "courseId": "0830A013",
       "courseName": "生产实习",
       "credit": "2",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "1",
       "position": "另行通知",
       "teacherId": "1000",
@@ -5327,10 +5097,7 @@
       "courseId": "0830A033",
       "courseName": "计算机程序设计实训",
       "credit": "2",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "2",
       "position": "另行通知",
       "teacherId": "1000",
@@ -5361,10 +5128,7 @@
       "courseId": "0869A001",
       "courseName": "计算机程序设计实训",
       "credit": "2",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "0",
       "position": "另行通知",
       "teacherId": "1000",
@@ -5446,10 +5210,7 @@
       "courseId": "08A6A006",
       "courseName": "计算机程序设计实训",
       "credit": "2",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "0",
       "position": "另行通知",
       "teacherId": "1000",
@@ -5463,10 +5224,7 @@
       "courseId": "08B2A001",
       "courseName": "计算机程序设计实训",
       "credit": "2",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "0",
       "position": "另行通知",
       "teacherId": "1000",
@@ -5685,10 +5443,7 @@
       "courseId": "0900A001",
       "courseName": "机械零件设计",
       "credit": "4",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "59",
       "position": "另行通知",
       "teacherId": "1000",
@@ -5719,10 +5474,7 @@
       "courseId": "0931A030",
       "courseName": "机械结构设计",
       "credit": "4",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "35",
       "position": "另行通知",
       "teacherId": "1000",
@@ -5787,10 +5539,7 @@
       "courseId": "0933A025",
       "courseName": "专业课程设计A(2)",
       "credit": "2",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "1",
       "position": "另行通知",
       "teacherId": "1000",
@@ -5821,10 +5570,7 @@
       "courseId": "0933A027",
       "courseName": "结构设计(2)",
       "credit": "4",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "41",
       "position": "另行通知",
       "teacherId": "1000",
@@ -5838,10 +5584,7 @@
       "courseId": "0933A032",
       "courseName": "专业课程设计(3)",
       "credit": "2",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "1",
       "position": "另行通知",
       "teacherId": "1000",
@@ -5872,10 +5615,7 @@
       "courseId": "0935A008",
       "courseName": "用户研究方法与实践",
       "credit": "4",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "38",
       "position": "另行通知",
       "teacherId": "1000",
@@ -5994,10 +5734,7 @@
       "courseId": "0936A019",
       "courseName": "专业课程设计",
       "credit": "4",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "32",
       "position": "B424",
       "teacherId": "1001",
@@ -6012,8 +5749,6 @@
       "courseName": "专业课程设计",
       "credit": "4",
       "limitations": [
-        "禁止选课",
-        "禁止退课",
         "人数已满"
       ],
       "number": "35",
@@ -6029,10 +5764,7 @@
       "courseId": "0936A019",
       "courseName": "专业课程设计",
       "credit": "4",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "34",
       "position": "B421",
       "teacherId": "1003",
@@ -6047,8 +5779,6 @@
       "courseName": "专业课程设计",
       "credit": "4",
       "limitations": [
-        "禁止选课",
-        "禁止退课",
         "人数已满"
       ],
       "number": "35",
@@ -6064,10 +5794,7 @@
       "courseId": "0936A021",
       "courseName": "计算机实习",
       "credit": "2",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "65",
       "position": "机房D503和D504",
       "teacherId": "1001",
@@ -6082,8 +5809,6 @@
       "courseName": "计算机实习",
       "credit": "2",
       "limitations": [
-        "禁止选课",
-        "禁止退课",
         "人数已满"
       ],
       "number": "70",
@@ -6099,7 +5824,10 @@
       "courseId": "09375008",
       "courseName": "微机原理(2)",
       "credit": "3",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "禁止退课"
+      ],
       "number": "2",
       "position": "D115",
       "teacherId": "1000",
@@ -6114,8 +5842,6 @@
       "courseName": "生产实习",
       "credit": "4",
       "limitations": [
-        "禁止选课",
-        "禁止退课",
         "人数已满"
       ],
       "number": "50",
@@ -6131,10 +5857,7 @@
       "courseId": "0937A004",
       "courseName": "生产实习",
       "credit": "4",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "44",
       "position": "另行通知",
       "teacherId": "1002",
@@ -6149,8 +5872,6 @@
       "courseName": "生产实习",
       "credit": "4",
       "limitations": [
-        "禁止选课",
-        "禁止退课",
         "人数已满"
       ],
       "number": "50",
@@ -6183,10 +5904,7 @@
       "courseId": "0937A007",
       "courseName": "计算机实习",
       "credit": "4",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "144",
       "position": "机房D406+D413",
       "teacherId": "1000",
@@ -6341,10 +6059,7 @@
       "courseId": "09A2A004",
       "courseName": "机电一体化系统工程课程设计",
       "credit": "3",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "56",
       "position": "另行通知",
       "teacherId": "1001",
@@ -6359,8 +6074,6 @@
       "courseName": "机电一体化系统工程课程设计",
       "credit": "3",
       "limitations": [
-        "禁止选课",
-        "禁止退课",
         "人数已满"
       ],
       "number": "60",
@@ -6376,10 +6089,7 @@
       "courseId": "09A3A001",
       "courseName": "模块化结构设计",
       "credit": "5",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "74",
       "position": "另行通知",
       "teacherId": "1000",
@@ -6444,10 +6154,7 @@
       "courseId": "1039A007",
       "courseName": "认识实习",
       "credit": "2",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "51",
       "position": "另行通知",
       "teacherId": "1000",
@@ -6495,10 +6202,7 @@
       "courseId": "1040A004",
       "courseName": "认识实习",
       "credit": "2",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "39",
       "position": "另行通知",
       "teacherId": "1000",
@@ -6529,10 +6233,7 @@
       "courseId": "1041A004",
       "courseName": "认识实习",
       "credit": "2",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "21",
       "position": "另行通知",
       "teacherId": "1000",
@@ -6597,10 +6298,7 @@
       "courseId": "1043A004",
       "courseName": "认识实习",
       "credit": "2",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "22",
       "position": "另行通知",
       "teacherId": "1000",
@@ -6771,10 +6469,7 @@
       "courseId": "1144A005",
       "courseName": "认识实习",
       "credit": "2",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "27",
       "position": "另行通知",
       "teacherId": "1000",
@@ -6894,8 +6589,11 @@
       "courseId": "1200LH05",
       "courseName": "植物与人类文明",
       "credit": "2",
-      "limitations": [],
-      "number": "10",
+      "limitations": [
+        "禁止选课",
+        "禁止退课"
+      ],
+      "number": "11",
       "position": "DJ304",
       "teacherId": "1000",
       "teacherName": "袁晓君",
@@ -6959,10 +6657,7 @@
       "courseId": "1248A023",
       "courseName": "基础生物学训练(3)",
       "credit": "2",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "93",
       "position": "生命楼118",
       "teacherId": "1000",
@@ -6976,10 +6671,7 @@
       "courseId": "1248A024",
       "courseName": "生命科学认知实践",
       "credit": "3",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "1",
       "position": "另行通知",
       "teacherId": "1000",
@@ -7044,10 +6736,7 @@
       "courseId": "1249A023",
       "courseName": "工程实训(3)",
       "credit": "2",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "24",
       "position": "生命楼120",
       "teacherId": "1000",
@@ -7078,10 +6767,7 @@
       "courseId": "12B3A001",
       "courseName": "生命科学认知实践",
       "credit": "3",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "1",
       "position": "另行通知",
       "teacherId": "1000",
@@ -7606,8 +7292,6 @@
       "courseName": "社会实践(1)",
       "credit": "2",
       "limitations": [
-        "禁止选课",
-        "禁止退课",
         "人数已满"
       ],
       "number": "10",
@@ -7624,8 +7308,6 @@
       "courseName": "社会实践(1)",
       "credit": "2",
       "limitations": [
-        "禁止选课",
-        "禁止退课",
         "人数已满"
       ],
       "number": "10",
@@ -7642,8 +7324,6 @@
       "courseName": "创作实践(1)",
       "credit": "2",
       "limitations": [
-        "禁止选课",
-        "禁止退课",
         "人数已满"
       ],
       "number": "31",
@@ -7660,8 +7340,6 @@
       "courseName": "创作实践(2)",
       "credit": "2",
       "limitations": [
-        "禁止选课",
-        "禁止退课",
         "人数已满"
       ],
       "number": "10",
@@ -7677,10 +7355,7 @@
       "courseId": "1350A060",
       "courseName": "创作实践(2)",
       "credit": "2",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "9",
       "position": "美院212",
       "teacherId": "1002",
@@ -7694,11 +7369,7 @@
       "courseId": "1350A060",
       "courseName": "创作实践(2)",
       "credit": "2",
-      "limitations": [
-        "禁止选课",
-        "禁止退课",
-        "人数已满"
-      ],
+      "limitations": [],
       "number": "11",
       "position": "美院410",
       "teacherId": "1003",
@@ -7713,8 +7384,6 @@
       "courseName": "创作实践(3)",
       "credit": "2",
       "limitations": [
-        "禁止选课",
-        "禁止退课",
         "人数已满"
       ],
       "number": "10",
@@ -7730,10 +7399,7 @@
       "courseId": "1350A061",
       "courseName": "创作实践(3)",
       "credit": "2",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "7",
       "position": "美院218",
       "teacherId": "1002",
@@ -7747,10 +7413,7 @@
       "courseId": "1350A061",
       "courseName": "创作实践(3)",
       "credit": "2",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "9",
       "position": "美院204",
       "teacherId": "1003",
@@ -7836,8 +7499,6 @@
       "courseName": "写生实践A(1)",
       "credit": "5",
       "limitations": [
-        "禁止选课",
-        "禁止退课",
         "人数已满"
       ],
       "number": "10",
@@ -7853,11 +7514,7 @@
       "courseId": "1350A078",
       "courseName": "写生实践A(1)",
       "credit": "5",
-      "limitations": [
-        "禁止选课",
-        "禁止退课",
-        "人数已满"
-      ],
+      "limitations": [],
       "number": "12",
       "position": "校外写生",
       "teacherId": "1002",
@@ -7871,10 +7528,7 @@
       "courseId": "1350A078",
       "courseName": "写生实践A(1)",
       "credit": "5",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "8",
       "position": "校外写生",
       "teacherId": "1003",
@@ -7889,8 +7543,6 @@
       "courseName": "写生",
       "credit": "4",
       "limitations": [
-        "禁止选课",
-        "禁止退课",
         "人数已满"
       ],
       "number": "12",
@@ -7907,8 +7559,6 @@
       "courseName": "写生",
       "credit": "4",
       "limitations": [
-        "禁止选课",
-        "禁止退课",
         "人数已满"
       ],
       "number": "12",
@@ -7924,10 +7574,7 @@
       "courseId": "1350A082",
       "courseName": "写生(2)",
       "credit": "4",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "16",
       "position": "山西",
       "teacherId": "1001",
@@ -7941,10 +7588,7 @@
       "courseId": "1350A083",
       "courseName": "创作实践(1)",
       "credit": "3",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "20",
       "position": "美院116",
       "teacherId": "1001",
@@ -7960,6 +7604,7 @@
       "credit": "24",
       "limitations": [
         "禁止选课",
+        "禁止退课",
         "人数已满"
       ],
       "number": "0",
@@ -7993,8 +7638,6 @@
       "courseName": "专业考察",
       "credit": "4",
       "limitations": [
-        "禁止选课",
-        "禁止退课",
         "人数已满"
       ],
       "number": "22",
@@ -8011,8 +7654,6 @@
       "courseName": "上海近现代美术遗迹考察",
       "credit": "2",
       "limitations": [
-        "禁止选课",
-        "禁止退课",
         "人数已满"
       ],
       "number": "22",
@@ -8029,8 +7670,6 @@
       "courseName": "毕业论文考察",
       "credit": "7",
       "limitations": [
-        "禁止选课",
-        "禁止退课",
         "人数已满"
       ],
       "number": "25",
@@ -8098,10 +7737,7 @@
       "courseId": "1352A018",
       "courseName": "创作实践(1)",
       "credit": "4",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "18",
       "position": "实习途中",
       "teacherId": "1000",
@@ -8576,10 +8212,7 @@
       "courseId": "1377A002",
       "courseName": "创作实践(1)",
       "credit": "2",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "23",
       "position": "美院302",
       "teacherId": "1001",
@@ -8593,10 +8226,7 @@
       "courseId": "1377A002",
       "courseName": "创作实践(1)",
       "credit": "2",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "22",
       "position": "美院118",
       "teacherId": "1002",
@@ -8627,10 +8257,7 @@
       "courseId": "1377A008",
       "courseName": "调研实践(1)",
       "credit": "1",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "46",
       "position": "美院418",
       "teacherId": "1000",
@@ -8645,8 +8272,6 @@
       "courseName": "调研实践(2)",
       "credit": "1",
       "limitations": [
-        "禁止选课",
-        "禁止退课",
         "人数已满"
       ],
       "number": "50",
@@ -8662,10 +8287,7 @@
       "courseId": "1377A011",
       "courseName": "设计工作坊(1)",
       "credit": "1",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "23",
       "position": "美院302",
       "teacherId": "1001",
@@ -8679,10 +8301,7 @@
       "courseId": "1377A011",
       "courseName": "设计工作坊(1)",
       "credit": "1",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "22",
       "position": "美院118",
       "teacherId": "1002",
@@ -8696,10 +8315,7 @@
       "courseId": "1377A012",
       "courseName": "设计工作坊(2)",
       "credit": "1",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "45",
       "position": "美院418",
       "teacherId": "1000",
@@ -8714,8 +8330,6 @@
       "courseName": "设计工作坊(3)",
       "credit": "1",
       "limitations": [
-        "禁止选课",
-        "禁止退课",
         "人数已满"
       ],
       "number": "50",
@@ -9853,11 +9467,7 @@
       "courseId": "16583109",
       "courseName": "形势与政策",
       "credit": "0",
-      "limitations": [
-        "禁止选课",
-        "禁止退课",
-        "人数已满"
-      ],
+      "limitations": [],
       "number": "180",
       "position": "DJ108",
       "teacherId": "1000",
@@ -9871,11 +9481,7 @@
       "courseId": "16583109",
       "courseName": "形势与政策",
       "credit": "0",
-      "limitations": [
-        "禁止选课",
-        "禁止退课",
-        "人数已满"
-      ],
+      "limitations": [],
       "number": "177",
       "position": "DJ108",
       "teacherId": "1001",
@@ -9889,11 +9495,7 @@
       "courseId": "16583109",
       "courseName": "形势与政策",
       "credit": "0",
-      "limitations": [
-        "禁止选课",
-        "禁止退课",
-        "人数已满"
-      ],
+      "limitations": [],
       "number": "179",
       "position": "DJ208",
       "teacherId": "1002",
@@ -9907,10 +9509,7 @@
       "courseId": "1661A008",
       "courseName": "认识实习",
       "credit": "5",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "0",
       "position": "另行通知",
       "teacherId": "1000",
@@ -9958,10 +9557,7 @@
       "courseId": "16A5A001",
       "courseName": "认识实习",
       "credit": "5",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "11",
       "position": "另行通知",
       "teacherId": "1000",
@@ -10419,10 +10015,7 @@
       "courseId": "1846A012",
       "courseName": "地质实习A",
       "credit": "2",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "9",
       "position": "另行通知",
       "teacherId": "1000",
@@ -10436,10 +10029,7 @@
       "courseId": "1846A013",
       "courseName": "测量实习",
       "credit": "4",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "63",
       "position": "BJ304",
       "teacherId": "1000",
@@ -10453,10 +10043,7 @@
       "courseId": "1846A021",
       "courseName": "岩土及地下类课程设计",
       "credit": "2",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "3",
       "position": "另行通知",
       "teacherId": "1000",
@@ -10487,10 +10074,7 @@
       "courseId": "1846A024",
       "courseName": "土木工程应用软件实践",
       "credit": "3",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "10",
       "position": "另行通知",
       "teacherId": "1000",
@@ -10521,10 +10105,7 @@
       "courseId": "1846A027",
       "courseName": "土木工程道路类课程设计",
       "credit": "2",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "3",
       "position": "另行通知",
       "teacherId": "1000",
@@ -10538,10 +10119,7 @@
       "courseId": "1846A028",
       "courseName": "桥梁类课程设计",
       "credit": "2",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "1",
       "position": "另行通知",
       "teacherId": "1000",
@@ -10555,10 +10133,7 @@
       "courseId": "1846A029",
       "courseName": "建筑信息模型",
       "credit": "2",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "12",
       "position": "机房",
       "teacherId": "1000",
@@ -10590,10 +10165,7 @@
       "courseId": "1846A033",
       "courseName": "测量实习",
       "credit": "4",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "10",
       "position": "另行通知",
       "teacherId": "1000",
@@ -10607,10 +10179,7 @@
       "courseId": "1846A034",
       "courseName": "工程结构虚拟建造",
       "credit": "4",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "8",
       "position": "机房",
       "teacherId": "1000",
@@ -10778,7 +10347,10 @@
       "courseId": "23004522",
       "courseName": "线性代数",
       "credit": "5",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "禁止退课"
+      ],
       "number": "1",
       "position": "另行通知",
       "teacherId": "1000",
@@ -11147,10 +10719,7 @@
       "courseId": "2328A009",
       "courseName": "生产实习",
       "credit": "8",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "42",
       "position": "另行通知",
       "teacherId": "1002",
@@ -11302,10 +10871,7 @@
       "courseId": "3173A072",
       "courseName": "大学生素质拓展(1)",
       "credit": "1",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "46",
       "position": "另行通知",
       "teacherId": "1000",
@@ -11319,10 +10885,7 @@
       "courseId": "3173A073",
       "courseName": "大学生素质拓展(2)",
       "credit": "1",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "44",
       "position": "另行通知",
       "teacherId": "1000",
@@ -11336,10 +10899,7 @@
       "courseId": "3173A074",
       "courseName": "大学生素质拓展(3)",
       "credit": "1",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "49",
       "position": "另行通知",
       "teacherId": "1000",
@@ -11467,7 +11027,7 @@
       "teacherTitle": "实验师"
     }
   ],
-  "hash": "3176d16c215c981e6a95145fd5fdb2cb",
+  "hash": "5e9e861f48aa9e4b746562448e35112f",
   "termName": "2022-2023学年夏季学期",
-  "updateTimeMs": 1686880805642
+  "updateTimeMs": 1686884001359
 }
