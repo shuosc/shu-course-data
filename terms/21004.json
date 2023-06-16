@@ -7324,7 +7324,7 @@
       "courseName": "女生操舞(1)",
       "credit": "1",
       "limitations": [],
-      "number": "5",
+      "number": "6",
       "position": "",
       "teacherId": "1584",
       "teacherName": "孙婷婷",
@@ -7338,7 +7338,7 @@
       "courseName": "女生操舞(1)",
       "credit": "1",
       "limitations": [],
-      "number": "5",
+      "number": "4",
       "position": "",
       "teacherId": "1585",
       "teacherName": "孙婷婷",
@@ -30336,7 +30336,7 @@
       "courseName": "创新思维与方法",
       "credit": "4",
       "limitations": [],
-      "number": "45",
+      "number": "46",
       "position": "",
       "teacherId": "1000",
       "teacherName": "滕国伟",
@@ -31587,8 +31587,10 @@
       "courseId": "07276177",
       "courseName": "自然语言处理",
       "credit": "4",
-      "limitations": [],
-      "number": "59",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "60",
       "position": "",
       "teacherId": "1001",
       "teacherName": "金彦亮",
@@ -31601,10 +31603,8 @@
       "courseId": "07276177",
       "courseName": "自然语言处理",
       "credit": "4",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "72",
+      "limitations": [],
+      "number": "71",
       "position": "",
       "teacherId": "1002",
       "teacherName": "张琦",
@@ -48880,7 +48880,7 @@
       "courseName": "公共管理",
       "credit": "4",
       "limitations": [],
-      "number": "24",
+      "number": "23",
       "position": "",
       "teacherId": "2000",
       "teacherName": "陈跃刚",
@@ -66058,7 +66058,7 @@
       "teacherTitle": ""
     }
   ],
-  "hash": "b5f20a46afbef3e18f2811b861cdbee9",
+  "hash": "4cd4e8c43235e3b5aafa265db08d3aa2",
   "termName": "2023-2024学年秋季学期",
-  "updateTimeMs": 1686955114465
+  "updateTimeMs": 1686958731943
 }
