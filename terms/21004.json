@@ -56292,7 +56292,7 @@
       "courseName": "高级汉语阅读(1)",
       "credit": "2",
       "limitations": [],
-      "number": "10",
+      "number": "11",
       "position": "",
       "teacherId": "1000",
       "teacherName": "王敏敏",
@@ -59449,8 +59449,10 @@
       "courseId": "2400JH02",
       "courseName": "大学生情商密码",
       "credit": "2",
-      "limitations": [],
-      "number": "39",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "40",
       "position": "",
       "teacherId": "1000",
       "teacherName": "许科",
@@ -59786,7 +59788,7 @@
       "courseName": "日常生活中的社会学",
       "credit": "2",
       "limitations": [],
-      "number": "56",
+      "number": "55",
       "position": "",
       "teacherId": "1000",
       "teacherName": "李贞",
@@ -66076,7 +66078,7 @@
       "teacherTitle": ""
     }
   ],
-  "hash": "4a302fcaa146eb17d3b42dd0cb600da1",
+  "hash": "1c4c9310724baad8e3ba52a8fa2ddab9",
   "termName": "2023-2024学年秋季学期",
-  "updateTimeMs": 1687027100624
+  "updateTimeMs": 1687030711100
 }
