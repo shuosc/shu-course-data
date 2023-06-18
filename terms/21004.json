@@ -23421,7 +23421,7 @@
       "courseName": "欧洲文化入门",
       "credit": "2",
       "limitations": [],
-      "number": "26",
+      "number": "25",
       "position": "",
       "teacherId": "1003",
       "teacherName": "李泳涛",
@@ -26938,8 +26938,10 @@
       "courseId": "04145004",
       "courseName": "保险学",
       "credit": "4",
-      "limitations": [],
-      "number": "29",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "30",
       "position": "",
       "teacherId": "1000",
       "teacherName": "王时芬",
@@ -27401,7 +27403,7 @@
       "courseName": "服务经济与贸易",
       "credit": "3",
       "limitations": [],
-      "number": "15",
+      "number": "16",
       "position": "",
       "teacherId": "1001",
       "teacherName": "杨玲",
@@ -31820,7 +31822,7 @@
       "courseName": "认识物联网",
       "credit": "2",
       "limitations": [],
-      "number": "9",
+      "number": "10",
       "position": "",
       "teacherId": "1002",
       "teacherName": "冯玉田",
@@ -66070,7 +66072,7 @@
       "teacherTitle": ""
     }
   ],
-  "hash": "7b2b6bccd41162502814d97a1879b90c",
+  "hash": "24526cc1cb33e6dcfdf941949ed2da8a",
   "termName": "2023-2024学年秋季学期",
-  "updateTimeMs": 1687120728334
+  "updateTimeMs": 1687124330781
 }
