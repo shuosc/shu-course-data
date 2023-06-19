@@ -5771,8 +5771,10 @@
       "courseId": "00853404",
       "courseName": "羽毛球(1)",
       "credit": "1",
-      "limitations": [],
-      "number": "22",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "23",
       "position": "",
       "teacherId": "1272",
       "teacherName": "颜中杰",
@@ -6116,7 +6118,7 @@
       "courseName": "乒乓球(1)",
       "credit": "1",
       "limitations": [],
-      "number": "6",
+      "number": "5",
       "position": "",
       "teacherId": "1454",
       "teacherName": "张轶",
@@ -20609,7 +20611,7 @@
       "courseName": "英美报刊选读",
       "credit": "2",
       "limitations": [],
-      "number": "12",
+      "number": "11",
       "position": "",
       "teacherId": "1002",
       "teacherName": "郁菊芬",
@@ -20651,7 +20653,7 @@
       "courseName": "英美报刊选读",
       "credit": "2",
       "limitations": [],
-      "number": "16",
+      "number": "17",
       "position": "",
       "teacherId": "1005",
       "teacherName": "郁菊芬",
@@ -34011,7 +34013,7 @@
       "courseName": "精度设计及应用",
       "credit": "3",
       "limitations": [],
-      "number": "9",
+      "number": "10",
       "position": "",
       "teacherId": "1005",
       "teacherName": "冯杰才",
@@ -66090,7 +66092,7 @@
       "teacherTitle": ""
     }
   ],
-  "hash": "b01ce39089c67b2953d7db41cdcb3cfa",
+  "hash": "ec8c9f2e52435898f0e127d806ef4c51",
   "termName": "2023-2024学年秋季学期",
-  "updateTimeMs": 1687207104236
+  "updateTimeMs": 1687210735224
 }
