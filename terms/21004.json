@@ -8563,7 +8563,7 @@
       "courseName": "大学生社会实践",
       "credit": "1",
       "limitations": [],
-      "number": "41",
+      "number": "42",
       "position": "",
       "teacherId": "1005",
       "teacherName": "张望",
@@ -9575,7 +9575,7 @@
       "courseName": "生命过程中的化学反应",
       "credit": "1",
       "limitations": [],
-      "number": "3",
+      "number": "4",
       "position": "",
       "teacherId": "1000",
       "teacherName": "姚建",
@@ -15440,7 +15440,7 @@
       "courseName": "大学化学实验",
       "credit": "1",
       "limitations": [],
-      "number": "0",
+      "number": "1",
       "position": "",
       "teacherId": "1079",
       "teacherName": "张晓艳",
@@ -32865,7 +32865,7 @@
       "courseName": "计算机图形学",
       "credit": "4",
       "limitations": [],
-      "number": "52",
+      "number": "53",
       "position": "",
       "teacherId": "1000",
       "teacherName": "张景峤",
@@ -32936,8 +32936,10 @@
       "courseId": "08306031",
       "courseName": "数字图像处理",
       "credit": "4",
-      "limitations": [],
-      "number": "49",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "50",
       "position": "",
       "teacherId": "1002",
       "teacherName": "王路",
@@ -33907,7 +33909,7 @@
       "courseName": "数字电路A",
       "credit": "3",
       "limitations": [],
-      "number": "23",
+      "number": "24",
       "position": "",
       "teacherId": "1001",
       "teacherName": "鲍晟",
@@ -42148,8 +42150,10 @@
       "courseId": "1300RH61",
       "courseName": "苏轼与中国文人画",
       "credit": "2",
-      "limitations": [],
-      "number": "69",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "70",
       "position": "",
       "teacherId": "1000",
       "teacherName": "胡建君",
@@ -50037,7 +50041,7 @@
       "courseName": "股票交易分析",
       "credit": "4",
       "limitations": [],
-      "number": "8",
+      "number": "7",
       "position": "",
       "teacherId": "2000",
       "teacherName": "孙覃玥",
@@ -59937,8 +59941,10 @@
       "courseId": "3100RH61",
       "courseName": "外国经典音乐",
       "credit": "4",
-      "limitations": [],
-      "number": "69",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "70",
       "position": "",
       "teacherId": "1000",
       "teacherName": "袁勤",
@@ -66058,7 +66064,7 @@
       "teacherTitle": ""
     }
   ],
-  "hash": "5ade4887599477fce947a6d79e768808",
+  "hash": "e62b7c94924da8463754495488777f0a",
   "termName": "2023-2024学年秋季学期",
-  "updateTimeMs": 1687293523584
+  "updateTimeMs": 1687297128212
 }
