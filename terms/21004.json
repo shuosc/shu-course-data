@@ -829,14 +829,12 @@
     },
     {
       "campus": "宝山",
-      "capacity": "30",
+      "capacity": "35",
       "classTime": "一5-6 三5-6 五3-4",
       "courseId": "00815340",
       "courseName": "分析力学A(强)",
       "credit": "6",
-      "limitations": [
-        "人数已满"
-      ],
+      "limitations": [],
       "number": "30",
       "position": "",
       "teacherId": "1000",
@@ -10796,7 +10794,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "85",
+      "capacity": "90",
       "classTime": "一3-4 三3-4 五3-4",
       "courseId": "01015150",
       "courseName": "数学分析(4)(特)",
@@ -10824,7 +10822,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "85",
+      "capacity": "90",
       "classTime": "一7-8 三7-8 五7-8单 全英语",
       "courseId": "01015152",
       "courseName": "常微分方程(特)",
@@ -11082,7 +11080,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "85",
+      "capacity": "90",
       "classTime": "二1-2 四1-2 全英语",
       "courseId": "01025076",
       "courseName": "复变函数(特)",
@@ -20890,6 +20888,48 @@
       "position": "",
       "teacherId": "1008",
       "teacherName": "商晓芳",
+      "teacherTitle": "讲师"
+    },
+    {
+      "campus": "宝山",
+      "capacity": "40",
+      "classTime": "二3-4",
+      "courseId": "03004423",
+      "courseName": "英美诗歌名篇选读",
+      "credit": "2",
+      "limitations": [],
+      "number": "0",
+      "position": "",
+      "teacherId": "1001",
+      "teacherName": "金璐",
+      "teacherTitle": "讲师"
+    },
+    {
+      "campus": "宝山",
+      "capacity": "40",
+      "classTime": "二5-6",
+      "courseId": "03004423",
+      "courseName": "英美诗歌名篇选读",
+      "credit": "2",
+      "limitations": [],
+      "number": "0",
+      "position": "",
+      "teacherId": "1002",
+      "teacherName": "金璐",
+      "teacherTitle": "讲师"
+    },
+    {
+      "campus": "宝山",
+      "capacity": "40",
+      "classTime": "二7-8",
+      "courseId": "03004423",
+      "courseName": "英美诗歌名篇选读",
+      "credit": "2",
+      "limitations": [],
+      "number": "0",
+      "position": "",
+      "teacherId": "1003",
+      "teacherName": "金璐",
       "teacherTitle": "讲师"
     },
     {
@@ -41378,8 +41418,8 @@
       "number": "20",
       "position": "",
       "teacherId": "1001",
-      "teacherName": "待定",
-      "teacherTitle": ""
+      "teacherName": "张维",
+      "teacherTitle": "讲师"
     },
     {
       "campus": "宝山",
@@ -41392,8 +41432,8 @@
       "number": "3",
       "position": "",
       "teacherId": "1002",
-      "teacherName": "待定",
-      "teacherTitle": ""
+      "teacherName": "章国琴",
+      "teacherTitle": "讲师"
     },
     {
       "campus": "宝山",
@@ -41968,7 +42008,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "25",
+      "capacity": "16",
       "classTime": "一1-4 四5-6",
       "courseId": "13475007",
       "courseName": "建筑设计初步(1)",
@@ -41982,7 +42022,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "25",
+      "capacity": "16",
       "classTime": "一1-4 四5-6",
       "courseId": "13475007",
       "courseName": "建筑设计初步(1)",
@@ -41996,7 +42036,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "25",
+      "capacity": "16",
       "classTime": "一1-4 四5-6",
       "courseId": "13475007",
       "courseName": "建筑设计初步(1)",
@@ -42038,7 +42078,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "15",
+      "capacity": "8",
       "classTime": "三2-4 五2-4",
       "courseId": "13475128",
       "courseName": "美术A(1)",
@@ -42052,7 +42092,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "15",
+      "capacity": "8",
       "classTime": "三2-4 五2-4",
       "courseId": "13475128",
       "courseName": "美术A(1)",
@@ -42066,7 +42106,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "15",
+      "capacity": "8",
       "classTime": "三2-4 五2-4",
       "courseId": "13475128",
       "courseName": "美术A(1)",
@@ -42080,7 +42120,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "15",
+      "capacity": "8",
       "classTime": "三2-4 五2-4",
       "courseId": "13475128",
       "courseName": "美术A(1)",
@@ -42094,7 +42134,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "15",
+      "capacity": "8",
       "classTime": "三2-4 五2-4",
       "courseId": "13475128",
       "courseName": "美术A(1)",
@@ -42418,12 +42458,14 @@
     },
     {
       "campus": "延长",
-      "capacity": "50",
+      "capacity": "0",
       "classTime": "二1-2 四9-10双",
       "courseId": "13475214",
       "courseName": "画法几何与阴影透视B",
       "credit": "3",
-      "limitations": [],
+      "limitations": [
+        "禁止选课"
+      ],
       "number": "0",
       "position": "",
       "teacherId": "3002",
@@ -65687,7 +65729,7 @@
       "teacherTitle": ""
     }
   ],
-  "hash": "3ea060f2a8bcb597b677030833eb6eb7",
+  "hash": "345e3ae25e1321680f692aee07b313e5",
   "termName": "2023-2024学年秋季学期",
-  "updateTimeMs": 1687660220208
+  "updateTimeMs": 1687664934721
 }
