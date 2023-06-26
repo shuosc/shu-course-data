@@ -270,7 +270,7 @@
     {
       "campus": "宝山",
       "capacity": "20",
-      "classTime": "一5-6 二5-6 三5-6 四5-6 五7-8(1-4周)",
+      "classTime": "一5-6 二5-6 三5-6 四5-6 五7-8 (1-4周)",
       "courseId": "0081SY01",
       "courseName": "专业研讨课A(2)(强)",
       "credit": "2",
@@ -1964,7 +1964,7 @@
       "courseName": "金工实习E",
       "credit": "5",
       "limitations": [],
-      "number": "195",
+      "number": "196",
       "position": "HC楼",
       "teacherId": "1004",
       "teacherName": "韦丽等",
@@ -2835,10 +2835,8 @@
       "courseId": "0207A041",
       "courseName": "学年论文训练与写作",
       "credit": "5",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "65",
+      "limitations": [],
+      "number": "63",
       "position": "另行通知",
       "teacherId": "1000",
       "teacherName": "张宇超",
@@ -4725,6 +4723,20 @@
       "position": "另行通知",
       "teacherId": "1000",
       "teacherName": "袁真富等",
+      "teacherTitle": "副教授"
+    },
+    {
+      "campus": "宝山",
+      "capacity": "10",
+      "classTime": "另行通知",
+      "courseId": "0624A010",
+      "courseName": "毕业设计(论文)",
+      "credit": "12",
+      "limitations": [],
+      "number": "0",
+      "position": "另行通知",
+      "teacherId": "1000",
+      "teacherName": "芦雪峰",
       "teacherTitle": "副教授"
     },
     {
@@ -11087,7 +11099,7 @@
       "teacherTitle": "实验师"
     }
   ],
-  "hash": "af3726b7b58d1ef86d0fc1c8951e4a7f",
+  "hash": "53882f0da2e6821659a4d85d501f58e8",
   "termName": "2022-2023学年夏季学期",
-  "updateTimeMs": 1687736355997
+  "updateTimeMs": 1687746042865
 }
