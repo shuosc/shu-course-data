@@ -2880,8 +2880,10 @@
       "courseId": "0207A048",
       "courseName": "写作夏令营",
       "credit": "4",
-      "limitations": [],
-      "number": "62",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "63",
       "position": "另行通知",
       "teacherId": "1000",
       "teacherName": "汪雨萌",
@@ -4110,7 +4112,7 @@
       "courseName": "社会调查",
       "credit": "5",
       "limitations": [],
-      "number": "29",
+      "number": "28",
       "position": "另行通知",
       "teacherId": "1000",
       "teacherName": "孙冰",
@@ -4158,7 +4160,7 @@
       "courseName": "社会调查",
       "credit": "5",
       "limitations": [],
-      "number": "135",
+      "number": "136",
       "position": "另行通知",
       "teacherId": "1000",
       "teacherName": "吴琳琳",
@@ -4206,7 +4208,7 @@
       "courseName": "社会调查",
       "credit": "5",
       "limitations": [],
-      "number": "32",
+      "number": "33",
       "position": "另行通知",
       "teacherId": "1000",
       "teacherName": "王一鸣",
@@ -11097,7 +11099,7 @@
       "teacherTitle": "实验师"
     }
   ],
-  "hash": "42089eaae3e8948a7fb06ea00b89e27f",
+  "hash": "0ce29c53d7b189e0baaebbe48355ef0b",
   "termName": "2022-2023学年夏季学期",
-  "updateTimeMs": 1687832284101
+  "updateTimeMs": 1687837533111
 }
