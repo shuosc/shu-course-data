@@ -2433,13 +2433,15 @@
     },
     {
       "campus": "延长",
-      "capacity": "20",
+      "capacity": "26",
       "classTime": "二05-06 男女体育舞蹈",
       "courseId": "00853004",
       "courseName": "体育(4)",
       "credit": "1",
-      "limitations": [],
-      "number": "27",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "26",
       "position": "",
       "teacherId": "3602",
       "teacherName": "俞华",
@@ -11631,8 +11633,10 @@
       "courseId": "01034119",
       "courseName": "大学物理(3)",
       "credit": "4",
-      "limitations": [],
-      "number": "75",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "70",
       "position": "",
       "teacherId": "3002",
       "teacherName": "高恒",
@@ -21069,20 +21073,18 @@
       "teacherTitle": "讲师"
     },
     {
-      "campus": "",
-      "capacity": "0",
-      "classTime": "",
+      "campus": "宝山",
+      "capacity": "30",
+      "classTime": "一7-8 三7-8",
       "courseId": "03004472",
       "courseName": "通用英语D(1)",
       "credit": "4",
-      "limitations": [
-        "人数已满"
-      ],
+      "limitations": [],
       "number": "1",
       "position": "",
       "teacherId": "1001",
-      "teacherName": "",
-      "teacherTitle": ""
+      "teacherName": "陈荣",
+      "teacherTitle": "讲师"
     },
     {
       "campus": "",
@@ -23395,7 +23397,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "20",
+      "capacity": "26",
       "classTime": "四1-2 限国际化基地班",
       "courseId": "03004499",
       "courseName": "国际交流学术英语A(1)",
@@ -42204,8 +42206,10 @@
       "courseId": "13475007",
       "courseName": "建筑设计初步(1)",
       "credit": "6",
-      "limitations": [],
-      "number": "18",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "16",
       "position": "",
       "teacherId": "3001",
       "teacherName": "柏春",
@@ -42218,8 +42222,10 @@
       "courseId": "13475007",
       "courseName": "建筑设计初步(1)",
       "credit": "6",
-      "limitations": [],
-      "number": "18",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "16",
       "position": "",
       "teacherId": "3002",
       "teacherName": "李玲",
@@ -42274,8 +42280,10 @@
       "courseId": "13475128",
       "courseName": "美术A(1)",
       "credit": "6",
-      "limitations": [],
-      "number": "12",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "8",
       "position": "",
       "teacherId": "3001",
       "teacherName": "王冠英",
@@ -42288,8 +42296,10 @@
       "courseId": "13475128",
       "courseName": "美术A(1)",
       "credit": "6",
-      "limitations": [],
-      "number": "10",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "8",
       "position": "",
       "teacherId": "3002",
       "teacherName": "李剑",
@@ -42330,8 +42340,10 @@
       "courseId": "13475128",
       "courseName": "美术A(1)",
       "credit": "6",
-      "limitations": [],
-      "number": "12",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "8",
       "position": "",
       "teacherId": "3005",
       "teacherName": "许宁",
@@ -45472,8 +45484,10 @@
       "courseId": "14555161",
       "courseName": "艺术设计基础",
       "credit": "4",
-      "limitations": [],
-      "number": "31",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "25",
       "position": "",
       "teacherId": "3002",
       "teacherName": "罗业云",
@@ -45586,8 +45600,10 @@
       "courseId": "14555308",
       "courseName": "电影技术导论A",
       "credit": "3",
-      "limitations": [],
-      "number": "45",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "40",
       "position": "",
       "teacherId": "3002",
       "teacherName": "黄东晋等",
@@ -45600,8 +45616,10 @@
       "courseId": "14555320",
       "courseName": "数字视音频技术",
       "credit": "4",
-      "limitations": [],
-      "number": "29",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "25",
       "position": "",
       "teacherId": "3001",
       "teacherName": "张晓蓉",
@@ -52449,13 +52467,13 @@
     },
     {
       "campus": "延长",
-      "capacity": "100",
+      "capacity": "105",
       "classTime": "四9-10 (1周,6周)",
       "courseId": "16583109",
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [],
-      "number": "105",
+      "number": "100",
       "position": "",
       "teacherId": "3015",
       "teacherName": "宋哲仁",
@@ -52491,13 +52509,13 @@
     },
     {
       "campus": "延长",
-      "capacity": "100",
+      "capacity": "105",
       "classTime": "四11-12 (1周,6周)",
       "courseId": "16583109",
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [],
-      "number": "105",
+      "number": "100",
       "position": "",
       "teacherId": "3018",
       "teacherName": "宋哲仁",
@@ -53709,7 +53727,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "100",
+      "capacity": "123",
       "classTime": "二7-8 四9-10单",
       "courseId": "16584168",
       "courseName": "马克思主义基本原理",
@@ -53723,7 +53741,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "118",
+      "capacity": "127",
       "classTime": "二9-10 四9-10双",
       "courseId": "16584168",
       "courseName": "马克思主义基本原理",
@@ -55150,8 +55168,10 @@
       "courseId": "17005006",
       "courseName": "网络与新媒体技术应用",
       "credit": "3",
-      "limitations": [],
-      "number": "49",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "40",
       "position": "",
       "teacherId": "3001",
       "teacherName": "罗清池",
@@ -55164,8 +55184,10 @@
       "courseId": "17005006",
       "courseName": "网络与新媒体技术应用",
       "credit": "3",
-      "limitations": [],
-      "number": "52",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "50",
       "position": "",
       "teacherId": "3002",
       "teacherName": "孟令光",
@@ -55238,8 +55260,10 @@
       "courseId": "17005014",
       "courseName": "多媒体作品制作A",
       "credit": "4",
-      "limitations": [],
-      "number": "50",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "40",
       "position": "",
       "teacherId": "3001",
       "teacherName": "汪伟",
@@ -55252,8 +55276,10 @@
       "courseId": "17005014",
       "courseName": "多媒体作品制作A",
       "credit": "4",
-      "limitations": [],
-      "number": "51",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "40",
       "position": "",
       "teacherId": "3002",
       "teacherName": "罗清池",
@@ -66268,7 +66294,7 @@
       "teacherTitle": ""
     }
   ],
-  "hash": "2ca3e3b993dff6198582653cd6df5c31",
+  "hash": "317e4e82b9844689182abfade0cc2703",
   "termName": "2023-2024学年秋季学期",
-  "updateTimeMs": 1687930802948
+  "updateTimeMs": 1687934599159
 }
