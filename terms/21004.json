@@ -5630,12 +5630,12 @@
     {
       "campus": "宝山",
       "capacity": "22",
-      "classTime": "二05-06 女生篮球",
+      "classTime": "二05-06 男生篮球",
       "courseId": "00853403",
       "courseName": "篮球(1)",
       "credit": "1",
       "limitations": [],
-      "number": "3",
+      "number": "0",
       "position": "",
       "teacherId": "1076",
       "teacherName": "沈何为",
@@ -6246,12 +6246,12 @@
     {
       "campus": "宝山",
       "capacity": "22",
-      "classTime": "四03-04 女生网球",
+      "classTime": "四03-04 男生网球",
       "courseId": "00853406",
       "courseName": "网球(1)",
       "credit": "1",
       "limitations": [],
-      "number": "5",
+      "number": "0",
       "position": "",
       "teacherId": "1814",
       "teacherName": "吕伟",
@@ -6259,12 +6259,14 @@
     },
     {
       "campus": "宝山",
-      "capacity": "22",
-      "classTime": "四05-06 女生网球",
+      "capacity": "0",
+      "classTime": "四05-06 男生网球",
       "courseId": "00853406",
       "courseName": "网球(1)",
       "credit": "1",
-      "limitations": [],
+      "limitations": [
+        "禁止选课"
+      ],
       "number": "0",
       "position": "",
       "teacherId": "1815",
@@ -6371,13 +6373,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "22",
-      "classTime": "二09-10 女生网球",
+      "capacity": "0",
+      "classTime": "二09-10 男生网球",
       "courseId": "00853406",
       "courseName": "网球(1)",
       "credit": "1",
-      "limitations": [],
-      "number": "2",
+      "limitations": [
+        "禁止选课"
+      ],
+      "number": "0",
       "position": "",
       "teacherId": "1863",
       "teacherName": "宗志伟",
@@ -6427,12 +6431,14 @@
     },
     {
       "campus": "宝山",
-      "capacity": "22",
-      "classTime": "二09-10 女生网球",
+      "capacity": "0",
+      "classTime": "二09-10 男生网球",
       "courseId": "00853406",
       "courseName": "网球(1)",
       "credit": "1",
-      "limitations": [],
+      "limitations": [
+        "禁止选课"
+      ],
       "number": "0",
       "position": "",
       "teacherId": "1876",
@@ -6441,13 +6447,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "22",
-      "classTime": "三07-08 女生网球",
+      "capacity": "0",
+      "classTime": "三07-08 男生网球",
       "courseId": "00853406",
       "courseName": "网球(1)",
       "credit": "1",
-      "limitations": [],
-      "number": "5",
+      "limitations": [
+        "禁止选课"
+      ],
+      "number": "0",
       "position": "",
       "teacherId": "1877",
       "teacherName": "李婷",
@@ -7169,13 +7177,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "22",
+      "capacity": "0",
       "classTime": "一01-02 女生操舞",
       "courseId": "00853429",
       "courseName": "女生操舞(1)",
       "credit": "1",
-      "limitations": [],
-      "number": "1",
+      "limitations": [
+        "禁止选课"
+      ],
+      "number": "0",
       "position": "",
       "teacherId": "1571",
       "teacherName": "李燕",
@@ -41607,8 +41617,10 @@
       "courseId": "13004151",
       "courseName": "上美讲堂A(1)",
       "credit": "1",
-      "limitations": [],
-      "number": "41",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "40",
       "position": "",
       "teacherId": "1001",
       "teacherName": "张维",
@@ -42003,8 +42015,10 @@
       "courseId": "1300R601",
       "courseName": "艺术与审美",
       "credit": "2",
-      "limitations": [],
-      "number": "78",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "70",
       "position": "",
       "teacherId": "1000",
       "teacherName": "钱楷",
@@ -42031,8 +42045,10 @@
       "courseId": "1300R602",
       "courseName": "美术与人文",
       "credit": "2",
-      "limitations": [],
-      "number": "98",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "80",
       "position": "",
       "teacherId": "1000",
       "teacherName": "秦瑞丽",
@@ -66518,7 +66534,7 @@
       "teacherTitle": ""
     }
   ],
-  "hash": "7b54f953f3c020377a729ca4d39617e9",
+  "hash": "262d00f04a16f7c23c369c991bf08b69",
   "termName": "2023-2024学年秋季学期",
-  "updateTimeMs": 1688004920747
+  "updateTimeMs": 1688008087407
 }
