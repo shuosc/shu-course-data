@@ -6171,7 +6171,7 @@
       "courseName": "乒乓球(1)",
       "credit": "1",
       "limitations": [],
-      "number": "21",
+      "number": "22",
       "position": "",
       "teacherId": "1451",
       "teacherName": "张轶",
@@ -38722,7 +38722,7 @@
       "courseName": "概率论与数理统计及应用A",
       "credit": "3",
       "limitations": [],
-      "number": "31",
+      "number": "30",
       "position": "",
       "teacherId": "1001",
       "teacherName": "赵杨洋",
@@ -38750,7 +38750,7 @@
       "courseName": "概率论与数理统计及应用A",
       "credit": "3",
       "limitations": [],
-      "number": "23",
+      "number": "24",
       "position": "",
       "teacherId": "1003",
       "teacherName": "李亦然",
@@ -51301,7 +51301,7 @@
       "courseName": "当代世界经济与政治",
       "credit": "3",
       "limitations": [],
-      "number": "61",
+      "number": "62",
       "position": "",
       "teacherId": "1001",
       "teacherName": "何英",
@@ -52060,8 +52060,10 @@
       "courseId": "16583109",
       "courseName": "形势与政策",
       "credit": "0",
-      "limitations": [],
-      "number": "119",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "120",
       "position": "",
       "teacherId": "1043",
       "teacherName": "徐苗",
@@ -67622,7 +67624,7 @@
       "teacherTitle": ""
     }
   ],
-  "hash": "c7f11b767d1707a2e60fa6fd11f7f4eb",
+  "hash": "bd060351d5e2bee3e8d0bba6214ba4b5",
   "termName": "2023-2024学年秋季学期",
-  "updateTimeMs": 1688164747941
+  "updateTimeMs": 1688168337367
 }
