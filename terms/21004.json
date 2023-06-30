@@ -7535,7 +7535,7 @@
       "courseName": "女生操舞(1)",
       "credit": "1",
       "limitations": [],
-      "number": "20",
+      "number": "21",
       "position": "",
       "teacherId": "1593",
       "teacherName": "陶涛",
@@ -13305,7 +13305,7 @@
       "courseName": "大学物理实验(3)",
       "credit": "1",
       "limitations": [],
-      "number": "16",
+      "number": "17",
       "position": "",
       "teacherId": "1084",
       "teacherName": "邓振炎",
@@ -34157,8 +34157,10 @@
       "courseId": "08B2A002",
       "courseName": "创新创业实训(1)",
       "credit": "2",
-      "limitations": [],
-      "number": "59",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "60",
       "position": "",
       "teacherId": "1000",
       "teacherName": "陈侨川等",
@@ -46357,7 +46359,7 @@
       "courseName": "艺术设计基础",
       "credit": "4",
       "limitations": [],
-      "number": "16",
+      "number": "17",
       "position": "",
       "teacherId": "3001",
       "teacherName": "张敏",
@@ -52937,7 +52939,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [],
-      "number": "92",
+      "number": "93",
       "position": "",
       "teacherId": "1102",
       "teacherName": "宋津明",
@@ -54981,7 +54983,7 @@
       "courseName": "马克思主义基本原理",
       "credit": "3",
       "limitations": [],
-      "number": "42",
+      "number": "43",
       "position": "",
       "teacherId": "2001",
       "teacherName": "宋政超",
@@ -67620,7 +67622,7 @@
       "teacherTitle": ""
     }
   ],
-  "hash": "4a75b9442c744c7c44f0929ae68101ff",
+  "hash": "ace90894f2c3893a5be270a5d3889fbf",
   "termName": "2023-2024学年秋季学期",
-  "updateTimeMs": 1688150490425
+  "updateTimeMs": 1688153919623
 }
