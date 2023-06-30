@@ -2059,8 +2059,10 @@
       "courseId": "00883017",
       "courseName": "工程训练(1)",
       "credit": "2",
-      "limitations": [],
-      "number": "149",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "150",
       "position": "HC楼",
       "teacherId": "1003",
       "teacherName": "李晨阳等",
@@ -11095,7 +11097,7 @@
       "teacherTitle": "实验师"
     }
   ],
-  "hash": "463499361c33f2961e8fc1439064ab9b",
+  "hash": "d3ea0c3c030bda8a51d905f8576e73f4",
   "termName": "2022-2023学年夏季学期",
-  "updateTimeMs": 1688110722057
+  "updateTimeMs": 1688114440557
 }
