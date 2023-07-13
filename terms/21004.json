@@ -9091,21 +9091,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "50",
-      "classTime": "五1-4",
-      "courseId": "00883014",
-      "courseName": "数字制造技术",
-      "credit": "2",
-      "limitations": [],
-      "number": "32",
-      "position": "",
-      "teacherId": "1001",
-      "teacherName": "胡卫东等",
-      "teacherTitle": "实验师"
-    },
-    {
-      "campus": "宝山",
-      "capacity": "50",
+      "capacity": "82",
       "classTime": "五1-4",
       "courseId": "00883014",
       "courseName": "数字制造技术",
@@ -9113,7 +9099,24 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "50",
+      "number": "82",
+      "position": "",
+      "teacherId": "1001",
+      "teacherName": "胡卫东等",
+      "teacherTitle": "实验师"
+    },
+    {
+      "campus": "宝山",
+      "capacity": "0",
+      "classTime": "五1-4",
+      "courseId": "00883014",
+      "courseName": "数字制造技术",
+      "credit": "2",
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
+      "number": "0",
       "position": "",
       "teacherId": "1002",
       "teacherName": "何岚岚等",
@@ -38199,7 +38202,7 @@
       "number": "30",
       "position": "",
       "teacherId": "1002",
-      "teacherName": "郭帅",
+      "teacherName": "郭帅等",
       "teacherTitle": "教授"
     },
     {
@@ -38215,7 +38218,7 @@
       "number": "30",
       "position": "",
       "teacherId": "1003",
-      "teacherName": "郭帅",
+      "teacherName": "郭帅等",
       "teacherTitle": "教授"
     },
     {
@@ -68148,7 +68151,7 @@
       "teacherTitle": ""
     }
   ],
-  "hash": "87d70b81748d221e811724ff23a9660d",
+  "hash": "94a1b07f096d4daf03fa0cc51b730f29",
   "termName": "2023-2024学年秋季学期",
-  "updateTimeMs": 1689151288008
+  "updateTimeMs": 1689237677678
 }
