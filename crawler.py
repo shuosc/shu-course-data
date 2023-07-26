@@ -10,6 +10,7 @@ import re
 import ssl
 import time
 
+import aiofiles
 import aiohttp
 import certifi
 import rsa
@@ -194,6 +195,17 @@ class CrawlerSession:
         await self.__session.close()
         await asyncio.sleep(0.5)
 
+async def save_data(output_dir, term_id, data):
+    file_path = os.path.join(output_dir, 'terms', f'{term_id}.json')
+    async with aiofiles.open(file_path, 'w') as fp:
+        print(f'Save term data to {os.path.join("terms", f"{term_id}.json")}')
+        await fp.write(json.dumps(data, ensure_ascii=False, indent=2, sort_keys=True))
+
+async def save_current(output_dir, current):
+    file_path = os.path.join(output_dir, 'current.json')
+    async with aiofiles.open(file_path, 'w') as fp:
+        print('Save meta data to current.json')
+        await fp.write(json.dumps(current, ensure_ascii=False, indent=2, sort_keys=True))
 
 async def do_crawl(output_dir, backend, username, password):
     os.makedirs(output_dir, 0o755, True)
@@ -207,14 +219,9 @@ async def do_crawl(output_dir, backend, username, password):
         for term_id in session.term_id_list:
             await session.select_term(term_id)
             result[term_id] = await session.crawl()
-        for term_id, data in result.items():
-            with open(os.path.join(output_dir, os.path.join('terms', f'{term_id}.json')), 'w') as fp:
-                print(f'Save term data to {os.path.join("terms", f"{term_id}.json")}')
-                json.dump(data, fp, ensure_ascii=False, indent=2, sort_keys=True)
+            await save_data(output_dir, term_id, result[term_id])
         current = sorted([term_id for term_id in result.keys()], reverse=True)
-        with open(os.path.join(output_dir, 'current.json'), 'w') as fp:
-            print('Save meta data to current.json')
-            json.dump(current, fp, ensure_ascii=False, indent=2, sort_keys=True)
+        await save_current(output_dir, current)
     finally:
         try:
             print('Process logout...')
@@ -222,7 +229,6 @@ async def do_crawl(output_dir, backend, username, password):
             print('Finished.')
         finally:
             pass
-
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Crawl courses data from SHU courses selection website.')
