@@ -22714,12 +22714,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "30",
+      "capacity": "0",
       "classTime": "一3-4 三3-4",
       "courseId": "03004477",
       "courseName": "通用英语C(1)",
       "credit": "4",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
       "number": "0",
       "position": "",
       "teacherId": "1026",
@@ -22728,12 +22731,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "30",
+      "capacity": "0",
       "classTime": "一5-6 三5-6",
       "courseId": "03004477",
       "courseName": "通用英语C(1)",
       "credit": "4",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
       "number": "0",
       "position": "",
       "teacherId": "1027",
@@ -22742,12 +22748,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "30",
+      "capacity": "0",
       "classTime": "一7-8 三7-8",
       "courseId": "03004477",
       "courseName": "通用英语C(1)",
       "credit": "4",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
       "number": "0",
       "position": "",
       "teacherId": "1028",
@@ -67980,7 +67989,7 @@
       "teacherTitle": ""
     }
   ],
-  "hash": "0e3971f5bfbfb7b1fe163620ee001e1c",
+  "hash": "e3ba3c99bdc42a1f2e39c479a2ce22df",
   "termName": "2023-2024学年秋季学期",
-  "updateTimeMs": 1690274297689
+  "updateTimeMs": 1690360663716
 }
