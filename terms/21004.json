@@ -9643,7 +9643,7 @@
     {
       "campus": "宝山",
       "capacity": "90",
-      "classTime": "二1-2单 四9-10 实验 线上",
+      "classTime": "",
       "courseId": "00944008",
       "courseName": "大学生心理健康",
       "credit": "2",
@@ -9657,7 +9657,7 @@
     {
       "campus": "宝山",
       "capacity": "90",
-      "classTime": "二3-4单 四11-12 实验 线上",
+      "classTime": "",
       "courseId": "00944008",
       "courseName": "大学生心理健康",
       "credit": "2",
@@ -9671,7 +9671,7 @@
     {
       "campus": "宝山",
       "capacity": "90",
-      "classTime": "二5-6单 五9-10 实验 线上",
+      "classTime": "",
       "courseId": "00944008",
       "courseName": "大学生心理健康",
       "credit": "2",
@@ -9685,7 +9685,7 @@
     {
       "campus": "宝山",
       "capacity": "90",
-      "classTime": "二7-8单 五9-10 实验 线上",
+      "classTime": "",
       "courseId": "00944008",
       "courseName": "大学生心理健康",
       "credit": "2",
@@ -9699,7 +9699,7 @@
     {
       "campus": "宝山",
       "capacity": "90",
-      "classTime": "三1-2单 五9-10 实验 线上",
+      "classTime": "",
       "courseId": "00944008",
       "courseName": "大学生心理健康",
       "credit": "2",
@@ -9713,7 +9713,7 @@
     {
       "campus": "宝山",
       "capacity": "90",
-      "classTime": "三3-4单 五9-10 实验 线上",
+      "classTime": "",
       "courseId": "00944008",
       "courseName": "大学生心理健康",
       "credit": "2",
@@ -9727,7 +9727,7 @@
     {
       "campus": "宝山",
       "capacity": "90",
-      "classTime": "二7-8单 四9-10 实验 线上",
+      "classTime": "",
       "courseId": "00944008",
       "courseName": "大学生心理健康",
       "credit": "2",
@@ -11599,6 +11599,20 @@
       "teacherId": "1000",
       "teacherName": "张红莲",
       "teacherTitle": "教授"
+    },
+    {
+      "campus": "宝山",
+      "capacity": "50",
+      "classTime": "一7-8 三7-8 五7-8",
+      "courseId": "01015170",
+      "courseName": "高等代数(1)(特)",
+      "credit": "6",
+      "limitations": [],
+      "number": "0",
+      "position": "",
+      "teacherId": "1000",
+      "teacherName": "待定",
+      "teacherTitle": ""
     },
     {
       "campus": "宝山",
@@ -20447,20 +20461,17 @@
     },
     {
       "campus": "宝山",
-      "capacity": "0",
+      "capacity": "50",
       "classTime": "二5-6 四5-6",
       "courseId": "02086285",
       "courseName": "佛教石窟艺术概览",
       "credit": "4",
-      "limitations": [
-        "禁止选课",
-        "人数已满"
-      ],
+      "limitations": [],
       "number": "0",
       "position": "",
       "teacherId": "1000",
-      "teacherName": "陈菊霞",
-      "teacherTitle": "研究馆员"
+      "teacherName": "待定",
+      "teacherTitle": ""
     },
     {
       "campus": "宝山",
@@ -30228,6 +30239,20 @@
     },
     {
       "campus": "宝山",
+      "capacity": "20",
+      "classTime": "一3-4 三3-4 五3-4",
+      "courseId": "04205036",
+      "courseName": "基础会计",
+      "credit": "6",
+      "limitations": [],
+      "number": "0",
+      "position": "",
+      "teacherId": "1000",
+      "teacherName": "待定",
+      "teacherTitle": ""
+    },
+    {
+      "campus": "宝山",
       "capacity": "25",
       "classTime": "一1-2 三5-6 五1-2",
       "courseId": "04206006",
@@ -32817,6 +32842,20 @@
       "position": "",
       "teacherId": "1000",
       "teacherName": "冯玉田",
+      "teacherTitle": "副教授"
+    },
+    {
+      "campus": "宝山",
+      "capacity": "70",
+      "classTime": "二9-11 四3-4 上机",
+      "courseId": "07275191",
+      "courseName": "程序设计(C语言)",
+      "credit": "4",
+      "limitations": [],
+      "number": "0",
+      "position": "",
+      "teacherId": "1000",
+      "teacherName": "吴汉舟",
       "teacherTitle": "副教授"
     },
     {
@@ -57240,6 +57279,34 @@
     },
     {
       "campus": "宝山",
+      "capacity": "10",
+      "classTime": "三1-2 五1-2",
+      "courseId": "16A55037",
+      "courseName": "社会学",
+      "credit": "4",
+      "limitations": [],
+      "number": "0",
+      "position": "",
+      "teacherId": "1000",
+      "teacherName": "杨丽",
+      "teacherTitle": "副教授"
+    },
+    {
+      "campus": "宝山",
+      "capacity": "10",
+      "classTime": "二3-4 四3-4",
+      "courseId": "16A55038",
+      "courseName": "法学概论",
+      "credit": "4",
+      "limitations": [],
+      "number": "0",
+      "position": "",
+      "teacherId": "1000",
+      "teacherName": "待定",
+      "teacherTitle": ""
+    },
+    {
+      "campus": "宝山",
       "capacity": "30",
       "classTime": "二3-4 四3-4单",
       "courseId": "16A56019",
@@ -68521,9 +68588,37 @@
       "teacherId": "1002",
       "teacherName": "João Balsa da Silva等",
       "teacherTitle": ""
+    },
+    {
+      "campus": "宝山",
+      "capacity": "60",
+      "classTime": "一1-2 三1-2 五1-2",
+      "courseId": "40004002",
+      "courseName": "微积分(1)",
+      "credit": "6",
+      "limitations": [],
+      "number": "0",
+      "position": "",
+      "teacherId": "1000",
+      "teacherName": "待定",
+      "teacherTitle": ""
+    },
+    {
+      "campus": "宝山",
+      "capacity": "60",
+      "classTime": "二9-11 四5-6 上机",
+      "courseId": "40004007",
+      "courseName": "高级语言程序设计",
+      "credit": "4",
+      "limitations": [],
+      "number": "0",
+      "position": "",
+      "teacherId": "1000",
+      "teacherName": "待定",
+      "teacherTitle": ""
     }
   ],
-  "hash": "aeca444c6690ff390493ed62ef4bff22",
+  "hash": "db8fe3f0c0ed3e56fc4529ce4fb9a588",
   "termName": "2023-2024学年秋季学期",
-  "updateTimeMs": 1691743060276
+  "updateTimeMs": 1691829452026
 }
