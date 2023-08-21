@@ -6187,7 +6187,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "25",
+      "capacity": "27",
       "classTime": "三07-08 女生羽毛球",
       "courseId": "00853404",
       "courseName": "羽毛球(1)",
@@ -6195,7 +6195,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "25",
+      "number": "27",
       "position": "",
       "teacherId": "1443",
       "teacherName": "王江宇",
@@ -10261,7 +10261,7 @@
     {
       "campus": "延长",
       "capacity": "100",
-      "classTime": "三9-10(1-5周) 五9-10 实验 线上",
+      "classTime": "三9-10单 五9-10 实验 线上",
       "courseId": "00944008",
       "courseName": "大学生心理健康",
       "credit": "2",
@@ -13965,13 +13965,14 @@
     },
     {
       "campus": "宝山",
-      "capacity": "22",
+      "capacity": "0",
       "classTime": "三9-10 限美术学院",
       "courseId": "01034122",
       "courseName": "大学物理实验(3)",
       "credit": "1",
       "limitations": [
-        "禁止选课"
+        "禁止选课",
+        "人数已满"
       ],
       "number": "0",
       "position": "",
@@ -20825,8 +20826,8 @@
       "number": "0",
       "position": "",
       "teacherId": "1000",
-      "teacherName": "朱继平",
-      "teacherTitle": "副教授"
+      "teacherName": "徐坚",
+      "teacherTitle": "教授"
     },
     {
       "campus": "宝山",
@@ -26823,7 +26824,7 @@
       "courseName": "英语写作基础(1)",
       "credit": "2",
       "limitations": [],
-      "number": "0",
+      "number": "1",
       "position": "",
       "teacherId": "1002",
       "teacherName": "王晓莹",
@@ -26837,7 +26838,7 @@
       "courseName": "英语写作基础(1)",
       "credit": "2",
       "limitations": [],
-      "number": "0",
+      "number": "1",
       "position": "",
       "teacherId": "1003",
       "teacherName": "陈海叶",
@@ -31419,7 +31420,7 @@
     {
       "campus": "宝山",
       "capacity": "30",
-      "classTime": "一3-4 三5-6",
+      "classTime": "一3-4 三5-6 线上线下混合式教学",
       "courseId": "04665002",
       "courseName": "心理学基础",
       "credit": "4",
@@ -36621,12 +36622,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "30",
+      "capacity": "0",
       "classTime": "二1-2 五1-2单",
       "courseId": "09326175",
       "courseName": "微机电与微制造",
       "credit": "3",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
       "number": "0",
       "position": "",
       "teacherId": "1002",
@@ -36872,12 +36876,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "8",
+      "capacity": "0",
       "classTime": "二7-8 四5-6",
       "courseId": "09336067",
       "courseName": "钟表专业英语",
       "credit": "4",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
       "number": "0",
       "position": "",
       "teacherId": "1000",
@@ -37622,12 +37629,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "30",
+      "capacity": "0",
       "classTime": "二5-6 四1-2双",
       "courseId": "09366187",
       "courseName": "电力电子器件与应用",
       "credit": "3",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
       "number": "0",
       "position": "",
       "teacherId": "1000",
@@ -40125,12 +40135,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "40",
+      "capacity": "0",
       "classTime": "二9-11",
       "courseId": "10386090",
       "courseName": "合金固态相变",
       "credit": "3",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
       "number": "0",
       "position": "",
       "teacherId": "1000",
@@ -42185,12 +42198,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "40",
+      "capacity": "0",
       "classTime": "四1-2",
       "courseId": "11446121",
       "courseName": "水处理工艺设计与应用A",
       "credit": "2",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
       "number": "0",
       "position": "",
       "teacherId": "1000",
@@ -42406,12 +42422,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "30",
+      "capacity": "0",
       "classTime": "二3-4 五3-4",
       "courseId": "11455093",
       "courseName": "化工过程分析与合成A",
       "credit": "4",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
       "number": "0",
       "position": "",
       "teacherId": "1000",
@@ -42506,12 +42525,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "30",
+      "capacity": "0",
       "classTime": "四1-2",
       "courseId": "11456100",
       "courseName": "化工工艺设计概论",
       "credit": "2",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
       "number": "0",
       "position": "",
       "teacherId": "1000",
@@ -49043,7 +49065,7 @@
     {
       "campus": "宝山",
       "capacity": "80",
-      "classTime": "四9-11",
+      "classTime": "四9-11 线上线下混合式教学",
       "courseId": "1400R011",
       "courseName": "光影中国",
       "credit": "3",
@@ -58320,7 +58342,7 @@
       "limitations": [
         "禁止选课"
       ],
-      "number": "113",
+      "number": "114",
       "position": "",
       "teacherId": "1002",
       "teacherName": "邱海燕",
@@ -58370,7 +58392,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "95",
+      "capacity": "96",
       "classTime": "二1-2 四1-2单",
       "courseId": "16584171",
       "courseName": "习近平新时代中国特色社会主义思想概论",
@@ -58378,7 +58400,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "95",
+      "number": "96",
       "position": "",
       "teacherId": "1001",
       "teacherName": "刘雅君",
@@ -59166,12 +59188,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "30",
+      "capacity": "0",
       "classTime": "一3-4 四3-4双",
       "courseId": "16616119",
       "courseName": "伦理学A",
       "credit": "3",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
       "number": "0",
       "position": "",
       "teacherId": "1000",
@@ -59264,12 +59289,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "30",
+      "capacity": "0",
       "classTime": "五3-4 全英语",
       "courseId": "16616138",
       "courseName": "哲学方法A",
       "credit": "2",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
       "number": "0",
       "position": "",
       "teacherId": "1000",
@@ -59892,7 +59920,7 @@
       "number": "34",
       "position": "",
       "teacherId": "3000",
-      "teacherName": "薛敏芝",
+      "teacherName": "邬盛根",
       "teacherTitle": "副教授"
     },
     {
@@ -60175,8 +60203,8 @@
       "number": "11",
       "position": "",
       "teacherId": "3000",
-      "teacherName": "薛敏芝",
-      "teacherTitle": "副教授"
+      "teacherName": "张敏等",
+      "teacherTitle": "教授"
     },
     {
       "campus": "延长",
@@ -60189,8 +60217,8 @@
       "number": "4",
       "position": "",
       "teacherId": "3000",
-      "teacherName": "薛敏芝等",
-      "teacherTitle": "副教授"
+      "teacherName": "张敏等",
+      "teacherTitle": "教授"
     },
     {
       "campus": "延长",
@@ -60322,7 +60350,7 @@
       "position": "",
       "teacherId": "3000",
       "teacherName": "汪洋",
-      "teacherTitle": "讲师"
+      "teacherTitle": "副教授"
     },
     {
       "campus": "延长",
@@ -60480,12 +60508,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "30",
+      "capacity": "0",
       "classTime": "一3-4 三9-11单 含实验 五3-4 限钱院",
       "courseId": "18465100",
       "courseName": "混凝土结构原理A",
       "credit": "5",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
       "number": "0",
       "position": "",
       "teacherId": "1002",
@@ -60726,12 +60757,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "30",
+      "capacity": "0",
       "classTime": "一5-6 四5-6",
       "courseId": "18466159",
       "courseName": "地基与路基工程A",
       "credit": "4",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
       "number": "0",
       "position": "",
       "teacherId": "1000",
@@ -60754,12 +60788,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "30",
+      "capacity": "0",
       "classTime": "三3-4 五3-4单 全英语",
       "courseId": "18466166",
       "courseName": "机器学习及工程应用",
       "credit": "3",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
       "number": "0",
       "position": "",
       "teacherId": "1000",
@@ -60768,12 +60805,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "30",
+      "capacity": "0",
       "classTime": "一3-4 三7-8单",
       "courseId": "18466167",
       "courseName": "桥梁动力学基础",
       "credit": "3",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
       "number": "0",
       "position": "",
       "teacherId": "1000",
@@ -60861,7 +60901,7 @@
       "number": "3",
       "position": "",
       "teacherId": "1000",
-      "teacherName": "姚喜明等",
+      "teacherName": "张新玲",
       "teacherTitle": "教授"
     },
     {
@@ -61137,7 +61177,7 @@
       "number": "40",
       "position": "",
       "teacherId": "1000",
-      "teacherName": "姚喜明等",
+      "teacherName": "李颖洁等",
       "teacherTitle": "教授"
     },
     {
@@ -61151,7 +61191,7 @@
       "number": "35",
       "position": "",
       "teacherId": "1001",
-      "teacherName": "姚喜明等",
+      "teacherName": "李颖洁等",
       "teacherTitle": "教授"
     },
     {
@@ -63993,7 +64033,7 @@
     {
       "campus": "宝山",
       "capacity": "80",
-      "classTime": "一9-11",
+      "classTime": "一9-11 线上线下混合式教学",
       "courseId": "2400J020",
       "courseName": "创业人生",
       "credit": "3",
@@ -66848,13 +66888,14 @@
     },
     {
       "campus": "宝山",
-      "capacity": "1",
+      "capacity": "0",
       "classTime": "见学院小课表",
       "courseId": "31975004",
       "courseName": "声乐演唱(4)",
       "credit": "2",
       "limitations": [
-        "禁止选课"
+        "禁止选课",
+        "人数已满"
       ],
       "number": "0",
       "position": "",
@@ -66976,12 +67017,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "1",
+      "capacity": "0",
       "classTime": "见学院小课表",
       "courseId": "31975007",
       "courseName": "声乐演唱(7)",
       "credit": "2",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
       "number": "0",
       "position": "",
       "teacherId": "1001",
@@ -67006,12 +67050,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "1",
+      "capacity": "0",
       "classTime": "见学院小课表",
       "courseId": "31975007",
       "courseName": "声乐演唱(7)",
       "credit": "2",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
       "number": "0",
       "position": "",
       "teacherId": "1003",
@@ -67036,12 +67083,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "1",
+      "capacity": "0",
       "classTime": "见学院小课表",
       "courseId": "31975007",
       "courseName": "声乐演唱(7)",
       "credit": "2",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
       "number": "0",
       "position": "",
       "teacherId": "1005",
@@ -67098,12 +67148,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "1",
+      "capacity": "0",
       "classTime": "见学院小课表",
       "courseId": "31975007",
       "courseName": "声乐演唱(7)",
       "credit": "2",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
       "number": "0",
       "position": "",
       "teacherId": "1009",
@@ -67112,12 +67165,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "1",
+      "capacity": "0",
       "classTime": "见学院小课表",
       "courseId": "31975007",
       "courseName": "声乐演唱(7)",
       "credit": "2",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
       "number": "0",
       "position": "",
       "teacherId": "1010",
@@ -68070,13 +68126,14 @@
     },
     {
       "campus": "宝山",
-      "capacity": "1",
+      "capacity": "0",
       "classTime": "见学院小课表",
       "courseId": "31975016",
       "courseName": "器乐演奏(4)",
       "credit": "2",
       "limitations": [
-        "禁止选课"
+        "禁止选课",
+        "人数已满"
       ],
       "number": "0",
       "position": "",
@@ -68086,13 +68143,14 @@
     },
     {
       "campus": "宝山",
-      "capacity": "1",
+      "capacity": "0",
       "classTime": "见学院小课表",
       "courseId": "31975016",
       "courseName": "器乐演奏(4)",
       "credit": "2",
       "limitations": [
-        "禁止选课"
+        "禁止选课",
+        "人数已满"
       ],
       "number": "0",
       "position": "",
@@ -68470,12 +68528,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "1",
+      "capacity": "0",
       "classTime": "见学院小课表",
       "courseId": "31975019",
       "courseName": "器乐演奏(7)",
       "credit": "2",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
       "number": "0",
       "position": "",
       "teacherId": "1024",
@@ -68484,12 +68545,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "1",
+      "capacity": "0",
       "classTime": "见学院小课表",
       "courseId": "31975019",
       "courseName": "器乐演奏(7)",
       "credit": "2",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
       "number": "0",
       "position": "",
       "teacherId": "1025",
@@ -68738,12 +68802,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "1",
+      "capacity": "0",
       "classTime": "见学院小课表",
       "courseId": "31975022",
       "courseName": "器乐演奏(10)",
       "credit": "2",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
       "number": "0",
       "position": "",
       "teacherId": "1016",
@@ -70187,12 +70254,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "10",
+      "capacity": "0",
       "classTime": "另行通知",
       "courseId": "3197A109",
       "courseName": "重奏(弦乐、管乐、民乐)(1)",
       "credit": "2",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
       "number": "0",
       "position": "",
       "teacherId": "1001",
@@ -70383,12 +70453,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "10",
+      "capacity": "0",
       "classTime": "另行通知 限钢琴学生",
       "courseId": "3197A115",
       "courseName": "钢琴协作(1)",
       "credit": "2",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
       "number": "0",
       "position": "",
       "teacherId": "1006",
@@ -71168,7 +71241,7 @@
       "teacherTitle": "副教授"
     }
   ],
-  "hash": "7e8100a0c8b0013b5588af72a9a62d42",
+  "hash": "9deb2d58951b4c780de76b372bf95bb0",
   "termName": "2023-2024学年秋季学期",
-  "updateTimeMs": 1692520657920
+  "updateTimeMs": 1692607087380
 }
