@@ -19704,7 +19704,7 @@
       "number": "0",
       "position": "",
       "teacherId": "1001",
-      "teacherName": "待定",
+      "teacherName": "李德强",
       "teacherTitle": ""
     },
     {
@@ -19718,8 +19718,8 @@
       "number": "0",
       "position": "",
       "teacherId": "1002",
-      "teacherName": "待定",
-      "teacherTitle": ""
+      "teacherName": "李德强",
+      "teacherTitle": "副教授"
     },
     {
       "campus": "宝山",
@@ -19732,8 +19732,8 @@
       "number": "0",
       "position": "",
       "teacherId": "1003",
-      "teacherName": "待定",
-      "teacherTitle": ""
+      "teacherName": "朱善杰",
+      "teacherTitle": "副研究员"
     },
     {
       "campus": "宝山",
@@ -19746,8 +19746,8 @@
       "number": "0",
       "position": "",
       "teacherId": "1004",
-      "teacherName": "待定",
-      "teacherTitle": ""
+      "teacherName": "刘慧宽",
+      "teacherTitle": "讲师"
     },
     {
       "campus": "宝山",
@@ -44155,7 +44155,7 @@
     {
       "campus": "宝山",
       "capacity": "22",
-      "classTime": "一5-6(1-10周) 三5-6单",
+      "classTime": "一5-6 (1-10周) 三5-6单",
       "courseId": "13004084",
       "courseName": "古代汉语A(1)",
       "credit": "3",
@@ -60349,8 +60349,8 @@
       "number": "11",
       "position": "",
       "teacherId": "3000",
-      "teacherName": "汪洋",
-      "teacherTitle": "副教授"
+      "teacherName": "段秋婷",
+      "teacherTitle": ""
     },
     {
       "campus": "延长",
@@ -71228,7 +71228,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "60",
+      "capacity": "30",
       "classTime": "二9-11 四5-6 上机",
       "courseId": "40004007",
       "courseName": "高级语言程序设计",
@@ -71239,9 +71239,23 @@
       "teacherId": "1000",
       "teacherName": "高洪皓",
       "teacherTitle": "副教授"
+    },
+    {
+      "campus": "宝山",
+      "capacity": "30",
+      "classTime": "二9-11 四5-6 上机",
+      "courseId": "40004007",
+      "courseName": "高级语言程序设计",
+      "credit": "4",
+      "limitations": [],
+      "number": "0",
+      "position": "",
+      "teacherId": "1002",
+      "teacherName": "陈章进",
+      "teacherTitle": "教授"
     }
   ],
-  "hash": "9deb2d58951b4c780de76b372bf95bb0",
+  "hash": "861539924451f60a64bffada11959b89",
   "termName": "2023-2024学年秋季学期",
-  "updateTimeMs": 1692607087380
+  "updateTimeMs": 1692693422244
 }
