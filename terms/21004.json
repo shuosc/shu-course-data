@@ -9081,7 +9081,7 @@
     {
       "campus": "宝山",
       "capacity": "30",
-      "classTime": "二1-2 四5-6上机 限钱院",
+      "classTime": "二1-2 上机 四5-6 限钱院",
       "courseId": "00864096",
       "courseName": "工程制图与计算机绘图基础",
       "credit": "3",
@@ -10713,7 +10713,7 @@
         "人数已满"
       ],
       "number": "100",
-      "position": "多媒体",
+      "position": "1-431",
       "teacherId": "2000",
       "teacherName": "唐玲",
       "teacherTitle": "讲师"
@@ -13058,7 +13058,7 @@
       "courseName": "大学物理(2)",
       "credit": "4",
       "limitations": [],
-      "number": "10",
+      "number": "14",
       "position": "EJ203",
       "teacherId": "1000",
       "teacherName": "贾蓉蓉",
@@ -19362,14 +19362,14 @@
     },
     {
       "campus": "宝山",
-      "capacity": "70",
+      "capacity": "40",
       "classTime": "一3-4",
       "courseId": "0200R006",
       "courseName": "《诗经》与传统文化",
       "credit": "2",
       "limitations": [],
       "number": "27",
-      "position": "AJ207",
+      "position": "D222",
       "teacherId": "1000",
       "teacherName": "邵炳军",
       "teacherTitle": "教授"
@@ -19414,7 +19414,7 @@
       "courseName": "日常生活中的文化分析",
       "credit": "2",
       "limitations": [],
-      "number": "40",
+      "number": "41",
       "position": "J201",
       "teacherId": "1000",
       "teacherName": "罗小茗",
@@ -43203,30 +43203,31 @@
     },
     {
       "campus": "宝山",
-      "capacity": "30",
+      "capacity": "60",
       "classTime": "五7-8 全英语",
       "courseId": "11445505",
       "courseName": "环境社会学",
       "credit": "2",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "30",
-      "position": "A310",
+      "limitations": [],
+      "number": "53",
+      "position": "D209",
       "teacherId": "1001",
-      "teacherName": "Ana Carvalho等",
+      "teacherName": "Manuel Pinheiro等",
       "teacherTitle": ""
     },
     {
       "campus": "宝山",
-      "capacity": "30",
+      "capacity": "0",
       "classTime": "五9-10 全英语",
       "courseId": "11445505",
       "courseName": "环境社会学",
       "credit": "2",
-      "limitations": [],
-      "number": "25",
-      "position": "B318",
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
+      "number": "0",
+      "position": "不开",
       "teacherId": "1002",
       "teacherName": "Ana Carvalho等",
       "teacherTitle": ""
@@ -43899,7 +43900,7 @@
       "courseName": "植物转基因与安全",
       "credit": "2",
       "limitations": [],
-      "number": "48",
+      "number": "49",
       "position": "AJ104",
       "teacherId": "1000",
       "teacherName": "祁巍巍",
@@ -47935,8 +47936,8 @@
       "number": "25",
       "position": "延长电机楼212",
       "teacherId": "3000",
-      "teacherName": "周隽",
-      "teacherTitle": "讲师"
+      "teacherName": "贺戈箫",
+      "teacherTitle": "副教授"
     },
     {
       "campus": "延长",
@@ -50847,7 +50848,7 @@
       "credit": "2",
       "limitations": [],
       "number": "41",
-      "position": "二教201",
+      "position": "Ⅳ211机房",
       "teacherId": "3000",
       "teacherName": "周霁婷",
       "teacherTitle": "讲师"
@@ -52058,7 +52059,7 @@
       "number": "12",
       "position": "四教607",
       "teacherId": "3000",
-      "teacherName": "敖国兴",
+      "teacherName": "敖国兴等",
       "teacherTitle": "副教授"
     },
     {
@@ -52144,7 +52145,7 @@
       "credit": "3",
       "limitations": [],
       "number": "19",
-      "position": "二教201",
+      "position": "Ⅳ211机房",
       "teacherId": "3000",
       "teacherName": "许庆国",
       "teacherTitle": "副教授"
@@ -52928,15 +52929,13 @@
     {
       "campus": "延长",
       "capacity": "20",
-      "classTime": "一5-6 五1-2单",
+      "classTime": "一1-2 五1-2单",
       "courseId": "14A86033",
       "courseName": "图片摄影",
       "credit": "3",
-      "limitations": [
-        "禁止选课"
-      ],
+      "limitations": [],
       "number": "4",
-      "position": "Ⅳ111",
+      "position": "Ⅳ311",
       "teacherId": "3000",
       "teacherName": "司雨茜",
       "teacherTitle": "讲师"
@@ -56471,8 +56470,10 @@
       "courseId": "16583109",
       "courseName": "形势与政策",
       "credit": "0",
-      "limitations": [],
-      "number": "125",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "126",
       "position": "J102",
       "teacherId": "1050",
       "teacherName": "孙士庆",
@@ -60837,7 +60838,7 @@
       "number": "10",
       "position": "A419",
       "teacherId": "1000",
-      "teacherName": "袁晓晶",
+      "teacherName": "袁晓晶等",
       "teacherTitle": "副教授"
     },
     {
@@ -62097,30 +62098,30 @@
     },
     {
       "campus": "宝山",
-      "capacity": "33",
+      "capacity": "0",
       "classTime": "五7-8 全英语",
       "courseId": "18465502",
       "courseName": "环境和工程可持续性挑战",
       "credit": "2",
       "limitations": [
-        "人数已满"
+        "禁止选课"
       ],
-      "number": "33",
-      "position": "B308",
+      "number": "0",
+      "position": "不开",
       "teacherId": "1001",
       "teacherName": "Manuel Pinheiro等",
       "teacherTitle": ""
     },
     {
       "campus": "宝山",
-      "capacity": "30",
+      "capacity": "60",
       "classTime": "五9-10 全英语",
       "courseId": "18465502",
       "courseName": "环境和工程可持续性挑战",
       "credit": "2",
       "limitations": [],
-      "number": "22",
-      "position": "A104",
+      "number": "55",
+      "position": "D209",
       "teacherId": "1002",
       "teacherName": "Manuel Pinheiro等",
       "teacherTitle": ""
@@ -63427,7 +63428,7 @@
       "number": "25",
       "position": "A220",
       "teacherId": "1001",
-      "teacherName": "胡晓燕",
+      "teacherName": "胡晓燕等",
       "teacherTitle": "讲师"
     },
     {
@@ -63443,7 +63444,7 @@
       "number": "26",
       "position": "C311",
       "teacherId": "1002",
-      "teacherName": "沈志红",
+      "teacherName": "沈志红等",
       "teacherTitle": "讲师"
     },
     {
@@ -63459,7 +63460,7 @@
       "number": "26",
       "position": "C213",
       "teacherId": "1003",
-      "teacherName": "叶利群",
+      "teacherName": "叶利群等",
       "teacherTitle": "讲师"
     },
     {
@@ -63475,7 +63476,7 @@
       "number": "26",
       "position": "C215",
       "teacherId": "1004",
-      "teacherName": "李佳",
+      "teacherName": "李佳等",
       "teacherTitle": "讲师"
     },
     {
@@ -63491,7 +63492,7 @@
       "number": "25",
       "position": "A208",
       "teacherId": "1005",
-      "teacherName": "章婵",
+      "teacherName": "章婵等",
       "teacherTitle": ""
     },
     {
@@ -63523,7 +63524,7 @@
       "number": "25",
       "position": "C212",
       "teacherId": "1007",
-      "teacherName": "张少琼",
+      "teacherName": "张少琼等",
       "teacherTitle": "讲师"
     },
     {
@@ -63539,7 +63540,7 @@
       "number": "25",
       "position": "C213",
       "teacherId": "1008",
-      "teacherName": "金鹏",
+      "teacherName": "金鹏等",
       "teacherTitle": "讲师"
     },
     {
@@ -63555,7 +63556,7 @@
       "number": "25",
       "position": "C220",
       "teacherId": "1009",
-      "teacherName": "金闪闪",
+      "teacherName": "金闪闪等",
       "teacherTitle": "讲师"
     },
     {
@@ -63569,7 +63570,7 @@
       "number": "19",
       "position": "A220",
       "teacherId": "1010",
-      "teacherName": "SHEN ISABELLE",
+      "teacherName": "SHEN ISABELLE等",
       "teacherTitle": ""
     },
     {
@@ -63739,7 +63740,7 @@
       "number": "26",
       "position": "A220",
       "teacherId": "1001",
-      "teacherName": "胡晓燕等",
+      "teacherName": "胡晓燕",
       "teacherTitle": "讲师"
     },
     {
@@ -63755,7 +63756,7 @@
       "number": "26",
       "position": "C311",
       "teacherId": "1002",
-      "teacherName": "沈志红等",
+      "teacherName": "沈志红",
       "teacherTitle": "讲师"
     },
     {
@@ -63769,7 +63770,7 @@
       "number": "25",
       "position": "C213",
       "teacherId": "1003",
-      "teacherName": "叶利群等",
+      "teacherName": "叶利群",
       "teacherTitle": "讲师"
     },
     {
@@ -63785,7 +63786,7 @@
       "number": "26",
       "position": "C215",
       "teacherId": "1004",
-      "teacherName": "李佳等",
+      "teacherName": "李佳",
       "teacherTitle": "讲师"
     },
     {
@@ -63801,7 +63802,7 @@
       "number": "26",
       "position": "A208",
       "teacherId": "1005",
-      "teacherName": "章婵等",
+      "teacherName": "章婵",
       "teacherTitle": ""
     },
     {
@@ -63817,7 +63818,7 @@
       "number": "25",
       "position": "C222",
       "teacherId": "1006",
-      "teacherName": "孙敏",
+      "teacherName": "孙敏等",
       "teacherTitle": "讲师"
     },
     {
@@ -63831,7 +63832,7 @@
       "number": "24",
       "position": "C212",
       "teacherId": "1007",
-      "teacherName": "张少琼等",
+      "teacherName": "张少琼",
       "teacherTitle": "讲师"
     },
     {
@@ -63847,7 +63848,7 @@
       "number": "25",
       "position": "C213",
       "teacherId": "1008",
-      "teacherName": "金鹏等",
+      "teacherName": "金鹏",
       "teacherTitle": "讲师"
     },
     {
@@ -63863,7 +63864,7 @@
       "number": "25",
       "position": "C220",
       "teacherId": "1009",
-      "teacherName": "金闪闪等",
+      "teacherName": "金闪闪",
       "teacherTitle": "讲师"
     },
     {
@@ -63877,7 +63878,7 @@
       "number": "18",
       "position": "A220",
       "teacherId": "1010",
-      "teacherName": "SHEN ISABELLE等",
+      "teacherName": "SHEN ISABELLE",
       "teacherTitle": ""
     },
     {
@@ -73116,7 +73117,7 @@
       "teacherTitle": "教授"
     }
   ],
-  "hash": "e15200b092b26d7e5c052911b0466d7d",
+  "hash": "9cfdfd428493cd8065f53c4342cf648d",
   "termName": "2023-2024学年秋季学期",
-  "updateTimeMs": 1693125480504
+  "updateTimeMs": 1693211860121
 }
