@@ -11508,7 +11508,7 @@
       "courseName": "复变函数与积分变换",
       "credit": "5",
       "limitations": [],
-      "number": "62",
+      "number": "63",
       "position": "FJ103",
       "teacherId": "1006",
       "teacherName": "童宏玺",
@@ -13034,7 +13034,7 @@
       "courseName": "大学物理(3)",
       "credit": "4",
       "limitations": [],
-      "number": "73",
+      "number": "74",
       "position": "AJ303",
       "teacherId": "1005",
       "teacherName": "赵苏串",
@@ -19242,10 +19242,8 @@
       "courseId": "0200R004",
       "courseName": "莎士比亚与文艺复兴时期的英国",
       "credit": "2",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "70",
+      "limitations": [],
+      "number": "69",
       "position": "AJ203",
       "teacherId": "1000",
       "teacherName": "张薇",
@@ -25206,7 +25204,7 @@
       "courseName": "通用英语B(2)",
       "credit": "4",
       "limitations": [],
-      "number": "3",
+      "number": "4",
       "position": "D217",
       "teacherId": "1000",
       "teacherName": "张岚",
@@ -26067,8 +26065,8 @@
       "number": "20",
       "position": "Ⅳ406",
       "teacherId": "3001",
-      "teacherName": "WILLIAM BRAD MURRAY",
-      "teacherTitle": ""
+      "teacherName": "雷远旻",
+      "teacherTitle": "讲师"
     },
     {
       "campus": "延长",
@@ -26081,8 +26079,8 @@
       "number": "18",
       "position": "Ⅳ406",
       "teacherId": "3002",
-      "teacherName": "WILLIAM BRAD MURRAY",
-      "teacherTitle": ""
+      "teacherName": "雷远旻",
+      "teacherTitle": "讲师"
     },
     {
       "campus": "延长",
@@ -26095,8 +26093,8 @@
       "number": "16",
       "position": "Ⅳ406",
       "teacherId": "3003",
-      "teacherName": "WILLIAM BRAD MURRAY",
-      "teacherTitle": ""
+      "teacherName": "雷远旻",
+      "teacherTitle": "讲师"
     },
     {
       "campus": "宝山",
@@ -26172,8 +26170,8 @@
       "number": "26",
       "position": "Ⅳ406",
       "teacherId": "3000",
-      "teacherName": "WILLIAM BRAD MURRAY",
-      "teacherTitle": ""
+      "teacherName": "宋勤",
+      "teacherTitle": "讲师"
     },
     {
       "campus": "宝山",
@@ -27208,8 +27206,8 @@
       "number": "19",
       "position": "B427",
       "teacherId": "1003",
-      "teacherName": "William Brad Murray",
-      "teacherTitle": ""
+      "teacherName": "黄欣",
+      "teacherTitle": "副教授"
     },
     {
       "campus": "宝山",
@@ -34283,7 +34281,7 @@
       "courseName": "电路与电子线路基础(1)",
       "credit": "5",
       "limitations": [],
-      "number": "42",
+      "number": "43",
       "position": "EJ403",
       "teacherId": "1004",
       "teacherName": "孙彦赞",
@@ -34465,7 +34463,7 @@
       "courseName": "电路与电子线路基础实验(1)",
       "credit": "1",
       "limitations": [],
-      "number": "23",
+      "number": "24",
       "position": "B503",
       "teacherId": "1008",
       "teacherName": "王旭智",
@@ -34850,8 +34848,10 @@
       "courseId": "07276173",
       "courseName": "面向对象程序设计",
       "credit": "4",
-      "limitations": [],
-      "number": "69",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "70",
       "position": "GJ204",
       "teacherId": "1004",
       "teacherName": "何国强",
@@ -38407,7 +38407,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "20",
+      "number": "21",
       "position": "9-316",
       "teacherId": "1005",
       "teacherName": "屠华",
@@ -39051,7 +39051,7 @@
       "courseName": "自动控制原理实验技术(1)",
       "credit": "1",
       "limitations": [],
-      "number": "19",
+      "number": "18",
       "position": "9-316",
       "teacherId": "1005",
       "teacherName": "屠华",
@@ -48467,7 +48467,7 @@
       "courseName": "设计色彩(1)",
       "credit": "6",
       "limitations": [],
-      "number": "22",
+      "number": "21",
       "position": "行健楼1109",
       "teacherId": "3001",
       "teacherName": "赵蕾",
@@ -48483,7 +48483,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "20",
+      "number": "21",
       "position": "Ⅳ110",
       "teacherId": "3002",
       "teacherName": "吕敏",
@@ -56749,7 +56749,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [],
-      "number": "120",
+      "number": "121",
       "position": "BJ107",
       "teacherId": "1080",
       "teacherName": "宋芳明",
@@ -72900,7 +72900,7 @@
       "teacherTitle": "教授"
     }
   ],
-  "hash": "1de3683c996fb02bfd68890683001617",
+  "hash": "f515034dd5c4a5f3ee819359778f9cdb",
   "termName": "2023-2024学年秋季学期",
-  "updateTimeMs": 1694507888368
+  "updateTimeMs": 1694594294940
 }
