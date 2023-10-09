@@ -2637,7 +2637,7 @@
       "courseName": "体育(1)(保健班)",
       "credit": "1",
       "limitations": [],
-      "number": "26",
+      "number": "25",
       "position": "A118",
       "teacherId": "1001",
       "teacherName": "郑莉芳",
@@ -3034,8 +3034,10 @@
       "courseId": "00853101",
       "courseName": "体育基础课",
       "credit": "1",
-      "limitations": [],
-      "number": "26",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "27",
       "position": "C314",
       "teacherId": "1092",
       "teacherName": "许汸",
@@ -73147,7 +73149,7 @@
       "teacherTitle": "教授"
     }
   ],
-  "hash": "b258ba502e85a02cde504695cb799ef6",
+  "hash": "79f4b4f943eb79b505745e8b44a0c15a",
   "termName": "2023-2024学年秋季学期",
-  "updateTimeMs": 1696837100874
+  "updateTimeMs": 1696840901701
 }
