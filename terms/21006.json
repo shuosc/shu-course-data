@@ -21391,12 +21391,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "25",
+      "capacity": "0",
       "classTime": "一3-4 三3-4",
       "courseId": "03004484",
       "courseName": "通用学术英语A(2)",
       "credit": "4",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
       "number": "0",
       "position": "",
       "teacherId": "1018",
@@ -27608,7 +27611,7 @@
     {
       "campus": "宝山",
       "capacity": "30",
-      "classTime": "二1-2 四5-6",
+      "classTime": "二7-8 四7-8",
       "courseId": "06265192",
       "courseName": "行政法与行政诉讼法B",
       "credit": "4",
@@ -32340,7 +32343,7 @@
     {
       "campus": "宝山",
       "capacity": "50",
-      "classTime": "一11-12含实验 三3-4含实验 全英语",
+      "classTime": "一11-12含实验 三3-4含实验",
       "courseId": "09365196",
       "courseName": "微机原理及应用(2)",
       "credit": "3",
@@ -62718,7 +62721,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "3cf271beafa24ee831457824e66ff4cd",
+  "hash": "1d71a99de82de86937c6fee0e935c482",
   "termName": "2023-2024学年冬季学期",
-  "updateTimeMs": 1697002724943
+  "updateTimeMs": 1697006489866
 }
