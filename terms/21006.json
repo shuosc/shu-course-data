@@ -22684,7 +22684,7 @@
     {
       "campus": "宝山",
       "capacity": "17",
-      "classTime": "三3-4",
+      "classTime": "三5-6",
       "courseId": "03115335",
       "courseName": "英汉互译(2)",
       "credit": "2",
@@ -23062,7 +23062,7 @@
     {
       "campus": "宝山",
       "capacity": "15",
-      "classTime": "三5-6",
+      "classTime": "三7-8",
       "courseId": "03116289",
       "courseName": "影视翻译",
       "credit": "2",
@@ -54197,7 +54197,24 @@
     },
     {
       "campus": "宝山",
-      "capacity": "70",
+      "capacity": "0",
+      "classTime": "二3-4",
+      "courseId": "2200R605",
+      "courseName": "画说外滩建筑",
+      "credit": "2",
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
+      "number": "0",
+      "position": "",
+      "teacherId": "1000",
+      "teacherName": "黄一迁",
+      "teacherTitle": "副教授"
+    },
+    {
+      "campus": "延长",
+      "capacity": "65",
       "classTime": "二3-4",
       "courseId": "2200R605",
       "courseName": "画说外滩建筑",
@@ -54205,7 +54222,7 @@
       "limitations": [],
       "number": "0",
       "position": "",
-      "teacherId": "1000",
+      "teacherId": "3000",
       "teacherName": "黄一迁",
       "teacherTitle": "副教授"
     },
@@ -62694,7 +62711,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "2c59eaac6fdb9de023bb29039d25bf23",
+  "hash": "5809b0ceeea532a7517bd620c56f8cb0",
   "termName": "2023-2024学年冬季学期",
-  "updateTimeMs": 1697153911388
+  "updateTimeMs": 1697161138918
 }
