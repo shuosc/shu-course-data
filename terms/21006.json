@@ -16744,12 +16744,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "30",
+      "capacity": "0",
       "classTime": "一5-6(1-5周)",
       "courseId": "0200Y003",
       "courseName": "走进金匮石室:探究古代文献珍品",
       "credit": "1",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
       "number": "0",
       "position": "",
       "teacherId": "1000",
@@ -17234,12 +17237,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "30",
+      "capacity": "0",
       "classTime": "二5-6 五1-2单",
       "courseId": "02075133",
       "courseName": "中国古典文献学",
       "credit": "3",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
       "number": "0",
       "position": "",
       "teacherId": "1001",
@@ -17248,7 +17254,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "30",
+      "capacity": "60",
       "classTime": "二5-6 五1-2单",
       "courseId": "02075133",
       "courseName": "中国古典文献学",
@@ -62711,7 +62717,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "453a12658ec9c58b4459f3962d5e666c",
+  "hash": "0a1ef822306bfbfc262ba80a042115a0",
   "termName": "2023-2024学年冬季学期",
-  "updateTimeMs": 1697171999834
+  "updateTimeMs": 1697175512626
 }
