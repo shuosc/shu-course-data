@@ -23697,12 +23697,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "12",
+      "capacity": "0",
       "classTime": "二1-2",
       "courseId": "03B05019",
       "courseName": "新闻法语",
       "credit": "2",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
       "number": "0",
       "position": "",
       "teacherId": "1000",
@@ -23809,12 +23812,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "12",
+      "capacity": "0",
       "classTime": "四5-6",
       "courseId": "03B06038",
       "courseName": "经济与管理法语",
       "credit": "2",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
       "number": "0",
       "position": "",
       "teacherId": "1000",
@@ -23837,12 +23843,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "12",
+      "capacity": "0",
       "classTime": "四5-6",
       "courseId": "03B06064",
       "courseName": "法国诗歌",
       "credit": "2",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
       "number": "0",
       "position": "",
       "teacherId": "1000",
@@ -32308,7 +32317,7 @@
     {
       "campus": "宝山",
       "capacity": "50",
-      "classTime": "一9-10含实验 三3-4含实验 全英语",
+      "classTime": "一9-10含实验 三3-4含实验",
       "courseId": "09365196",
       "courseName": "微机原理及应用(2)",
       "credit": "3",
@@ -62717,7 +62726,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "0a1ef822306bfbfc262ba80a042115a0",
+  "hash": "e41015ab359d23be5cfec816ef99d273",
   "termName": "2023-2024学年冬季学期",
-  "updateTimeMs": 1697175512626
+  "updateTimeMs": 1697179258955
 }
