@@ -18570,6 +18570,20 @@
     },
     {
       "campus": "宝山",
+      "capacity": "40",
+      "classTime": "一7-8 三7-8",
+      "courseId": "02095083",
+      "courseName": "质性研究方法",
+      "credit": "4",
+      "limitations": [],
+      "number": "0",
+      "position": "",
+      "teacherId": "1001",
+      "teacherName": "黄苏萍",
+      "teacherTitle": "副教授"
+    },
+    {
+      "campus": "宝山",
       "capacity": "25",
       "classTime": "一5-6 三5-6 五3-4单",
       "courseId": "02095102",
@@ -28016,8 +28030,8 @@
       "number": "29",
       "position": "",
       "teacherId": "1000",
-      "teacherName": "商娅娜",
-      "teacherTitle": "副教授"
+      "teacherName": "刘云启",
+      "teacherTitle": "教授"
     },
     {
       "campus": "宝山",
@@ -39109,6 +39123,20 @@
     },
     {
       "campus": "宝山",
+      "capacity": "80",
+      "classTime": "待定",
+      "courseId": "1300R604",
+      "courseName": "美育中国",
+      "credit": "3",
+      "limitations": [],
+      "number": "0",
+      "position": "",
+      "teacherId": "1000",
+      "teacherName": "待定",
+      "teacherTitle": ""
+    },
+    {
+      "campus": "宝山",
       "capacity": "70",
       "classTime": "一7-8",
       "courseId": "1300RH61",
@@ -46543,7 +46571,7 @@
       "courseName": "学术与商务交流",
       "credit": "4",
       "limitations": [],
-      "number": "21",
+      "number": "20",
       "position": "",
       "teacherId": "2003",
       "teacherName": "YuliyaSkaleva",
@@ -62937,7 +62965,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "b8a3b8ba92d7db39622fa4a68ce7706d",
+  "hash": "5f2643b28cfd3ef27df1144e311a7e5f",
   "termName": "2023-2024学年冬季学期",
-  "updateTimeMs": 1697614726285
+  "updateTimeMs": 1697618398028
 }
