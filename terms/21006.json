@@ -37415,6 +37415,20 @@
     },
     {
       "campus": "宝山",
+      "capacity": "80",
+      "classTime": "二9-11 线上线下混合式教学",
+      "courseId": "1200LH04",
+      "courseName": "生命智能",
+      "credit": "3",
+      "limitations": [],
+      "number": "0",
+      "position": "",
+      "teacherId": "1001",
+      "teacherName": "姜继宗",
+      "teacherTitle": "讲师"
+    },
+    {
+      "campus": "宝山",
       "capacity": "70",
       "classTime": "一1-2",
       "courseId": "1200LH05",
@@ -52124,8 +52138,8 @@
       "number": "31",
       "position": "",
       "teacherId": "3002",
-      "teacherName": "梁海燕",
-      "teacherTitle": "讲师"
+      "teacherName": "蒋",
+      "teacherTitle": "教授"
     },
     {
       "campus": "宝山",
@@ -62030,7 +62044,7 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "60",
+      "capacity": "65",
       "classTime": "一7-8 三7-8",
       "courseId": "36055004",
       "courseName": "数字电子技术",
@@ -62142,7 +62156,7 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "60",
+      "capacity": "65",
       "classTime": "一5-6 三5-6 四5-6",
       "courseId": "36055008",
       "courseName": "量子力学与固体物理基础",
@@ -62349,6 +62363,20 @@
       "teacherId": "2000",
       "teacherName": "任青华",
       "teacherTitle": "讲师"
+    },
+    {
+      "campus": "嘉定",
+      "capacity": "45",
+      "classTime": "二7-8 四7-8",
+      "courseId": "36056023",
+      "courseName": "MEMS与传感器基础",
+      "credit": "4",
+      "limitations": [],
+      "number": "0",
+      "position": "",
+      "teacherId": "2001",
+      "teacherName": "王楠",
+      "teacherTitle": "教授"
     },
     {
       "campus": "嘉定",
@@ -62771,7 +62799,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "c7f47e3a2258bd2990e060bc4e3acea5",
+  "hash": "8e5b3de9782e5156a4f1fc31582dafc8",
   "termName": "2023-2024学年冬季学期",
-  "updateTimeMs": 1697596755886
+  "updateTimeMs": 1697603944182
 }
