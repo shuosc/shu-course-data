@@ -19250,12 +19250,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "30",
+      "capacity": "0",
       "classTime": "三9-11",
       "courseId": "02606039",
       "courseName": "语言规划",
       "credit": "3",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
       "number": "2",
       "position": "",
       "teacherId": "1000",
@@ -26999,7 +27002,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "30",
+      "capacity": "35",
       "classTime": "一9-11",
       "courseId": "04205002",
       "courseName": "基础会计A(2)",
@@ -27013,7 +27016,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "30",
+      "capacity": "35",
       "classTime": "一5-6 三5-6单",
       "courseId": "04205002",
       "courseName": "基础会计A(2)",
@@ -50594,14 +50597,12 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "90",
+      "capacity": "95",
       "classTime": "一9-10 (1周,6周)",
       "courseId": "16583109",
       "courseName": "形势与政策",
       "credit": "0",
-      "limitations": [
-        "人数已满"
-      ],
+      "limitations": [],
       "number": "90",
       "position": "",
       "teacherId": "2001",
@@ -50610,14 +50611,12 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "90",
+      "capacity": "95",
       "classTime": "一9-10 (2周,7周)",
       "courseId": "16583109",
       "courseName": "形势与政策",
       "credit": "0",
-      "limitations": [
-        "人数已满"
-      ],
+      "limitations": [],
       "number": "90",
       "position": "",
       "teacherId": "2002",
@@ -50626,14 +50625,12 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "90",
+      "capacity": "95",
       "classTime": "一9-10 (3周,8周)",
       "courseId": "16583109",
       "courseName": "形势与政策",
       "credit": "0",
-      "limitations": [
-        "人数已满"
-      ],
+      "limitations": [],
       "number": "90",
       "position": "",
       "teacherId": "2003",
@@ -50642,14 +50639,12 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "90",
+      "capacity": "95",
       "classTime": "一11-12 (1周,6周)",
       "courseId": "16583109",
       "courseName": "形势与政策",
       "credit": "0",
-      "limitations": [
-        "人数已满"
-      ],
+      "limitations": [],
       "number": "90",
       "position": "",
       "teacherId": "2004",
@@ -50658,14 +50653,12 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "90",
+      "capacity": "95",
       "classTime": "一11-12 (2周,7周)",
       "courseId": "16583109",
       "courseName": "形势与政策",
       "credit": "0",
-      "limitations": [
-        "人数已满"
-      ],
+      "limitations": [],
       "number": "90",
       "position": "",
       "teacherId": "2005",
@@ -50674,7 +50667,7 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "90",
+      "capacity": "95",
       "classTime": "一11-12 (3周,8周)",
       "courseId": "16583109",
       "courseName": "形势与政策",
@@ -50688,14 +50681,12 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "90",
+      "capacity": "95",
       "classTime": "二9-10 (1周,6周)",
       "courseId": "16583109",
       "courseName": "形势与政策",
       "credit": "0",
-      "limitations": [
-        "人数已满"
-      ],
+      "limitations": [],
       "number": "90",
       "position": "",
       "teacherId": "2007",
@@ -50704,14 +50695,12 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "90",
+      "capacity": "95",
       "classTime": "二9-10 (2周,7周)",
       "courseId": "16583109",
       "courseName": "形势与政策",
       "credit": "0",
-      "limitations": [
-        "人数已满"
-      ],
+      "limitations": [],
       "number": "90",
       "position": "",
       "teacherId": "2008",
@@ -50720,14 +50709,12 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "90",
+      "capacity": "95",
       "classTime": "二9-10 (3周,8周)",
       "courseId": "16583109",
       "courseName": "形势与政策",
       "credit": "0",
-      "limitations": [
-        "人数已满"
-      ],
+      "limitations": [],
       "number": "90",
       "position": "",
       "teacherId": "2009",
@@ -50736,14 +50723,12 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "90",
+      "capacity": "95",
       "classTime": "二11-12 (1周,6周)",
       "courseId": "16583109",
       "courseName": "形势与政策",
       "credit": "0",
-      "limitations": [
-        "人数已满"
-      ],
+      "limitations": [],
       "number": "90",
       "position": "",
       "teacherId": "2010",
@@ -50752,7 +50737,7 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "90",
+      "capacity": "95",
       "classTime": "二11-12 (2周,7周)",
       "courseId": "16583109",
       "courseName": "形势与政策",
@@ -50766,7 +50751,7 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "90",
+      "capacity": "95",
       "classTime": "二11-12 (3周,8周)",
       "courseId": "16583109",
       "courseName": "形势与政策",
@@ -64024,7 +64009,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "a3cbbeb0e1f8cd55b4d8de8e9007e7c7",
+  "hash": "fc297ae21b351b56f1a59015d5fd8d0c",
   "termName": "2023-2024学年冬季学期",
-  "updateTimeMs": 1697686740663
+  "updateTimeMs": 1697690312943
 }
