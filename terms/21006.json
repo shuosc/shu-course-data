@@ -25491,15 +25491,13 @@
     },
     {
       "campus": "宝山",
-      "capacity": "0",
+      "capacity": "70",
       "classTime": "一3-4",
       "courseId": "0400L001",
       "courseName": "生态智慧与绿色生活",
       "credit": "2",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "0",
+      "limitations": [],
+      "number": "1",
       "position": "",
       "teacherId": "1000",
       "teacherName": "朱婷",
@@ -28822,6 +28820,20 @@
       "teacherId": "1000",
       "teacherName": "蔡葵",
       "teacherTitle": "讲师"
+    },
+    {
+      "campus": "宝山",
+      "capacity": "10",
+      "classTime": "另行通知",
+      "courseId": "0624A004",
+      "courseName": "毕业实习",
+      "credit": "14",
+      "limitations": [],
+      "number": "0",
+      "position": "",
+      "teacherId": "1000",
+      "teacherName": "芦雪峰",
+      "teacherTitle": "副教授"
     },
     {
       "campus": "宝山",
@@ -38396,15 +38408,13 @@
     },
     {
       "campus": "宝山",
-      "capacity": "0",
+      "capacity": "30",
       "classTime": "四3-4",
       "courseId": "1100L302",
       "courseName": "化工与健康",
       "credit": "2",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "0",
+      "limitations": [],
+      "number": "2",
       "position": "",
       "teacherId": "1000",
       "teacherName": "张宝华等",
@@ -38412,15 +38422,13 @@
     },
     {
       "campus": "延长",
-      "capacity": "0",
+      "capacity": "30",
       "classTime": "四9-10",
       "courseId": "1100L302",
       "courseName": "化工与健康",
       "credit": "2",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "0",
+      "limitations": [],
+      "number": "1",
       "position": "",
       "teacherId": "3000",
       "teacherName": "张宝华等",
@@ -38542,15 +38550,13 @@
     },
     {
       "campus": "宝山",
-      "capacity": "0",
+      "capacity": "30",
       "classTime": "三3-4(1-5周)",
       "courseId": "1100Y012",
       "courseName": "新闻事件背后的科学",
       "credit": "1",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "0",
+      "limitations": [],
+      "number": "2",
       "position": "",
       "teacherId": "1000",
       "teacherName": "王海芳",
@@ -39453,15 +39459,13 @@
     },
     {
       "campus": "宝山",
-      "capacity": "0",
+      "capacity": "30",
       "classTime": "四11-12(1-5周)",
       "courseId": "1200Y017",
       "courseName": "植物并不孤独",
       "credit": "1",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "0",
+      "limitations": [],
+      "number": "2",
       "position": "",
       "teacherId": "1000",
       "teacherName": "章焰生",
@@ -65726,7 +65730,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "8fe7e8087f74104d2b33b22818770b0b",
+  "hash": "fb9d954e2760777adb22e22849174cae",
   "termName": "2023-2024学年冬季学期",
-  "updateTimeMs": 1697787603084
+  "updateTimeMs": 1697791164663
 }
