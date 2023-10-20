@@ -23022,13 +23022,15 @@
     },
     {
       "campus": "延长",
-      "capacity": "20",
+      "capacity": "13",
       "classTime": "四3-4 限国际化基地班",
       "courseId": "03004500",
       "courseName": "国际交流学术英语A(2)",
       "credit": "2",
-      "limitations": [],
-      "number": "20",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "13",
       "position": "",
       "teacherId": "3001",
       "teacherName": "龚萍",
@@ -54708,7 +54710,7 @@
       "number": "31",
       "position": "",
       "teacherId": "3002",
-      "teacherName": "蒋",
+      "teacherName": "蒋宁平",
       "teacherTitle": "教授"
     },
     {
@@ -65724,7 +65726,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "5cba69e06c4ebb8875a14afd3fd3f38d",
+  "hash": "de482c55c045ae18770c580c63ec7256",
   "termName": "2023-2024学年冬季学期",
-  "updateTimeMs": 1697769533281
+  "updateTimeMs": 1697773134715
 }
