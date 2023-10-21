@@ -26578,8 +26578,10 @@
       "courseId": "04156013",
       "courseName": "国际商务环境",
       "credit": "3",
-      "limitations": [],
-      "number": "69",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "70",
       "position": "",
       "teacherId": "1001",
       "teacherName": "林僖",
@@ -65613,7 +65615,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "8bc4a4284b88bf7719439706b248bea3",
+  "hash": "f236c14f2ba06208bb093fbcddcf3530",
   "termName": "2023-2024学年冬季学期",
-  "updateTimeMs": 1697927928252
+  "updateTimeMs": 1697931496734
 }
