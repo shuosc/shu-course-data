@@ -10256,7 +10256,7 @@
       "courseName": "概率论与数理统计B",
       "credit": "5",
       "limitations": [],
-      "number": "90",
+      "number": "91",
       "position": "",
       "teacherId": "1002",
       "teacherName": "张阳春",
@@ -20579,8 +20579,10 @@
       "courseId": "03004419",
       "courseName": "旅游英语",
       "credit": "2",
-      "limitations": [],
-      "number": "49",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "50",
       "position": "",
       "teacherId": "1008",
       "teacherName": "沈澄",
@@ -20702,7 +20704,7 @@
       "courseName": "法律英语",
       "credit": "2",
       "limitations": [],
-      "number": "62",
+      "number": "63",
       "position": "",
       "teacherId": "1003",
       "teacherName": "王颖",
@@ -27097,7 +27099,7 @@
       "courseName": "运筹学B",
       "credit": "4",
       "limitations": [],
-      "number": "39",
+      "number": "40",
       "position": "",
       "teacherId": "1006",
       "teacherName": "李木森",
@@ -42031,7 +42033,7 @@
       "courseName": "毕业设计调研",
       "credit": "8",
       "limitations": [],
-      "number": "4",
+      "number": "3",
       "position": "",
       "teacherId": "3004",
       "teacherName": "魏枢",
@@ -51459,7 +51461,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [],
-      "number": "30",
+      "number": "32",
       "position": "",
       "teacherId": "1126",
       "teacherName": "孙士庆",
@@ -53242,8 +53244,10 @@
       "courseId": "16584170",
       "courseName": "毛泽东思想和中国特色社会主义理论体系概论(2)",
       "credit": "2",
-      "limitations": [],
-      "number": "87",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "88",
       "position": "",
       "teacherId": "1006",
       "teacherName": "梁艳",
@@ -53347,7 +53351,7 @@
       "courseName": "毛泽东思想和中国特色社会主义理论体系概论(2)",
       "credit": "2",
       "limitations": [],
-      "number": "83",
+      "number": "82",
       "position": "",
       "teacherId": "1013",
       "teacherName": "张彦青",
@@ -59206,7 +59210,7 @@
       "courseName": "管理思维与人生智慧",
       "credit": "1",
       "limitations": [],
-      "number": "15",
+      "number": "16",
       "position": "",
       "teacherId": "1000",
       "teacherName": "李燚",
@@ -65566,7 +65570,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "4de6dea46bdd89f9840f33c499350368",
+  "hash": "b3510ffe022f154017764c188f0cfc32",
   "termName": "2023-2024学年冬季学期",
-  "updateTimeMs": 1698097117893
+  "updateTimeMs": 1698100706183
 }
