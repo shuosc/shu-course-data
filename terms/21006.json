@@ -10362,7 +10362,7 @@
       "courseName": "线性代数",
       "credit": "3",
       "limitations": [],
-      "number": "127",
+      "number": "128",
       "position": "",
       "teacherId": "1003",
       "teacherName": "蔡敏",
@@ -17183,8 +17183,10 @@
       "courseId": "0200R032",
       "courseName": "博物馆与人类文明",
       "credit": "2",
-      "limitations": [],
-      "number": "69",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "70",
       "position": "",
       "teacherId": "2000",
       "teacherName": "杨谦",
@@ -20302,7 +20304,7 @@
       "courseName": "英美报刊选读",
       "credit": "2",
       "limitations": [],
-      "number": "49",
+      "number": "50",
       "position": "",
       "teacherId": "2000",
       "teacherName": "贺莉",
@@ -25318,8 +25320,10 @@
       "courseId": "0400JH01",
       "courseName": "生活中的经济学",
       "credit": "4",
-      "limitations": [],
-      "number": "69",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "70",
       "position": "",
       "teacherId": "1000",
       "teacherName": "王学斌等",
@@ -33155,7 +33159,7 @@
       "courseName": "机械系统三维设计与分析",
       "credit": "2",
       "limitations": [],
-      "number": "19",
+      "number": "20",
       "position": "",
       "teacherId": "1000",
       "teacherName": "何斌",
@@ -36315,7 +36319,7 @@
       "courseName": "材料与社会发展",
       "credit": "4",
       "limitations": [],
-      "number": "24",
+      "number": "25",
       "position": "",
       "teacherId": "1000",
       "teacherName": "王林军等",
@@ -41679,7 +41683,7 @@
       "courseName": "历史建筑保护与更新A",
       "credit": "2",
       "limitations": [],
-      "number": "37",
+      "number": "38",
       "position": "",
       "teacherId": "3000",
       "teacherName": "谢建军",
@@ -41903,7 +41907,7 @@
       "courseName": "室内设计原理B",
       "credit": "2",
       "limitations": [],
-      "number": "18",
+      "number": "17",
       "position": "",
       "teacherId": "3000",
       "teacherName": "项浚",
@@ -49136,7 +49140,7 @@
       "courseName": "产业组织学",
       "credit": "4",
       "limitations": [],
-      "number": "56",
+      "number": "57",
       "position": "",
       "teacherId": "2000",
       "teacherName": "李瑜敏",
@@ -65550,7 +65554,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "518aeb17ccd3006d23ea0b2e2ce18336",
+  "hash": "b434fa9cda13ddedc1842099654005c2",
   "termName": "2023-2024学年冬季学期",
-  "updateTimeMs": 1698176350652
+  "updateTimeMs": 1698179907675
 }
