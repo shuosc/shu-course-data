@@ -8949,13 +8949,15 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "65",
+      "capacity": "0",
       "classTime": "一5-6",
       "courseId": "00874028",
       "courseName": "大学生社会实践",
       "credit": "1",
-      "limitations": [],
-      "number": "3",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "0",
       "position": "",
       "teacherId": "2002",
       "teacherName": "李玲",
@@ -9526,8 +9528,10 @@
       "courseId": "00944008",
       "courseName": "大学生心理健康",
       "credit": "2",
-      "limitations": [],
-      "number": "113",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "100",
       "position": "",
       "teacherId": "1008",
       "teacherName": "胡雅",
@@ -9554,8 +9558,10 @@
       "courseId": "00944008",
       "courseName": "大学生心理健康",
       "credit": "2",
-      "limitations": [],
-      "number": "101",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "100",
       "position": "",
       "teacherId": "1010",
       "teacherName": "曹惠",
@@ -9568,8 +9574,10 @@
       "courseId": "00944008",
       "courseName": "大学生心理健康",
       "credit": "2",
-      "limitations": [],
-      "number": "108",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "100",
       "position": "",
       "teacherId": "1011",
       "teacherName": "王冲",
@@ -9612,8 +9620,10 @@
       "courseId": "00944008",
       "courseName": "大学生心理健康",
       "credit": "2",
-      "limitations": [],
-      "number": "109",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "100",
       "position": "",
       "teacherId": "1016",
       "teacherName": "郝秋华",
@@ -9626,8 +9636,10 @@
       "courseId": "00944008",
       "courseName": "大学生心理健康",
       "credit": "2",
-      "limitations": [],
-      "number": "103",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "100",
       "position": "",
       "teacherId": "1017",
       "teacherName": "陈慧菁",
@@ -9677,13 +9689,16 @@
     },
     {
       "campus": "宝山",
-      "capacity": "100",
+      "capacity": "0",
       "classTime": "三3-4单 五9-10 实验 线上",
       "courseId": "00944008",
       "courseName": "大学生心理健康",
       "credit": "2",
-      "limitations": [],
-      "number": "11",
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
+      "number": "0",
       "position": "",
       "teacherId": "1021",
       "teacherName": "唐晓",
@@ -9705,13 +9720,16 @@
     },
     {
       "campus": "宝山",
-      "capacity": "100",
+      "capacity": "0",
       "classTime": "一5-6单 五9-10 实验 线上",
       "courseId": "00944008",
       "courseName": "大学生心理健康",
       "credit": "2",
-      "limitations": [],
-      "number": "2",
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
+      "number": "0",
       "position": "",
       "teacherId": "1023",
       "teacherName": "姜艳",
@@ -65630,7 +65648,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "cd470240c7a2abc9d1b010b89488fd24",
+  "hash": "fbc8eeb97daad35b55e79dca8e8fbfd4",
   "termName": "2023-2024学年冬季学期",
-  "updateTimeMs": 1698216000557
+  "updateTimeMs": 1698219531732
 }
