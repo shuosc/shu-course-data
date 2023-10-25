@@ -55368,7 +55368,10 @@
       "courseId": "1800Y008",
       "courseName": "地震的形成与预防",
       "credit": "1",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
       "number": "1",
       "position": "",
       "teacherId": "1000",
@@ -65562,7 +65565,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "ca75788ccfeaa6fd5c696009fb240c76",
+  "hash": "1053e9cc91be265975f326e276c0fe14",
   "termName": "2023-2024学年冬季学期",
-  "updateTimeMs": 1698201592818
+  "updateTimeMs": 1698205123548
 }
