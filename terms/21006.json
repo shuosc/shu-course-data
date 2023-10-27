@@ -52765,12 +52765,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "80",
+      "capacity": "0",
       "classTime": "四9-10 (4周,9周)",
       "courseId": "16583109",
       "courseName": "形势与政策",
       "credit": "0",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
       "number": "9",
       "position": "",
       "teacherId": "1119",
@@ -67612,7 +67615,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "7cc003c924c4d19467416160ea104310",
+  "hash": "232d281ce99f7800b66901c12e75623c",
   "termName": "2023-2024学年冬季学期",
-  "updateTimeMs": 1698363536261
+  "updateTimeMs": 1698370433192
 }
