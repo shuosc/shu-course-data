@@ -23739,12 +23739,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "40",
+      "capacity": "0",
       "classTime": "三7-8",
       "courseId": "03004504",
       "courseName": "中国文化精要",
       "credit": "2",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
       "number": "5",
       "position": "",
       "teacherId": "1002",
@@ -23767,12 +23770,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "40",
+      "capacity": "0",
       "classTime": "二7-8",
       "courseId": "03004504",
       "courseName": "中国文化精要",
       "credit": "2",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
       "number": "5",
       "position": "",
       "teacherId": "1004",
@@ -32241,12 +32247,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "55",
+      "capacity": "0",
       "classTime": "一5-6 三5-6单 五7-8学院机房上机",
       "courseId": "08305014",
       "courseName": "数据库原理(1)",
       "credit": "4",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
       "number": "4",
       "position": "",
       "teacherId": "1002",
@@ -67661,7 +67670,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "d8e44f7164dba455360845677195697f",
+  "hash": "d43aae328adae1caf501808b7894a300",
   "termName": "2023-2024学年冬季学期",
-  "updateTimeMs": 1698388756175
+  "updateTimeMs": 1698392322364
 }
