@@ -33041,12 +33041,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "30",
+      "capacity": "0",
       "classTime": "三1-2",
       "courseId": "0830SY02",
       "courseName": "研究方法与前沿(计算机)",
       "credit": "2",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
       "number": "0",
       "position": "",
       "teacherId": "1008",
@@ -33486,12 +33489,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "40",
+      "capacity": "0",
       "classTime": "二9-10 四9-10",
       "courseId": "08B26009",
       "courseName": "群体智能",
       "credit": "4",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
       "number": "0",
       "position": "",
       "teacherId": "1000",
@@ -36468,13 +36474,16 @@
     },
     {
       "campus": "宝山",
-      "capacity": "50",
+      "capacity": "0",
       "classTime": "四9-11",
       "courseId": "09A26026",
       "courseName": "模具成型技术",
       "credit": "3",
-      "limitations": [],
-      "number": "1",
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
+      "number": "0",
       "position": "",
       "teacherId": "1000",
       "teacherName": "徐子力",
@@ -52774,7 +52783,7 @@
         "禁止选课",
         "人数已满"
       ],
-      "number": "9",
+      "number": "0",
       "position": "",
       "teacherId": "1119",
       "teacherName": "卢吉超",
@@ -67615,7 +67624,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "232d281ce99f7800b66901c12e75623c",
+  "hash": "fd6c09e225a921a63f10d2468d29cb9a",
   "termName": "2023-2024学年冬季学期",
-  "updateTimeMs": 1698372399082
+  "updateTimeMs": 1698374322621
 }
