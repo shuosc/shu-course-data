@@ -513,7 +513,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "90",
+      "capacity": "65",
       "classTime": "一9-11 三9-11",
       "courseId": "00814239",
       "courseName": "数学物理方法(强)",
@@ -11145,12 +11145,14 @@
     },
     {
       "campus": "宝山",
-      "capacity": "106",
+      "capacity": "105",
       "classTime": "一3-4 三3-4 五3-4",
       "courseId": "01014126",
       "courseName": "微积分(2)",
       "credit": "6",
-      "limitations": [],
+      "limitations": [
+        "人数已满"
+      ],
       "number": "105",
       "position": "",
       "teacherId": "1013",
@@ -30602,7 +30604,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "60",
+      "capacity": "40",
       "classTime": "一1-2 三1-2 五1-2",
       "courseId": "07275141",
       "courseName": "数字逻辑电路分析与设计",
@@ -67652,7 +67654,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "d2db324c56531dfd9ebc7aeb1398f0c0",
+  "hash": "40188ab8d1c3bed30b4f34c913108032",
   "termName": "2023-2024学年冬季学期",
-  "updateTimeMs": 1698655168838
+  "updateTimeMs": 1698658719099
 }
