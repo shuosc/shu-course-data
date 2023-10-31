@@ -11267,13 +11267,16 @@
     },
     {
       "campus": "宝山",
-      "capacity": "105",
+      "capacity": "0",
       "classTime": "一3-4 三3-4 五3-4",
       "courseId": "01014126",
       "courseName": "微积分(2)",
       "credit": "6",
-      "limitations": [],
-      "number": "11",
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
+      "number": "0",
       "position": "",
       "teacherId": "1021",
       "teacherName": "王文环",
@@ -20304,7 +20307,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "50",
+      "capacity": "40",
       "classTime": "二1-2 四1-2单",
       "courseId": "02096169",
       "courseName": "社会理论的国别传统",
@@ -67654,7 +67657,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "40188ab8d1c3bed30b4f34c913108032",
+  "hash": "68b6b9377a466421395d6de3579f2485",
   "termName": "2023-2024学年冬季学期",
-  "updateTimeMs": 1698709116934
+  "updateTimeMs": 1698716145719
 }
