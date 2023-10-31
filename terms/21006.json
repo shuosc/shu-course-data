@@ -45288,13 +45288,15 @@
     },
     {
       "campus": "延长",
-      "capacity": "20",
+      "capacity": "0",
       "classTime": "二9-11",
       "courseId": "13686111",
       "courseName": "艺术乡建与乡村振兴",
       "credit": "3",
-      "limitations": [],
-      "number": "1",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "0",
       "position": "",
       "teacherId": "3000",
       "teacherName": "李开明",
@@ -67741,7 +67743,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "973340f158ea4af12acd588f5e571ae2",
+  "hash": "713962a483b1ff0a1dc3c5d92a3b9798",
   "termName": "2023-2024学年冬季学期",
-  "updateTimeMs": 1698727150747
+  "updateTimeMs": 1698730729617
 }
