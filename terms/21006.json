@@ -20411,6 +20411,20 @@
     },
     {
       "campus": "宝山",
+      "capacity": "1",
+      "classTime": "另行通知",
+      "courseId": "0260A003",
+      "courseName": "毕业论文",
+      "credit": "15",
+      "limitations": [],
+      "number": "0",
+      "position": "",
+      "teacherId": "1000",
+      "teacherName": "待定",
+      "teacherTitle": ""
+    },
+    {
+      "campus": "宝山",
       "capacity": "16",
       "classTime": "五1-2",
       "courseId": "0260SY06",
@@ -29427,6 +29441,20 @@
     },
     {
       "campus": "宝山",
+      "capacity": "10",
+      "classTime": "一9-11",
+      "courseId": "06245031",
+      "courseName": "竞争法(1)",
+      "credit": "3",
+      "limitations": [],
+      "number": "0",
+      "position": "",
+      "teacherId": "1000",
+      "teacherName": "徐聪",
+      "teacherTitle": ""
+    },
+    {
+      "campus": "宝山",
       "capacity": "40",
       "classTime": "一5-6 三5-6单",
       "courseId": "06245032",
@@ -37522,6 +37550,34 @@
     },
     {
       "campus": "宝山",
+      "capacity": "10",
+      "classTime": "二3-4 四3-4",
+      "courseId": "10385066",
+      "courseName": "冶金原理(1)",
+      "credit": "4",
+      "limitations": [],
+      "number": "0",
+      "position": "",
+      "teacherId": "1000",
+      "teacherName": "邹秀晶",
+      "teacherTitle": "讲师"
+    },
+    {
+      "campus": "宝山",
+      "capacity": "10",
+      "classTime": "一5-6 三5-6",
+      "courseId": "10385067",
+      "courseName": "冶金原理(2)",
+      "credit": "4",
+      "limitations": [],
+      "number": "0",
+      "position": "",
+      "teacherId": "1000",
+      "teacherName": "李秋菊",
+      "teacherTitle": "副研究员"
+    },
+    {
+      "campus": "宝山",
       "capacity": "30",
       "classTime": "五1-2",
       "courseId": "10385082",
@@ -37693,6 +37749,20 @@
       "teacherId": "1000",
       "teacherName": "冷海燕",
       "teacherTitle": "教授"
+    },
+    {
+      "campus": "宝山",
+      "capacity": "10",
+      "classTime": "另行通知",
+      "courseId": "1038A029",
+      "courseName": "钢铁冶金仿真实践",
+      "credit": "2",
+      "limitations": [],
+      "number": "0",
+      "position": "",
+      "teacherId": "1000",
+      "teacherName": "沈平",
+      "teacherTitle": "副研究员"
     },
     {
       "campus": "宝山",
@@ -58152,6 +58222,20 @@
     },
     {
       "campus": "宝山",
+      "capacity": "30",
+      "classTime": "三7-8 限国际本科生",
+      "courseId": "20626246",
+      "courseName": "HSK6级实训",
+      "credit": "2",
+      "limitations": [],
+      "number": "0",
+      "position": "",
+      "teacherId": "1000",
+      "teacherName": "曾艳",
+      "teacherTitle": "讲师"
+    },
+    {
+      "campus": "宝山",
       "capacity": "0",
       "classTime": "一3-4",
       "courseId": "2100L300",
@@ -67657,7 +67741,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "68b6b9377a466421395d6de3579f2485",
+  "hash": "973340f158ea4af12acd588f5e571ae2",
   "termName": "2023-2024学年冬季学期",
-  "updateTimeMs": 1698719971712
+  "updateTimeMs": 1698727150747
 }
