@@ -11786,7 +11786,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "99",
+      "capacity": "91",
       "classTime": "二11-12 四11-12",
       "courseId": "01016162",
       "courseName": "一般拓扑学",
@@ -11860,14 +11860,12 @@
     },
     {
       "campus": "宝山",
-      "capacity": "102",
+      "capacity": "116",
       "classTime": "二7-8 四7-8",
       "courseId": "01025053",
       "courseName": "运筹与优化(2)",
       "credit": "4",
-      "limitations": [
-        "人数已满"
-      ],
+      "limitations": [],
       "number": "102",
       "position": "",
       "teacherId": "1000",
@@ -11876,7 +11874,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "100",
+      "capacity": "102",
       "classTime": "一5-6 三5-6上机 五1-2",
       "courseId": "01025065",
       "courseName": "数值计算方法A(2)",
@@ -20279,7 +20277,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "60",
+      "capacity": "50",
       "classTime": "二1-2 四9-10",
       "courseId": "02096167",
       "courseName": "数据分析软件",
@@ -28984,8 +28982,8 @@
       "number": "15",
       "position": "",
       "teacherId": "1000",
-      "teacherName": "马君",
-      "teacherTitle": "教授"
+      "teacherName": "薛奕曦",
+      "teacherTitle": "副教授"
     },
     {
       "campus": "宝山",
@@ -37287,7 +37285,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "50",
+      "capacity": "45",
       "classTime": "三7-8 五7-8",
       "courseId": "1000LH01",
       "courseName": "材料与社会发展",
@@ -47657,12 +47655,14 @@
     },
     {
       "campus": "延长",
-      "capacity": "20",
+      "capacity": "0",
       "classTime": "三1-2单 三3-4实验 五7-10实验",
       "courseId": "14796029",
       "courseName": "实验影像创作",
       "credit": "4",
-      "limitations": [],
+      "limitations": [
+        "人数已满"
+      ],
       "number": "0",
       "position": "",
       "teacherId": "3000",
@@ -54434,7 +54434,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "90",
+      "capacity": "70",
       "classTime": "一5-6 三5-6单",
       "courseId": "16584169",
       "courseName": "毛泽东思想和中国特色社会主义理论体系概论(1)",
@@ -54490,7 +54490,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "90",
+      "capacity": "65",
       "classTime": "二3-4 四3-4单",
       "courseId": "16584169",
       "courseName": "毛泽东思想和中国特色社会主义理论体系概论(1)",
@@ -67743,7 +67743,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "db682a3c4d7d892b85dd69d26ef8b6c6",
+  "hash": "ffe3ba96c86e0dad0f09bbb512cb09f7",
   "termName": "2023-2024学年冬季学期",
-  "updateTimeMs": 1698820810875
+  "updateTimeMs": 1698827933253
 }
