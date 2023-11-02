@@ -11786,12 +11786,14 @@
     },
     {
       "campus": "宝山",
-      "capacity": "91",
+      "capacity": "88",
       "classTime": "二11-12 四11-12",
       "courseId": "01016162",
       "courseName": "一般拓扑学",
       "credit": "4",
-      "limitations": [],
+      "limitations": [
+        "人数已满"
+      ],
       "number": "88",
       "position": "",
       "teacherId": "1000",
@@ -11865,8 +11867,10 @@
       "courseId": "01025053",
       "courseName": "运筹与优化(2)",
       "credit": "4",
-      "limitations": [],
-      "number": "102",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "116",
       "position": "",
       "teacherId": "1000",
       "teacherName": "周安娃",
@@ -11874,12 +11878,14 @@
     },
     {
       "campus": "宝山",
-      "capacity": "102",
+      "capacity": "98",
       "classTime": "一5-6 三5-6上机 五1-2",
       "courseId": "01025065",
       "courseName": "数值计算方法A(2)",
       "credit": "5",
-      "limitations": [],
+      "limitations": [
+        "人数已满"
+      ],
       "number": "98",
       "position": "",
       "teacherId": "1000",
@@ -30787,7 +30793,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "60",
+      "capacity": "40",
       "classTime": "二1-2 四1-2",
       "courseId": "07275158",
       "courseName": "信息论与编码",
@@ -31573,7 +31579,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "45",
+      "capacity": "40",
       "classTime": "二5-6 四5-6",
       "courseId": "07276183",
       "courseName": "天线工程自动设计原理",
@@ -67743,7 +67749,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "0c143d208be82aca66892d5e156bc971",
+  "hash": "4985557bf20fa4cfada6378d452a3c92",
   "termName": "2023-2024学年冬季学期",
-  "updateTimeMs": 1698881938769
+  "updateTimeMs": 1698888901143
 }
