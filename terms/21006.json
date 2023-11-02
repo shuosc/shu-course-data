@@ -536,7 +536,7 @@
       "number": "124",
       "position": "",
       "teacherId": "1000",
-      "teacherName": "焦成焕",
+      "teacherName": "焦成焕等",
       "teacherTitle": "教授"
     },
     {
@@ -9382,7 +9382,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "70",
+      "capacity": "60",
       "classTime": "二3-4",
       "courseId": "0088L600",
       "courseName": "工程体验与感知",
@@ -9764,7 +9764,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "50",
+      "capacity": "40",
       "classTime": "二3-4单 五9-10 实验 线上",
       "courseId": "00944008",
       "courseName": "大学生心理健康",
@@ -18146,12 +18146,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "30",
+      "capacity": "0",
       "classTime": "二9-10(6-10周)",
       "courseId": "0200Y013",
       "courseName": "中国文学经典名篇研读",
       "credit": "1",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
       "number": "15",
       "position": "",
       "teacherId": "1000",
@@ -42103,7 +42106,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "70",
+      "capacity": "65",
       "classTime": "二5-6",
       "courseId": "1300R603",
       "courseName": "漆画艺术",
@@ -55732,7 +55735,7 @@
     {
       "campus": "宝山",
       "capacity": "30",
-      "classTime": "三3-4 五3-4单",
+      "classTime": "三3-4 五3-4双",
       "courseId": "16615035",
       "courseName": "中国现代哲学(2)",
       "credit": "3",
@@ -67749,7 +67752,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "28f00fd83f4a8cea00b852511039772a",
+  "hash": "2367f3220020823ff1f47b2b698d4a30",
   "termName": "2023-2024学年冬季学期",
-  "updateTimeMs": 1698910685086
+  "updateTimeMs": 1698914349442
 }
