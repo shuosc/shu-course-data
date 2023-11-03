@@ -7400,10 +7400,8 @@
       "courseId": "00853521",
       "courseName": "高尔夫球(2)",
       "credit": "1",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "29",
+      "limitations": [],
+      "number": "28",
       "position": "",
       "teacherId": "1251",
       "teacherName": "黄军海",
@@ -17562,8 +17560,10 @@
       "courseId": "0200R013",
       "courseName": "青春文学与流行文化",
       "credit": "2",
-      "limitations": [],
-      "number": "69",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "70",
       "position": "",
       "teacherId": "1000",
       "teacherName": "李云",
@@ -67856,7 +67856,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "07c5cee4d2342edb73b786fb747c71a9",
+  "hash": "136344b94408f40ac1ce2de99e9a543d",
   "termName": "2023-2024学年冬季学期",
-  "updateTimeMs": 1699040307905
+  "updateTimeMs": 1699044007923
 }
