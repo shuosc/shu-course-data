@@ -40862,7 +40862,7 @@
       "courseName": "发育生物学",
       "credit": "3",
       "limitations": [],
-      "number": "43",
+      "number": "44",
       "position": "",
       "teacherId": "1000",
       "teacherName": "陈沁",
@@ -52745,8 +52745,10 @@
       "courseId": "16583109",
       "courseName": "形势与政策",
       "credit": "0",
-      "limitations": [],
-      "number": "79",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "80",
       "position": "",
       "teacherId": "1103",
       "teacherName": "刘子杰",
@@ -53158,8 +53160,10 @@
       "courseId": "16583109",
       "courseName": "形势与政策",
       "credit": "0",
-      "limitations": [],
-      "number": "79",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "80",
       "position": "",
       "teacherId": "1129",
       "teacherName": "杨章文",
@@ -61159,8 +61163,10 @@
       "courseId": "2800LH01",
       "courseName": "创新中国",
       "credit": "3",
-      "limitations": [],
-      "number": "79",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "80",
       "position": "",
       "teacherId": "1000",
       "teacherName": "顾晓英",
@@ -67858,7 +67864,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "1db9c70028c3105794270c72249a6769",
+  "hash": "2719cbecc772f4cd0bf866636e80dd88",
   "termName": "2023-2024学年冬季学期",
-  "updateTimeMs": 1699047527255
+  "updateTimeMs": 1699051132043
 }
