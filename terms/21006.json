@@ -19360,7 +19360,7 @@
       "courseName": "媒介文化与现代生活",
       "credit": "3",
       "limitations": [],
-      "number": "21",
+      "number": "20",
       "position": "",
       "teacherId": "1000",
       "teacherName": "张淳",
@@ -32015,8 +32015,10 @@
       "courseId": "0728SY01",
       "courseName": "从傅里叶分析到小波分析",
       "credit": "2",
-      "limitations": [],
-      "number": "29",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "30",
       "position": "",
       "teacherId": "1000",
       "teacherName": "吕东辉",
@@ -67980,7 +67982,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "e51423a38ce82e105469f2a6803be1a2",
+  "hash": "d66ff0ab590848fb03c571674044a6ec",
   "termName": "2023-2024学年冬季学期",
-  "updateTimeMs": 1699133938117
+  "updateTimeMs": 1699137499499
 }
