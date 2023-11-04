@@ -7188,7 +7188,7 @@
       "courseName": "跆拳道(2)",
       "credit": "1",
       "limitations": [],
-      "number": "24",
+      "number": "25",
       "position": "",
       "teacherId": "1664",
       "teacherName": "林大参",
@@ -26563,7 +26563,7 @@
       "courseName": "微观经济学",
       "credit": "4",
       "limitations": [],
-      "number": "48",
+      "number": "49",
       "position": "",
       "teacherId": "1003",
       "teacherName": "顾标",
@@ -54362,8 +54362,10 @@
       "courseId": "16584153",
       "courseName": "思想道德与法治",
       "credit": "3",
-      "limitations": [],
-      "number": "109",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "110",
       "position": "",
       "teacherId": "1001",
       "teacherName": "赵宁",
@@ -67665,7 +67667,7 @@
       "courseName": "医道中国",
       "credit": "3",
       "limitations": [],
-      "number": "59",
+      "number": "60",
       "position": "",
       "teacherId": "1001",
       "teacherName": "徐可等",
@@ -67982,7 +67984,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "d66ff0ab590848fb03c571674044a6ec",
+  "hash": "9b63ce6e40e584b1d7c2a190919173a8",
   "termName": "2023-2024学年冬季学期",
-  "updateTimeMs": 1699137499499
+  "updateTimeMs": 1699141118873
 }
