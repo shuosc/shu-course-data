@@ -8421,10 +8421,8 @@
       "courseId": "00864096",
       "courseName": "工程制图与计算机绘图基础",
       "credit": "3",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "56",
+      "limitations": [],
+      "number": "55",
       "position": "",
       "teacherId": "1002",
       "teacherName": "沙凤龙",
@@ -21173,10 +21171,8 @@
       "courseId": "03004417",
       "courseName": "商务英语听说",
       "credit": "2",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "40",
+      "limitations": [],
+      "number": "39",
       "position": "",
       "teacherId": "3002",
       "teacherName": "Celine Chong Shze Ling",
@@ -66018,8 +66014,10 @@
       "courseId": "31976068",
       "courseName": "声乐选修(2)",
       "credit": "1",
-      "limitations": [],
-      "number": "1",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "2",
       "position": "",
       "teacherId": "1009",
       "teacherName": "吕晓菲",
@@ -67982,7 +67980,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "0b38b7703d62bc5f91f652fa8bc24fec",
+  "hash": "ef5d48bf4ba5e72756bc6ec9b13ae2b8",
   "termName": "2023-2024学年冬季学期",
-  "updateTimeMs": 1699126730047
+  "updateTimeMs": 1699130366430
 }
