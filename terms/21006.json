@@ -10439,7 +10439,7 @@
       "courseName": "多姿多彩力学世界",
       "credit": "1",
       "limitations": [],
-      "number": "15",
+      "number": "14",
       "position": "",
       "teacherId": "1000",
       "teacherName": "任九生",
@@ -23534,8 +23534,10 @@
       "courseId": "03004488",
       "courseName": "英语阅读",
       "credit": "2",
-      "limitations": [],
-      "number": "44",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "45",
       "position": "",
       "teacherId": "1003",
       "teacherName": "吴羊",
@@ -53917,7 +53919,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [],
-      "number": "93",
+      "number": "94",
       "position": "",
       "teacherId": "2014",
       "teacherName": "李昊匡",
@@ -68036,7 +68038,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "188c45ff4630bfcf727648a769059c59",
+  "hash": "091d826119a1675040969d1f2db91d36",
   "termName": "2023-2024学年冬季学期",
-  "updateTimeMs": 1699223889514
+  "updateTimeMs": 1699227492121
 }
