@@ -4610,8 +4610,10 @@
       "courseId": "00853225",
       "courseName": "旱地冰球(基础)",
       "credit": "1",
-      "limitations": [],
-      "number": "25",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "26",
       "position": "",
       "teacherId": "1177",
       "teacherName": "唐冬菊",
@@ -10876,8 +10878,10 @@
       "courseId": "01014104",
       "courseName": "线性代数",
       "credit": "3",
-      "limitations": [],
-      "number": "99",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "100",
       "position": "",
       "teacherId": "1014",
       "teacherName": "李新祥",
@@ -14296,7 +14300,7 @@
       "courseName": "数学物理方法",
       "credit": "6",
       "limitations": [],
-      "number": "41",
+      "number": "42",
       "position": "",
       "teacherId": "1001",
       "teacherName": "张凌峰",
@@ -14382,7 +14386,7 @@
       "courseName": "模拟电子技术",
       "credit": "5",
       "limitations": [],
-      "number": "33",
+      "number": "34",
       "position": "",
       "teacherId": "1002",
       "teacherName": "朱绮彪",
@@ -14428,7 +14432,7 @@
       "courseName": "原子物理学A",
       "credit": "5",
       "limitations": [],
-      "number": "52",
+      "number": "53",
       "position": "",
       "teacherId": "1002",
       "teacherName": "曾小东",
@@ -28317,7 +28321,7 @@
       "courseName": "商务谈判",
       "credit": "3",
       "limitations": [],
-      "number": "21",
+      "number": "20",
       "position": "",
       "teacherId": "1000",
       "teacherName": "颜卉",
@@ -54775,7 +54779,7 @@
       "courseName": "毛泽东思想和中国特色社会主义理论体系概论(1)",
       "credit": "3",
       "limitations": [],
-      "number": "109",
+      "number": "110",
       "position": "",
       "teacherId": "1013",
       "teacherName": "李大山",
@@ -55538,7 +55542,7 @@
       "courseName": "习近平新时代中国特色社会主义思想概论",
       "credit": "3",
       "limitations": [],
-      "number": "80",
+      "number": "81",
       "position": "",
       "teacherId": "1017",
       "teacherName": "申小翠",
@@ -68032,7 +68036,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "d6080eaa4b4a25e7b990374f1791f815",
+  "hash": "01c76ea2e1b6b0319ff60d33dc32c477",
   "termName": "2023-2024学年冬季学期",
-  "updateTimeMs": 1699213091316
+  "updateTimeMs": 1699216702869
 }
