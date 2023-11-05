@@ -7027,10 +7027,8 @@
       "courseId": "00853511",
       "courseName": "击剑(2)",
       "credit": "1",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "31",
+      "limitations": [],
+      "number": "30",
       "position": "",
       "teacherId": "1704",
       "teacherName": "周珏",
@@ -8703,10 +8701,8 @@
       "courseId": "00864096",
       "courseName": "工程制图与计算机绘图基础",
       "credit": "3",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "56",
+      "limitations": [],
+      "number": "55",
       "position": "",
       "teacherId": "1020",
       "teacherName": "沙凤龙",
@@ -8824,7 +8820,7 @@
       "courseName": "数据分析与智能计算",
       "credit": "3",
       "limitations": [],
-      "number": "81",
+      "number": "80",
       "position": "",
       "teacherId": "1007",
       "teacherName": "张军英",
@@ -28321,7 +28317,7 @@
       "courseName": "商务谈判",
       "credit": "3",
       "limitations": [],
-      "number": "19",
+      "number": "21",
       "position": "",
       "teacherId": "1000",
       "teacherName": "颜卉",
@@ -30807,10 +30803,8 @@
       "courseId": "07275141",
       "courseName": "数字逻辑电路分析与设计",
       "credit": "6",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "60",
+      "limitations": [],
+      "number": "59",
       "position": "",
       "teacherId": "1002",
       "teacherName": "王斌",
@@ -31120,7 +31114,7 @@
       "courseName": "电路与电子线路基础(2)",
       "credit": "5",
       "limitations": [],
-      "number": "16",
+      "number": "15",
       "position": "",
       "teacherId": "1007",
       "teacherName": "魏鹤鸣",
@@ -31931,7 +31925,7 @@
       "courseName": "认识物联网",
       "credit": "2",
       "limitations": [],
-      "number": "17",
+      "number": "16",
       "position": "",
       "teacherId": "1002",
       "teacherName": "冯玉田",
@@ -54693,7 +54687,7 @@
       "courseName": "毛泽东思想和中国特色社会主义理论体系概论(1)",
       "credit": "3",
       "limitations": [],
-      "number": "90",
+      "number": "89",
       "position": "",
       "teacherId": "1005",
       "teacherName": "徐海峰",
@@ -56873,7 +56867,7 @@
       "courseName": "创意产业研究A",
       "credit": "3",
       "limitations": [],
-      "number": "13",
+      "number": "14",
       "position": "",
       "teacherId": "3000",
       "teacherName": "孟令光",
@@ -61353,8 +61347,10 @@
       "courseId": "2800R200",
       "courseName": "文化人类学入门",
       "credit": "2",
-      "limitations": [],
-      "number": "69",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "70",
       "position": "",
       "teacherId": "1000",
       "teacherName": "张江华",
@@ -68036,7 +68032,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "289e24b787002906f23b9ed07a9471bd",
+  "hash": "d6080eaa4b4a25e7b990374f1791f815",
   "termName": "2023-2024学年冬季学期",
-  "updateTimeMs": 1699209549536
+  "updateTimeMs": 1699213091316
 }
