@@ -14732,7 +14732,7 @@
       "courseName": "大学化学",
       "credit": "2",
       "limitations": [],
-      "number": "37",
+      "number": "38",
       "position": "",
       "teacherId": "1009",
       "teacherName": "陈运荣",
@@ -17500,10 +17500,8 @@
       "courseId": "0200R013",
       "courseName": "青春文学与流行文化",
       "credit": "2",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "70",
+      "limitations": [],
+      "number": "69",
       "position": "",
       "teacherId": "1000",
       "teacherName": "李云",
@@ -17712,10 +17710,8 @@
       "courseId": "0200R034",
       "courseName": "人文智能",
       "credit": "3",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "80",
+      "limitations": [],
+      "number": "79",
       "position": "",
       "teacherId": "1000",
       "teacherName": "谭旭东等",
@@ -29196,7 +29192,7 @@
       "courseName": "犯罪与预防",
       "credit": "2",
       "limitations": [],
-      "number": "49",
+      "number": "48",
       "position": "",
       "teacherId": "1000",
       "teacherName": "林雨佳",
@@ -29851,10 +29847,8 @@
       "courseId": "06266185",
       "courseName": "证据法A",
       "credit": "4",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "30",
+      "limitations": [],
+      "number": "29",
       "position": "",
       "teacherId": "1003",
       "teacherName": "洪凌啸",
@@ -36173,7 +36167,7 @@
       "courseName": "先进激光制造",
       "credit": "4",
       "limitations": [],
-      "number": "19",
+      "number": "18",
       "position": "",
       "teacherId": "1000",
       "teacherName": "冯杰才",
@@ -36187,7 +36181,7 @@
       "courseName": "产品创新设计",
       "credit": "4",
       "limitations": [],
-      "number": "20",
+      "number": "19",
       "position": "",
       "teacherId": "1001",
       "teacherName": "张捷",
@@ -46461,7 +46455,7 @@
       "courseName": "乐理基础",
       "credit": "3",
       "limitations": [],
-      "number": "23",
+      "number": "22",
       "position": "",
       "teacherId": "3000",
       "teacherName": "毛雨",
@@ -52062,7 +52056,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [],
-      "number": "103",
+      "number": "104",
       "position": "",
       "teacherId": "1067",
       "teacherName": "宋津明",
@@ -55095,8 +55089,10 @@
       "courseId": "16584171",
       "courseName": "习近平新时代中国特色社会主义思想概论",
       "credit": "3",
-      "limitations": [],
-      "number": "99",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "100",
       "position": "",
       "teacherId": "1009",
       "teacherName": "张青子衿",
@@ -57884,7 +57880,7 @@
       "courseName": "中级汉语阅读(2)",
       "credit": "2",
       "limitations": [],
-      "number": "29",
+      "number": "28",
       "position": "",
       "teacherId": "1000",
       "teacherName": "鄢胜涵",
@@ -57928,7 +57924,7 @@
       "courseName": "基础汉语写作(2)",
       "credit": "2",
       "limitations": [],
-      "number": "19",
+      "number": "18",
       "position": "",
       "teacherId": "1002",
       "teacherName": "王敏敏",
@@ -67714,7 +67710,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "8e721240aa96048b6295a979af8469c5",
+  "hash": "d6035e43260365d6c195246cb8b5436e",
   "termName": "2023-2024学年冬季学期",
-  "updateTimeMs": 1699299487362
+  "updateTimeMs": 1699303123682
 }
