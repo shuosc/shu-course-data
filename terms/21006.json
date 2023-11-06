@@ -29224,7 +29224,7 @@
       "courseName": "影视动漫与知识产权",
       "credit": "2",
       "limitations": [],
-      "number": "68",
+      "number": "69",
       "position": "",
       "teacherId": "1000",
       "teacherName": "王勉青",
@@ -41990,7 +41990,7 @@
       "courseName": "《兰亭序》与中国书法艺术",
       "credit": "2",
       "limitations": [],
-      "number": "11",
+      "number": "12",
       "position": "",
       "teacherId": "3000",
       "teacherName": "戴东方",
@@ -43015,7 +43015,7 @@
       "courseName": "综合艺术基础B(3)",
       "credit": "2",
       "limitations": [],
-      "number": "8",
+      "number": "7",
       "position": "",
       "teacherId": "3003",
       "teacherName": "蒋崇无",
@@ -43124,8 +43124,10 @@
       "courseId": "13476241",
       "courseName": "综合艺术实验(1)",
       "credit": "1",
-      "limitations": [],
-      "number": "9",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "10",
       "position": "",
       "teacherId": "3005",
       "teacherName": "许宁",
@@ -52660,7 +52662,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [],
-      "number": "81",
+      "number": "82",
       "position": "",
       "teacherId": "1107",
       "teacherName": "刘子杰",
@@ -67714,7 +67716,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "31e8fbfcee282ae38380f2522804f8cc",
+  "hash": "77f2bcd95dd4e1a551adbd7c9e3668d5",
   "termName": "2023-2024学年冬季学期",
-  "updateTimeMs": 1699306708665
+  "updateTimeMs": 1699310293737
 }
