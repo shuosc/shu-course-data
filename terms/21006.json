@@ -35926,7 +35926,7 @@
       "courseName": "电子系统设计(1)",
       "credit": "4",
       "limitations": [],
-      "number": "19",
+      "number": "18",
       "position": "",
       "teacherId": "1001",
       "teacherName": "何创新",
@@ -35939,8 +35939,10 @@
       "courseId": "09376032",
       "courseName": "电子系统设计(1)",
       "credit": "4",
-      "limitations": [],
-      "number": "49",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "50",
       "position": "",
       "teacherId": "1002",
       "teacherName": "屠华",
@@ -51530,7 +51532,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [],
-      "number": "79",
+      "number": "80",
       "position": "",
       "teacherId": "1031",
       "teacherName": "徐苗",
@@ -52029,10 +52031,8 @@
       "courseId": "16583109",
       "courseName": "形势与政策",
       "credit": "0",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "100",
+      "limitations": [],
+      "number": "99",
       "position": "",
       "teacherId": "1065",
       "teacherName": "宋津明",
@@ -67716,7 +67716,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "77f2bcd95dd4e1a551adbd7c9e3668d5",
+  "hash": "fee7789059516627170ebabac7014060",
   "termName": "2023-2024学年冬季学期",
-  "updateTimeMs": 1699310293737
+  "updateTimeMs": 1699313888245
 }
