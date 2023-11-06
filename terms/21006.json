@@ -10771,7 +10771,7 @@
       "courseName": "线性代数",
       "credit": "3",
       "limitations": [],
-      "number": "98",
+      "number": "99",
       "position": "",
       "teacherId": "1014",
       "teacherName": "李新祥",
@@ -11118,8 +11118,10 @@
       "courseId": "01014126",
       "courseName": "微积分(2)",
       "credit": "6",
-      "limitations": [],
-      "number": "113",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "114",
       "position": "",
       "teacherId": "1014",
       "teacherName": "孙孟锋",
@@ -12455,8 +12457,10 @@
       "courseId": "01034118",
       "courseName": "大学物理(2)",
       "credit": "4",
-      "limitations": [],
-      "number": "104",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "105",
       "position": "",
       "teacherId": "1000",
       "teacherName": "洪峰",
@@ -15377,7 +15381,7 @@
       "courseName": "无机化学(2)",
       "credit": "4",
       "limitations": [],
-      "number": "50",
+      "number": "51",
       "position": "",
       "teacherId": "1003",
       "teacherName": "王兆喜",
@@ -39815,7 +39819,7 @@
       "courseName": "环境工程CAD设计A",
       "credit": "2",
       "limitations": [],
-      "number": "7",
+      "number": "8",
       "position": "",
       "teacherId": "1000",
       "teacherName": "严丽君",
@@ -52757,7 +52761,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [],
-      "number": "83",
+      "number": "84",
       "position": "",
       "teacherId": "1114",
       "teacherName": "孙士庆",
@@ -67710,7 +67714,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "d6035e43260365d6c195246cb8b5436e",
+  "hash": "31e8fbfcee282ae38380f2522804f8cc",
   "termName": "2023-2024学年冬季学期",
-  "updateTimeMs": 1699303123682
+  "updateTimeMs": 1699306708665
 }
