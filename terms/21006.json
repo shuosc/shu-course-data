@@ -8227,7 +8227,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "119",
+      "capacity": "120",
       "classTime": "一1-2 三1-2上机 五1-2单",
       "courseId": "00864088",
       "courseName": "程序设计(C语言)",
@@ -8235,7 +8235,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "119",
+      "number": "120",
       "position": "",
       "teacherId": "1005",
       "teacherName": "邹启明",
@@ -36281,12 +36281,14 @@
     },
     {
       "campus": "宝山",
-      "capacity": "30",
+      "capacity": "18",
       "classTime": "一5-6 三5-8实验",
       "courseId": "09A16017",
       "courseName": "产品创新设计",
       "credit": "4",
-      "limitations": [],
+      "limitations": [
+        "人数已满"
+      ],
       "number": "18",
       "position": "",
       "teacherId": "1001",
@@ -49939,7 +49941,7 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "45",
+      "capacity": "46",
       "classTime": "二1-2 四3-4",
       "courseId": "15575085",
       "courseName": "商务统计学",
@@ -49947,7 +49949,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "45",
+      "number": "46",
       "position": "",
       "teacherId": "2002",
       "teacherName": "李晗",
@@ -67992,7 +67994,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "1050e8d29db623ce8d6746b410b33693",
+  "hash": "63a2222f5837301258463865d808c1ab",
   "termName": "2023-2024学年冬季学期",
-  "updateTimeMs": 1699414708014
+  "updateTimeMs": 1699418297489
 }
