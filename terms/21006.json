@@ -39442,13 +39442,16 @@
     },
     {
       "campus": "延长",
-      "capacity": "30",
+      "capacity": "0",
       "classTime": "四9-10",
       "courseId": "1100L302",
       "courseName": "化工与健康",
       "credit": "2",
-      "limitations": [],
-      "number": "1",
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
+      "number": "0",
       "position": "",
       "teacherId": "3000",
       "teacherName": "张宝华等",
@@ -67994,7 +67997,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "63a2222f5837301258463865d808c1ab",
+  "hash": "0f11c7d186a91511778be4b9b2cb7668",
   "termName": "2023-2024学年冬季学期",
-  "updateTimeMs": 1699418297489
+  "updateTimeMs": 1699421917720
 }
