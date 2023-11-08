@@ -37829,12 +37829,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "10",
+      "capacity": "0",
       "classTime": "另行通知",
       "courseId": "1038A029",
       "courseName": "钢铁冶金仿真实践",
       "credit": "2",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
       "number": "0",
       "position": "",
       "teacherId": "1000",
@@ -55192,7 +55195,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "65",
+      "capacity": "45",
       "classTime": "二1-2 四1-2单",
       "courseId": "16584171",
       "courseName": "习近平新时代中国特色社会主义思想概论",
@@ -67944,7 +67947,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "d4313573fa329e9d59bf49592cef9bc6",
+  "hash": "1ff236400f4e621bcda76b65d7c33d28",
   "termName": "2023-2024学年冬季学期",
-  "updateTimeMs": 1699407374643
+  "updateTimeMs": 1699409335986
 }
