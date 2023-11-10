@@ -8320,7 +8320,7 @@
     {
       "campus": "延长",
       "capacity": "95",
-      "classTime": "二7-8 含上机",
+      "classTime": "二7-8含上机",
       "courseId": "00864092",
       "courseName": "高级办公自动化与宏应用",
       "credit": "2",
@@ -8334,7 +8334,7 @@
     {
       "campus": "延长",
       "capacity": "95",
-      "classTime": "二9-10 含上机",
+      "classTime": "二9-10含上机",
       "courseId": "00864092",
       "courseName": "高级办公自动化与宏应用",
       "credit": "2",
@@ -8350,7 +8350,7 @@
     {
       "campus": "延长",
       "capacity": "95",
-      "classTime": "二11-12 含上机",
+      "classTime": "二11-12含上机",
       "courseId": "00864092",
       "courseName": "高级办公自动化与宏应用",
       "credit": "2",
@@ -10000,7 +10000,7 @@
     {
       "campus": "延长",
       "capacity": "100",
-      "classTime": "三7-8单 五9-10 实验 线上",
+      "classTime": "三7-8单 五9-10实验 线上",
       "courseId": "00944008",
       "courseName": "大学生心理健康",
       "credit": "2",
@@ -28729,7 +28729,7 @@
       "number": "12",
       "position": "B417",
       "teacherId": "1000",
-      "teacherName": "苏君华",
+      "teacherName": "苏君华等",
       "teacherTitle": "教授"
     },
     {
@@ -41844,14 +41844,17 @@
     },
     {
       "campus": "宝山",
-      "capacity": "15",
+      "capacity": "0",
       "classTime": "(一1-4(9-10周) (二1-4(9-10周) (三1-4(9-10周) (四1-4(9-10周) (五1-4(9-10周)",
       "courseId": "13006107",
       "courseName": "材料与空间造型(选)",
       "credit": "3",
-      "limitations": [],
-      "number": "2",
-      "position": "美院115",
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
+      "number": "0",
+      "position": "不开",
       "teacherId": "1000",
       "teacherName": "高珊",
       "teacherTitle": "副教授"
@@ -46681,7 +46684,7 @@
     {
       "campus": "延长",
       "capacity": "50",
-      "classTime": "二5-6 四5-6 上机",
+      "classTime": "二5-6 四5-6上机",
       "courseId": "14556154",
       "courseName": "计算机网络",
       "credit": "3",
@@ -48641,7 +48644,7 @@
     {
       "campus": "嘉定",
       "capacity": "48",
-      "classTime": "二5-6 四1-2双 五3-4 上机",
+      "classTime": "二5-6 四1-2双 五3-4上机",
       "courseId": "15146042",
       "courseName": "金融衍生证券",
       "credit": "4",
@@ -48655,7 +48658,7 @@
     {
       "campus": "嘉定",
       "capacity": "43",
-      "classTime": "二1-2 四7-8 上机 五1-2单 含国际生 全英语",
+      "classTime": "二1-2 四7-8上机 五1-2单 含国际生 全英语",
       "courseId": "15146042",
       "courseName": "金融衍生证券",
       "credit": "4",
@@ -48669,7 +48672,7 @@
     {
       "campus": "嘉定",
       "capacity": "43",
-      "classTime": "二3-4 四5-6 上机 五3-4单",
+      "classTime": "二3-4 四5-6上机 五3-4单",
       "courseId": "15146042",
       "courseName": "金融衍生证券",
       "credit": "4",
@@ -48683,7 +48686,7 @@
     {
       "campus": "嘉定",
       "capacity": "48",
-      "classTime": "二7-8 四1-2单 五1-2 上机",
+      "classTime": "二7-8 四1-2单 五1-2上机",
       "courseId": "15146042",
       "courseName": "金融衍生证券",
       "credit": "4",
@@ -48699,7 +48702,7 @@
     {
       "campus": "嘉定",
       "capacity": "53",
-      "classTime": "二5-6 三7-8双 五7-8 上机",
+      "classTime": "二5-6 三7-8双 五7-8上机",
       "courseId": "15174090",
       "courseName": "信息技术基础",
       "credit": "4",
@@ -48731,7 +48734,7 @@
     {
       "campus": "嘉定",
       "capacity": "30",
-      "classTime": "二3-4 三5-6双 五3-4 上机",
+      "classTime": "二3-4 三5-6双 五3-4上机",
       "courseId": "15174090",
       "courseName": "信息技术基础",
       "credit": "4",
@@ -48745,7 +48748,7 @@
     {
       "campus": "嘉定",
       "capacity": "35",
-      "classTime": "二1-2 四7-8 上机 五3-4双 国际生 全英语",
+      "classTime": "二1-2 四7-8上机 五3-4双 国际生 全英语",
       "courseId": "15174090",
       "courseName": "信息技术基础",
       "credit": "4",
@@ -48759,7 +48762,7 @@
     {
       "campus": "嘉定",
       "capacity": "30",
-      "classTime": "一5-6 四9-10 上机",
+      "classTime": "一5-6 四9-10上机",
       "courseId": "15174147",
       "courseName": "Python程序设计",
       "credit": "3",
@@ -48775,7 +48778,7 @@
     {
       "campus": "嘉定",
       "capacity": "30",
-      "classTime": "三5-6 四11-12 上机",
+      "classTime": "三5-6 四11-12上机",
       "courseId": "15174147",
       "courseName": "Python程序设计",
       "credit": "3",
@@ -48791,7 +48794,7 @@
     {
       "campus": "嘉定",
       "capacity": "35",
-      "classTime": "二1-2 四11-12 上机",
+      "classTime": "二1-2 四11-12上机",
       "courseId": "15174147",
       "courseName": "Python程序设计",
       "credit": "3",
@@ -48807,7 +48810,7 @@
     {
       "campus": "嘉定",
       "capacity": "30",
-      "classTime": "二3-4 四9-10 上机 含国际生 全英语",
+      "classTime": "二3-4 四9-10上机 含国际生 全英语",
       "courseId": "15174147",
       "courseName": "Python程序设计",
       "credit": "3",
@@ -48821,7 +48824,7 @@
     {
       "campus": "嘉定",
       "capacity": "35",
-      "classTime": "一5-6 三7-8单 四5-6 上机",
+      "classTime": "一5-6 三7-8单 四5-6上机",
       "courseId": "15175003",
       "courseName": "数据结构",
       "credit": "4",
@@ -48851,7 +48854,7 @@
     {
       "campus": "嘉定",
       "capacity": "35",
-      "classTime": "二5-6 四1-2 上机 五3-4单",
+      "classTime": "二5-6 四1-2上机 五3-4单",
       "courseId": "15175150",
       "courseName": "程序设计(1)",
       "credit": "4",
@@ -48865,7 +48868,7 @@
     {
       "campus": "嘉定",
       "capacity": "39",
-      "classTime": "二7-8 四3-4 上机 五1-2单",
+      "classTime": "二7-8 四3-4上机 五1-2单",
       "courseId": "15175150",
       "courseName": "程序设计(1)",
       "credit": "4",
@@ -48911,7 +48914,7 @@
     {
       "campus": "嘉定",
       "capacity": "35",
-      "classTime": "一7-8 三3-4 上机 五7-8双",
+      "classTime": "一7-8 三3-4上机 五7-8双",
       "courseId": "15176144",
       "courseName": "现代优化算法与实践",
       "credit": "4",
@@ -49455,7 +49458,7 @@
     {
       "campus": "嘉定",
       "capacity": "28",
-      "classTime": "二7-8单 四1-4 上机",
+      "classTime": "二7-8单 四1-4上机",
       "courseId": "15196115",
       "courseName": "供应链与物流决策模拟",
       "credit": "3",
@@ -50039,7 +50042,7 @@
     {
       "campus": "嘉定",
       "capacity": "65",
-      "classTime": "一7-8 三3-4单 五7-8 上机",
+      "classTime": "一7-8 三3-4单 五7-8上机",
       "courseId": "15575087",
       "courseName": "计量经济",
       "credit": "4",
@@ -50841,7 +50844,7 @@
     {
       "campus": "嘉定",
       "capacity": "45",
-      "classTime": "一7-8 三1-2 上机 含国际生 全英语",
+      "classTime": "一7-8 三1-2上机 含国际生 全英语",
       "courseId": "15576341",
       "courseName": "股票交易分析",
       "credit": "3",
@@ -50855,7 +50858,7 @@
     {
       "campus": "嘉定",
       "capacity": "66",
-      "classTime": "一9-10 三5-6 上机",
+      "classTime": "一9-10 三5-6上机",
       "courseId": "15576341",
       "courseName": "股票交易分析",
       "credit": "3",
@@ -50871,7 +50874,7 @@
     {
       "campus": "嘉定",
       "capacity": "67",
-      "classTime": "一11-12 三3-4 上机",
+      "classTime": "一11-12 三3-4上机",
       "courseId": "15576341",
       "courseName": "股票交易分析",
       "credit": "3",
@@ -67997,7 +68000,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "0dcc5db50118cc9116c3eaa65ebc20b8",
+  "hash": "f389d1d8506cff493ab1cc6fd92b78d2",
   "termName": "2023-2024学年冬季学期",
-  "updateTimeMs": 1699598372470
+  "updateTimeMs": 1699601905521
 }
