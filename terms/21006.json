@@ -22261,7 +22261,7 @@
       "courseName": "通用英语C(2)",
       "credit": "4",
       "limitations": [],
-      "number": "27",
+      "number": "28",
       "position": "Ⅳ411",
       "teacherId": "3002",
       "teacherName": "周育",
@@ -22274,8 +22274,10 @@
       "courseId": "03004478",
       "courseName": "通用英语C(2)",
       "credit": "4",
-      "limitations": [],
-      "number": "30",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "33",
       "position": "Ⅳ411",
       "teacherId": "3003",
       "teacherName": "周育",
@@ -46848,7 +46850,7 @@
       "credit": "3",
       "limitations": [],
       "number": "44",
-      "position": "行1011",
+      "position": "四教211机房",
       "teacherId": "3000",
       "teacherName": "姜斌",
       "teacherTitle": "讲师"
@@ -67960,7 +67962,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "df25ae7f05b84ea302159e7fef5ecbe9",
+  "hash": "f047b4a1ba5cbe1a1a88feda552712c3",
   "termName": "2023-2024学年冬季学期",
-  "updateTimeMs": 1700023109332
+  "updateTimeMs": 1700026692512
 }
