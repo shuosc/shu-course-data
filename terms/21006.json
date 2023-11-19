@@ -17921,7 +17921,7 @@
       "credit": "2",
       "limitations": [],
       "number": "68",
-      "position": "J201",
+      "position": "BJ207",
       "teacherId": "1000",
       "teacherName": "成庆",
       "teacherTitle": "副教授"
@@ -18904,7 +18904,7 @@
         "人数已满"
       ],
       "number": "30",
-      "position": "A204",
+      "position": "A206",
       "teacherId": "1002",
       "teacherName": "郑妞",
       "teacherTitle": "副教授"
@@ -37878,7 +37878,7 @@
       "courseName": "金属力学性能A",
       "credit": "3",
       "limitations": [],
-      "number": "22",
+      "number": "23",
       "position": "计307",
       "teacherId": "1001",
       "teacherName": "张梅",
@@ -37924,7 +37924,7 @@
       "courseName": "金属物理性能A",
       "credit": "3",
       "limitations": [],
-      "number": "21",
+      "number": "22",
       "position": "材328",
       "teacherId": "1002",
       "teacherName": "彭伟",
@@ -38000,7 +38000,7 @@
       "courseName": "热处理工艺学A",
       "credit": "4",
       "limitations": [],
-      "number": "19",
+      "number": "20",
       "position": "D208",
       "teacherId": "1000",
       "teacherName": "张梅",
@@ -38873,7 +38873,7 @@
       "number": "39",
       "position": "A214",
       "teacherId": "1001",
-      "teacherName": "张继业",
+      "teacherName": "张继业等",
       "teacherTitle": "教授"
     },
     {
@@ -40349,7 +40349,7 @@
       "credit": "4",
       "limitations": [],
       "number": "53",
-      "position": "A221",
+      "position": "FJ103",
       "teacherId": "1000",
       "teacherName": "黄海",
       "teacherTitle": "副教授"
@@ -48902,7 +48902,7 @@
       "position": "另行通知",
       "teacherId": "2000",
       "teacherName": "方楚怡等",
-      "teacherTitle": "副教授"
+      "teacherTitle": "讲师"
     },
     {
       "campus": "嘉定",
@@ -49552,7 +49552,7 @@
       "position": "另行通知",
       "teacherId": "2000",
       "teacherName": "方楚怡等",
-      "teacherTitle": "副教授"
+      "teacherTitle": "讲师"
     },
     {
       "campus": "嘉定",
@@ -59661,8 +59661,10 @@
       "courseId": "23014030",
       "courseName": "概率论与数理统计",
       "credit": "5",
-      "limitations": [],
-      "number": "84",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "85",
       "position": "FJ403",
       "teacherId": "1003",
       "teacherName": "鞠先孟",
@@ -59880,7 +59882,7 @@
       "courseName": "大学物理实验A(3)",
       "credit": "1",
       "limitations": [],
-      "number": "15",
+      "number": "16",
       "position": "F楼1楼",
       "teacherId": "1010",
       "teacherName": "陆江",
@@ -67965,7 +67967,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "67c6e29d27021338848d1d74dafbc66a",
+  "hash": "873d896a9162cce4238130bcd3eb373c",
   "termName": "2023-2024学年冬季学期",
-  "updateTimeMs": 1700368698757
+  "updateTimeMs": 1700372292537
 }
