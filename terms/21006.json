@@ -7006,7 +7006,7 @@
       "courseName": "体育舞蹈(2)",
       "credit": "1",
       "limitations": [],
-      "number": "15",
+      "number": "16",
       "position": "体育馆T115(场地有限)",
       "teacherId": "1606",
       "teacherName": "俞华",
@@ -8266,7 +8266,7 @@
       "credit": "4",
       "limitations": [],
       "number": "8",
-      "position": "D218",
+      "position": "D315机房",
       "teacherId": "1007",
       "teacherName": "邹启明",
       "teacherTitle": "讲师"
@@ -8943,14 +8943,14 @@
     },
     {
       "campus": "宝山",
-      "capacity": "90",
+      "capacity": "75",
       "classTime": "一9-11 三5-6上机 限国际本科生",
       "courseId": "00864120",
       "courseName": "程序设计(Python语言)",
       "credit": "4",
       "limitations": [],
       "number": "69",
-      "position": "BJ304",
+      "position": "D415",
       "teacherId": "1004",
       "teacherName": "钟宝燕",
       "teacherTitle": "高级工程师"
@@ -20745,7 +20745,7 @@
         "人数已满"
       ],
       "number": "43",
-      "position": "A121",
+      "position": "C603",
       "teacherId": "1001",
       "teacherName": "陈晓华",
       "teacherTitle": "讲师"
@@ -20761,7 +20761,7 @@
         "人数已满"
       ],
       "number": "43",
-      "position": "A121",
+      "position": "C603",
       "teacherId": "1002",
       "teacherName": "陈晓华",
       "teacherTitle": "讲师"
@@ -20775,7 +20775,7 @@
       "credit": "2",
       "limitations": [],
       "number": "40",
-      "position": "A121",
+      "position": "C603",
       "teacherId": "1003",
       "teacherName": "陈晓华",
       "teacherTitle": "讲师"
@@ -20791,7 +20791,7 @@
         "人数已满"
       ],
       "number": "43",
-      "position": "A121",
+      "position": "C603",
       "teacherId": "1004",
       "teacherName": "陈晓华",
       "teacherTitle": "讲师"
@@ -20805,7 +20805,7 @@
       "credit": "2",
       "limitations": [],
       "number": "42",
-      "position": "A121",
+      "position": "C603",
       "teacherId": "1005",
       "teacherName": "陈晓华",
       "teacherTitle": "讲师"
@@ -20819,7 +20819,7 @@
       "credit": "2",
       "limitations": [],
       "number": "40",
-      "position": "A121",
+      "position": "C603",
       "teacherId": "1006",
       "teacherName": "陈晓华",
       "teacherTitle": "讲师"
@@ -34579,7 +34579,7 @@
       "number": "39",
       "position": "另行通知",
       "teacherId": "1000",
-      "teacherName": "王陈等",
+      "teacherName": "王陈",
       "teacherTitle": "讲师"
     },
     {
@@ -44380,14 +44380,17 @@
     },
     {
       "campus": "宝山",
-      "capacity": "22",
+      "capacity": "0",
       "classTime": "二7-8 (1-10周) 三7-8单",
       "courseId": "13516216",
       "courseName": "西方美术史专题研究",
       "credit": "3",
-      "limitations": [],
-      "number": "4",
-      "position": "B325",
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
+      "number": "0",
+      "position": "不开",
       "teacherId": "1000",
       "teacherName": "郭亮",
       "teacherTitle": "教授"
@@ -67962,7 +67965,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "5fc885bc77eea9aa068fd176ca257666",
+  "hash": "5d5c8dd66fc4e03db866e1d2eaaf5d9e",
   "termName": "2023-2024学年冬季学期",
-  "updateTimeMs": 1700358215669
+  "updateTimeMs": 1700361824838
 }
