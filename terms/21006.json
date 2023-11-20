@@ -2623,7 +2623,10 @@
       "courseId": "00853068",
       "courseName": "体育(2)(保健班)",
       "credit": "1",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "禁止退课"
+      ],
       "number": "23",
       "position": "C315",
       "teacherId": "1983",
@@ -2637,7 +2640,10 @@
       "courseId": "00853068",
       "courseName": "体育(2)(保健班)",
       "credit": "1",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "禁止退课"
+      ],
       "number": "10",
       "position": "C317",
       "teacherId": "1991",
@@ -2651,7 +2657,10 @@
       "courseId": "00853068",
       "courseName": "体育(2)(保健班)",
       "credit": "1",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "禁止退课"
+      ],
       "number": "11",
       "position": "C317",
       "teacherId": "1992",
@@ -2665,7 +2674,10 @@
       "courseId": "00853071",
       "courseName": "体育(5)(保健班)",
       "credit": "1",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "禁止退课"
+      ],
       "number": "7",
       "position": "C315",
       "teacherId": "1981",
@@ -2679,7 +2691,10 @@
       "courseId": "00853071",
       "courseName": "体育(5)(保健班)",
       "credit": "1",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "禁止退课"
+      ],
       "number": "5",
       "position": "C315",
       "teacherId": "1982",
@@ -2693,7 +2708,10 @@
       "courseId": "00853071",
       "courseName": "体育(5)(保健班)",
       "credit": "1",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "禁止退课"
+      ],
       "number": "14",
       "position": "C317",
       "teacherId": "1993",
@@ -67958,7 +67976,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "0e48abd051d278450d8165b671da13ed",
+  "hash": "c93d7da368e2f6ee88fcb5ca8063aadb",
   "termName": "2023-2024学年冬季学期",
-  "updateTimeMs": 1700455222947
+  "updateTimeMs": 1700462445502
 }
