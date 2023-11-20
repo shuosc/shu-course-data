@@ -44292,14 +44292,17 @@
     },
     {
       "campus": "延长",
-      "capacity": "24",
+      "capacity": "0",
       "classTime": "三9-11",
       "courseId": "13515237",
       "courseName": "宗教美术专题研究",
       "credit": "3",
-      "limitations": [],
-      "number": "2",
-      "position": "Ⅳ207",
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
+      "number": "0",
+      "position": "不开",
       "teacherId": "3000",
       "teacherName": "苏金成",
       "teacherTitle": "教授"
@@ -67277,7 +67280,7 @@
         "人数已满"
       ],
       "number": "10",
-      "position": "微电子A楼超净间实验室",
+      "position": "1-207(1周,2周)微电子A楼超净间实验室",
       "teacherId": "2001",
       "teacherName": "董渊等",
       "teacherTitle": "教授"
@@ -67293,7 +67296,7 @@
         "人数已满"
       ],
       "number": "10",
-      "position": "微电子A楼超净间实验室",
+      "position": "1-207(1周,2周)微电子A楼超净间实验室",
       "teacherId": "2002",
       "teacherName": "辛涵申等",
       "teacherTitle": "副教授"
@@ -67309,7 +67312,7 @@
         "人数已满"
       ],
       "number": "10",
-      "position": "微电子A楼超净间实验室",
+      "position": "1-207(1周,2周)微电子A楼超净间实验室",
       "teacherId": "2003",
       "teacherName": "邱阳等",
       "teacherTitle": "副教授"
@@ -67325,7 +67328,7 @@
         "人数已满"
       ],
       "number": "10",
-      "position": "微电子A楼超净间实验室",
+      "position": "1-207(1周,2周)微电子A楼超净间实验室",
       "teacherId": "2004",
       "teacherName": "薛杰等",
       "teacherTitle": "副教授"
@@ -67341,7 +67344,7 @@
         "人数已满"
       ],
       "number": "10",
-      "position": "微电子A楼超净间实验室",
+      "position": "1-207(1周,2周)微电子A楼超净间实验室",
       "teacherId": "2005",
       "teacherName": "殷录桥等",
       "teacherTitle": "副研究员"
@@ -67357,7 +67360,7 @@
         "人数已满"
       ],
       "number": "10",
-      "position": "微电子A楼超净间实验室",
+      "position": "1-207(1周,2周)微电子A楼超净间实验室",
       "teacherId": "2006",
       "teacherName": "任青华等",
       "teacherTitle": "讲师"
@@ -67955,7 +67958,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "7424c31e5c6e3246092f6c4c4c990e2a",
+  "hash": "8883461279e63568af865eeca60d7c7e",
   "termName": "2023-2024学年冬季学期",
-  "updateTimeMs": 1700444447364
+  "updateTimeMs": 1700451512398
 }
