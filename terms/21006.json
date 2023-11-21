@@ -52923,8 +52923,10 @@
       "courseId": "16583109",
       "courseName": "形势与政策",
       "credit": "0",
-      "limitations": [],
-      "number": "79",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "80",
       "position": "FJ303",
       "teacherId": "1115",
       "teacherName": "郭慧梅",
@@ -60586,7 +60588,7 @@
       "number": "8",
       "position": "B420",
       "teacherId": "1000",
-      "teacherName": "郭帅",
+      "teacherName": "郭帅等",
       "teacherTitle": "教授"
     },
     {
@@ -67976,7 +67978,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "da00a2385dcda931c12251a39c8a630f",
+  "hash": "2e6eb323af5193134b788a1e2062b9e1",
   "termName": "2023-2024学年冬季学期",
-  "updateTimeMs": 1700534736046
+  "updateTimeMs": 1700537932466
 }
