@@ -1814,7 +1814,7 @@
       "courseName": "体育(2)",
       "credit": "1",
       "limitations": [],
-      "number": "21",
+      "number": "20",
       "position": "行健楼二楼",
       "teacherId": "3651",
       "teacherName": "梁志雄",
@@ -1827,8 +1827,10 @@
       "courseId": "00853002",
       "courseName": "体育(2)",
       "credit": "1",
-      "limitations": [],
-      "number": "21",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "22",
       "position": "行健楼二楼",
       "teacherId": "3652",
       "teacherName": "梁志雄",
@@ -21683,7 +21685,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "26",
+      "number": "27",
       "position": "Ⅳ406",
       "teacherId": "3001",
       "teacherName": "黄红",
@@ -67978,7 +67980,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "301ff5f135b6d6fb997cdefc0ebf1e31",
+  "hash": "bc42a32239eaddd866ad48179e1a42f9",
   "termName": "2023-2024学年冬季学期",
-  "updateTimeMs": 1700556011460
+  "updateTimeMs": 1700559514290
 }
