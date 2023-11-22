@@ -11421,7 +11421,7 @@
       "courseName": "微积分(2)(经管类)",
       "credit": "6",
       "limitations": [],
-      "number": "102",
+      "number": "103",
       "position": "BJ207",
       "teacherId": "1001",
       "teacherName": "吕巍",
@@ -31619,7 +31619,7 @@
       "courseName": "信息科技前瞻",
       "credit": "4",
       "limitations": [],
-      "number": "48",
+      "number": "49",
       "position": "计204",
       "teacherId": "1002",
       "teacherName": "叶楠",
@@ -55151,7 +55151,7 @@
       "courseName": "毛泽东思想和中国特色社会主义理论体系概论(2)",
       "credit": "2",
       "limitations": [],
-      "number": "82",
+      "number": "83",
       "position": "EJ404",
       "teacherId": "1010",
       "teacherName": "汪艳",
@@ -61562,8 +61562,10 @@
       "courseId": "3100RH60",
       "courseName": "中国经典音乐",
       "credit": "4",
-      "limitations": [],
-      "number": "69",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "70",
       "position": "FJ103",
       "teacherId": "1000",
       "teacherName": "徐倩",
@@ -68133,7 +68135,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "123be3d75fd4d0fc4930ffb20f73211c",
+  "hash": "4dd5a88fe74c8dba79d306141d963d00",
   "termName": "2023-2024学年冬季学期",
-  "updateTimeMs": 1700674712756
+  "updateTimeMs": 1700678302701
 }
