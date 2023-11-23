@@ -2056,8 +2056,10 @@
       "courseId": "00853005",
       "courseName": "体育(5)",
       "credit": "1",
-      "limitations": [],
-      "number": "21",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "22",
       "position": "篮球场",
       "teacherId": "2510",
       "teacherName": "王旨明",
@@ -10982,7 +10984,7 @@
       "courseName": "概率论与数理统计C",
       "credit": "4",
       "limitations": [],
-      "number": "15",
+      "number": "16",
       "position": "1-209",
       "teacherId": "2000",
       "teacherName": "鞠先孟",
@@ -50809,8 +50811,10 @@
       "courseId": "15576321",
       "courseName": "出口商品展销与交易谈判",
       "credit": "4",
-      "limitations": [],
-      "number": "49",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "50",
       "position": "文博406,文博502",
       "teacherId": "2002",
       "teacherName": "贾利军",
@@ -68087,7 +68091,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "4be46634dc27d8f7ade7b510749c9d69",
+  "hash": "a8e270ca0b5ca13c807888db8fde9051",
   "termName": "2023-2024学年冬季学期",
-  "updateTimeMs": 1700761092333
+  "updateTimeMs": 1700764723926
 }
