@@ -6035,7 +6035,7 @@
       "courseName": "篮球(2)",
       "credit": "1",
       "limitations": [],
-      "number": "17",
+      "number": "18",
       "position": "I区篮22",
       "teacherId": "1085",
       "teacherName": "朱侨宇",
@@ -11104,7 +11104,7 @@
       "courseName": "微积分(2)",
       "credit": "6",
       "limitations": [],
-      "number": "116",
+      "number": "117",
       "position": "EJ203",
       "teacherId": "1008",
       "teacherName": "丁洋",
@@ -11133,8 +11133,10 @@
       "courseId": "01014126",
       "courseName": "微积分(2)",
       "credit": "6",
-      "limitations": [],
-      "number": "117",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "118",
       "position": "AJ303",
       "teacherId": "1010",
       "teacherName": "李小林",
@@ -11935,7 +11937,7 @@
       "courseName": "微分几何A",
       "credit": "4",
       "limitations": [],
-      "number": "83",
+      "number": "84",
       "position": "FJ204",
       "teacherId": "1002",
       "teacherName": "吴加勇",
@@ -27977,7 +27979,7 @@
       "courseName": "项目采购",
       "credit": "3",
       "limitations": [],
-      "number": "13",
+      "number": "14",
       "position": "经管104",
       "teacherId": "1000",
       "teacherName": "周文坤",
@@ -30835,7 +30837,7 @@
       "courseName": "信息论与编码",
       "credit": "4",
       "limitations": [],
-      "number": "26",
+      "number": "27",
       "position": "计302",
       "teacherId": "1002",
       "teacherName": "张倩武",
@@ -36236,7 +36238,7 @@
       "courseName": "机电工程师英语交流",
       "credit": "3",
       "limitations": [],
-      "number": "12",
+      "number": "13",
       "position": "A110",
       "teacherId": "1002",
       "teacherName": "朱俊俊",
@@ -40426,8 +40428,10 @@
       "courseId": "1200LH04",
       "courseName": "生命智能",
       "credit": "3",
-      "limitations": [],
-      "number": "79",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "80",
       "position": "J201",
       "teacherId": "1001",
       "teacherName": "姜继宗",
@@ -51838,7 +51842,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [],
-      "number": "82",
+      "number": "83",
       "position": "CJ203",
       "teacherId": "1043",
       "teacherName": "张金翠",
@@ -68081,7 +68085,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "7b3ca4775499045838830d9ae9995a1e",
+  "hash": "b18610bdfed0996f78b7b39de65429fe",
   "termName": "2023-2024学年冬季学期",
-  "updateTimeMs": 1700753976170
+  "updateTimeMs": 1700757704840
 }
