@@ -3594,7 +3594,7 @@
       "courseName": "网球(基础)",
       "credit": "1",
       "limitations": [],
-      "number": "24",
+      "number": "25",
       "position": "E区网7",
       "teacherId": "1762",
       "teacherName": "徐娜",
@@ -10770,7 +10770,7 @@
       "courseName": "线性代数",
       "credit": "3",
       "limitations": [],
-      "number": "140",
+      "number": "141",
       "position": "FJ106",
       "teacherId": "1009",
       "teacherName": "豆艳萍",
@@ -12356,8 +12356,10 @@
       "courseId": "01034117",
       "courseName": "大学物理(1)",
       "credit": "4",
-      "limitations": [],
-      "number": "105",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "106",
       "position": "BJ104",
       "teacherId": "1017",
       "teacherName": "张丽杰",
@@ -24047,7 +24049,7 @@
       "courseName": "日语入门(2)",
       "credit": "2",
       "limitations": [],
-      "number": "17",
+      "number": "18",
       "position": "C118",
       "teacherId": "1002",
       "teacherName": "叶蓉",
@@ -29354,8 +29356,10 @@
       "courseId": "0600RH33",
       "courseName": "一带一路与国际海事安全",
       "credit": "2",
-      "limitations": [],
-      "number": "69",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "70",
       "position": "CJ304",
       "teacherId": "1000",
       "teacherName": "袁曾等",
@@ -31335,7 +31339,7 @@
       "courseName": "信号与系统B(2)",
       "credit": "3",
       "limitations": [],
-      "number": "18",
+      "number": "19",
       "position": "D206",
       "teacherId": "1000",
       "teacherName": "孙广玲",
@@ -31456,7 +31460,7 @@
       "courseName": "数字图像处理B",
       "credit": "4",
       "limitations": [],
-      "number": "19",
+      "number": "20",
       "position": "计308",
       "teacherId": "1002",
       "teacherName": "张麒",
@@ -40877,7 +40881,7 @@
       "courseName": "科学训练B(1)",
       "credit": "1",
       "limitations": [],
-      "number": "20",
+      "number": "21",
       "position": "生命楼各实验室",
       "teacherId": "1001",
       "teacherName": "肖俊杰",
@@ -49101,8 +49105,10 @@
       "courseId": "15195040",
       "courseName": "全球运营与供应链管理",
       "credit": "4",
-      "limitations": [],
-      "number": "57",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "58",
       "position": "文达506",
       "teacherId": "2006",
       "teacherName": "陈军",
@@ -68061,7 +68067,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "0251ebc886e1b4e9fd7946d8e7587d72",
+  "hash": "ecb7e9d305437767356a6c44275d5f71",
   "termName": "2023-2024学年冬季学期",
-  "updateTimeMs": 1700739485728
+  "updateTimeMs": 1700744005762
 }
