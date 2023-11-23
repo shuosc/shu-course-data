@@ -10788,7 +10788,7 @@
       "courseName": "线性代数",
       "credit": "3",
       "limitations": [],
-      "number": "123",
+      "number": "124",
       "position": "FJ106",
       "teacherId": "1010",
       "teacherName": "豆艳萍",
@@ -11235,8 +11235,10 @@
       "courseId": "01014126",
       "courseName": "微积分(2)",
       "credit": "6",
-      "limitations": [],
-      "number": "110",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "112",
       "position": "AJ207",
       "teacherId": "1017",
       "teacherName": "刘东杰",
@@ -27057,7 +27059,7 @@
       "courseName": "证券投资A",
       "credit": "4",
       "limitations": [],
-      "number": "28",
+      "number": "29",
       "position": "A306",
       "teacherId": "1001",
       "teacherName": "黄学庭",
@@ -38747,7 +38749,7 @@
       "courseName": "固体化学(1)",
       "credit": "3",
       "limitations": [],
-      "number": "25",
+      "number": "26",
       "position": "D117",
       "teacherId": "1000",
       "teacherName": "郭昀",
@@ -68085,7 +68087,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "b18610bdfed0996f78b7b39de65429fe",
+  "hash": "4be46634dc27d8f7ade7b510749c9d69",
   "termName": "2023-2024学年冬季学期",
-  "updateTimeMs": 1700757704840
+  "updateTimeMs": 1700761092333
 }
