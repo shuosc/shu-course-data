@@ -699,7 +699,7 @@
       "position": "D116",
       "teacherId": "1000",
       "teacherName": "向慧静",
-      "teacherTitle": "副教授"
+      "teacherTitle": "教授"
     },
     {
       "campus": "宝山",
@@ -2043,7 +2043,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "22",
+      "number": "23",
       "position": "体育馆内场",
       "teacherId": "2426",
       "teacherName": "许凤",
@@ -6437,7 +6437,7 @@
       "courseName": "乒乓球(2)",
       "credit": "1",
       "limitations": [],
-      "number": "16",
+      "number": "15",
       "position": "训练馆乒乓房",
       "teacherId": "1451",
       "teacherName": "张轶",
@@ -7190,7 +7190,7 @@
       "courseName": "攀岩(2)",
       "credit": "1",
       "limitations": [],
-      "number": "27",
+      "number": "26",
       "position": "C区风雨棚",
       "teacherId": "1142",
       "teacherName": "何颖强",
@@ -14240,7 +14240,7 @@
       "courseName": "数学物理方法",
       "credit": "6",
       "limitations": [],
-      "number": "56",
+      "number": "55",
       "position": "EJ403",
       "teacherId": "1002",
       "teacherName": "刘俊杰",
@@ -20726,7 +20726,7 @@
       "courseName": "英语新闻听力",
       "credit": "2",
       "limitations": [],
-      "number": "42",
+      "number": "41",
       "position": "C603",
       "teacherId": "1002",
       "teacherName": "陈晓华",
@@ -21018,7 +21018,7 @@
       "courseName": "商务英语写作",
       "credit": "2",
       "limitations": [],
-      "number": "19",
+      "number": "18",
       "position": "Ⅳ406",
       "teacherId": "3003",
       "teacherName": "肖福寿",
@@ -24266,7 +24266,7 @@
       "courseName": "英语听力(2)",
       "credit": "2",
       "limitations": [],
-      "number": "15",
+      "number": "14",
       "position": "C601",
       "teacherId": "1001",
       "teacherName": "王晓莹",
@@ -42127,7 +42127,7 @@
       "courseName": "艺术与审美",
       "credit": "2",
       "limitations": [],
-      "number": "39",
+      "number": "37",
       "position": "1-103",
       "teacherId": "2000",
       "teacherName": "钱楷",
@@ -45075,7 +45075,7 @@
       "position": "行健楼611",
       "teacherId": "3000",
       "teacherName": "葛天卿",
-      "teacherTitle": ""
+      "teacherTitle": "助教"
     },
     {
       "campus": "延长",
@@ -55410,10 +55410,8 @@
       "courseId": "16584171",
       "courseName": "习近平新时代中国特色社会主义思想概论",
       "credit": "3",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "115",
+      "limitations": [],
+      "number": "114",
       "position": "AJ107",
       "teacherId": "1015",
       "teacherName": "李大山",
@@ -60861,7 +60859,7 @@
       "courseName": "中国近现代史纲要",
       "credit": "3",
       "limitations": [],
-      "number": "124",
+      "number": "123",
       "position": "CJ107",
       "teacherId": "1002",
       "teacherName": "杨阳",
@@ -67233,7 +67231,7 @@
       "courseName": "数字电子技术",
       "credit": "4",
       "limitations": [],
-      "number": "57",
+      "number": "58",
       "position": "2-101",
       "teacherId": "2001",
       "teacherName": "尹聪",
@@ -67246,10 +67244,8 @@
       "courseId": "36055004",
       "courseName": "数字电子技术",
       "credit": "4",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "65",
+      "limitations": [],
+      "number": "64",
       "position": "2-101",
       "teacherId": "2002",
       "teacherName": "尹聪",
@@ -67278,10 +67274,8 @@
       "courseId": "36055005",
       "courseName": "电子技术实验(1)",
       "credit": "1",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "20",
+      "limitations": [],
+      "number": "19",
       "position": "微电子楼209",
       "teacherId": "2002",
       "teacherName": "尹聪",
@@ -67326,8 +67320,10 @@
       "courseId": "36055005",
       "courseName": "电子技术实验(1)",
       "credit": "1",
-      "limitations": [],
-      "number": "19",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "20",
       "position": "微电子楼209",
       "teacherId": "2005",
       "teacherName": "董亮",
@@ -67340,8 +67336,10 @@
       "courseId": "36055005",
       "courseName": "电子技术实验(1)",
       "credit": "1",
-      "limitations": [],
-      "number": "19",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "20",
       "position": "微电子楼209",
       "teacherId": "2006",
       "teacherName": "董亮",
@@ -67371,7 +67369,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "65",
+      "number": "66",
       "position": "1-205",
       "teacherId": "2002",
       "teacherName": "魏斌",
@@ -67517,7 +67515,7 @@
       "position": "1-303",
       "teacherId": "2003",
       "teacherName": "李梦姣",
-      "teacherTitle": "副教授"
+      "teacherTitle": "教授"
     },
     {
       "campus": "嘉定",
@@ -67599,7 +67597,7 @@
       "courseName": "MEMS与传感器基础",
       "credit": "4",
       "limitations": [],
-      "number": "26",
+      "number": "25",
       "position": "2-101",
       "teacherId": "2001",
       "teacherName": "王楠",
@@ -68064,7 +68062,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "3d44d91bd70305767026701b331e9b0c",
+  "hash": "3babe863443d64e5bf9261037afdb1cd",
   "termName": "2023-2024学年冬季学期",
-  "updateTimeMs": 1701041906768
+  "updateTimeMs": 1701049187743
 }
