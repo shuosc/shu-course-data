@@ -20740,7 +20740,7 @@
       "courseName": "英语新闻听力",
       "credit": "2",
       "limitations": [],
-      "number": "40",
+      "number": "41",
       "position": "C603",
       "teacherId": "1003",
       "teacherName": "陈晓华",
@@ -33671,7 +33671,7 @@
         "人数已满"
       ],
       "number": "70",
-      "position": "J102",
+      "position": "CJ103",
       "teacherId": "1000",
       "teacherName": "周洋",
       "teacherTitle": "助理研究员"
@@ -42110,8 +42110,10 @@
       "courseId": "1300R601",
       "courseName": "艺术与审美",
       "credit": "2",
-      "limitations": [],
-      "number": "69",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "70",
       "position": "J201",
       "teacherId": "1000",
       "teacherName": "钱楷",
@@ -57736,7 +57738,7 @@
       "courseName": "高级汉语阅读(2)",
       "credit": "2",
       "limitations": [],
-      "number": "5",
+      "number": "6",
       "position": "B420",
       "teacherId": "1000",
       "teacherName": "刘婷婷",
@@ -68058,7 +68060,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "1d5a2de335fa6feca444470ca07a348f",
+  "hash": "91df761e7c58884ca1aa0746b089a601",
   "termName": "2023-2024学年冬季学期",
-  "updateTimeMs": 1701070690599
+  "updateTimeMs": 1701074418160
 }
