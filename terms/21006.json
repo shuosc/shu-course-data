@@ -28239,7 +28239,7 @@
       "courseName": "品牌管理",
       "credit": "3",
       "limitations": [],
-      "number": "20",
+      "number": "19",
       "position": "A106",
       "teacherId": "1000",
       "teacherName": "单娟",
@@ -48649,7 +48649,7 @@
       "courseName": "金融衍生证券",
       "credit": "4",
       "limitations": [],
-      "number": "21",
+      "number": "22",
       "position": "文达605,文德201,文达311",
       "teacherId": "2003",
       "teacherName": "云昕",
@@ -48829,7 +48829,7 @@
       "courseName": "程序设计(1)",
       "credit": "4",
       "limitations": [],
-      "number": "32",
+      "number": "33",
       "position": "文德203,文德203,文德301",
       "teacherId": "2001",
       "teacherName": "胡珉",
@@ -48842,8 +48842,10 @@
       "courseId": "15175150",
       "courseName": "程序设计(1)",
       "credit": "4",
-      "limitations": [],
-      "number": "38",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "39",
       "position": "文德203,文德203,文德301",
       "teacherId": "2002",
       "teacherName": "胡珉",
@@ -48859,7 +48861,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "40",
+      "number": "41",
       "position": "文德203",
       "teacherId": "2000",
       "teacherName": "罗钢",
@@ -49317,7 +49319,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "43",
+      "number": "44",
       "position": "文博302",
       "teacherId": "2003",
       "teacherName": "田圣炳",
@@ -49405,7 +49407,7 @@
       "courseName": "中级财务会计",
       "credit": "4",
       "limitations": [],
-      "number": "64",
+      "number": "65",
       "position": "文博404",
       "teacherId": "2001",
       "teacherName": "周静",
@@ -49553,7 +49555,7 @@
       "courseName": "毕业设计(论文)",
       "credit": "30",
       "limitations": [],
-      "number": "3",
+      "number": "1",
       "position": "另行通知",
       "teacherId": "2000",
       "teacherName": "方楚怡等",
@@ -49585,7 +49587,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "60",
+      "number": "61",
       "position": "文博402",
       "teacherId": "2000",
       "teacherName": "陈影",
@@ -49911,7 +49913,7 @@
       "courseName": "商务统计学",
       "credit": "4",
       "limitations": [],
-      "number": "44",
+      "number": "43",
       "position": "文博303,文博404",
       "teacherId": "2001",
       "teacherName": "姜爱萍",
@@ -49938,10 +49940,8 @@
       "courseId": "15575085",
       "courseName": "商务统计学",
       "credit": "4",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "46",
+      "limitations": [],
+      "number": "45",
       "position": "文博304",
       "teacherId": "2003",
       "teacherName": "李晗",
@@ -49955,7 +49955,7 @@
       "courseName": "商务统计学",
       "credit": "4",
       "limitations": [],
-      "number": "44",
+      "number": "43",
       "position": "文博303,文博508",
       "teacherId": "2004",
       "teacherName": "王苏生",
@@ -49983,7 +49983,7 @@
       "courseName": "商务统计学",
       "credit": "4",
       "limitations": [],
-      "number": "12",
+      "number": "13",
       "position": "文博205",
       "teacherId": "2006",
       "teacherName": "姜爱萍",
@@ -49996,8 +49996,10 @@
       "courseId": "15575087",
       "courseName": "计量经济",
       "credit": "4",
-      "limitations": [],
-      "number": "68",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "69",
       "position": "文博402,文德301,文博402",
       "teacherId": "2001",
       "teacherName": "吴茂国",
@@ -50163,7 +50165,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "44",
+      "number": "45",
       "position": "文博304",
       "teacherId": "2002",
       "teacherName": "赵敏",
@@ -50179,7 +50181,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "43",
+      "number": "44",
       "position": "文博302",
       "teacherId": "2003",
       "teacherName": "陈涛琴",
@@ -50195,7 +50197,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "45",
+      "number": "46",
       "position": "文博304",
       "teacherId": "2004",
       "teacherName": "赵敏",
@@ -50287,7 +50289,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "42",
+      "number": "43",
       "position": "文博406,文博301",
       "teacherId": "2010",
       "teacherName": "陈影",
@@ -50301,7 +50303,7 @@
       "courseName": "管理会计",
       "credit": "4",
       "limitations": [],
-      "number": "9",
+      "number": "8",
       "position": "文博204,文博205",
       "teacherId": "2011",
       "teacherName": "倪栩",
@@ -50315,7 +50317,7 @@
       "courseName": "管理会计",
       "credit": "4",
       "limitations": [],
-      "number": "29",
+      "number": "28",
       "position": "文达605",
       "teacherId": "2012",
       "teacherName": "赵敏",
@@ -50436,10 +50438,8 @@
       "courseId": "15575194",
       "courseName": "经济学(2)",
       "credit": "4",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "48",
+      "limitations": [],
+      "number": "47",
       "position": "文博306",
       "teacherId": "2001",
       "teacherName": "李青",
@@ -50453,7 +50453,7 @@
       "courseName": "经济学(2)",
       "credit": "4",
       "limitations": [],
-      "number": "44",
+      "number": "45",
       "position": "文博306,文博301",
       "teacherId": "2002",
       "teacherName": "孙善侠",
@@ -50485,7 +50485,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "68",
+      "number": "69",
       "position": "文博402",
       "teacherId": "2004",
       "teacherName": "孙善侠",
@@ -50557,7 +50557,7 @@
       "courseName": "经济学(1)",
       "credit": "4",
       "limitations": [],
-      "number": "37",
+      "number": "36",
       "position": "文博508",
       "teacherId": "2001",
       "teacherName": "李青",
@@ -50587,7 +50587,7 @@
       "courseName": "经济学(1)",
       "credit": "4",
       "limitations": [],
-      "number": "44",
+      "number": "43",
       "position": "文博303,文博302",
       "teacherId": "2003",
       "teacherName": "计志英",
@@ -50603,7 +50603,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "10",
+      "number": "12",
       "position": "文博208",
       "teacherId": "2004",
       "teacherName": "KIM SUN HYUNG",
@@ -50679,7 +50679,7 @@
       "courseName": "固定收益证券",
       "credit": "4",
       "limitations": [],
-      "number": "48",
+      "number": "47",
       "position": "文博504",
       "teacherId": "2002",
       "teacherName": "侯克强",
@@ -52111,7 +52111,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "106",
+      "number": "105",
       "position": "CJ203",
       "teacherId": "1062",
       "teacherName": "张金翠",
@@ -55782,7 +55782,7 @@
       "courseName": "劳动教育理论课",
       "credit": "1",
       "limitations": [],
-      "number": "102",
+      "number": "101",
       "position": "1-233",
       "teacherId": "2000",
       "teacherName": "韩晓春",
@@ -68020,7 +68020,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "d772da0b8e0eb9aa6d7269dba4e42170",
+  "hash": "dfeade808181fe27d14a338318a44f44",
   "termName": "2023-2024学年冬季学期",
-  "updateTimeMs": 1701146334966
+  "updateTimeMs": 1701149890802
 }
