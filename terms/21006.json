@@ -7937,8 +7937,10 @@
       "courseId": "00853530",
       "courseName": "武术(2)",
       "credit": "1",
-      "limitations": [],
-      "number": "29",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "30",
       "position": "训练馆X107",
       "teacherId": "1644",
       "teacherName": "申亮",
@@ -21728,10 +21730,8 @@
       "courseId": "03004476",
       "courseName": "通用英语D(5)",
       "credit": "2",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "50",
+      "limitations": [],
+      "number": "49",
       "position": "A115",
       "teacherId": "1002",
       "teacherName": "钱洁雯",
@@ -34434,7 +34434,7 @@
       "courseName": "工程控制原理",
       "credit": "3",
       "limitations": [],
-      "number": "45",
+      "number": "44",
       "position": "计308",
       "teacherId": "1000",
       "teacherName": "饶进军",
@@ -68003,7 +68003,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "7f542c9321790a86828115f1ab86aef0",
+  "hash": "d448dd1442d8923b6591af7d0b093588",
   "termName": "2023-2024学年冬季学期",
-  "updateTimeMs": 1701333554192
+  "updateTimeMs": 1701337109844
 }
