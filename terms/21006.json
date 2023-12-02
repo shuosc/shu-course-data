@@ -42092,8 +42092,10 @@
       "courseId": "1300R601",
       "courseName": "艺术与审美",
       "credit": "2",
-      "limitations": [],
-      "number": "69",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "70",
       "position": "J201",
       "teacherId": "1000",
       "teacherName": "钱楷",
@@ -57770,7 +57772,7 @@
       "courseName": "高级汉语视听说(2)",
       "credit": "3",
       "limitations": [],
-      "number": "17",
+      "number": "16",
       "position": "B419",
       "teacherId": "1002",
       "teacherName": "周梅",
@@ -57784,7 +57786,7 @@
       "courseName": "中级汉语读写A(2)",
       "credit": "8",
       "limitations": [],
-      "number": "23",
+      "number": "24",
       "position": "B323",
       "teacherId": "1001",
       "teacherName": "黄自然",
@@ -67991,7 +67993,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "9f7eb0425294aba266fe583dbfa90fa0",
+  "hash": "378b5daef0cb3e4405aaeb475d9ee6dc",
   "termName": "2023-2024学年冬季学期",
-  "updateTimeMs": 1701420097658
+  "updateTimeMs": 1701506224068
 }
