@@ -2630,7 +2630,7 @@
         "禁止退课",
         "人数已满"
       ],
-      "number": "24",
+      "number": "26",
       "position": "C315",
       "teacherId": "1983",
       "teacherName": "金海秀",
@@ -2681,7 +2681,7 @@
         "禁止选课",
         "禁止退课"
       ],
-      "number": "16",
+      "number": "19",
       "position": "C315",
       "teacherId": "1981",
       "teacherName": "金海秀",
@@ -2698,7 +2698,7 @@
         "禁止选课",
         "禁止退课"
       ],
-      "number": "12",
+      "number": "14",
       "position": "C315",
       "teacherId": "1982",
       "teacherName": "金海秀",
@@ -2713,9 +2713,10 @@
       "credit": "1",
       "limitations": [
         "禁止选课",
-        "禁止退课"
+        "禁止退课",
+        "人数已满"
       ],
-      "number": "23",
+      "number": "26",
       "position": "C317",
       "teacherId": "1993",
       "teacherName": "李静静",
@@ -4431,10 +4432,8 @@
       "courseId": "00853221",
       "courseName": "高尔夫球(基础)",
       "credit": "1",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "30",
+      "limitations": [],
+      "number": "29",
       "position": "J区南侧高尔夫球场",
       "teacherId": "1293",
       "teacherName": "葛晓栋",
@@ -5252,10 +5251,8 @@
       "courseId": "00853230",
       "courseName": "武术(基础)",
       "credit": "1",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "30",
+      "limitations": [],
+      "number": "29",
       "position": "训练馆X106",
       "teacherId": "1752",
       "teacherName": "孙敏",
@@ -5974,10 +5971,8 @@
       "courseId": "00853503",
       "courseName": "篮球(2)",
       "credit": "1",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "22",
+      "limitations": [],
+      "number": "21",
       "position": "C区风雨棚",
       "teacherId": "1055",
       "teacherName": "吕彪",
@@ -7037,7 +7032,7 @@
       "courseName": "女生瑜珈(2)",
       "credit": "1",
       "limitations": [],
-      "number": "30",
+      "number": "29",
       "position": "体育馆T115(场地有限)",
       "teacherId": "1612",
       "teacherName": "顾修红",
@@ -7430,10 +7425,8 @@
       "courseId": "00853521",
       "courseName": "高尔夫球(2)",
       "credit": "1",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "26",
+      "limitations": [],
+      "number": "25",
       "position": "J区南侧高尔夫球场",
       "teacherId": "1283",
       "teacherName": "沙俊波",
@@ -8708,7 +8701,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "85",
+      "number": "84",
       "position": "DJ303",
       "teacherId": "1004",
       "teacherName": "张军英",
@@ -11308,7 +11301,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "110",
+      "number": "111",
       "position": "BJ104",
       "teacherId": "1024",
       "teacherName": "厚晓凤",
@@ -18024,7 +18017,7 @@
       "courseName": "历史理性与价值",
       "credit": "2",
       "limitations": [],
-      "number": "13",
+      "number": "14",
       "position": "B311",
       "teacherId": "1000",
       "teacherName": "杨雄威",
@@ -21006,7 +20999,7 @@
       "courseName": "商务英语写作",
       "credit": "2",
       "limitations": [],
-      "number": "18",
+      "number": "17",
       "position": "Ⅳ406",
       "teacherId": "3003",
       "teacherName": "肖福寿",
@@ -34202,7 +34195,7 @@
       "courseName": "复变函数与积分变换基础",
       "credit": "3",
       "limitations": [],
-      "number": "42",
+      "number": "41",
       "position": "A102",
       "teacherId": "1000",
       "teacherName": "郭红卫",
@@ -37268,7 +37261,7 @@
       "courseName": "复变函数与积分变换基础",
       "credit": "3",
       "limitations": [],
-      "number": "68",
+      "number": "69",
       "position": "CJ204",
       "teacherId": "1000",
       "teacherName": "张在房",
@@ -39923,7 +39916,7 @@
       "courseName": "正交设计与数据处理",
       "credit": "3",
       "limitations": [],
-      "number": "6",
+      "number": "5",
       "position": "经管107",
       "teacherId": "1000",
       "teacherName": "徐毅等",
@@ -67993,7 +67986,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "378b5daef0cb3e4405aaeb475d9ee6dc",
+  "hash": "9c0e624d47c6b72196bbd622c200d949",
   "termName": "2023-2024学年冬季学期",
-  "updateTimeMs": 1701592631999
+  "updateTimeMs": 1701679128925
 }
