@@ -2647,7 +2647,7 @@
         "禁止选课",
         "禁止退课"
       ],
-      "number": "18",
+      "number": "19",
       "position": "C317",
       "teacherId": "1991",
       "teacherName": "李静静",
@@ -2664,7 +2664,7 @@
         "禁止选课",
         "禁止退课"
       ],
-      "number": "17",
+      "number": "18",
       "position": "C317",
       "teacherId": "1992",
       "teacherName": "李静静",
@@ -2681,7 +2681,7 @@
         "禁止选课",
         "禁止退课"
       ],
-      "number": "19",
+      "number": "23",
       "position": "C315",
       "teacherId": "1981",
       "teacherName": "金海秀",
@@ -2698,7 +2698,7 @@
         "禁止选课",
         "禁止退课"
       ],
-      "number": "14",
+      "number": "16",
       "position": "C315",
       "teacherId": "1982",
       "teacherName": "金海秀",
@@ -3406,7 +3406,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "27",
+      "number": "26",
       "position": "体育馆中心场地",
       "teacherId": "1424",
       "teacherName": "许凤",
@@ -4170,10 +4170,8 @@
       "courseId": "00853219",
       "courseName": "攀岩(基础)",
       "credit": "1",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "30",
+      "limitations": [],
+      "number": "29",
       "position": "C区风雨棚",
       "teacherId": "1777",
       "teacherName": "陈利荣",
@@ -6337,10 +6335,8 @@
       "courseId": "00853504",
       "courseName": "羽毛球(2)",
       "credit": "1",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "30",
+      "limitations": [],
+      "number": "29",
       "position": "体育馆中心场地",
       "teacherId": "1441",
       "teacherName": "王江宇",
@@ -6620,7 +6616,7 @@
       "courseName": "网球(2)",
       "credit": "1",
       "limitations": [],
-      "number": "24",
+      "number": "23",
       "position": "E区网9",
       "teacherId": "1793",
       "teacherName": "陆树兵",
@@ -7484,7 +7480,7 @@
       "courseName": "高尔夫球(2)",
       "credit": "1",
       "limitations": [],
-      "number": "27",
+      "number": "26",
       "position": "J区南侧高尔夫球场",
       "teacherId": "1294",
       "teacherName": "葛晓栋",
@@ -67984,7 +67980,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "abe650e9d2298c6841a968703ae1b338",
+  "hash": "92b94420a547ec1b195e3d0eb54a8f78",
   "termName": "2023-2024学年冬季学期",
-  "updateTimeMs": 1701851906958
+  "updateTimeMs": 1701938314916
 }
