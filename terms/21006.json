@@ -406,10 +406,8 @@
       "courseId": "00814021",
       "courseName": "大学物理实验(1)(强)",
       "credit": "1.5",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "22",
+      "limitations": [],
+      "number": "21",
       "position": "EJ106",
       "teacherId": "1006",
       "teacherName": "陆江",
@@ -2679,9 +2677,10 @@
       "credit": "1",
       "limitations": [
         "禁止选课",
-        "禁止退课"
+        "禁止退课",
+        "人数已满"
       ],
-      "number": "23",
+      "number": "25",
       "position": "C315",
       "teacherId": "1981",
       "teacherName": "金海秀",
@@ -2698,7 +2697,7 @@
         "禁止选课",
         "禁止退课"
       ],
-      "number": "16",
+      "number": "17",
       "position": "C315",
       "teacherId": "1982",
       "teacherName": "金海秀",
@@ -5511,7 +5510,7 @@
       "courseName": "排球(2)",
       "credit": "1",
       "limitations": [],
-      "number": "26",
+      "number": "25",
       "position": "C区风雨棚",
       "teacherId": "1134",
       "teacherName": "魏轶林",
@@ -5760,7 +5759,7 @@
       "courseName": "篮球(2)",
       "credit": "1",
       "limitations": [],
-      "number": "23",
+      "number": "22",
       "position": "训练馆2楼",
       "teacherId": "1012",
       "teacherName": "魏磊",
@@ -6439,10 +6438,8 @@
       "courseId": "00853505",
       "courseName": "乒乓球(2)",
       "credit": "1",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "26",
+      "limitations": [],
+      "number": "25",
       "position": "训练馆乒乓房",
       "teacherId": "1452",
       "teacherName": "张轶",
@@ -14085,7 +14082,7 @@
       "courseName": "大学物理实验(1)",
       "credit": "1",
       "limitations": [],
-      "number": "5",
+      "number": "6",
       "position": "F楼1楼",
       "teacherId": "1102",
       "teacherName": "吴伟",
@@ -67978,7 +67975,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "7d1171897b46b32886299d37b81572d0",
+  "hash": "a8d49d73e7fbdb67378fd2310d6bfb32",
   "termName": "2023-2024学年冬季学期",
-  "updateTimeMs": 1702197472201
+  "updateTimeMs": 1702283949332
 }
