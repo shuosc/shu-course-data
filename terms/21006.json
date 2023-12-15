@@ -12472,7 +12472,7 @@
       "courseName": "大学物理(2)",
       "credit": "4",
       "limitations": [],
-      "number": "108",
+      "number": "109",
       "position": "FJ204",
       "teacherId": "1000",
       "teacherName": "洪峰",
@@ -59376,8 +59376,10 @@
       "courseId": "23006124",
       "courseName": "应用法语B(5)",
       "credit": "2",
-      "limitations": [],
-      "number": "14",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "15",
       "position": "C220",
       "teacherId": "1005",
       "teacherName": "ALEXANDREJULIENANGE LAMARQUE",
@@ -60644,7 +60646,7 @@
       "courseName": "三维建模与运动仿真",
       "credit": "4",
       "limitations": [],
-      "number": "22",
+      "number": "23",
       "position": "D504",
       "teacherId": "1000",
       "teacherName": "沈健",
@@ -67975,7 +67977,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "75540da6b21f643f13f7584cf2ab8136",
+  "hash": "c90185b56f555548708684d1549b95ed",
   "termName": "2023-2024学年冬季学期",
-  "updateTimeMs": 1702543154158
+  "updateTimeMs": 1702629522011
 }
