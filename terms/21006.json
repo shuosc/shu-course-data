@@ -2645,7 +2645,7 @@
         "禁止选课",
         "禁止退课"
       ],
-      "number": "19",
+      "number": "20",
       "position": "C317",
       "teacherId": "1991",
       "teacherName": "李静静",
@@ -2680,7 +2680,7 @@
         "禁止退课",
         "人数已满"
       ],
-      "number": "25",
+      "number": "26",
       "position": "C315",
       "teacherId": "1981",
       "teacherName": "金海秀",
@@ -3792,10 +3792,8 @@
       "courseId": "00853211",
       "courseName": "击剑(基础)",
       "credit": "1",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "30",
+      "limitations": [],
+      "number": "29",
       "position": "体育馆2楼北侧剑道",
       "teacherId": "1705",
       "teacherName": "周珏",
@@ -6439,7 +6437,7 @@
       "courseName": "乒乓球(2)",
       "credit": "1",
       "limitations": [],
-      "number": "25",
+      "number": "24",
       "position": "训练馆乒乓房",
       "teacherId": "1452",
       "teacherName": "张轶",
@@ -9144,7 +9142,7 @@
       "position": "A412",
       "teacherId": "1010",
       "teacherName": "刘方等",
-      "teacherTitle": "助教"
+      "teacherTitle": "讲师"
     },
     {
       "campus": "嘉定",
@@ -67977,7 +67975,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "c90185b56f555548708684d1549b95ed",
+  "hash": "092f10a62e2889d9223fc11713449b2b",
   "termName": "2023-2024学年冬季学期",
-  "updateTimeMs": 1702802238748
+  "updateTimeMs": 1702888775569
 }
