@@ -62254,14 +62254,17 @@
     },
     {
       "campus": "宝山",
-      "capacity": "30",
+      "capacity": "0",
       "classTime": "三7-8",
       "courseId": "31735028",
       "courseName": "钢琴即兴伴奏(1)",
       "credit": "2",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
       "number": "0",
-      "position": "音院W203",
+      "position": "不开",
       "teacherId": "1000",
       "teacherName": "任音",
       "teacherTitle": "二级演奏员"
@@ -67974,7 +67977,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "a6470612d5871c1c9d86feb6adfdec51",
+  "hash": "3a7f8a3d55c7bbb2b38e6bcbae175c72",
   "termName": "2023-2024学年冬季学期",
-  "updateTimeMs": 1703579824728
+  "updateTimeMs": 1703666249814
 }
