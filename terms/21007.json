@@ -142,6 +142,20 @@
       "teacherTitle": "助教"
     },
     {
+      "campus": "宝山",
+      "capacity": "180",
+      "classTime": "五7-8限中欧学院",
+      "courseId": "00000000",
+      "courseName": "活动课",
+      "credit": "0",
+      "limitations": [],
+      "number": "0",
+      "position": "",
+      "teacherId": "1011",
+      "teacherName": "待定",
+      "teacherTitle": ""
+    },
+    {
       "campus": "延长",
       "capacity": "100",
       "classTime": "四5-6",
@@ -30903,7 +30917,7 @@
     {
       "campus": "宝山",
       "capacity": "50",
-      "classTime": "一3-4 三3-4实验",
+      "classTime": "一1-2 三3-4实验",
       "courseId": "09335133",
       "courseName": "数字电路",
       "credit": "3",
@@ -32037,7 +32051,7 @@
     {
       "campus": "宝山",
       "capacity": "38",
-      "classTime": "二1-2 四5-6单",
+      "classTime": "二1-2 四5-6单 全英语",
       "courseId": "09375014",
       "courseName": "现代控制理论基础",
       "credit": "3",
@@ -65966,7 +65980,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "d61d5fd3bf43ce3bfa2cf1d009c4f557",
+  "hash": "afd189398a1f9eca66c2019245268b80",
   "termName": "2023-2024学年春季学期",
-  "updateTimeMs": 1704343139338
+  "updateTimeMs": 1704346671032
 }
