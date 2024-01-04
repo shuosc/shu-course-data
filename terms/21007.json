@@ -32513,7 +32513,7 @@
     {
       "campus": "宝山",
       "capacity": "30",
-      "classTime": "四3-4",
+      "classTime": "四3-4全英语",
       "courseId": "0937EY05",
       "courseName": "面向自动控制领域的机器学习技术",
       "credit": "2",
@@ -56229,7 +56229,7 @@
     {
       "campus": "宝山",
       "capacity": "25",
-      "classTime": "三7-8 限国际本科生",
+      "classTime": "一3-4 限国际本科生",
       "courseId": "20625197",
       "courseName": "中级汉语阅读(3)",
       "credit": "2",
@@ -57992,11 +57992,62 @@
     },
     {
       "campus": "宝山",
-      "capacity": "85",
-      "classTime": "一5-6 三5-6 五7-8",
+      "capacity": "0",
+      "classTime": "不开",
       "courseId": "23014028",
       "courseName": "高等数学A(3)",
       "credit": "6",
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
+      "number": "0",
+      "position": "",
+      "teacherId": "1001",
+      "teacherName": "袁西英",
+      "teacherTitle": "教授"
+    },
+    {
+      "campus": "宝山",
+      "capacity": "0",
+      "classTime": "不开",
+      "courseId": "23014028",
+      "courseName": "高等数学A(3)",
+      "credit": "6",
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
+      "number": "0",
+      "position": "",
+      "teacherId": "1002",
+      "teacherName": "王晓霞",
+      "teacherTitle": "副教授"
+    },
+    {
+      "campus": "宝山",
+      "capacity": "0",
+      "classTime": "不开",
+      "courseId": "23014028",
+      "courseName": "高等数学A(3)",
+      "credit": "6",
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
+      "number": "0",
+      "position": "",
+      "teacherId": "1003",
+      "teacherName": "张建军",
+      "teacherTitle": "副教授"
+    },
+    {
+      "campus": "宝山",
+      "capacity": "85",
+      "classTime": "一5-6 三5-6",
+      "courseId": "23014031",
+      "courseName": "高等数学A(3)",
+      "credit": "4",
       "limitations": [],
       "number": "0",
       "position": "",
@@ -58007,10 +58058,10 @@
     {
       "campus": "宝山",
       "capacity": "85",
-      "classTime": "一5-6 三5-6 五7-8",
-      "courseId": "23014028",
+      "classTime": "一5-6 三5-6",
+      "courseId": "23014031",
       "courseName": "高等数学A(3)",
-      "credit": "6",
+      "credit": "4",
       "limitations": [],
       "number": "0",
       "position": "",
@@ -58021,10 +58072,10 @@
     {
       "campus": "宝山",
       "capacity": "85",
-      "classTime": "一5-6 三5-6 五7-8",
-      "courseId": "23014028",
+      "classTime": "一5-6 三5-6",
+      "courseId": "23014031",
       "courseName": "高等数学A(3)",
-      "credit": "6",
+      "credit": "4",
       "limitations": [],
       "number": "0",
       "position": "",
@@ -65901,7 +65952,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "2baa61f5aa7facc9789d1414ed485c4c",
+  "hash": "9572ee471e12f616cc435bb996cd1ad7",
   "termName": "2023-2024学年春季学期",
-  "updateTimeMs": 1704325093369
+  "updateTimeMs": 1704332320229
 }
