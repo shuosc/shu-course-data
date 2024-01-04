@@ -143,7 +143,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "180",
+      "capacity": "260",
       "classTime": "五7-8限中欧学院",
       "courseId": "00000000",
       "courseName": "活动课",
@@ -152,8 +152,8 @@
       "number": "0",
       "position": "",
       "teacherId": "1011",
-      "teacherName": "待定",
-      "teacherTitle": ""
+      "teacherName": "孟炳辰",
+      "teacherTitle": "助教"
     },
     {
       "campus": "延长",
@@ -20514,12 +20514,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "30",
-      "classTime": "四7-8",
+      "capacity": "0",
+      "classTime": "不开",
       "courseId": "03004488",
       "courseName": "英语阅读",
       "credit": "2",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
       "number": "0",
       "position": "",
       "teacherId": "1004",
@@ -23911,7 +23914,7 @@
       "number": "0",
       "position": "",
       "teacherId": "1003",
-      "teacherName": "毛杰",
+      "teacherName": "张德成",
       "teacherTitle": "讲师"
     },
     {
@@ -65980,7 +65983,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "afd189398a1f9eca66c2019245268b80",
+  "hash": "f078ace4cd344c2bea66cea5d83150c9",
   "termName": "2023-2024学年春季学期",
-  "updateTimeMs": 1704353899729
+  "updateTimeMs": 1704357532851
 }
