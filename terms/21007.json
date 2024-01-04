@@ -128,6 +128,20 @@
       "teacherTitle": "讲师"
     },
     {
+      "campus": "宝山",
+      "capacity": "150",
+      "classTime": "五5-6限未来技术学院",
+      "courseId": "00000000",
+      "courseName": "活动课",
+      "credit": "0",
+      "limitations": [],
+      "number": "0",
+      "position": "",
+      "teacherId": "1010",
+      "teacherName": "关雅颂",
+      "teacherTitle": "助教"
+    },
+    {
       "campus": "延长",
       "capacity": "100",
       "classTime": "四5-6",
@@ -31995,7 +32009,7 @@
     {
       "campus": "宝山",
       "capacity": "60",
-      "classTime": "三9-11",
+      "classTime": "二9-11",
       "courseId": "09375008",
       "courseName": "微机原理(2)",
       "credit": "3",
@@ -41977,7 +41991,7 @@
     {
       "campus": "延长",
       "capacity": "30",
-      "classTime": "一5-8(1-5周) 二1-4(1-5周) 三5-8(1-5周) 四1-3(1-5周)",
+      "classTime": "(一 5-8(6-10 周) (二 1-4(6-10 周) (三 5- 8(6-10 周) (四 1-3(6- 10 周)",
       "courseId": "13536196",
       "courseName": "商业空间设计B",
       "credit": "7.5",
@@ -42117,7 +42131,7 @@
     {
       "campus": "延长",
       "capacity": "30",
-      "classTime": "(一5-8(6-8周) (二1-4(6-8周) (三5-8(6-8周) (四1-3(6-8周)",
+      "classTime": "一 5-8(1-3 周) 二 1- 4(1-3 周) 三 5-8(1-3 周) 四 1-3(1-3 周)",
       "courseId": "13536544",
       "courseName": "环境装饰与陈设",
       "credit": "4.5",
@@ -55207,7 +55221,7 @@
     {
       "campus": "延长",
       "capacity": "40",
-      "classTime": "二7-8 四3-4单",
+      "classTime": "一9-10 四3-4单",
       "courseId": "17656017",
       "courseName": "传媒集团研究",
       "credit": "3",
@@ -65952,7 +65966,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "9572ee471e12f616cc435bb996cd1ad7",
+  "hash": "d61d5fd3bf43ce3bfa2cf1d009c4f557",
   "termName": "2023-2024学年春季学期",
-  "updateTimeMs": 1704332320229
+  "updateTimeMs": 1704336143998
 }
