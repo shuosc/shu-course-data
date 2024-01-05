@@ -14495,7 +14495,7 @@
     {
       "campus": "宝山",
       "capacity": "25",
-      "classTime": "三9-11",
+      "classTime": "一9-11",
       "courseId": "01065282",
       "courseName": "物理化学G",
       "credit": "3",
@@ -21157,6 +21157,20 @@
       "position": "",
       "teacherId": "1000",
       "teacherName": "叶娉",
+      "teacherTitle": "讲师"
+    },
+    {
+      "campus": "宝山",
+      "capacity": "30",
+      "classTime": "二5-6 四5-6",
+      "courseId": "03114075",
+      "courseName": "英语(二外)(3)",
+      "credit": "4",
+      "limitations": [],
+      "number": "0",
+      "position": "",
+      "teacherId": "1000",
+      "teacherName": "王红梅",
       "teacherTitle": "讲师"
     },
     {
@@ -65997,7 +66011,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "f5372a63316235af255755e52e0d37c2",
+  "hash": "7fdc4ed8025dbd0304581a5e5db9f1c6",
   "termName": "2023-2024学年春季学期",
-  "updateTimeMs": 1704418775456
+  "updateTimeMs": 1704422563827
 }
