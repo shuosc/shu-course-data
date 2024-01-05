@@ -54733,7 +54733,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "65",
+      "capacity": "60",
       "classTime": "一5-6 三1-2",
       "courseId": "17005015",
       "courseName": "数据挖掘与分析A",
@@ -54747,7 +54747,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "65",
+      "capacity": "35",
       "classTime": "一3-4 三5-6",
       "courseId": "17005015",
       "courseName": "数据挖掘与分析A",
@@ -54758,6 +54758,20 @@
       "teacherId": "3002",
       "teacherName": "易红发",
       "teacherTitle": "副教授"
+    },
+    {
+      "campus": "延长",
+      "capacity": "35",
+      "classTime": "一3-4 三5-6",
+      "courseId": "17005015",
+      "courseName": "数据挖掘与分析A",
+      "credit": "4",
+      "limitations": [],
+      "number": "0",
+      "position": "",
+      "teacherId": "3003",
+      "teacherName": "蒋宁平",
+      "teacherTitle": "教授"
     },
     {
       "campus": "延长",
@@ -55652,7 +55666,7 @@
       "number": "0",
       "position": "",
       "teacherId": "1000",
-      "teacherName": "秦世伟",
+      "teacherName": "张永平",
       "teacherTitle": "讲师"
     },
     {
@@ -55666,8 +55680,8 @@
       "number": "0",
       "position": "",
       "teacherId": "1001",
-      "teacherName": "戴柳丝",
-      "teacherTitle": "副教授"
+      "teacherName": "蓸黎媛",
+      "teacherTitle": "讲师"
     },
     {
       "campus": "宝山",
@@ -55680,7 +55694,7 @@
       "number": "0",
       "position": "",
       "teacherId": "1002",
-      "teacherName": "朱杰江",
+      "teacherName": "朱杰江等",
       "teacherTitle": "教授"
     },
     {
@@ -55694,8 +55708,8 @@
       "number": "0",
       "position": "",
       "teacherId": "1000",
-      "teacherName": "WANG SHEN",
-      "teacherTitle": "教授"
+      "teacherName": "许浩",
+      "teacherTitle": "助理研究员"
     },
     {
       "campus": "宝山",
@@ -55750,7 +55764,7 @@
       "number": "0",
       "position": "",
       "teacherId": "1002",
-      "teacherName": "柳扬清",
+      "teacherName": "秦世伟",
       "teacherTitle": "讲师"
     },
     {
@@ -55848,8 +55862,8 @@
       "number": "0",
       "position": "",
       "teacherId": "1000",
-      "teacherName": "胡宝琳等",
-      "teacherTitle": "讲师"
+      "teacherName": "王叶娇",
+      "teacherTitle": "副教授"
     },
     {
       "campus": "宝山",
@@ -65983,7 +65997,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "f078ace4cd344c2bea66cea5d83150c9",
+  "hash": "f5372a63316235af255755e52e0d37c2",
   "termName": "2023-2024学年春季学期",
-  "updateTimeMs": 1704411511623
+  "updateTimeMs": 1704418775456
 }
