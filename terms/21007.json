@@ -25914,7 +25914,7 @@
       "number": "10",
       "position": "",
       "teacherId": "1000",
-      "teacherName": "温小琴",
+      "teacherName": "李常敏",
       "teacherTitle": "副教授"
     },
     {
@@ -39663,6 +39663,20 @@
     },
     {
       "campus": "延长",
+      "capacity": "1",
+      "classTime": "四3-4 五1-4",
+      "courseId": "13475176",
+      "courseName": "建筑设计(3)",
+      "credit": "6",
+      "limitations": [],
+      "number": "0",
+      "position": "",
+      "teacherId": "3000",
+      "teacherName": "李钢",
+      "teacherTitle": "教授"
+    },
+    {
+      "campus": "延长",
       "capacity": "9",
       "classTime": "一3-4 四5-8",
       "courseId": "13475177",
@@ -46807,7 +46821,7 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "45",
+      "capacity": "46",
       "classTime": "一1-2 五1-4上机",
       "courseId": "15145010",
       "courseName": "金融数据分析与预测",
@@ -46835,13 +46849,15 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "45",
+      "capacity": "48",
       "classTime": "一5-6 二3-4上机 二5-6上机",
       "courseId": "15145010",
       "courseName": "金融数据分析与预测",
       "credit": "4",
-      "limitations": [],
-      "number": "70",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "48",
       "position": "",
       "teacherId": "2003",
       "teacherName": "杨彦红",
@@ -46849,13 +46865,15 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "10",
+      "capacity": "12",
       "classTime": "一11-12单 含国际生 全英语",
       "courseId": "15145045",
       "courseName": "金融专业导论(2)",
       "credit": "1",
-      "limitations": [],
-      "number": "13",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "12",
       "position": "",
       "teacherId": "2000",
       "teacherName": "孙覃玥",
@@ -46882,8 +46900,10 @@
       "courseId": "15145048",
       "courseName": "应用投资组合管理",
       "credit": "4",
-      "limitations": [],
-      "number": "71",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "48",
       "position": "",
       "teacherId": "2002",
       "teacherName": "牛英杰",
@@ -46910,8 +46930,10 @@
       "courseId": "15145050",
       "courseName": "金融伦理",
       "credit": "4",
-      "limitations": [],
-      "number": "62",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "48",
       "position": "",
       "teacherId": "2002",
       "teacherName": "卜南阳",
@@ -46933,13 +46955,15 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "43",
+      "capacity": "45",
       "classTime": "一7-8 三3-4双",
       "courseId": "15145054",
       "courseName": "金融风险管理",
       "credit": "3",
-      "limitations": [],
-      "number": "73",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "45",
       "position": "",
       "teacherId": "2002",
       "teacherName": "张倩",
@@ -46966,8 +46990,10 @@
       "courseId": "15145057",
       "courseName": "金融创新创业实践",
       "credit": "1",
-      "limitations": [],
-      "number": "96",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "60",
       "position": "",
       "teacherId": "2001",
       "teacherName": "陈军",
@@ -47031,13 +47057,15 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "42",
+      "capacity": "45",
       "classTime": "二7-8单",
       "courseId": "15174092",
       "courseName": "现代计算机检索技术",
       "credit": "1",
-      "limitations": [],
-      "number": "57",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "45",
       "position": "",
       "teacherId": "2001",
       "teacherName": "孙旭婷",
@@ -47059,13 +47087,15 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "42",
+      "capacity": "46",
       "classTime": "二3-4单",
       "courseId": "15174092",
       "courseName": "现代计算机检索技术",
       "credit": "1",
-      "limitations": [],
-      "number": "57",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "46",
       "position": "",
       "teacherId": "2003",
       "teacherName": "肖璠",
@@ -47073,7 +47103,7 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "42",
+      "capacity": "47",
       "classTime": "二5-6单",
       "courseId": "15174092",
       "courseName": "现代计算机检索技术",
@@ -47157,7 +47187,7 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "30",
+      "capacity": "31",
       "classTime": "一7-8单 国际生 全英语",
       "courseId": "15174092",
       "courseName": "现代计算机检索技术",
@@ -47176,8 +47206,10 @@
       "courseId": "15174136",
       "courseName": "Python数据分析",
       "credit": "3",
-      "limitations": [],
-      "number": "43",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "36",
       "position": "",
       "teacherId": "2001",
       "teacherName": "牟立峰等",
@@ -47190,8 +47222,10 @@
       "courseId": "15174136",
       "courseName": "Python数据分析",
       "credit": "3",
-      "limitations": [],
-      "number": "53",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "36",
       "position": "",
       "teacherId": "2002",
       "teacherName": "牟立峰等",
@@ -47255,12 +47289,14 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "35",
+      "capacity": "41",
       "classTime": "四1-2",
       "courseId": "15174137",
       "courseName": "现代计算机检索与论文写作",
       "credit": "2",
-      "limitations": [],
+      "limitations": [
+        "人数已满"
+      ],
       "number": "41",
       "position": "",
       "teacherId": "2002",
@@ -47269,13 +47305,15 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "35",
+      "capacity": "40",
       "classTime": "二5-6 四5-6",
       "courseId": "15175135",
       "courseName": "博弈论",
       "credit": "4",
-      "limitations": [],
-      "number": "46",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "40",
       "position": "",
       "teacherId": "2000",
       "teacherName": "卞亦文",
@@ -47283,7 +47321,7 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "35",
+      "capacity": "37",
       "classTime": "一9-10 三9-10",
       "courseId": "15175138",
       "courseName": "运筹学基础",
@@ -47297,7 +47335,7 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "35",
+      "capacity": "38",
       "classTime": "二9-10 四9-10",
       "courseId": "15175138",
       "courseName": "运筹学基础",
@@ -47311,12 +47349,14 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "35",
+      "capacity": "41",
       "classTime": "一3-4 三5-6单 四5-6上机",
       "courseId": "15175139",
       "courseName": "数据分析基础",
       "credit": "4",
-      "limitations": [],
+      "limitations": [
+        "人数已满"
+      ],
       "number": "41",
       "position": "",
       "teacherId": "2001",
@@ -47325,7 +47365,7 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "35",
+      "capacity": "39",
       "classTime": "一5-6 三5-6双 四3-4上机",
       "courseId": "15175139",
       "courseName": "数据分析基础",
@@ -47367,7 +47407,7 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "35",
+      "capacity": "38",
       "classTime": "一3-4 三7-8上机",
       "courseId": "15175151",
       "courseName": "程序设计(2)",
@@ -47381,13 +47421,15 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "35",
+      "capacity": "38",
       "classTime": "一9-10 三9-10单 四1-2上机",
       "courseId": "15176014",
       "courseName": "系统分析与设计",
       "credit": "4",
-      "limitations": [],
-      "number": "50",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "38",
       "position": "",
       "teacherId": "2001",
       "teacherName": "徐伟",
@@ -47437,13 +47479,15 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "35",
+      "capacity": "40",
       "classTime": "二7-8 四7-8上机 五1-2双",
       "courseId": "15176129",
       "courseName": "物联网技术与安全",
       "credit": "4",
-      "limitations": [],
-      "number": "50",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "40",
       "position": "",
       "teacherId": "2000",
       "teacherName": "周丽",
@@ -47451,12 +47495,14 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "60",
+      "capacity": "64",
       "classTime": "另行通知",
       "courseId": "1517A002",
       "courseName": "毕业设计(论文)",
       "credit": "20",
-      "limitations": [],
+      "limitations": [
+        "人数已满"
+      ],
       "number": "64",
       "position": "",
       "teacherId": "2001",
@@ -47479,12 +47525,14 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "60",
+      "capacity": "62",
       "classTime": "另行通知",
       "courseId": "1517A002",
       "courseName": "毕业设计(论文)",
       "credit": "20",
-      "limitations": [],
+      "limitations": [
+        "人数已满"
+      ],
       "number": "62",
       "position": "",
       "teacherId": "2003",
@@ -47507,12 +47555,14 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "60",
+      "capacity": "65",
       "classTime": "另行通知",
       "courseId": "1517A002",
       "courseName": "毕业设计(论文)",
       "credit": "20",
-      "limitations": [],
+      "limitations": [
+        "人数已满"
+      ],
       "number": "65",
       "position": "",
       "teacherId": "2005",
@@ -47582,8 +47632,10 @@
       "courseId": "1517EY01",
       "courseName": "基于网络技术的商业模式",
       "credit": "2",
-      "limitations": [],
-      "number": "36",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "30",
       "position": "",
       "teacherId": "2002",
       "teacherName": "杜娟",
@@ -47610,8 +47662,10 @@
       "courseId": "1517EY03",
       "courseName": "平台经济管理前沿",
       "credit": "2",
-      "limitations": [],
-      "number": "55",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "30",
       "position": "",
       "teacherId": "2001",
       "teacherName": "严帅",
@@ -47624,8 +47678,10 @@
       "courseId": "1517EY03",
       "courseName": "平台经济管理前沿",
       "credit": "2",
-      "limitations": [],
-      "number": "49",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "30",
       "position": "",
       "teacherId": "2002",
       "teacherName": "严帅",
@@ -47694,8 +47750,10 @@
       "courseId": "1517SY02",
       "courseName": "智慧城市管理与服务前沿技术",
       "credit": "2",
-      "limitations": [],
-      "number": "43",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "30",
       "position": "",
       "teacherId": "2005",
       "teacherName": "孙向阳等",
@@ -47717,13 +47775,15 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "39",
+      "capacity": "38",
       "classTime": "一5-6(1,6) 二1-2 二5-6(1,6) 三7-8(1,6) 三9-10(6) 四5-6(1) 五3-4(1) 五7-8(1) 全英语",
       "courseId": "15195042",
       "courseName": "管理综论",
       "credit": "4",
-      "limitations": [],
-      "number": "42",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "38",
       "position": "",
       "teacherId": "2001",
       "teacherName": "吕斐斐等",
@@ -47759,12 +47819,14 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "62",
+      "capacity": "63",
       "classTime": "一3-4 三1-2上机 五1-2双",
       "courseId": "15195113",
       "courseName": "数据、模型与决策",
       "credit": "4",
-      "limitations": [],
+      "limitations": [
+        "人数已满"
+      ],
       "number": "63",
       "position": "",
       "teacherId": "2002",
@@ -47792,8 +47854,10 @@
       "courseId": "15195151",
       "courseName": "市场营销",
       "credit": "4",
-      "limitations": [],
-      "number": "50",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "40",
       "position": "",
       "teacherId": "2001",
       "teacherName": "才源源",
@@ -47820,8 +47884,10 @@
       "courseId": "15195151",
       "courseName": "市场营销",
       "credit": "4",
-      "limitations": [],
-      "number": "50",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "40",
       "position": "",
       "teacherId": "2003",
       "teacherName": "陈跃刚",
@@ -47829,7 +47895,7 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "5",
+      "capacity": "10",
       "classTime": "二1-2 四3-4 国际生 全英语",
       "courseId": "15195151",
       "courseName": "市场营销",
@@ -47876,8 +47942,10 @@
       "courseId": "15195152",
       "courseName": "商业哲学与社会",
       "credit": "4",
-      "limitations": [],
-      "number": "58",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "48",
       "position": "",
       "teacherId": "2003",
       "teacherName": "霍佳阁",
@@ -47913,12 +47981,14 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "48",
+      "capacity": "56",
       "classTime": "三3-4",
       "courseId": "15195156",
       "courseName": "服务创新创业实践",
       "credit": "2",
-      "limitations": [],
+      "limitations": [
+        "人数已满"
+      ],
       "number": "56",
       "position": "",
       "teacherId": "2001",
@@ -47927,7 +47997,7 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "48",
+      "capacity": "49",
       "classTime": "三5-6",
       "courseId": "15195156",
       "courseName": "服务创新创业实践",
@@ -47955,13 +48025,15 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "50",
+      "capacity": "55",
       "classTime": "二9-10 四3-4 全英语",
       "courseId": "15196017",
       "courseName": "消费者行为学",
       "credit": "4",
-      "limitations": [],
-      "number": "74",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "55",
       "position": "",
       "teacherId": "2000",
       "teacherName": "才源源",
@@ -48039,7 +48111,7 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "50",
+      "capacity": "52",
       "classTime": "一3-4 五1-2 含国际生 全英语",
       "courseId": "15196140",
       "courseName": "决策心理学",
@@ -48058,8 +48130,10 @@
       "courseId": "15196149",
       "courseName": "组织洞察:理论与实践",
       "credit": "4",
-      "limitations": [],
-      "number": "23",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "18",
       "position": "",
       "teacherId": "2000",
       "teacherName": "吕斐斐等",
@@ -48100,8 +48174,10 @@
       "courseId": "15199086",
       "courseName": "企业决策模拟",
       "credit": "4",
-      "limitations": [],
-      "number": "42",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "32",
       "position": "",
       "teacherId": "2003",
       "teacherName": "吴海宁",
@@ -48109,13 +48185,15 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "31",
+      "capacity": "32",
       "classTime": "一5-6 三7-8上机 五7-8单",
       "courseId": "15199086",
       "courseName": "企业决策模拟",
       "credit": "4",
-      "limitations": [],
-      "number": "41",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "32",
       "position": "",
       "teacherId": "2004",
       "teacherName": "罗艳",
@@ -48137,12 +48215,14 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "24",
+      "capacity": "0",
       "classTime": "一3-4单 三5-6 四1-2 含国际生 全英语",
       "courseId": "15199119",
       "courseName": "营销研究",
       "credit": "5",
-      "limitations": [],
+      "limitations": [
+        "禁止选课"
+      ],
       "number": "0",
       "position": "",
       "teacherId": "2000",
@@ -48151,7 +48231,7 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "55",
+      "capacity": "61",
       "classTime": "二7-8 四7-8 含国际生 全英语",
       "courseId": "15199132",
       "courseName": "数字营销",
@@ -48184,8 +48264,10 @@
       "courseId": "1519EY01",
       "courseName": "领导与领导力",
       "credit": "2",
-      "limitations": [],
-      "number": "37",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "30",
       "position": "",
       "teacherId": "2001",
       "teacherName": "陈海宁",
@@ -48198,8 +48280,10 @@
       "courseId": "1519EY01",
       "courseName": "领导与领导力",
       "credit": "2",
-      "limitations": [],
-      "number": "37",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "30",
       "position": "",
       "teacherId": "2002",
       "teacherName": "陈海宁",
@@ -48226,8 +48310,10 @@
       "courseId": "1519EY01",
       "courseName": "领导与领导力",
       "credit": "2",
-      "limitations": [],
-      "number": "35",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "30",
       "position": "",
       "teacherId": "2004",
       "teacherName": "陈海宁",
@@ -48240,8 +48326,10 @@
       "courseId": "1519EY01",
       "courseName": "领导与领导力",
       "credit": "2",
-      "limitations": [],
-      "number": "40",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "30",
       "position": "",
       "teacherId": "2005",
       "teacherName": "霍伟伟",
@@ -48254,8 +48342,10 @@
       "courseId": "1519EY01",
       "courseName": "领导与领导力",
       "credit": "2",
-      "limitations": [],
-      "number": "36",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "30",
       "position": "",
       "teacherId": "2006",
       "teacherName": "霍伟伟",
@@ -48268,8 +48358,10 @@
       "courseId": "1519EY01",
       "courseName": "领导与领导力",
       "credit": "2",
-      "limitations": [],
-      "number": "44",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "30",
       "position": "",
       "teacherId": "2007",
       "teacherName": "霍伟伟",
@@ -48333,13 +48425,15 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "60",
+      "capacity": "65",
       "classTime": "二7-8 四3-4",
       "courseId": "15206040",
       "courseName": "智能财税",
       "credit": "4",
-      "limitations": [],
-      "number": "79",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "65",
       "position": "",
       "teacherId": "2000",
       "teacherName": "陈婉怡",
@@ -48361,13 +48455,15 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "40",
+      "capacity": "42",
       "classTime": "二7-8 四7-8",
       "courseId": "15573322",
       "courseName": "财务管理",
       "credit": "4",
-      "limitations": [],
-      "number": "61",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "42",
       "position": "",
       "teacherId": "2001",
       "teacherName": "赵敏",
@@ -48389,13 +48485,15 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "40",
+      "capacity": "42",
       "classTime": "二5-6 四5-6",
       "courseId": "15573322",
       "courseName": "财务管理",
       "credit": "4",
-      "limitations": [],
-      "number": "67",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "42",
       "position": "",
       "teacherId": "2003",
       "teacherName": "陈婉怡",
@@ -48417,12 +48515,14 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "41",
+      "capacity": "44",
       "classTime": "二5-6 五3-4",
       "courseId": "15573322",
       "courseName": "财务管理",
       "credit": "4",
-      "limitations": [],
+      "limitations": [
+        "人数已满"
+      ],
       "number": "44",
       "position": "",
       "teacherId": "2005",
@@ -48431,13 +48531,15 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "41",
+      "capacity": "42",
       "classTime": "一9-10 五1-2",
       "courseId": "15573322",
       "courseName": "财务管理",
       "credit": "4",
-      "limitations": [],
-      "number": "51",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "42",
       "position": "",
       "teacherId": "2006",
       "teacherName": "甘丽凝",
@@ -48445,7 +48547,7 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "35",
+      "capacity": "40",
       "classTime": "二7-8 四1-2",
       "courseId": "15573322",
       "courseName": "财务管理",
@@ -48473,13 +48575,15 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "40",
+      "capacity": "42",
       "classTime": "一7-8 三5-6",
       "courseId": "15573322",
       "courseName": "财务管理",
       "credit": "4",
-      "limitations": [],
-      "number": "55",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "42",
       "position": "",
       "teacherId": "2009",
       "teacherName": "李玉博",
@@ -48487,13 +48591,15 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "40",
+      "capacity": "42",
       "classTime": "二7-8 五1-2",
       "courseId": "15573322",
       "courseName": "财务管理",
       "credit": "4",
-      "limitations": [],
-      "number": "45",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "42",
       "position": "",
       "teacherId": "2010",
       "teacherName": "王妍玲",
@@ -48501,7 +48607,7 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "40",
+      "capacity": "41",
       "classTime": "一11-12 五3-4",
       "courseId": "15573322",
       "courseName": "财务管理",
@@ -48814,8 +48920,10 @@
       "courseId": "15575067",
       "courseName": "财务计价与策略",
       "credit": "4",
-      "limitations": [],
-      "number": "26",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "23",
       "position": "",
       "teacherId": "2001",
       "teacherName": "李晗等",
@@ -48837,12 +48945,14 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "48",
+      "capacity": "52",
       "classTime": "三7-8 五1-2 含国际生 全英语",
       "courseId": "15575067",
       "courseName": "财务计价与策略",
       "credit": "4",
-      "limitations": [],
+      "limitations": [
+        "人数已满"
+      ],
       "number": "52",
       "position": "",
       "teacherId": "2003",
@@ -48865,12 +48975,14 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "55",
+      "capacity": "63",
       "classTime": "三5-6 五3-4",
       "courseId": "15575067",
       "courseName": "财务计价与策略",
       "credit": "4",
-      "limitations": [],
+      "limitations": [
+        "人数已满"
+      ],
       "number": "63",
       "position": "",
       "teacherId": "2005",
@@ -48879,12 +48991,14 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "35",
+      "capacity": "41",
       "classTime": "一5-6 三3-4",
       "courseId": "15575085",
       "courseName": "商务统计学",
       "credit": "4",
-      "limitations": [],
+      "limitations": [
+        "人数已满"
+      ],
       "number": "41",
       "position": "",
       "teacherId": "2001",
@@ -48893,7 +49007,7 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "35",
+      "capacity": "36",
       "classTime": "一5-6 三3-4",
       "courseId": "15575085",
       "courseName": "商务统计学",
@@ -48949,7 +49063,7 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "48",
+      "capacity": "61",
       "classTime": "一5-6 三5-6 含国际生 全英语",
       "courseId": "15575127",
       "courseName": "国际结算",
@@ -49089,12 +49203,14 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "22",
+      "capacity": "23",
       "classTime": "一5-6 三5-6 全英语",
       "courseId": "15575150",
       "courseName": "学术与商务交流",
       "credit": "4",
-      "limitations": [],
+      "limitations": [
+        "人数已满"
+      ],
       "number": "23",
       "position": "",
       "teacherId": "2010",
@@ -49187,12 +49303,14 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "15",
+      "capacity": "16",
       "classTime": "二3-4 三7-8 全英语",
       "courseId": "15575150",
       "courseName": "学术与商务交流",
       "credit": "4",
-      "limitations": [],
+      "limitations": [
+        "人数已满"
+      ],
       "number": "16",
       "position": "",
       "teacherId": "2017",
@@ -49201,12 +49319,14 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "46",
+      "capacity": "58",
       "classTime": "二1-2 四1-2",
       "courseId": "15575177",
       "courseName": "跨文化管理",
       "credit": "4",
-      "limitations": [],
+      "limitations": [
+        "人数已满"
+      ],
       "number": "58",
       "position": "",
       "teacherId": "2001",
@@ -49215,7 +49335,7 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "45",
+      "capacity": "57",
       "classTime": "二3-4 四3-4",
       "courseId": "15575177",
       "courseName": "跨文化管理",
@@ -49243,13 +49363,15 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "47",
+      "capacity": "67",
       "classTime": "一3-4 三3-4",
       "courseId": "15575307",
       "courseName": "国际商务",
       "credit": "4",
-      "limitations": [],
-      "number": "68",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "67",
       "position": "",
       "teacherId": "2001",
       "teacherName": "陈军",
@@ -49257,7 +49379,7 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "47",
+      "capacity": "34",
       "classTime": "二5-6 四5-6",
       "courseId": "15575307",
       "courseName": "国际商务",
@@ -49271,7 +49393,7 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "27",
+      "capacity": "16",
       "classTime": "二7-8 四7-8 含国际生 全英语",
       "courseId": "15575307",
       "courseName": "国际商务",
@@ -49285,7 +49407,7 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "46",
+      "capacity": "48",
       "classTime": "四5-6",
       "courseId": "15575333",
       "courseName": "经济学基础",
@@ -49299,12 +49421,14 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "46",
+      "capacity": "50",
       "classTime": "四7-8",
       "courseId": "15575333",
       "courseName": "经济学基础",
       "credit": "2",
-      "limitations": [],
+      "limitations": [
+        "人数已满"
+      ],
       "number": "50",
       "position": "",
       "teacherId": "2002",
@@ -49341,7 +49465,7 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "60",
+      "capacity": "61",
       "classTime": "一3-4 四5-6",
       "courseId": "15576090",
       "courseName": "货币银行",
@@ -49355,7 +49479,7 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "60",
+      "capacity": "65",
       "classTime": "一9-10 三9-10",
       "courseId": "15576090",
       "courseName": "货币银行",
@@ -49369,7 +49493,7 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "40",
+      "capacity": "65",
       "classTime": "一9-10 四9-12上机",
       "courseId": "15576137",
       "courseName": "国际贸易实验",
@@ -49425,7 +49549,7 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "20",
+      "capacity": "6",
       "classTime": "一3-4 四5-6",
       "courseId": "15576319",
       "courseName": "国际财务管理",
@@ -49439,7 +49563,7 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "48",
+      "capacity": "55",
       "classTime": "五3-4 含国际生 全英语",
       "courseId": "15576343",
       "courseName": "全球经济治理的大国博弈",
@@ -66299,7 +66423,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "a9d8615f4a849e19884ef22ab973ba90",
+  "hash": "5689dee531bfa0fc2ea353980a65de16",
   "termName": "2023-2024学年春季学期",
-  "updateTimeMs": 1704865097130
+  "updateTimeMs": 1704868833128
 }
