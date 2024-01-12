@@ -22358,7 +22358,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "23",
+      "capacity": "25",
       "classTime": "二3-4国际化基地班",
       "courseId": "03004501",
       "courseName": "国际交流学术英语A(3)",
@@ -35333,7 +35333,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "30",
+      "capacity": "20",
       "classTime": "一3-4 三7-8含上机",
       "courseId": "09A26048",
       "courseName": "有限元仿真分析",
@@ -49504,9 +49504,7 @@
       "courseId": "15145045",
       "courseName": "金融专业导论(2)",
       "credit": "1",
-      "limitations": [
-        "人数已满"
-      ],
+      "limitations": [],
       "number": "12",
       "position": "",
       "teacherId": "2000",
@@ -49619,14 +49617,12 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "60",
+      "capacity": "63",
       "classTime": "五3-4单",
       "courseId": "15145057",
       "courseName": "金融创新创业实践",
       "credit": "1",
-      "limitations": [
-        "人数已满"
-      ],
+      "limitations": [],
       "number": "60",
       "position": "",
       "teacherId": "2001",
@@ -69934,7 +69930,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "2dd40ff86d7fa0e20a65349652a8200c",
+  "hash": "aea382201bf59af7991846f49b8493cc",
   "termName": "2023-2024学年春季学期",
-  "updateTimeMs": 1705034397643
+  "updateTimeMs": 1705037922474
 }
