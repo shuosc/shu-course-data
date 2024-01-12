@@ -16804,16 +16804,13 @@
     },
     {
       "campus": "延长",
-      "capacity": "0",
+      "capacity": "60",
       "classTime": "一5-6",
       "courseId": "0200R601",
       "courseName": "普通话语音与普通话测试",
       "credit": "2",
-      "limitations": [
-        "禁止选课",
-        "人数已满"
-      ],
-      "number": "0",
+      "limitations": [],
+      "number": "3",
       "position": "",
       "teacherId": "3000",
       "teacherName": "李珠",
@@ -47056,16 +47053,13 @@
     },
     {
       "campus": "宝山",
-      "capacity": "0",
+      "capacity": "30",
       "classTime": "一3-4(1-5周)",
       "courseId": "1400Y020",
       "courseName": "新闻传播与当代中国",
       "credit": "1",
-      "limitations": [
-        "禁止选课",
-        "人数已满"
-      ],
-      "number": "0",
+      "limitations": [],
+      "number": "1",
       "position": "",
       "teacherId": "1000",
       "teacherName": "李建新",
@@ -69924,7 +69918,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "d636ffd33f5593df537beb0e14dbbb20",
+  "hash": "858e80bb583788cacbe16324ee0b6413",
   "termName": "2023-2024学年春季学期",
-  "updateTimeMs": 1705041634514
+  "updateTimeMs": 1705045089041
 }
