@@ -36257,15 +36257,12 @@
     },
     {
       "campus": "宝山",
-      "capacity": "0",
+      "capacity": "5",
       "classTime": "二9-11",
       "courseId": "10385007",
       "courseName": "热工仪表及自动控制",
       "credit": "3",
-      "limitations": [
-        "禁止选课",
-        "人数已满"
-      ],
+      "limitations": [],
       "number": "0",
       "position": "",
       "teacherId": "1000",
@@ -38240,7 +38237,7 @@
       "number": "17",
       "position": "",
       "teacherId": "1000",
-      "teacherName": "李亚捷",
+      "teacherName": "李亚捷等",
       "teacherTitle": "副教授"
     },
     {
@@ -49440,6 +49437,20 @@
       "teacherId": "2000",
       "teacherName": "蔡震尧",
       "teacherTitle": "副教授"
+    },
+    {
+      "campus": "嘉定",
+      "capacity": "40",
+      "classTime": "一5-6单 四1-2全英语",
+      "courseId": "1500R011",
+      "courseName": "跨文化交流",
+      "credit": "3",
+      "limitations": [],
+      "number": "0",
+      "position": "",
+      "teacherId": "2000",
+      "teacherName": "聂智",
+      "teacherTitle": "讲师"
     },
     {
       "campus": "嘉定",
@@ -69918,7 +69929,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "858e80bb583788cacbe16324ee0b6413",
+  "hash": "b631e9c875c1d69915139c507ed1e7a4",
   "termName": "2023-2024学年春季学期",
-  "updateTimeMs": 1705045089041
+  "updateTimeMs": 1705048859291
 }
