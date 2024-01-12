@@ -39508,15 +39508,12 @@
     },
     {
       "campus": "宝山",
-      "capacity": "0",
+      "capacity": "30",
       "classTime": "一5-6 四5-6单",
       "courseId": "11456052",
       "courseName": "绿色化学工艺",
       "credit": "3",
-      "limitations": [
-        "禁止选课",
-        "人数已满"
-      ],
+      "limitations": [],
       "number": "0",
       "position": "",
       "teacherId": "1000",
@@ -39539,15 +39536,12 @@
     },
     {
       "campus": "宝山",
-      "capacity": "0",
+      "capacity": "30",
       "classTime": "二3-4 四5-6双",
       "courseId": "11456064",
       "courseName": "波谱分析A",
       "credit": "3",
-      "limitations": [
-        "禁止选课",
-        "人数已满"
-      ],
+      "limitations": [],
       "number": "0",
       "position": "",
       "teacherId": "1000",
@@ -47292,7 +47286,7 @@
     {
       "campus": "延长",
       "capacity": "18",
-      "classTime": "一9-10 三3-4实验",
+      "classTime": "一9-11 三3-4实验",
       "courseId": "14556281",
       "courseName": "影视声音设计",
       "credit": "4",
@@ -69930,7 +69924,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "aea382201bf59af7991846f49b8493cc",
+  "hash": "d636ffd33f5593df537beb0e14dbbb20",
   "termName": "2023-2024学年春季学期",
-  "updateTimeMs": 1705037922474
+  "updateTimeMs": 1705041634514
 }
