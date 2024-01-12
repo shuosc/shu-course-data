@@ -9235,15 +9235,12 @@
     },
     {
       "campus": "宝山",
-      "capacity": "0",
+      "capacity": "20",
       "classTime": "五7-8 限国际本科生",
       "courseId": "00874028",
       "courseName": "大学生社会实践",
       "credit": "1",
-      "limitations": [
-        "禁止选课",
-        "人数已满"
-      ],
+      "limitations": [],
       "number": "0",
       "position": "",
       "teacherId": "1011",
@@ -27531,15 +27528,12 @@
     },
     {
       "campus": "宝山",
-      "capacity": "0",
+      "capacity": "20",
       "classTime": "三1-2 五7-8单",
       "courseId": "04235012",
       "courseName": "信息政策与法规",
       "credit": "3",
-      "limitations": [
-        "禁止选课",
-        "人数已满"
-      ],
+      "limitations": [],
       "number": "0",
       "position": "",
       "teacherId": "1000",
@@ -45670,7 +45664,7 @@
     {
       "campus": "延长",
       "capacity": "20",
-      "classTime": "二1-2(1-10周) 四3-4单",
+      "classTime": "二1-2 四3-4单",
       "courseId": "13686110",
       "courseName": "文化遗产保护与城市更新",
       "credit": "3",
@@ -69944,7 +69938,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "08b45745bca859bc214ef88416f6ee4c",
+  "hash": "0e52cd144fe4fa1ef2dc4f7e40bd826a",
   "termName": "2023-2024学年春季学期",
-  "updateTimeMs": 1705027494348
+  "updateTimeMs": 1705030734005
 }
