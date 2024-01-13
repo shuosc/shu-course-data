@@ -10354,7 +10354,7 @@
       "courseName": "线性代数",
       "credit": "3",
       "limitations": [],
-      "number": "99",
+      "number": "100",
       "position": "",
       "teacherId": "1001",
       "teacherName": "曾晓艳",
@@ -21927,8 +21927,10 @@
       "courseId": "03004487",
       "courseName": "英语口语",
       "credit": "2",
-      "limitations": [],
-      "number": "44",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "45",
       "position": "",
       "teacherId": "1004",
       "teacherName": "Ding Dong",
@@ -53268,7 +53270,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [],
-      "number": "19",
+      "number": "20",
       "position": "",
       "teacherId": "1048",
       "teacherName": "张琳",
@@ -69779,7 +69781,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "9f139189f36e7d438718d78506ec480f",
+  "hash": "6a6b830fafcfa7ea37741fbd65f2b02d",
   "termName": "2023-2024学年春季学期",
-  "updateTimeMs": 1705185510521
+  "updateTimeMs": 1705189111693
 }
