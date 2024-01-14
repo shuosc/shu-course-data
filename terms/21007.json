@@ -19709,8 +19709,10 @@
       "courseId": "03004419",
       "courseName": "旅游英语",
       "credit": "2",
-      "limitations": [],
-      "number": "44",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "45",
       "position": "",
       "teacherId": "1010",
       "teacherName": "沈澄",
@@ -21873,8 +21875,10 @@
       "courseId": "03004487",
       "courseName": "英语口语",
       "credit": "2",
-      "limitations": [],
-      "number": "44",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "45",
       "position": "",
       "teacherId": "1002",
       "teacherName": "Ding Dong",
@@ -25667,7 +25671,7 @@
       "courseName": "金融市场学",
       "credit": "3",
       "limitations": [],
-      "number": "51",
+      "number": "50",
       "position": "",
       "teacherId": "1000",
       "teacherName": "毛杰",
@@ -26537,7 +26541,7 @@
       "courseName": "管理类经典导读与研讨",
       "credit": "2",
       "limitations": [],
-      "number": "25",
+      "number": "26",
       "position": "",
       "teacherId": "1000",
       "teacherName": "李明琨",
@@ -31677,7 +31681,7 @@
       "courseName": "职业定位与就业导向",
       "credit": "2",
       "limitations": [],
-      "number": "67",
+      "number": "68",
       "position": "",
       "teacherId": "1000",
       "teacherName": "张惠然",
@@ -48648,7 +48652,7 @@
       "courseName": "电影制片管理",
       "credit": "3",
       "limitations": [],
-      "number": "8",
+      "number": "9",
       "position": "",
       "teacherId": "3002",
       "teacherName": "段端",
@@ -52587,8 +52591,10 @@
       "courseId": "16583109",
       "courseName": "形势与政策",
       "credit": "0",
-      "limitations": [],
-      "number": "99",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "100",
       "position": "",
       "teacherId": "1006",
       "teacherName": "顾晓英",
@@ -54971,8 +54977,10 @@
       "courseId": "16584136",
       "courseName": "中国近现代史纲要B",
       "credit": "3",
-      "limitations": [],
-      "number": "79",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "80",
       "position": "",
       "teacherId": "1017",
       "teacherName": "陈碧舟",
@@ -57142,7 +57150,7 @@
       "courseName": "思想政治理论课(实践)(2)",
       "credit": "1",
       "limitations": [],
-      "number": "53",
+      "number": "54",
       "position": "",
       "teacherId": "1020",
       "teacherName": "程娜",
@@ -57262,7 +57270,7 @@
       "courseName": "思想政治理论课(实践)(2)",
       "credit": "1",
       "limitations": [],
-      "number": "156",
+      "number": "157",
       "position": "",
       "teacherId": "1028",
       "teacherName": "张靖杰",
@@ -69754,7 +69762,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "a833a22ed302764a719d8705c78f71fe",
+  "hash": "de316e347dc6eeafd79ce831be6fae22",
   "termName": "2023-2024学年春季学期",
-  "updateTimeMs": 1705268291857
+  "updateTimeMs": 1705271920993
 }
