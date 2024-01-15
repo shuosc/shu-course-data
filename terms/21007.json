@@ -5081,8 +5081,10 @@
       "courseId": "00853230",
       "courseName": "武术(基础)",
       "credit": "1",
-      "limitations": [],
-      "number": "23",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "24",
       "position": "",
       "teacherId": "1713",
       "teacherName": "顾修红",
@@ -10944,7 +10946,7 @@
       "courseName": "微积分(3)",
       "credit": "4",
       "limitations": [],
-      "number": "45",
+      "number": "46",
       "position": "",
       "teacherId": "1019",
       "teacherName": "王文环",
@@ -11679,8 +11681,10 @@
       "courseId": "01026089",
       "courseName": "最优化方法选讲",
       "credit": "4",
-      "limitations": [],
-      "number": "64",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "65",
       "position": "",
       "teacherId": "1001",
       "teacherName": "周安娃",
@@ -12011,10 +12015,8 @@
       "courseId": "01034118",
       "courseName": "大学物理(2)",
       "credit": "4",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "122",
+      "limitations": [],
+      "number": "121",
       "position": "",
       "teacherId": "1020",
       "teacherName": "张丽杰",
@@ -12228,7 +12230,7 @@
       "courseName": "大学物理实验(2)",
       "credit": "1",
       "limitations": [],
-      "number": "35",
+      "number": "36",
       "position": "",
       "teacherId": "1007",
       "teacherName": "杨希华",
@@ -20885,7 +20887,7 @@
       "courseName": "通用学术英语B(3)",
       "credit": "2",
       "limitations": [],
-      "number": "38",
+      "number": "39",
       "position": "",
       "teacherId": "1020",
       "teacherName": "谢怡沁",
@@ -20899,7 +20901,7 @@
       "courseName": "通用学术英语B(3)",
       "credit": "2",
       "limitations": [],
-      "number": "40",
+      "number": "41",
       "position": "",
       "teacherId": "1021",
       "teacherName": "谢怡沁",
@@ -29956,10 +29958,8 @@
       "courseId": "07276060",
       "courseName": "数字图像处理B",
       "credit": "4",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "35",
+      "limitations": [],
+      "number": "34",
       "position": "",
       "teacherId": "1003",
       "teacherName": "黄新彭",
@@ -35635,7 +35635,7 @@
       "courseName": "毕业设计(论文)",
       "credit": "20",
       "limitations": [],
-      "number": "70",
+      "number": "71",
       "position": "",
       "teacherId": "1000",
       "teacherName": "田应仲等",
@@ -46906,7 +46906,7 @@
       "courseName": "媒介与社会",
       "credit": "4",
       "limitations": [],
-      "number": "9",
+      "number": "8",
       "position": "",
       "teacherId": "1000",
       "teacherName": "钟怡",
@@ -54234,7 +54234,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [],
-      "number": "95",
+      "number": "94",
       "position": "",
       "teacherId": "1114",
       "teacherName": "陶倩",
@@ -55865,8 +55865,10 @@
       "courseId": "16584171",
       "courseName": "习近平新时代中国特色社会主义思想概论",
       "credit": "3",
-      "limitations": [],
-      "number": "99",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "100",
       "position": "",
       "teacherId": "1003",
       "teacherName": "赵静",
@@ -69792,7 +69794,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "d94a14da1bcf66cc5323ca27297a9fef",
+  "hash": "b3783cae6467e2eb9b2036431efa5efa",
   "termName": "2023-2024学年春季学期",
-  "updateTimeMs": 1705358299107
+  "updateTimeMs": 1705361943282
 }
