@@ -4866,7 +4866,7 @@
       "courseName": "操舞(基础)",
       "credit": "1",
       "limitations": [],
-      "number": "21",
+      "number": "20",
       "position": "",
       "teacherId": "1922",
       "teacherName": "刘超云",
@@ -8649,7 +8649,7 @@
       "courseName": "移动应用设计与开发",
       "credit": "3",
       "limitations": [],
-      "number": "70",
+      "number": "69",
       "position": "",
       "teacherId": "1003",
       "teacherName": "佘俊",
@@ -10488,7 +10488,7 @@
       "courseName": "线性代数",
       "credit": "3",
       "limitations": [],
-      "number": "113",
+      "number": "112",
       "position": "",
       "teacherId": "1010",
       "teacherName": "李新祥",
@@ -16479,8 +16479,10 @@
       "courseId": "0200R032",
       "courseName": "博物馆与人类文明",
       "credit": "2",
-      "limitations": [],
-      "number": "69",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "70",
       "position": "",
       "teacherId": "1000",
       "teacherName": "杨谦",
@@ -54792,7 +54794,7 @@
       "courseName": "中国近现代史纲要B",
       "credit": "3",
       "limitations": [],
-      "number": "72",
+      "number": "71",
       "position": "",
       "teacherId": "1003",
       "teacherName": "艾萍",
@@ -69790,7 +69792,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "9d522fc02c65f1e4509df94f25d47ec3",
+  "hash": "d0269c5315b2043caccb0dadcc9e9f11",
   "termName": "2023-2024学年春季学期",
-  "updateTimeMs": 1705351106269
+  "updateTimeMs": 1705354689256
 }
