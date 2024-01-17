@@ -9937,6 +9937,7 @@
       "courseName": "大学生心理健康",
       "credit": "2",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "0",
@@ -41669,12 +41670,14 @@
     },
     {
       "campus": "延长",
-      "capacity": "30",
+      "capacity": "0",
       "classTime": "(一1-4(9-10周) (二5-8(9-10周) (三1-4(9-10周) (四5-7(9-10周)",
       "courseId": "13006146",
       "courseName": "数字生成艺术(选)",
       "credit": "3",
-      "limitations": [],
+      "limitations": [
+        "禁止选课"
+      ],
       "number": "0",
       "position": "",
       "teacherId": "3000",
@@ -41739,12 +41742,14 @@
     },
     {
       "campus": "延长",
-      "capacity": "20",
+      "capacity": "0",
       "classTime": "三9-12(1-8周)",
       "courseId": "13006162",
       "courseName": "海派文创产品设计与制作(选)",
       "credit": "3",
-      "limitations": [],
+      "limitations": [
+        "禁止选课"
+      ],
       "number": "0",
       "position": "",
       "teacherId": "3000",
@@ -42439,7 +42444,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "8",
+      "capacity": "10",
       "classTime": "三5-8(1-5周)",
       "courseId": "13476233",
       "courseName": "综合艺术基础B(1)",
@@ -42601,12 +42606,14 @@
     },
     {
       "campus": "延长",
-      "capacity": "10",
+      "capacity": "0",
       "classTime": "三9-10(第1周) (三9-12(第2-3周)",
       "courseId": "13476242",
       "courseName": "综合艺术实验(2)",
       "credit": "1",
-      "limitations": [],
+      "limitations": [
+        "禁止选课"
+      ],
       "number": "0",
       "position": "",
       "teacherId": "3002",
@@ -45322,7 +45329,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "20",
+      "capacity": "21",
       "classTime": "三1-2(1-10周) 五7-8单",
       "courseId": "13685040",
       "courseName": "城市工程系统规划",
@@ -45392,7 +45399,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "18",
+      "capacity": "20",
       "classTime": "二9-10",
       "courseId": "13685082",
       "courseName": "城乡规划原理(3)",
@@ -45824,12 +45831,14 @@
     },
     {
       "campus": "延长",
-      "capacity": "20",
+      "capacity": "0",
       "classTime": "(一1-4(9-10周) (二5-8(9-10周) (三1-4(9-10周) (四6-8(9-10周)",
       "courseId": "13706068",
       "courseName": "新媒体艺术概论(选)",
       "credit": "3",
-      "limitations": [],
+      "limitations": [
+        "禁止选课"
+      ],
       "number": "0",
       "position": "",
       "teacherId": "3000",
@@ -46790,12 +46799,14 @@
     },
     {
       "campus": "延长",
-      "capacity": "20",
+      "capacity": "0",
       "classTime": "二9-11",
       "courseId": "13C06027",
       "courseName": "近代上海设计文化",
       "credit": "3",
-      "limitations": [],
+      "limitations": [
+        "禁止选课"
+      ],
       "number": "0",
       "position": "",
       "teacherId": "3000",
@@ -47056,7 +47067,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "45",
+      "capacity": "46",
       "classTime": "二7-8 四7-8",
       "courseId": "14555009",
       "courseName": "电声学基础",
@@ -47084,12 +47095,14 @@
     },
     {
       "campus": "延长",
-      "capacity": "19",
+      "capacity": "0",
       "classTime": "一3-4 五3-4",
       "courseId": "14555249",
       "courseName": "微机原理B",
       "credit": "4",
-      "limitations": [],
+      "limitations": [
+        "禁止选课"
+      ],
       "number": "0",
       "position": "",
       "teacherId": "3001",
@@ -47098,12 +47111,14 @@
     },
     {
       "campus": "延长",
-      "capacity": "40",
+      "capacity": "0",
       "classTime": "一5-6 三3-4",
       "courseId": "14555249",
       "courseName": "微机原理B",
       "credit": "4",
-      "limitations": [],
+      "limitations": [
+        "禁止选课"
+      ],
       "number": "0",
       "position": "",
       "teacherId": "3002",
@@ -47202,7 +47217,7 @@
       "courseName": "游戏设计概论A",
       "credit": "3",
       "limitations": [],
-      "number": "41",
+      "number": "40",
       "position": "",
       "teacherId": "3000",
       "teacherName": "周霁婷",
@@ -47210,12 +47225,14 @@
     },
     {
       "campus": "延长",
-      "capacity": "20",
+      "capacity": "0",
       "classTime": "二1-2 四1-2上机",
       "courseId": "14556174",
       "courseName": "人机交互技术",
       "credit": "3",
-      "limitations": [],
+      "limitations": [
+        "禁止选课"
+      ],
       "number": "0",
       "position": "",
       "teacherId": "3000",
@@ -47374,7 +47391,7 @@
       "courseName": "影视摄像(2)",
       "credit": "3",
       "limitations": [],
-      "number": "45",
+      "number": "44",
       "position": "",
       "teacherId": "3000",
       "teacherName": "王天翼",
@@ -47460,7 +47477,7 @@
       "courseName": "拉片点读",
       "credit": "3",
       "limitations": [],
-      "number": "33",
+      "number": "30",
       "position": "",
       "teacherId": "3001",
       "teacherName": "刘延刚",
@@ -47474,7 +47491,7 @@
       "courseName": "拉片点读",
       "credit": "3",
       "limitations": [],
-      "number": "31",
+      "number": "20",
       "position": "",
       "teacherId": "3002",
       "teacherName": "刘延刚",
@@ -47482,13 +47499,13 @@
     },
     {
       "campus": "延长",
-      "capacity": "20",
+      "capacity": "21",
       "classTime": "三1-2 五1-2单",
       "courseId": "14566265",
       "courseName": "影视录音",
       "credit": "3",
       "limitations": [],
-      "number": "22",
+      "number": "21",
       "position": "",
       "teacherId": "3000",
       "teacherName": "金勇",
@@ -47580,13 +47597,13 @@
     },
     {
       "campus": "延长",
-      "capacity": "22",
+      "capacity": "24",
       "classTime": "二9-11",
       "courseId": "14566311",
       "courseName": "交互影像",
       "credit": "3",
       "limitations": [],
-      "number": "25",
+      "number": "24",
       "position": "",
       "teacherId": "3000",
       "teacherName": "李运团",
@@ -47594,7 +47611,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "1",
+      "capacity": "2",
       "classTime": "咨询学院",
       "courseId": "1456A041",
       "courseName": "毕业论文",
@@ -47904,7 +47921,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "16",
+      "capacity": "19",
       "classTime": "咨询学院",
       "courseId": "1476A027",
       "courseName": "毕业创作与展示(3)",
@@ -47918,7 +47935,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "16",
+      "capacity": "17",
       "classTime": "咨询学院",
       "courseId": "1476A028",
       "courseName": "毕业论文",
@@ -48296,7 +48313,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "20",
+      "capacity": "21",
       "classTime": "二3-4 四9-12实验 五1-4实验",
       "courseId": "14795042",
       "courseName": "电影摄影造型创作A",
@@ -48324,7 +48341,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "20",
+      "capacity": "21",
       "classTime": "二1-2 四1-4实验 五7-10实验",
       "courseId": "14795045",
       "courseName": "电影摄影灯光造型A",
@@ -48352,7 +48369,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "20",
+      "capacity": "21",
       "classTime": "三3-4",
       "courseId": "14795073",
       "courseName": "镜头语言导论",
@@ -48366,13 +48383,13 @@
     },
     {
       "campus": "延长",
-      "capacity": "22",
+      "capacity": "23",
       "classTime": "四7-8 全英语",
       "courseId": "14796024",
       "courseName": "电影英语应用",
       "credit": "2",
       "limitations": [],
-      "number": "24",
+      "number": "23",
       "position": "",
       "teacherId": "3000",
       "teacherName": "虞浩",
@@ -48380,12 +48397,14 @@
     },
     {
       "campus": "延长",
-      "capacity": "20",
+      "capacity": "0",
       "classTime": "二7-8 二9-12实验",
       "courseId": "14796025",
       "courseName": "电影声音设计",
       "credit": "4",
-      "limitations": [],
+      "limitations": [
+        "禁止选课"
+      ],
       "number": "2",
       "position": "",
       "teacherId": "3000",
@@ -48394,12 +48413,14 @@
     },
     {
       "campus": "延长",
-      "capacity": "20",
+      "capacity": "0",
       "classTime": "一3-4 一5-6实验 三5-8实验",
       "courseId": "14796030",
       "courseName": "广告MV制作",
       "credit": "5",
-      "limitations": [],
+      "limitations": [
+        "禁止选课"
+      ],
       "number": "2",
       "position": "",
       "teacherId": "3000",
@@ -48408,12 +48429,14 @@
     },
     {
       "campus": "延长",
-      "capacity": "20",
+      "capacity": "0",
       "classTime": "二5-6 二7-8实验 四5-8实验",
       "courseId": "14796031",
       "courseName": "纪录片创作",
       "credit": "5",
-      "limitations": [],
+      "limitations": [
+        "禁止选课"
+      ],
       "number": "3",
       "position": "",
       "teacherId": "3000",
@@ -48450,7 +48473,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "19",
+      "capacity": "20",
       "classTime": "咨询学院",
       "courseId": "1479A021",
       "courseName": "毕业创作(论文)",
@@ -48506,12 +48529,14 @@
     },
     {
       "campus": "延长",
-      "capacity": "19",
+      "capacity": "0",
       "classTime": "二5-6 四5-6单",
       "courseId": "14995005",
       "courseName": "世界音乐史",
       "credit": "3",
-      "limitations": [],
+      "limitations": [
+        "禁止选课"
+      ],
       "number": "0",
       "position": "",
       "teacherId": "3000",
@@ -48526,7 +48551,7 @@
       "courseName": "短剧写作",
       "credit": "3",
       "limitations": [],
-      "number": "22",
+      "number": "21",
       "position": "",
       "teacherId": "3000",
       "teacherName": "KUNC STEPHEN CHARLES",
@@ -48562,7 +48587,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "19",
+      "capacity": "20",
       "classTime": "二7-8",
       "courseId": "14996043",
       "courseName": "录音声学基础",
@@ -48688,12 +48713,14 @@
     },
     {
       "campus": "延长",
-      "capacity": "15",
+      "capacity": "0",
       "classTime": "二7-8 四7-8单",
       "courseId": "14A05030",
       "courseName": "电影特效",
       "credit": "3",
-      "limitations": [],
+      "limitations": [
+        "禁止选课"
+      ],
       "number": "3",
       "position": "",
       "teacherId": "3000",
@@ -48708,7 +48735,7 @@
       "courseName": "电影制片管理",
       "credit": "3",
       "limitations": [],
-      "number": "17",
+      "number": "16",
       "position": "",
       "teacherId": "3001",
       "teacherName": "段端",
@@ -48744,7 +48771,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "16",
+      "capacity": "17",
       "classTime": "四1-4实验",
       "courseId": "14A05063",
       "courseName": "表演基础训练(3)",
@@ -48842,12 +48869,14 @@
     },
     {
       "campus": "延长",
-      "capacity": "15",
+      "capacity": "0",
       "classTime": "一7-8 三7-8单",
       "courseId": "14A06060",
       "courseName": "电影产业研究",
       "credit": "3",
-      "limitations": [],
+      "limitations": [
+        "禁止选课"
+      ],
       "number": "2",
       "position": "",
       "teacherId": "3000",
@@ -48870,7 +48899,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "13",
+      "capacity": "14",
       "classTime": "咨询学院",
       "courseId": "14A0A018",
       "courseName": "毕业电影创作(3)",
@@ -48996,12 +49025,14 @@
     },
     {
       "campus": "延长",
-      "capacity": "20",
+      "capacity": "0",
       "classTime": "三1-2单 五1-2",
       "courseId": "14A46020",
       "courseName": "电影叙事学",
       "credit": "3",
-      "limitations": [],
+      "limitations": [
+        "禁止选课"
+      ],
       "number": "0",
       "position": "",
       "teacherId": "3000",
@@ -49010,12 +49041,14 @@
     },
     {
       "campus": "延长",
-      "capacity": "20",
+      "capacity": "0",
       "classTime": "二3-4 四3-4单",
       "courseId": "14A46021",
       "courseName": "当代西方艺术思潮",
       "credit": "3",
-      "limitations": [],
+      "limitations": [
+        "禁止选课"
+      ],
       "number": "0",
       "position": "",
       "teacherId": "3000",
@@ -49038,12 +49071,14 @@
     },
     {
       "campus": "延长",
-      "capacity": "20",
+      "capacity": "0",
       "classTime": "二5-6 五3-4单",
       "courseId": "14A46027",
       "courseName": "戏曲编剧基础",
       "credit": "3",
-      "limitations": [],
+      "limitations": [
+        "禁止选课"
+      ],
       "number": "4",
       "position": "",
       "teacherId": "3000",
@@ -49212,7 +49247,7 @@
       "courseName": "电影摄影基础",
       "credit": "4",
       "limitations": [],
-      "number": "21",
+      "number": "20",
       "position": "",
       "teacherId": "3000",
       "teacherName": "司雨茜",
@@ -49220,7 +49255,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "20",
+      "capacity": "21",
       "classTime": "一5-8实验 三5-8实验",
       "courseId": "14A85026",
       "courseName": "人物造型设计(2)",
@@ -49234,7 +49269,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "20",
+      "capacity": "21",
       "classTime": "二1-2 五7-10实验",
       "courseId": "14A85029",
       "courseName": "舞台美术设计",
@@ -49304,12 +49339,14 @@
     },
     {
       "campus": "延长",
-      "capacity": "20",
+      "capacity": "0",
       "classTime": "二7-8 四7-8单",
       "courseId": "14A86039",
       "courseName": "动画创作基础",
       "credit": "3",
-      "limitations": [],
+      "limitations": [
+        "禁止选课"
+      ],
       "number": "4",
       "position": "",
       "teacherId": "3000",
@@ -58203,7 +58240,7 @@
       "number": "26",
       "position": "",
       "teacherId": "3002",
-      "teacherName": "单凌",
+      "teacherName": "单凌等",
       "teacherTitle": "讲师"
     },
     {
@@ -58630,12 +58667,14 @@
     },
     {
       "campus": "延长",
-      "capacity": "40",
+      "capacity": "0",
       "classTime": "一9-10 四3-4单",
       "courseId": "17656017",
       "courseName": "传媒集团研究",
       "credit": "3",
-      "limitations": [],
+      "limitations": [
+        "禁止选课"
+      ],
       "number": "1",
       "position": "",
       "teacherId": "3000",
@@ -58672,12 +58711,14 @@
     },
     {
       "campus": "延长",
-      "capacity": "35",
+      "capacity": "0",
       "classTime": "二1-2 四1-2单",
       "courseId": "17656034",
       "courseName": "传媒社会责任理论与实践",
       "credit": "3",
-      "limitations": [],
+      "limitations": [
+        "禁止选课"
+      ],
       "number": "0",
       "position": "",
       "teacherId": "3000",
@@ -58770,12 +58811,14 @@
     },
     {
       "campus": "延长",
-      "capacity": "30",
+      "capacity": "0",
       "classTime": "一3-4单 三5-6",
       "courseId": "17705074",
       "courseName": "会议管理A",
       "credit": "3",
-      "limitations": [],
+      "limitations": [
+        "禁止选课"
+      ],
       "number": "0",
       "position": "",
       "teacherId": "3000",
@@ -69887,7 +69930,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "e8acb6d4409a809d005c6a54d425e507",
+  "hash": "5b7e97ae01790e7d8c050e0462c9d8f3",
   "termName": "2023-2024学年春季学期",
-  "updateTimeMs": 1705469890678
+  "updateTimeMs": 1705473607749
 }
