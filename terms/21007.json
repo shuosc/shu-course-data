@@ -1563,7 +1563,9 @@
       "courseId": "00853003",
       "courseName": "体育(3)",
       "credit": "1",
-      "limitations": [],
+      "limitations": [
+        "人数已满"
+      ],
       "number": "22",
       "position": "",
       "teacherId": "2422",
@@ -1593,7 +1595,9 @@
       "courseId": "00853003",
       "courseName": "体育(3)",
       "credit": "1",
-      "limitations": [],
+      "limitations": [
+        "人数已满"
+      ],
       "number": "22",
       "position": "",
       "teacherId": "2426",
@@ -1743,7 +1747,9 @@
       "courseId": "00853003",
       "courseName": "体育(3)",
       "credit": "1",
-      "limitations": [],
+      "limitations": [
+        "人数已满"
+      ],
       "number": "22",
       "position": "",
       "teacherId": "2802",
@@ -9933,7 +9939,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "1",
+      "number": "0",
       "position": "",
       "teacherId": "2003",
       "teacherName": "杨颖",
@@ -10616,12 +10622,14 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "95",
+      "capacity": "93",
       "classTime": "一5-6 三3-4",
       "courseId": "01014118",
       "courseName": "概率论与数理统计C",
       "credit": "4",
-      "limitations": [],
+      "limitations": [
+        "人数已满"
+      ],
       "number": "93",
       "position": "",
       "teacherId": "2004",
@@ -16897,7 +16905,9 @@
       "courseId": "0200RH04",
       "courseName": "考古发现与华夏文明",
       "credit": "2",
-      "limitations": [],
+      "limitations": [
+        "人数已满"
+      ],
       "number": "60",
       "position": "",
       "teacherId": "2000",
@@ -41898,7 +41908,9 @@
       "courseId": "1300R601",
       "courseName": "艺术与审美",
       "credit": "2",
-      "limitations": [],
+      "limitations": [
+        "人数已满"
+      ],
       "number": "25",
       "position": "",
       "teacherId": "2000",
@@ -68965,7 +68977,9 @@
       "courseId": "36055014",
       "courseName": "集成电路器件与工艺实验",
       "credit": "3",
-      "limitations": [],
+      "limitations": [
+        "人数已满"
+      ],
       "number": "10",
       "position": "",
       "teacherId": "2001",
@@ -69025,7 +69039,9 @@
       "courseId": "36055014",
       "courseName": "集成电路器件与工艺实验",
       "credit": "3",
-      "limitations": [],
+      "limitations": [
+        "人数已满"
+      ],
       "number": "10",
       "position": "",
       "teacherId": "2005",
@@ -69871,7 +69887,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "ee413b708bbae6ec56b6a023833d3dcf",
+  "hash": "e8acb6d4409a809d005c6a54d425e507",
   "termName": "2023-2024学年春季学期",
-  "updateTimeMs": 1705466384889
+  "updateTimeMs": 1705469890678
 }
