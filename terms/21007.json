@@ -18744,13 +18744,16 @@
     },
     {
       "campus": "宝山",
-      "capacity": "30",
+      "capacity": "0",
       "classTime": "二1-2 五1-2双",
       "courseId": "02086330",
       "courseName": "宋史十讲",
       "credit": "3",
-      "limitations": [],
-      "number": "2",
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
+      "number": "0",
       "position": "",
       "teacherId": "1000",
       "teacherName": "舒健",
@@ -19625,13 +19628,16 @@
     },
     {
       "campus": "宝山",
-      "capacity": "25",
+      "capacity": "0",
       "classTime": "二5-6 四1-2单",
       "courseId": "02B56040",
       "courseName": "环境考古学",
       "credit": "3",
-      "limitations": [],
-      "number": "2",
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
+      "number": "0",
       "position": "",
       "teacherId": "1000",
       "teacherName": "黄超等",
@@ -19667,13 +19673,16 @@
     },
     {
       "campus": "宝山",
-      "capacity": "25",
+      "capacity": "0",
       "classTime": "一1-2 三5-6单",
       "courseId": "02B56058",
       "courseName": "工业遗产研究",
       "credit": "3",
-      "limitations": [],
-      "number": "2",
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
+      "number": "0",
       "position": "",
       "teacherId": "1000",
       "teacherName": "孙淼",
@@ -19681,13 +19690,16 @@
     },
     {
       "campus": "宝山",
-      "capacity": "25",
+      "capacity": "0",
       "classTime": "一9-11",
       "courseId": "02B56061",
       "courseName": "敦煌学",
       "credit": "3",
-      "limitations": [],
-      "number": "2",
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
+      "number": "0",
       "position": "",
       "teacherId": "1000",
       "teacherName": "尤小羽",
@@ -36516,13 +36528,16 @@
     },
     {
       "campus": "宝山",
-      "capacity": "50",
+      "capacity": "0",
       "classTime": "一1-2 四9-11单含实验",
       "courseId": "09B66017",
       "courseName": "机器人设计中的人机工程学",
       "credit": "3",
-      "limitations": [],
-      "number": "2",
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
+      "number": "0",
       "position": "",
       "teacherId": "1000",
       "teacherName": "范乐明",
@@ -40183,13 +40198,16 @@
     },
     {
       "campus": "宝山",
-      "capacity": "30",
+      "capacity": "0",
       "classTime": "二5-6 五1-2双",
       "courseId": "11455067",
       "courseName": "化工设备机械基础A",
       "credit": "3",
-      "limitations": [],
-      "number": "2",
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
+      "number": "0",
       "position": "",
       "teacherId": "1000",
       "teacherName": "贾少晋",
@@ -40253,13 +40271,16 @@
     },
     {
       "campus": "宝山",
-      "capacity": "30",
+      "capacity": "0",
       "classTime": "二3-4 四5-6双",
       "courseId": "11456064",
       "courseName": "波谱分析A",
       "credit": "3",
-      "limitations": [],
-      "number": "1",
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
+      "number": "0",
       "position": "",
       "teacherId": "1000",
       "teacherName": "吕丽萍",
@@ -60642,12 +60663,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "15",
+      "capacity": "0",
       "classTime": "二1-2 四1-2上机",
       "courseId": "18466125",
       "courseName": "土木工程应用程序设计",
       "credit": "3",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
       "number": "1",
       "position": "",
       "teacherId": "1000",
@@ -60656,12 +60680,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "15",
+      "capacity": "0",
       "classTime": "一7-8",
       "courseId": "18466149",
       "courseName": "人工智能与土木工程导论",
       "credit": "2",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
       "number": "1",
       "position": "",
       "teacherId": "1000",
@@ -60698,12 +60725,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "15",
+      "capacity": "0",
       "classTime": "四9-11",
       "courseId": "18466165",
       "courseName": "工程结构加固设计原理",
       "credit": "3",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
       "number": "1",
       "position": "",
       "teacherId": "1000",
@@ -63079,7 +63109,7 @@
         "禁止选课",
         "人数已满"
       ],
-      "number": "1",
+      "number": "0",
       "position": "",
       "teacherId": "1000",
       "teacherName": "Antoine JOUGLET等",
@@ -63479,7 +63509,7 @@
         "禁止选课",
         "人数已满"
       ],
-      "number": "1",
+      "number": "0",
       "position": "",
       "teacherId": "1006",
       "teacherName": "王骞",
@@ -63803,7 +63833,7 @@
         "禁止选课",
         "人数已满"
       ],
-      "number": "1",
+      "number": "0",
       "position": "",
       "teacherId": "1002",
       "teacherName": "朱琦等",
@@ -63876,7 +63906,7 @@
         "禁止选课",
         "人数已满"
       ],
-      "number": "2",
+      "number": "0",
       "position": "",
       "teacherId": "1000",
       "teacherName": "Abel CHEROUAT等",
@@ -71946,7 +71976,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "8949b8e1fccfbe19f389332b2e1518e1",
+  "hash": "236016552dc468760dfebceb4e67b236",
   "termName": "2023-2024学年春季学期",
-  "updateTimeMs": 1705560065406
+  "updateTimeMs": 1705563506587
 }
