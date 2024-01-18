@@ -9106,8 +9106,10 @@
       "courseId": "00874008",
       "courseName": "形势与政策(实践)",
       "credit": "1",
-      "limitations": [],
-      "number": "26",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "20",
       "position": "",
       "teacherId": "1000",
       "teacherName": "奚建群",
@@ -55734,8 +55736,10 @@
       "courseId": "16584153",
       "courseName": "思想道德与法治",
       "credit": "3",
-      "limitations": [],
-      "number": "127",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "120",
       "position": "",
       "teacherId": "1000",
       "teacherName": "宋哲仁",
@@ -58010,7 +58014,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "96",
+      "capacity": "99",
       "classTime": "二3-4 四3-4单",
       "courseId": "16614109",
       "courseName": "逻辑与批判性思维",
@@ -58052,7 +58056,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "98",
+      "capacity": "103",
       "classTime": "二9-11",
       "courseId": "16614109",
       "courseName": "逻辑与批判性思维",
@@ -58080,7 +58084,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "70",
+      "capacity": "76",
       "classTime": "三9-11",
       "courseId": "16614109",
       "courseName": "逻辑与批判性思维",
@@ -70499,7 +70503,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "abc79f9a120916c7359ef8d9c12d3b88",
+  "hash": "5163275eca0a061c0c9713cc8b683444",
   "termName": "2023-2024学年春季学期",
-  "updateTimeMs": 1705549109112
+  "updateTimeMs": 1705552756669
 }
