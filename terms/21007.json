@@ -52935,14 +52935,12 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "41",
+      "capacity": "43",
       "classTime": "一5-6 三3-4",
       "courseId": "15575085",
       "courseName": "商务统计学",
       "credit": "4",
-      "limitations": [
-        "人数已满"
-      ],
+      "limitations": [],
       "number": "41",
       "position": "",
       "teacherId": "2001",
@@ -52951,7 +52949,7 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "40",
+      "capacity": "43",
       "classTime": "一5-6 三3-4",
       "courseId": "15575085",
       "courseName": "商务统计学",
@@ -52965,12 +52963,14 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "35",
+      "capacity": "25",
       "classTime": "一3-4 五3-4",
       "courseId": "15575085",
       "courseName": "商务统计学",
       "credit": "4",
-      "limitations": [],
+      "limitations": [
+        "人数已满"
+      ],
       "number": "25",
       "position": "",
       "teacherId": "2003",
@@ -52979,7 +52979,7 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "35",
+      "capacity": "25",
       "classTime": "三5-6 五7-8",
       "courseId": "15575085",
       "courseName": "商务统计学",
@@ -60672,7 +60672,7 @@
         "禁止选课",
         "人数已满"
       ],
-      "number": "1",
+      "number": "0",
       "position": "",
       "teacherId": "1000",
       "teacherName": "蒋茗韬",
@@ -60689,7 +60689,7 @@
         "禁止选课",
         "人数已满"
       ],
-      "number": "1",
+      "number": "0",
       "position": "",
       "teacherId": "1000",
       "teacherName": "王长青",
@@ -60734,7 +60734,7 @@
         "禁止选课",
         "人数已满"
       ],
-      "number": "1",
+      "number": "0",
       "position": "",
       "teacherId": "1000",
       "teacherName": "朱炯亦",
@@ -71976,7 +71976,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "236016552dc468760dfebceb4e67b236",
+  "hash": "da43f01e540561a5f06fa7dd9b77c0b8",
   "termName": "2023-2024学年春季学期",
-  "updateTimeMs": 1705563506587
+  "updateTimeMs": 1705567162915
 }
