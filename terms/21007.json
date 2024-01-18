@@ -9181,7 +9181,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "65",
+      "capacity": "70",
       "classTime": "三3-4",
       "courseId": "00874028",
       "courseName": "大学生社会实践",
@@ -9273,12 +9273,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "20",
+      "capacity": "0",
       "classTime": "五7-8 限国际本科生",
       "courseId": "00874028",
       "courseName": "大学生社会实践",
       "credit": "1",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
       "number": "0",
       "position": "",
       "teacherId": "1011",
@@ -9390,14 +9393,12 @@
     },
     {
       "campus": "宝山",
-      "capacity": "24",
+      "capacity": "32",
       "classTime": "二7-8 木质匠心",
       "courseId": "00883034",
       "courseName": "劳动素养专项实践",
       "credit": "1",
-      "limitations": [
-        "人数已满"
-      ],
+      "limitations": [],
       "number": "24",
       "position": "",
       "teacherId": "1002",
@@ -9436,14 +9437,12 @@
     },
     {
       "campus": "宝山",
-      "capacity": "24",
+      "capacity": "32",
       "classTime": "四7-8木质匠心",
       "courseId": "00883034",
       "courseName": "劳动素养专项实践",
       "credit": "1",
-      "limitations": [
-        "人数已满"
-      ],
+      "limitations": [],
       "number": "24",
       "position": "",
       "teacherId": "1005",
@@ -9500,14 +9499,12 @@
     },
     {
       "campus": "宝山",
-      "capacity": "24",
+      "capacity": "32",
       "classTime": "五3-4木质匠心",
       "courseId": "00883034",
       "courseName": "劳动素养专项实践",
       "credit": "1",
-      "limitations": [
-        "人数已满"
-      ],
+      "limitations": [],
       "number": "24",
       "position": "",
       "teacherId": "1009",
@@ -9516,7 +9513,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "24",
+      "capacity": "32",
       "classTime": "二3-4 木质匠心",
       "courseId": "00883034",
       "courseName": "劳动素养专项实践",
@@ -9544,7 +9541,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "24",
+      "capacity": "32",
       "classTime": "四3-4 木质匠心",
       "courseId": "00883034",
       "courseName": "劳动素养专项实践",
@@ -9572,7 +9569,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "24",
+      "capacity": "32",
       "classTime": "五7-8 木质匠心",
       "courseId": "00883034",
       "courseName": "劳动素养专项实践",
@@ -9876,7 +9873,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "60",
+      "capacity": "70",
       "classTime": "三5-6单 五11-12实验线上",
       "courseId": "00944008",
       "courseName": "大学生心理健康",
@@ -9890,7 +9887,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "60",
+      "capacity": "40",
       "classTime": "三3-4双 五11-12实验线上",
       "courseId": "00944008",
       "courseName": "大学生心理健康",
@@ -9918,7 +9915,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "60",
+      "capacity": "70",
       "classTime": "二3-4双 五11-12实验线上",
       "courseId": "00944008",
       "courseName": "大学生心理健康",
@@ -9948,7 +9945,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "60",
+      "capacity": "30",
       "classTime": "二3-4单 五11-12实验线上",
       "courseId": "00944008",
       "courseName": "大学生心理健康",
@@ -16954,7 +16951,7 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "25",
+      "capacity": "24",
       "classTime": "三9-11",
       "courseId": "0200R605",
       "courseName": "大学创意写作",
@@ -28872,7 +28869,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "52",
+      "capacity": "53",
       "classTime": "二7-8 四5-6单",
       "courseId": "06265175",
       "courseName": "民法A(3)",
@@ -70186,7 +70183,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "30",
+      "capacity": "32",
       "classTime": "二7-8 四7-8",
       "courseId": "39114003",
       "courseName": "强化英语(3)",
@@ -70228,7 +70225,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "30",
+      "capacity": "32",
       "classTime": "一5-6 三5-6",
       "courseId": "39114003",
       "courseName": "强化英语(3)",
@@ -70503,7 +70500,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "5163275eca0a061c0c9713cc8b683444",
+  "hash": "8029235d3959f9edc4f2e21f4467465e",
   "termName": "2023-2024学年春季学期",
-  "updateTimeMs": 1705552756669
+  "updateTimeMs": 1705556302843
 }
