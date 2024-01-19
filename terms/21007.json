@@ -60582,16 +60582,13 @@
     },
     {
       "campus": "宝山",
-      "capacity": "0",
+      "capacity": "10",
       "classTime": "一7-8",
       "courseId": "18466149",
       "courseName": "人工智能与土木工程导论",
       "credit": "2",
-      "limitations": [
-        "禁止选课",
-        "人数已满"
-      ],
-      "number": "0",
+      "limitations": [],
+      "number": "1",
       "position": "",
       "teacherId": "1000",
       "teacherName": "王长青",
@@ -60700,7 +60697,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "5",
+      "capacity": "10",
       "classTime": "另行通知",
       "courseId": "1846A002",
       "courseName": "毕业设计(论文)",
@@ -71878,7 +71875,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "c74887b23d4089fa9e83039917ec92e5",
+  "hash": "6647c30917ba6c808de98489087d8175",
   "termName": "2023-2024学年春季学期",
-  "updateTimeMs": 1705632328087
+  "updateTimeMs": 1705635533298
 }
