@@ -17258,8 +17258,8 @@
       "number": "32",
       "position": "",
       "teacherId": "1000",
-      "teacherName": "张勇安",
-      "teacherTitle": "教授"
+      "teacherName": "杨长云",
+      "teacherTitle": "副教授"
     },
     {
       "campus": "嘉定",
@@ -18754,16 +18754,13 @@
     },
     {
       "campus": "宝山",
-      "capacity": "0",
+      "capacity": "15",
       "classTime": "二1-2 五1-2双",
       "courseId": "02086330",
       "courseName": "宋史十讲",
       "credit": "3",
-      "limitations": [
-        "禁止选课",
-        "人数已满"
-      ],
-      "number": "0",
+      "limitations": [],
+      "number": "2",
       "position": "",
       "teacherId": "1000",
       "teacherName": "舒健",
@@ -21860,14 +21857,12 @@
     },
     {
       "campus": "宝山",
-      "capacity": "23",
+      "capacity": "26",
       "classTime": "三1-2",
       "courseId": "03004485",
       "courseName": "通用学术英语A(3)",
       "credit": "2",
-      "limitations": [
-        "人数已满"
-      ],
+      "limitations": [],
       "number": "23",
       "position": "",
       "teacherId": "1001",
@@ -21890,14 +21885,12 @@
     },
     {
       "campus": "宝山",
-      "capacity": "23",
+      "capacity": "26",
       "classTime": "三1-2",
       "courseId": "03004485",
       "courseName": "通用学术英语A(3)",
       "credit": "2",
-      "limitations": [
-        "人数已满"
-      ],
+      "limitations": [],
       "number": "23",
       "position": "",
       "teacherId": "1003",
@@ -22148,14 +22141,12 @@
     },
     {
       "campus": "宝山",
-      "capacity": "25",
+      "capacity": "26",
       "classTime": "三1-2",
       "courseId": "03004485",
       "courseName": "通用学术英语A(3)",
       "credit": "2",
-      "limitations": [
-        "人数已满"
-      ],
+      "limitations": [],
       "number": "25",
       "position": "",
       "teacherId": "1020",
@@ -22224,13 +22215,16 @@
     },
     {
       "campus": "宝山",
-      "capacity": "23",
+      "capacity": "0",
       "classTime": "三1-2",
       "courseId": "03004485",
       "courseName": "通用学术英语A(3)",
       "credit": "2",
-      "limitations": [],
-      "number": "7",
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
+      "number": "0",
       "position": "",
       "teacherId": "1025",
       "teacherName": "张新玲",
@@ -23150,7 +23144,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "65",
+      "capacity": "70",
       "classTime": "一5-6",
       "courseId": "0300R009",
       "courseName": "日本推理小说与影视",
@@ -38185,13 +38179,16 @@
     },
     {
       "campus": "宝山",
-      "capacity": "15",
+      "capacity": "0",
       "classTime": "一1-2 三1-2含实验 全英语",
       "courseId": "10415003",
       "courseName": "材料表征技术(1)",
       "credit": "3",
-      "limitations": [],
-      "number": "1",
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
+      "number": "0",
       "position": "",
       "teacherId": "1003",
       "teacherName": "杨昕昕",
@@ -71873,7 +71870,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "f60ae653db305e4aece3a35547e6326e",
+  "hash": "70ca9e0f4f0e5cb6a35d1f37f844a2dd",
   "termName": "2023-2024学年春季学期",
-  "updateTimeMs": 1705876708399
+  "updateTimeMs": 1705887912261
 }
