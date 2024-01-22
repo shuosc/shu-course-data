@@ -26691,16 +26691,13 @@
     },
     {
       "campus": "宝山",
-      "capacity": "0",
+      "capacity": "45",
       "classTime": "一3-4 二1-2单 四7-8",
       "courseId": "04176009",
       "courseName": "电子商务",
       "credit": "5",
-      "limitations": [
-        "禁止选课",
-        "人数已满"
-      ],
-      "number": "0",
+      "limitations": [],
+      "number": "2",
       "position": "",
       "teacherId": "1002",
       "teacherName": "魏洁",
@@ -71870,7 +71867,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "70ca9e0f4f0e5cb6a35d1f37f844a2dd",
+  "hash": "0c401cd1c4f6dc18e01a4296ddd3c022",
   "termName": "2023-2024学年春季学期",
-  "updateTimeMs": 1705887912261
+  "updateTimeMs": 1705891683497
 }
