@@ -19105,7 +19105,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "40",
+      "capacity": "30",
       "classTime": "二7-8 五3-4单",
       "courseId": "02096148",
       "courseName": "劳动社会学",
@@ -24788,13 +24788,16 @@
     },
     {
       "campus": "宝山",
-      "capacity": "25",
-      "classTime": "一5-6",
+      "capacity": "0",
+      "classTime": "不开",
       "courseId": "0400J497",
       "courseName": "战略思维与管理艺术",
       "credit": "2",
-      "limitations": [],
-      "number": "6",
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
+      "number": "0",
       "position": "",
       "teacherId": "1000",
       "teacherName": "聂永有等",
@@ -60997,7 +61000,7 @@
       "courseName": "英语A(3)",
       "credit": "3",
       "limitations": [],
-      "number": "17",
+      "number": "18",
       "position": "",
       "teacherId": "1000",
       "teacherName": "陶小路",
@@ -71865,7 +71868,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "7910f7b3484425cfc35ed21741198e22",
+  "hash": "e00c8e4efab0405b33c6d9117ce4644a",
   "termName": "2023-2024学年春季学期",
-  "updateTimeMs": 1706078448435
+  "updateTimeMs": 1706081905794
 }
