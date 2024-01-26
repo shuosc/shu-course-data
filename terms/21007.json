@@ -15756,7 +15756,7 @@
       "courseName": "综合化学实验B(1)",
       "credit": "2",
       "limitations": [],
-      "number": "6",
+      "number": "7",
       "position": "",
       "teacherId": "1001",
       "teacherName": "曹卫国等",
@@ -16093,7 +16093,7 @@
       "courseName": "计算化学导论",
       "credit": "4",
       "limitations": [],
-      "number": "8",
+      "number": "9",
       "position": "",
       "teacherId": "1000",
       "teacherName": "宁芳华",
@@ -17303,8 +17303,10 @@
       "courseId": "0200Y005",
       "courseName": "自杀研究",
       "credit": "1",
-      "limitations": [],
-      "number": "29",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "30",
       "position": "",
       "teacherId": "1000",
       "teacherName": "刘长林",
@@ -20487,10 +20489,8 @@
       "courseId": "03004474",
       "courseName": "通用英语D(3)",
       "credit": "2",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "37",
+      "limitations": [],
+      "number": "36",
       "position": "",
       "teacherId": "1006",
       "teacherName": "蔡石兴",
@@ -33707,7 +33707,7 @@
       "courseName": "精密机械设计基础(1)",
       "credit": "3",
       "limitations": [],
-      "number": "39",
+      "number": "38",
       "position": "",
       "teacherId": "1000",
       "teacherName": "刘吉成",
@@ -33721,7 +33721,7 @@
       "courseName": "数字电路",
       "credit": "3",
       "limitations": [],
-      "number": "41",
+      "number": "40",
       "position": "",
       "teacherId": "1000",
       "teacherName": "陈金波",
@@ -35128,7 +35128,7 @@
       "courseName": "过程控制系统A",
       "credit": "5",
       "limitations": [],
-      "number": "15",
+      "number": "16",
       "position": "",
       "teacherId": "1004",
       "teacherName": "许其超",
@@ -48091,8 +48091,10 @@
       "courseId": "1400R801",
       "courseName": "《消费社会》与消费文化",
       "credit": "2",
-      "limitations": [],
-      "number": "69",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "70",
       "position": "",
       "teacherId": "1000",
       "teacherName": "贾鉴",
@@ -71960,7 +71962,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "2a25bb410353103dd35f39e8fa188072",
+  "hash": "45305664c2708b82801edf978ab535da",
   "termName": "2023-2024学年春季学期",
-  "updateTimeMs": 1706301582530
+  "updateTimeMs": 1706305094797
 }
