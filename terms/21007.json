@@ -3,7 +3,7 @@
   "courses": [
     {
       "campus": "宝山",
-      "capacity": "100",
+      "capacity": "30",
       "classTime": "一9-10",
       "courseId": "00000000",
       "courseName": "活动课",
@@ -17,7 +17,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "100",
+      "capacity": "30",
       "classTime": "一11-12",
       "courseId": "00000000",
       "courseName": "活动课",
@@ -31,7 +31,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "100",
+      "capacity": "30",
       "classTime": "二9-10",
       "courseId": "00000000",
       "courseName": "活动课",
@@ -45,7 +45,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "100",
+      "capacity": "30",
       "classTime": "二11-12",
       "courseId": "00000000",
       "courseName": "活动课",
@@ -59,7 +59,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "100",
+      "capacity": "30",
       "classTime": "三9-10",
       "courseId": "00000000",
       "courseName": "活动课",
@@ -73,7 +73,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "100",
+      "capacity": "30",
       "classTime": "三11-12",
       "courseId": "00000000",
       "courseName": "活动课",
@@ -87,7 +87,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "100",
+      "capacity": "30",
       "classTime": "四9-10",
       "courseId": "00000000",
       "courseName": "活动课",
@@ -101,7 +101,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "100",
+      "capacity": "30",
       "classTime": "四11-12",
       "courseId": "00000000",
       "courseName": "活动课",
@@ -3198,12 +3198,14 @@
     },
     {
       "campus": "宝山",
-      "capacity": "24",
+      "capacity": "23",
       "classTime": "二05-06 女生篮球",
       "courseId": "00853203",
       "courseName": "篮球(基础)",
       "credit": "1",
-      "limitations": [],
+      "limitations": [
+        "人数已满"
+      ],
       "number": "23",
       "position": "",
       "teacherId": "1044",
@@ -45786,7 +45788,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "30",
+      "capacity": "40",
       "classTime": "(一 5-8(6-10 周) (二 1-4(6-10 周) (三 5- 8(6-10 周) (四 1-3(6- 10 周)",
       "courseId": "13536196",
       "courseName": "商业空间设计B",
@@ -71868,7 +71870,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "92de671c2e2e72f2b9018ee365f2fbef",
+  "hash": "425c78d573abfcbee14c70c1a3557f70",
   "termName": "2023-2024学年春季学期",
-  "updateTimeMs": 1706243959895
+  "updateTimeMs": 1706247494892
 }
