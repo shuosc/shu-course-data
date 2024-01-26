@@ -16934,7 +16934,7 @@
       "courseName": "中国武侠小说十讲",
       "credit": "2",
       "limitations": [],
-      "number": "38",
+      "number": "39",
       "position": "",
       "teacherId": "1000",
       "teacherName": "石娟",
@@ -19986,8 +19986,10 @@
       "courseId": "03004416",
       "courseName": "商务英语入门",
       "credit": "2",
-      "limitations": [],
-      "number": "44",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "45",
       "position": "",
       "teacherId": "1001",
       "teacherName": "赵嘉嘉",
@@ -22425,7 +22427,7 @@
       "courseName": "英语口语",
       "credit": "2",
       "limitations": [],
-      "number": "44",
+      "number": "45",
       "position": "",
       "teacherId": "1004",
       "teacherName": "Ding Dong",
@@ -22716,8 +22718,10 @@
       "courseId": "03004493",
       "courseName": "英语演辩与思辨",
       "credit": "2",
-      "limitations": [],
-      "number": "44",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "45",
       "position": "",
       "teacherId": "1003",
       "teacherName": "Ding Dong",
@@ -24952,8 +24956,10 @@
       "courseId": "0400JH03",
       "courseName": "经国济民",
       "credit": "3",
-      "limitations": [],
-      "number": "89",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "90",
       "position": "",
       "teacherId": "1000",
       "teacherName": "聂永有等",
@@ -26442,7 +26448,7 @@
       "courseName": "跨国投资概论",
       "credit": "3",
       "limitations": [],
-      "number": "48",
+      "number": "47",
       "position": "",
       "teacherId": "1000",
       "teacherName": "王静华",
@@ -54845,8 +54851,10 @@
       "courseId": "16583109",
       "courseName": "形势与政策",
       "credit": "0",
-      "limitations": [],
-      "number": "104",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "105",
       "position": "",
       "teacherId": "1057",
       "teacherName": "徐群",
@@ -55376,7 +55384,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [],
-      "number": "102",
+      "number": "103",
       "position": "",
       "teacherId": "1092",
       "teacherName": "刘子杰",
@@ -71968,7 +71976,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "ff66d459e13d4ad22c9f7f9561d2e39b",
+  "hash": "27820850dfe5f0101665a709b79fa343",
   "termName": "2023-2024学年春季学期",
-  "updateTimeMs": 1706308703622
+  "updateTimeMs": 1706312327451
 }
