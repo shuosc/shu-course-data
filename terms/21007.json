@@ -14748,7 +14748,7 @@
       "courseName": "大学化学",
       "credit": "2",
       "limitations": [],
-      "number": "37",
+      "number": "38",
       "position": "",
       "teacherId": "1003",
       "teacherName": "陈运荣",
@@ -16654,8 +16654,10 @@
       "courseId": "0200R004",
       "courseName": "莎士比亚与文艺复兴时期的英国",
       "credit": "2",
-      "limitations": [],
-      "number": "29",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "30",
       "position": "",
       "teacherId": "1000",
       "teacherName": "张薇",
@@ -55069,8 +55071,10 @@
       "courseId": "16583109",
       "courseName": "形势与政策",
       "credit": "0",
-      "limitations": [],
-      "number": "107",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "108",
       "position": "",
       "teacherId": "1072",
       "teacherName": "李之喆",
@@ -56547,7 +56551,7 @@
       "courseName": "中国近现代史纲要B",
       "credit": "3",
       "limitations": [],
-      "number": "45",
+      "number": "46",
       "position": "",
       "teacherId": "1022",
       "teacherName": "许俊琳",
@@ -56755,7 +56759,7 @@
       "courseName": "马克思主义基本原理",
       "credit": "3",
       "limitations": [],
-      "number": "122",
+      "number": "121",
       "position": "",
       "teacherId": "1001",
       "teacherName": "李昊匡",
@@ -68571,8 +68575,10 @@
       "courseId": "31975021",
       "courseName": "器乐演奏(9)",
       "credit": "2",
-      "limitations": [],
-      "number": "0",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "1",
       "position": "",
       "teacherId": "1013",
       "teacherName": "唐晓斌",
@@ -71962,7 +71968,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "45305664c2708b82801edf978ab535da",
+  "hash": "ff66d459e13d4ad22c9f7f9561d2e39b",
   "termName": "2023-2024学年春季学期",
-  "updateTimeMs": 1706305094797
+  "updateTimeMs": 1706308703622
 }
