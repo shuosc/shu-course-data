@@ -20608,7 +20608,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "40",
+      "capacity": "30",
       "classTime": "一7-8 三7-8限重修",
       "courseId": "03004477",
       "courseName": "通用英语C(1)",
@@ -35998,7 +35998,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "20",
+      "capacity": "15",
       "classTime": "一3-4 三7-8含上机",
       "courseId": "09A26048",
       "courseName": "有限元仿真分析",
@@ -69096,15 +69096,12 @@
     },
     {
       "campus": "宝山",
-      "capacity": "0",
+      "capacity": "1",
       "classTime": "见学院小课表",
       "courseId": "31975024",
       "courseName": "器乐演奏(12)",
       "credit": "2",
-      "limitations": [
-        "禁止选课",
-        "人数已满"
-      ],
+      "limitations": [],
       "number": "0",
       "position": "",
       "teacherId": "1027",
@@ -71870,7 +71867,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "425c78d573abfcbee14c70c1a3557f70",
+  "hash": "fa60ec4ccc98aa6106e77a741efbad2f",
   "termName": "2023-2024学年春季学期",
-  "updateTimeMs": 1706247494892
+  "updateTimeMs": 1706251114409
 }
