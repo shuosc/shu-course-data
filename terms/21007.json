@@ -66946,7 +66946,7 @@
       "courseName": "歌曲写作(2)",
       "credit": "2",
       "limitations": [],
-      "number": "11",
+      "number": "12",
       "position": "",
       "teacherId": "1000",
       "teacherName": "王文婷",
@@ -69722,8 +69722,10 @@
       "courseId": "31976069",
       "courseName": "声乐选修(3)",
       "credit": "1",
-      "limitations": [],
-      "number": "1",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "2",
       "position": "",
       "teacherId": "1001",
       "teacherName": "王石磊",
@@ -72136,7 +72138,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "f182469cea07ea2c138836cb38a1f93b",
+  "hash": "47c86838703fc641c14eaee34141c36b",
   "termName": "2023-2024学年春季学期",
-  "updateTimeMs": 1706387878748
+  "updateTimeMs": 1706391563912
 }
