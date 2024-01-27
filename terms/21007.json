@@ -43024,8 +43024,10 @@
       "courseId": "13475174",
       "courseName": "建筑设计(1)",
       "credit": "6",
-      "limitations": [],
-      "number": "8",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "9",
       "position": "",
       "teacherId": "3002",
       "teacherName": "李玲",
@@ -67006,7 +67008,7 @@
       "courseName": "音频学——电子乐谱制作基础",
       "credit": "2",
       "limitations": [],
-      "number": "6",
+      "number": "5",
       "position": "",
       "teacherId": "1000",
       "teacherName": "沈屹",
@@ -72138,7 +72140,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "47c86838703fc641c14eaee34141c36b",
+  "hash": "3af1665929a080ed6b3dfde94209f218",
   "termName": "2023-2024学年春季学期",
-  "updateTimeMs": 1706391563912
+  "updateTimeMs": 1706395138802
 }
