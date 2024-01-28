@@ -26443,7 +26443,7 @@
       "courseName": "国际贸易原理",
       "credit": "4",
       "limitations": [],
-      "number": "27",
+      "number": "26",
       "position": "",
       "teacherId": "1004",
       "teacherName": "何树全",
@@ -51399,7 +51399,7 @@
       "courseName": "数据分析基础",
       "credit": "4",
       "limitations": [],
-      "number": "38",
+      "number": "39",
       "position": "",
       "teacherId": "2001",
       "teacherName": "陈娟",
@@ -52647,8 +52647,10 @@
       "courseId": "15573322",
       "courseName": "财务管理",
       "credit": "4",
-      "limitations": [],
-      "number": "34",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "35",
       "position": "",
       "teacherId": "2008",
       "teacherName": "王兰芳",
@@ -53104,7 +53106,7 @@
       "courseName": "商务统计学",
       "credit": "4",
       "limitations": [],
-      "number": "39",
+      "number": "41",
       "position": "",
       "teacherId": "2002",
       "teacherName": "童宏玺",
@@ -72196,7 +72198,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "29c7bfed1ee269e94ace3e88261490b6",
+  "hash": "21eaea9bcb048cea3088a1265da8a15a",
   "termName": "2023-2024学年春季学期",
-  "updateTimeMs": 1706477902192
+  "updateTimeMs": 1706481509187
 }
