@@ -8439,7 +8439,7 @@
       "courseName": "程序设计(C语言)",
       "credit": "4",
       "limitations": [],
-      "number": "37",
+      "number": "38",
       "position": "",
       "teacherId": "1002",
       "teacherName": "邹启明",
@@ -11917,7 +11917,7 @@
       "courseName": "程序设计",
       "credit": "4",
       "limitations": [],
-      "number": "22",
+      "number": "21",
       "position": "",
       "teacherId": "1001",
       "teacherName": "段成华",
@@ -11931,7 +11931,7 @@
       "courseName": "程序设计",
       "credit": "4",
       "limitations": [],
-      "number": "34",
+      "number": "35",
       "position": "",
       "teacherId": "1002",
       "teacherName": "朱明",
@@ -24853,7 +24853,7 @@
       "courseName": "职场人际关系处理",
       "credit": "2",
       "limitations": [],
-      "number": "67",
+      "number": "68",
       "position": "",
       "teacherId": "1000",
       "teacherName": "陶新桂",
@@ -32423,8 +32423,10 @@
       "courseId": "08306126",
       "courseName": "计算机视觉",
       "credit": "3",
-      "limitations": [],
-      "number": "69",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "70",
       "position": "",
       "teacherId": "1001",
       "teacherName": "王路",
@@ -38598,7 +38600,7 @@
       "courseName": "数字逻辑电路设计实践A",
       "credit": "4",
       "limitations": [],
-      "number": "61",
+      "number": "62",
       "position": "",
       "teacherId": "1000",
       "teacherName": "郭海波等",
@@ -42799,7 +42801,7 @@
       "courseName": "文人器玩的审美",
       "credit": "2",
       "limitations": [],
-      "number": "33",
+      "number": "34",
       "position": "",
       "teacherId": "1000",
       "teacherName": "王沁",
@@ -72172,7 +72174,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "377e1310db178ad86799bc747d2d05ef",
+  "hash": "272dea453bdaaefef3f95bd5a5b9a23c",
   "termName": "2023-2024学年春季学期",
-  "updateTimeMs": 1706567896448
+  "updateTimeMs": 1706571543503
 }
