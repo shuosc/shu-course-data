@@ -24644,7 +24644,7 @@
       "number": "5",
       "position": "",
       "teacherId": "1000",
-      "teacherName": "待定",
+      "teacherName": "赵倩",
       "teacherTitle": ""
     },
     {
@@ -24674,7 +24674,7 @@
       "number": "11",
       "position": "",
       "teacherId": "1000",
-      "teacherName": "待定",
+      "teacherName": "赵倩",
       "teacherTitle": ""
     },
     {
@@ -45551,8 +45551,10 @@
       "courseId": "1352A001",
       "courseName": "毕业创作(论文)",
       "credit": "45",
-      "limitations": [],
-      "number": "0",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "6",
       "position": "",
       "teacherId": "1001",
       "teacherName": "翟庆喜",
@@ -45565,8 +45567,10 @@
       "courseId": "1352A001",
       "courseName": "毕业创作(论文)",
       "credit": "45",
-      "limitations": [],
-      "number": "0",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "6",
       "position": "",
       "teacherId": "1002",
       "teacherName": "蒋铁骊",
@@ -45580,7 +45584,7 @@
       "courseName": "毕业创作(论文)",
       "credit": "45",
       "limitations": [],
-      "number": "0",
+      "number": "5",
       "position": "",
       "teacherId": "1003",
       "teacherName": "夏阳",
@@ -45594,7 +45598,7 @@
       "courseName": "毕业创作(论文)",
       "credit": "45",
       "limitations": [],
-      "number": "0",
+      "number": "5",
       "position": "",
       "teacherId": "1004",
       "teacherName": "张升化",
@@ -45839,8 +45843,8 @@
       "number": "21",
       "position": "",
       "teacherId": "3002",
-      "teacherName": "成义祺",
-      "teacherTitle": "讲师"
+      "teacherName": "王静艳",
+      "teacherTitle": "副教授"
     },
     {
       "campus": "延长",
@@ -46546,7 +46550,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "7",
+      "number": "8",
       "position": "",
       "teacherId": "3000",
       "teacherName": "刘勇等",
@@ -72270,7 +72274,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "f48fec742ba173637ccef202187b39d5",
+  "hash": "7b8266cd569178443bde543ed5e4fd1f",
   "termName": "2023-2024学年春季学期",
-  "updateTimeMs": 1706679489079
+  "updateTimeMs": 1706686696054
 }
