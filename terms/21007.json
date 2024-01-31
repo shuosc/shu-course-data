@@ -30881,7 +30881,7 @@
       "courseName": "顶岗实习及毕业设计",
       "credit": "44",
       "limitations": [],
-      "number": "0",
+      "number": "1",
       "position": "",
       "teacherId": "1000",
       "teacherName": "马秀丽等",
@@ -31081,7 +31081,7 @@
       "courseName": "顶岗实习及毕业设计",
       "credit": "38",
       "limitations": [],
-      "number": "0",
+      "number": "1",
       "position": "",
       "teacherId": "1000",
       "teacherName": "马秀丽等",
@@ -31139,8 +31139,10 @@
       "courseId": "0727A061",
       "courseName": "顶岗实习及毕业设计",
       "credit": "32",
-      "limitations": [],
-      "number": "1",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "65",
       "position": "",
       "teacherId": "1000",
       "teacherName": "马秀丽等",
@@ -35892,13 +35894,16 @@
     },
     {
       "campus": "宝山",
-      "capacity": "30",
+      "capacity": "0",
       "classTime": "二3-4 四3-4含上机",
       "courseId": "09A26016",
       "courseName": "CAD/CAM",
       "credit": "3.5",
-      "limitations": [],
-      "number": "1",
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
+      "number": "0",
       "position": "",
       "teacherId": "1000",
       "teacherName": "陈勇",
@@ -43621,12 +43626,14 @@
     },
     {
       "campus": "延长",
-      "capacity": "10",
+      "capacity": "0",
       "classTime": "三9-10(第1周) (三9-12(第2-3周)",
       "courseId": "13476242",
       "courseName": "综合艺术实验(2)",
       "credit": "1",
-      "limitations": [],
+      "limitations": [
+        "人数已满"
+      ],
       "number": "1",
       "position": "",
       "teacherId": "3003",
@@ -43665,12 +43672,14 @@
     },
     {
       "campus": "延长",
-      "capacity": "20",
+      "capacity": "0",
       "classTime": "一7-8",
       "courseId": "13476253",
       "courseName": "木结构建筑技术及运用A",
       "credit": "2",
-      "limitations": [],
+      "limitations": [
+        "人数已满"
+      ],
       "number": "2",
       "position": "",
       "teacherId": "3000",
@@ -55943,7 +55952,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [],
-      "number": "99",
+      "number": "98",
       "position": "",
       "teacherId": "1115",
       "teacherName": "陶倩",
@@ -62817,12 +62826,14 @@
     },
     {
       "campus": "宝山",
-      "capacity": "50",
+      "capacity": "45",
       "classTime": "二5-6 二7-8上机 四7-8",
       "courseId": "23006062",
       "courseName": "C语言程序设计",
       "credit": "5",
-      "limitations": [],
+      "limitations": [
+        "人数已满"
+      ],
       "number": "45",
       "position": "",
       "teacherId": "1001",
@@ -72232,7 +72243,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "e519d6e4bdd3e1cd15779bebdeaf4670",
+  "hash": "6d57025d6d6856b9e9d452ad14c93171",
   "termName": "2023-2024学年春季学期",
-  "updateTimeMs": 1706666732566
+  "updateTimeMs": 1706668689389
 }
