@@ -47058,13 +47058,16 @@
     },
     {
       "campus": "延长",
-      "capacity": "20",
+      "capacity": "0",
       "classTime": "(一5-8(9-10周) (二1-4(9-10周) (三5-8(9-10周) (四1-3(9-10周)",
       "courseId": "13706069",
       "courseName": "文化产业概论(选)",
       "credit": "3",
-      "limitations": [],
-      "number": "1",
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
+      "number": "0",
       "position": "",
       "teacherId": "3000",
       "teacherName": "宋天颐",
@@ -47275,12 +47278,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "10",
+      "capacity": "0",
       "classTime": "(一1-4(9-10周) (二1-4(9-10周) (三1-4(9-10周) (四1-4(9-10周) (五1-4(9-10周)",
       "courseId": "13746030",
       "courseName": "珐琅工艺设计基础",
       "credit": "3",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
       "number": "0",
       "position": "",
       "teacherId": "1001",
@@ -47289,13 +47295,16 @@
     },
     {
       "campus": "宝山",
-      "capacity": "10",
+      "capacity": "0",
       "classTime": "二5-8",
       "courseId": "13746030",
       "courseName": "珐琅工艺设计基础",
       "credit": "3",
-      "limitations": [],
-      "number": "1",
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
+      "number": "0",
       "position": "",
       "teacherId": "1002",
       "teacherName": "吕中泉",
@@ -49818,14 +49827,12 @@
     },
     {
       "campus": "延长",
-      "capacity": "20",
+      "capacity": "23",
       "classTime": "咨询学院",
       "courseId": "1479A021",
       "courseName": "毕业创作(论文)",
       "credit": "6",
-      "limitations": [
-        "人数已满"
-      ],
+      "limitations": [],
       "number": "20",
       "position": "",
       "teacherId": "3000",
@@ -61722,7 +61729,7 @@
       "courseName": "毕业论文",
       "credit": "30",
       "limitations": [],
-      "number": "37",
+      "number": "36",
       "position": "",
       "teacherId": "1000",
       "teacherName": "李文韬",
@@ -72225,7 +72232,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "2e6fae09f92b47a4a3701541a9ac96cc",
+  "hash": "e519d6e4bdd3e1cd15779bebdeaf4670",
   "termName": "2023-2024学年春季学期",
-  "updateTimeMs": 1706664832090
+  "updateTimeMs": 1706666732566
 }
