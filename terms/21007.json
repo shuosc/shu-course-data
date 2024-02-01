@@ -38010,14 +38010,17 @@
     },
     {
       "campus": "宝山",
-      "capacity": "30",
+      "capacity": "0",
       "classTime": "二1-2 五7-8",
       "courseId": "10406047",
       "courseName": "功能高分子材料(专题研讨课)",
       "credit": "4",
-      "limitations": [],
-      "number": "1",
-      "position": "计205",
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
+      "number": "0",
+      "position": "不开",
       "teacherId": "1000",
       "teacherName": "苏新艳",
       "teacherTitle": "副教授"
@@ -72274,7 +72277,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "3acbfc43e8e8c6c52fe4061c2e9eed6b",
+  "hash": "e23d6af2c088756fb9a9a71d06b19a7f",
   "termName": "2023-2024学年春季学期",
-  "updateTimeMs": 1706762325380
+  "updateTimeMs": 1706765909263
 }
