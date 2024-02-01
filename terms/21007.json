@@ -3278,8 +3278,10 @@
       "courseId": "00853203",
       "courseName": "篮球(基础)",
       "credit": "1",
-      "limitations": [],
-      "number": "25",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "26",
       "position": "C区风雨棚",
       "teacherId": "1051",
       "teacherName": "吕彪",
@@ -72277,7 +72279,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "e23d6af2c088756fb9a9a71d06b19a7f",
+  "hash": "9f7498c68a8c81d35779e82a789cdd6b",
   "termName": "2023-2024学年春季学期",
-  "updateTimeMs": 1706773100375
+  "updateTimeMs": 1706776726155
 }
