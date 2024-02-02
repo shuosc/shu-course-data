@@ -14717,7 +14717,7 @@
       "number": "12",
       "position": "C512",
       "teacherId": "1000",
-      "teacherName": "李征鸿",
+      "teacherName": "李征鸿等",
       "teacherTitle": "副教授"
     },
     {
@@ -49145,6 +49145,20 @@
     },
     {
       "campus": "延长",
+      "capacity": "2",
+      "classTime": "二7-8",
+      "courseId": "14765068",
+      "courseName": "动画原理与规律A",
+      "credit": "2",
+      "limitations": [],
+      "number": "0",
+      "position": "电机楼407",
+      "teacherId": "3000",
+      "teacherName": "蒋元华",
+      "teacherTitle": ""
+    },
+    {
+      "campus": "延长",
       "capacity": "21",
       "classTime": "一7-8 三7-8",
       "courseId": "14765071",
@@ -72279,7 +72293,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "9f7498c68a8c81d35779e82a789cdd6b",
+  "hash": "429e99f1fc9cc36498a0728b9afedfba",
   "termName": "2023-2024学年春季学期",
-  "updateTimeMs": 1706859492934
+  "updateTimeMs": 1706863095301
 }
