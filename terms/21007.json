@@ -9512,7 +9512,6 @@
       "courseName": "大学生社会实践",
       "credit": "1",
       "limitations": [
-        "禁止选课",
         "人数已满"
       ],
       "number": "0",
@@ -10247,7 +10246,6 @@
       "courseName": "职业精英之大学生生涯规划与发展指导A",
       "credit": "2",
       "limitations": [
-        "禁止选课",
         "人数已满"
       ],
       "number": "0",
@@ -16860,7 +16858,6 @@
       "courseName": "现代中国的起源",
       "credit": "2",
       "limitations": [
-        "禁止选课",
         "人数已满"
       ],
       "number": "0",
@@ -17128,7 +17125,6 @@
       "courseName": "国际组织与全球治理",
       "credit": "2",
       "limitations": [
-        "禁止选课",
         "人数已满"
       ],
       "number": "0",
@@ -17189,7 +17185,6 @@
       "courseName": "普通话语音与普通话测试",
       "credit": "2",
       "limitations": [
-        "禁止选课",
         "人数已满"
       ],
       "number": "0",
@@ -18943,7 +18938,6 @@
       "courseName": "社区分析",
       "credit": "4",
       "limitations": [
-        "禁止选课",
         "人数已满"
       ],
       "number": "0",
@@ -20413,7 +20407,6 @@
       "courseName": "英语国家概况",
       "credit": "2",
       "limitations": [
-        "禁止选课",
         "人数已满"
       ],
       "number": "0",
@@ -20590,7 +20583,7 @@
       "courseName": "通用英语D(3)",
       "credit": "2",
       "limitations": [],
-      "number": "26",
+      "number": "27",
       "position": "Ⅳ406",
       "teacherId": "3001",
       "teacherName": "黄红",
@@ -20603,8 +20596,10 @@
       "courseId": "03004474",
       "courseName": "通用英语D(3)",
       "credit": "2",
-      "limitations": [],
-      "number": "34",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "38",
       "position": "Ⅳ406",
       "teacherId": "3002",
       "teacherName": "黄红",
@@ -21062,8 +21057,10 @@
       "courseId": "03004479",
       "courseName": "通用英语C(3)",
       "credit": "2",
-      "limitations": [],
-      "number": "20",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "24",
       "position": "Ⅳ411",
       "teacherId": "3003",
       "teacherName": "周育",
@@ -21077,7 +21074,7 @@
       "courseName": "通用英语C(3)",
       "credit": "2",
       "limitations": [],
-      "number": "16",
+      "number": "17",
       "position": "Ⅳ411",
       "teacherId": "3004",
       "teacherName": "周育",
@@ -21775,8 +21772,10 @@
       "courseId": "03004482",
       "courseName": "通用学术英语B(3)",
       "credit": "2",
-      "limitations": [],
-      "number": "23",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "29",
       "position": "Ⅳ311",
       "teacherId": "3001",
       "teacherName": "叶新",
@@ -21789,8 +21788,10 @@
       "courseId": "03004482",
       "courseName": "通用学术英语B(3)",
       "credit": "2",
-      "limitations": [],
-      "number": "23",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "25",
       "position": "Ⅳ311",
       "teacherId": "3002",
       "teacherName": "叶新",
@@ -21803,8 +21804,10 @@
       "courseId": "03004482",
       "courseName": "通用学术英语B(3)",
       "credit": "2",
-      "limitations": [],
-      "number": "21",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "25",
       "position": "Ⅳ311",
       "teacherId": "3003",
       "teacherName": "叶新",
@@ -21820,7 +21823,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "25",
+      "number": "27",
       "position": "Ⅳ311",
       "teacherId": "3004",
       "teacherName": "叶新",
@@ -22568,7 +22571,6 @@
       "courseName": "英语写作",
       "credit": "2",
       "limitations": [
-        "禁止选课",
         "人数已满"
       ],
       "number": "0",
@@ -33014,7 +33016,6 @@
       "courseName": "3D打印——从想象到现实",
       "credit": "2",
       "limitations": [
-        "禁止选课",
         "人数已满"
       ],
       "number": "0",
@@ -33154,7 +33155,6 @@
       "courseName": "数字时代的学习",
       "credit": "2",
       "limitations": [
-        "禁止选课",
         "人数已满"
       ],
       "number": "0",
@@ -36823,7 +36823,6 @@
       "courseName": "物理学简史",
       "credit": "1",
       "limitations": [
-        "禁止选课",
         "人数已满"
       ],
       "number": "0",
@@ -39262,7 +39261,6 @@
       "courseName": "环保新观察",
       "credit": "2",
       "limitations": [
-        "禁止选课",
         "人数已满"
       ],
       "number": "0",
@@ -39338,7 +39336,6 @@
       "courseName": "人类生态学",
       "credit": "2",
       "limitations": [
-        "禁止选课",
         "人数已满"
       ],
       "number": "0",
@@ -39465,7 +39462,6 @@
       "courseName": "环境与绿色发展",
       "credit": "4",
       "limitations": [
-        "禁止选课",
         "人数已满"
       ],
       "number": "0",
@@ -39544,7 +39540,6 @@
       "courseName": "生活中的环境安全与对策",
       "credit": "1",
       "limitations": [
-        "禁止选课",
         "人数已满"
       ],
       "number": "0",
@@ -39642,7 +39637,6 @@
       "courseName": "PM2.5的危害剖析",
       "credit": "1",
       "limitations": [
-        "禁止选课",
         "人数已满"
       ],
       "number": "0",
@@ -42582,7 +42576,6 @@
       "courseName": "数字生成艺术(选)",
       "credit": "3",
       "limitations": [
-        "禁止选课",
         "人数已满"
       ],
       "number": "0",
@@ -42661,7 +42654,6 @@
       "courseName": "海派文创产品设计与制作(选)",
       "credit": "3",
       "limitations": [
-        "禁止选课",
         "人数已满"
       ],
       "number": "0",
@@ -42720,7 +42712,6 @@
       "courseName": "数字艺术",
       "credit": "2",
       "limitations": [
-        "禁止选课",
         "人数已满"
       ],
       "number": "0",
@@ -42765,7 +42756,6 @@
       "courseName": "《兰亭序》与中国书法艺术",
       "credit": "2",
       "limitations": [
-        "禁止选课",
         "人数已满"
       ],
       "number": "0",
@@ -42796,7 +42786,6 @@
       "courseName": "文人器玩的审美",
       "credit": "2",
       "limitations": [
-        "禁止选课",
         "人数已满"
       ],
       "number": "0",
@@ -43348,7 +43337,6 @@
       "courseName": "都市文化研究指南",
       "credit": "2",
       "limitations": [
-        "禁止选课",
         "人数已满"
       ],
       "number": "0",
@@ -43551,7 +43539,6 @@
       "courseName": "综合艺术实验(2)",
       "credit": "1",
       "limitations": [
-        "禁止选课",
         "人数已满"
       ],
       "number": "0",
@@ -43568,7 +43555,6 @@
       "courseName": "综合艺术实验(2)",
       "credit": "1",
       "limitations": [
-        "禁止选课",
         "人数已满"
       ],
       "number": "0",
@@ -43615,7 +43601,6 @@
       "courseName": "木结构建筑技术及运用A",
       "credit": "2",
       "limitations": [
-        "禁止选课",
         "人数已满"
       ],
       "number": "0",
@@ -43646,7 +43631,6 @@
       "courseName": "设计创新实践(2)",
       "credit": "1.5",
       "limitations": [
-        "禁止选课",
         "人数已满"
       ],
       "number": "0",
@@ -43663,7 +43647,6 @@
       "courseName": "设计创新实践(2)",
       "credit": "1.5",
       "limitations": [
-        "禁止选课",
         "人数已满"
       ],
       "number": "0",
@@ -43680,7 +43663,6 @@
       "courseName": "设计创新实践(2)",
       "credit": "1.5",
       "limitations": [
-        "禁止选课",
         "人数已满"
       ],
       "number": "0",
@@ -45921,7 +45903,6 @@
       "courseName": "东方书画体验",
       "credit": "7.5",
       "limitations": [
-        "禁止选课",
         "人数已满"
       ],
       "number": "0",
@@ -45966,7 +45947,6 @@
       "courseName": "橱窗设计A(选)",
       "credit": "3",
       "limitations": [
-        "禁止选课",
         "人数已满"
       ],
       "number": "0",
@@ -46998,7 +46978,6 @@
       "courseName": "新媒体艺术概论(选)",
       "credit": "3",
       "limitations": [
-        "禁止选课",
         "人数已满"
       ],
       "number": "0",
@@ -47015,7 +46994,6 @@
       "courseName": "文化产业概论(选)",
       "credit": "3",
       "limitations": [
-        "禁止选课",
         "人数已满"
       ],
       "number": "0",
@@ -48029,7 +48007,6 @@
       "courseName": "近代上海设计文化",
       "credit": "3",
       "limitations": [
-        "禁止选课",
         "人数已满"
       ],
       "number": "0",
@@ -48179,7 +48156,6 @@
       "courseName": "地名中的艺术",
       "credit": "2",
       "limitations": [
-        "禁止选课",
         "人数已满"
       ],
       "number": "0",
@@ -48269,7 +48245,6 @@
       "courseName": "纪录片:用真实绘制世界",
       "credit": "1",
       "limitations": [
-        "禁止选课",
         "人数已满"
       ],
       "number": "0",
@@ -48334,7 +48309,6 @@
       "courseName": "微机原理B",
       "credit": "4",
       "limitations": [
-        "禁止选课",
         "人数已满"
       ],
       "number": "0",
@@ -48351,7 +48325,6 @@
       "courseName": "微机原理B",
       "credit": "4",
       "limitations": [
-        "禁止选课",
         "人数已满"
       ],
       "number": "0",
@@ -48472,7 +48445,6 @@
       "courseName": "人机交互技术",
       "credit": "3",
       "limitations": [
-        "禁止选课",
         "人数已满"
       ],
       "number": "0",
@@ -49719,7 +49691,6 @@
       "courseName": "电影声音设计",
       "credit": "4",
       "limitations": [
-        "禁止选课",
         "人数已满"
       ],
       "number": "0",
@@ -49736,7 +49707,6 @@
       "courseName": "广告MV制作",
       "credit": "5",
       "limitations": [
-        "禁止选课",
         "人数已满"
       ],
       "number": "0",
@@ -49753,7 +49723,6 @@
       "courseName": "纪录片创作",
       "credit": "5",
       "limitations": [
-        "禁止选课",
         "人数已满"
       ],
       "number": "0",
@@ -49856,7 +49825,6 @@
       "courseName": "世界音乐史",
       "credit": "3",
       "limitations": [
-        "禁止选课",
         "人数已满"
       ],
       "number": "0",
@@ -50053,7 +50021,6 @@
       "courseName": "电影特效",
       "credit": "3",
       "limitations": [
-        "禁止选课",
         "人数已满"
       ],
       "number": "0",
@@ -50218,7 +50185,6 @@
       "courseName": "电影产业研究",
       "credit": "3",
       "limitations": [
-        "禁止选课",
         "人数已满"
       ],
       "number": "0",
@@ -50391,7 +50357,6 @@
       "courseName": "电影叙事学",
       "credit": "3",
       "limitations": [
-        "禁止选课",
         "人数已满"
       ],
       "number": "0",
@@ -50408,7 +50373,6 @@
       "courseName": "当代西方艺术思潮",
       "credit": "3",
       "limitations": [
-        "禁止选课",
         "人数已满"
       ],
       "number": "0",
@@ -50439,7 +50403,6 @@
       "courseName": "戏曲编剧基础",
       "credit": "3",
       "limitations": [
-        "禁止选课",
         "人数已满"
       ],
       "number": "0",
@@ -50730,7 +50693,6 @@
       "courseName": "动画创作基础",
       "credit": "3",
       "limitations": [
-        "禁止选课",
         "人数已满"
       ],
       "number": "0",
@@ -56165,7 +56127,6 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
-        "禁止选课",
         "人数已满"
       ],
       "number": "0",
@@ -56242,7 +56203,6 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
-        "禁止选课",
         "人数已满"
       ],
       "number": "0",
@@ -59089,7 +59049,6 @@
       "courseName": "思想政治理论课(实践)(2)",
       "credit": "1",
       "limitations": [
-        "禁止选课",
         "人数已满"
       ],
       "number": "0",
@@ -60313,7 +60272,6 @@
       "courseName": "传媒集团研究",
       "credit": "3",
       "limitations": [
-        "禁止选课",
         "人数已满"
       ],
       "number": "0",
@@ -60358,7 +60316,6 @@
       "courseName": "传媒社会责任理论与实践",
       "credit": "3",
       "limitations": [
-        "禁止选课",
         "人数已满"
       ],
       "number": "0",
@@ -60461,7 +60418,6 @@
       "courseName": "会议管理A",
       "credit": "3",
       "limitations": [
-        "禁止选课",
         "人数已满"
       ],
       "number": "0",
@@ -61785,7 +61741,6 @@
       "courseName": "地图的识别和应用",
       "credit": "2",
       "limitations": [
-        "禁止选课",
         "人数已满"
       ],
       "number": "0",
@@ -61902,7 +61857,6 @@
       "courseName": "华语电影与中国传统文化",
       "credit": "2",
       "limitations": [
-        "禁止选课",
         "人数已满"
       ],
       "number": "0",
@@ -64582,7 +64536,6 @@
       "courseName": "物流中的金融创新",
       "credit": "2",
       "limitations": [
-        "禁止选课",
         "人数已满"
       ],
       "number": "0",
@@ -72215,7 +72168,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "835743c872e80a9f6a1fad680782b5b9",
+  "hash": "b32ae834cf71045e0fabf3b7b8367903",
   "termName": "2023-2024学年春季学期",
-  "updateTimeMs": 1709271560795
+  "updateTimeMs": 1709275108896
 }
