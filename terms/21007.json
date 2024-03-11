@@ -2776,10 +2776,7 @@
       "courseId": "00853069",
       "courseName": "体育(3)(保健班)",
       "credit": "1",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "0",
       "position": "C319",
       "teacherId": "1001",
@@ -2793,10 +2790,7 @@
       "courseId": "00853069",
       "courseName": "体育(3)(保健班)",
       "credit": "1",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "0",
       "position": "C317",
       "teacherId": "1991",
@@ -2810,10 +2804,7 @@
       "courseId": "00853069",
       "courseName": "体育(3)(保健班)",
       "credit": "1",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "0",
       "position": "C317",
       "teacherId": "1993",
@@ -2827,10 +2818,7 @@
       "courseId": "00853072",
       "courseName": "体育(6)(保健班)",
       "credit": "1",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "0",
       "position": "C319",
       "teacherId": "1002",
@@ -2844,10 +2832,7 @@
       "courseId": "00853072",
       "courseName": "体育(6)(保健班)",
       "credit": "1",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "0",
       "position": "C317",
       "teacherId": "1992",
@@ -2861,10 +2846,7 @@
       "courseId": "00853072",
       "courseName": "体育(6)(保健班)",
       "credit": "1",
-      "limitations": [
-        "禁止选课",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "0",
       "position": "C317",
       "teacherId": "1994",
@@ -3216,10 +3198,8 @@
       "courseId": "00853203",
       "courseName": "篮球(基础)",
       "credit": "1",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "26",
+      "limitations": [],
+      "number": "25",
       "position": "I区篮20",
       "teacherId": "1044",
       "teacherName": "刘娜",
@@ -3576,10 +3556,8 @@
       "courseId": "00853204",
       "courseName": "羽毛球(基础)",
       "credit": "1",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "27",
+      "limitations": [],
+      "number": "26",
       "position": "体育馆中心场地",
       "teacherId": "1413",
       "teacherName": "徐英姿",
@@ -3608,10 +3586,8 @@
       "courseId": "00853204",
       "courseName": "羽毛球(基础)",
       "credit": "1",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "28",
+      "limitations": [],
+      "number": "26",
       "position": "体育馆中心场地",
       "teacherId": "1415",
       "teacherName": "徐英姿",
@@ -5211,10 +5187,8 @@
       "courseId": "00853230",
       "courseName": "武术(基础)",
       "credit": "1",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "26",
+      "limitations": [],
+      "number": "25",
       "position": "训练馆X106",
       "teacherId": "1711",
       "teacherName": "顾修红",
@@ -5227,10 +5201,8 @@
       "courseId": "00853230",
       "courseName": "武术(基础)",
       "credit": "1",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "26",
+      "limitations": [],
+      "number": "25",
       "position": "训练馆X106",
       "teacherId": "1712",
       "teacherName": "顾修红",
@@ -72178,7 +72150,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "7df60d532d21ce2552a80361031023ca",
+  "hash": "7bef854fc8a6bbd992d747de0bcebf99",
   "termName": "2023-2024学年春季学期",
-  "updateTimeMs": 1710122734595
+  "updateTimeMs": 1710124712564
 }
