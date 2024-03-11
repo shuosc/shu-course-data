@@ -26738,12 +26738,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "40",
+      "capacity": "28",
       "classTime": "另行通知",
       "courseId": "0417A008",
       "courseName": "毕业设计(论文)",
       "credit": "20",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
       "number": "28",
       "position": "另行通知",
       "teacherId": "1000",
@@ -27028,12 +27031,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "20",
+      "capacity": "13",
       "classTime": "另行通知",
       "courseId": "0418A009",
       "courseName": "毕业设计(论文)",
       "credit": "20",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
       "number": "13",
       "position": "另行通知",
       "teacherId": "1000",
@@ -27710,12 +27716,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "100",
+      "capacity": "72",
       "classTime": "另行通知",
       "courseId": "0419A011",
       "courseName": "毕业设计(论文)",
       "credit": "20",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
       "number": "72",
       "position": "另行通知",
       "teacherId": "1000",
@@ -27944,12 +27953,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "100",
+      "capacity": "71",
       "classTime": "另行通知",
       "courseId": "0420A010",
       "courseName": "毕业设计(论文)",
       "credit": "20",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
       "number": "71",
       "position": "另行通知",
       "teacherId": "1000",
@@ -28213,12 +28225,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "40",
+      "capacity": "26",
       "classTime": "另行通知",
       "courseId": "0463A008",
       "courseName": "毕业设计(论文)",
       "credit": "20",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
       "number": "26",
       "position": "另行通知",
       "teacherId": "1000",
@@ -28331,12 +28346,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "15",
+      "capacity": "9",
       "classTime": "另行通知",
       "courseId": "0464A008",
       "courseName": "毕业设计(论文)",
       "credit": "20",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
       "number": "9",
       "position": "另行通知",
       "teacherId": "1000",
@@ -28415,12 +28433,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "35",
+      "capacity": "22",
       "classTime": "另行通知",
       "courseId": "0466A008",
       "courseName": "毕业设计(论文)",
       "credit": "20",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
       "number": "22",
       "position": "另行通知",
       "teacherId": "1000",
@@ -28564,12 +28585,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "60",
+      "capacity": "51",
       "classTime": "另行通知",
       "courseId": "0471A008",
       "courseName": "毕业设计(论文)",
       "credit": "20",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
       "number": "51",
       "position": "另行通知",
       "teacherId": "1000",
@@ -72150,7 +72174,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "0776b76f842100369977a22d886a0db2",
+  "hash": "d85023b62491155daadff3346031734c",
   "termName": "2023-2024学年春季学期",
-  "updateTimeMs": 1710139248441
+  "updateTimeMs": 1710142771265
 }
