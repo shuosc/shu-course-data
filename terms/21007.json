@@ -35114,6 +35114,20 @@
     },
     {
       "campus": "宝山",
+      "capacity": "20",
+      "classTime": "三3-4",
+      "courseId": "09375015",
+      "courseName": "过程控制系统实验",
+      "credit": "1",
+      "limitations": [],
+      "number": "0",
+      "position": "9号楼314",
+      "teacherId": "1008",
+      "teacherName": "孙鑫",
+      "teacherTitle": "副教授"
+    },
+    {
+      "campus": "宝山",
       "capacity": "38",
       "classTime": "一3-4 三9-11",
       "courseId": "09375019",
@@ -72174,7 +72188,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "c8f6d96c1807f888593325be26e656b6",
+  "hash": "206bb98d37d65e36e0b10875d7500d93",
   "termName": "2023-2024学年春季学期",
-  "updateTimeMs": 1710225485581
+  "updateTimeMs": 1710229154465
 }
