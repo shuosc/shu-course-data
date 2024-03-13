@@ -8632,7 +8632,7 @@
       "courseName": "工程制图与计算机绘图基础",
       "credit": "3",
       "limitations": [],
-      "number": "36",
+      "number": "37",
       "position": "D106",
       "teacherId": "1011",
       "teacherName": "方建华",
@@ -10656,7 +10656,7 @@
       "courseName": "复变函数与积分变换",
       "credit": "5",
       "limitations": [],
-      "number": "88",
+      "number": "89",
       "position": "EJ204",
       "teacherId": "1000",
       "teacherName": "蔡敏",
@@ -10810,7 +10810,7 @@
       "courseName": "线性代数",
       "credit": "3",
       "limitations": [],
-      "number": "107",
+      "number": "108",
       "position": "EJ103",
       "teacherId": "1009",
       "teacherName": "何海安",
@@ -30168,8 +30168,10 @@
       "courseId": "07275054",
       "courseName": "科技英语A",
       "credit": "4",
-      "limitations": [],
-      "number": "70",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "71",
       "position": "计J201",
       "teacherId": "1001",
       "teacherName": "吴雅婷",
@@ -72184,7 +72186,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "b4bd8997ab3b793b04705fdd6f69231f",
+  "hash": "5f3249c635773fa5b9b8c4f25259e9fe",
   "termName": "2023-2024学年春季学期",
-  "updateTimeMs": 1710362328056
+  "updateTimeMs": 1710365897608
 }
