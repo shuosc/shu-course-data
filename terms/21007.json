@@ -9837,7 +9837,9 @@
       "courseId": "00914006",
       "courseName": "军事理论A",
       "credit": "2",
-      "limitations": [],
+      "limitations": [
+        "禁止选课"
+      ],
       "number": "99",
       "position": "CJ204",
       "teacherId": "1001",
@@ -9852,6 +9854,7 @@
       "courseName": "军事理论A",
       "credit": "2",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "100",
@@ -9868,6 +9871,7 @@
       "courseName": "军事理论A",
       "credit": "2",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "114",
@@ -9883,7 +9887,9 @@
       "courseId": "00914006",
       "courseName": "军事理论A",
       "credit": "2",
-      "limitations": [],
+      "limitations": [
+        "禁止选课"
+      ],
       "number": "106",
       "position": "J101",
       "teacherId": "1004",
@@ -9898,6 +9904,7 @@
       "courseName": "军事理论A",
       "credit": "2",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "104",
@@ -9914,6 +9921,7 @@
       "courseName": "军事理论A",
       "credit": "2",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "109",
@@ -9930,6 +9938,7 @@
       "courseName": "军事理论A",
       "credit": "2",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "100",
@@ -9946,6 +9955,7 @@
       "courseName": "军事理论A",
       "credit": "2",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "108",
@@ -40743,10 +40753,8 @@
       "courseId": "1200LH05",
       "courseName": "植物与人类文明",
       "credit": "2",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "70",
+      "limitations": [],
+      "number": "69",
       "position": "BJ204",
       "teacherId": "1000",
       "teacherName": "袁晓君",
@@ -41585,7 +41593,7 @@
       "courseName": "食品毒理学A",
       "credit": "2",
       "limitations": [],
-      "number": "13",
+      "number": "14",
       "position": "经管107",
       "teacherId": "1000",
       "teacherName": "朱红艳",
@@ -54078,6 +54086,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "106",
@@ -54142,6 +54151,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "106",
@@ -54206,6 +54216,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "104",
@@ -54270,6 +54281,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "125",
@@ -54334,6 +54346,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "125",
@@ -54398,6 +54411,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "115",
@@ -54462,6 +54476,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "104",
@@ -54525,7 +54540,9 @@
       "courseId": "16583109",
       "courseName": "形势与政策",
       "credit": "0",
-      "limitations": [],
+      "limitations": [
+        "禁止选课"
+      ],
       "number": "104",
       "position": "J102",
       "teacherId": "1029",
@@ -54588,6 +54605,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "102",
@@ -54652,6 +54670,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "103",
@@ -54714,6 +54733,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "100",
@@ -54778,6 +54798,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "100",
@@ -54842,6 +54863,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "111",
@@ -54906,6 +54928,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "100",
@@ -54968,6 +54991,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "106",
@@ -55032,6 +55056,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "100",
@@ -55094,6 +55119,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "110",
@@ -55156,6 +55182,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "110",
@@ -55220,6 +55247,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "100",
@@ -55284,6 +55312,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "110",
@@ -55348,6 +55377,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "100",
@@ -55410,6 +55440,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "105",
@@ -55474,6 +55505,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "105",
@@ -55538,6 +55570,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "100",
@@ -55602,6 +55635,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "90",
@@ -55665,6 +55699,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "100",
@@ -55728,6 +55763,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "100",
@@ -55790,7 +55826,9 @@
       "courseId": "16583109",
       "courseName": "形势与政策",
       "credit": "0",
-      "limitations": [],
+      "limitations": [
+        "禁止选课"
+      ],
       "number": "58",
       "position": "AJ204",
       "teacherId": "1109",
@@ -55856,6 +55894,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "100",
@@ -58005,6 +58044,7 @@
       "courseName": "思想政治理论课(实践)(1)",
       "credit": "1",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "132",
@@ -58021,6 +58061,7 @@
       "courseName": "思想政治理论课(实践)(1)",
       "credit": "1",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "130",
@@ -58037,6 +58078,7 @@
       "courseName": "思想政治理论课(实践)(1)",
       "credit": "1",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "130",
@@ -58053,6 +58095,7 @@
       "courseName": "思想政治理论课(实践)(1)",
       "credit": "1",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "130",
@@ -58069,6 +58112,7 @@
       "courseName": "思想政治理论课(实践)(1)",
       "credit": "1",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "130",
@@ -58085,6 +58129,7 @@
       "courseName": "思想政治理论课(实践)(1)",
       "credit": "1",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "132",
@@ -58101,6 +58146,7 @@
       "courseName": "思想政治理论课(实践)(1)",
       "credit": "1",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "132",
@@ -58117,6 +58163,7 @@
       "courseName": "思想政治理论课(实践)(1)",
       "credit": "1",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "130",
@@ -58133,6 +58180,7 @@
       "courseName": "思想政治理论课(实践)(1)",
       "credit": "1",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "130",
@@ -58149,6 +58197,7 @@
       "courseName": "思想政治理论课(实践)(1)",
       "credit": "1",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "131",
@@ -58165,6 +58214,7 @@
       "courseName": "思想政治理论课(实践)(1)",
       "credit": "1",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "130",
@@ -58181,6 +58231,7 @@
       "courseName": "思想政治理论课(实践)(1)",
       "credit": "1",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "130",
@@ -58197,6 +58248,7 @@
       "courseName": "思想政治理论课(实践)(1)",
       "credit": "1",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "132",
@@ -58213,6 +58265,7 @@
       "courseName": "思想政治理论课(实践)(1)",
       "credit": "1",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "130",
@@ -58229,6 +58282,7 @@
       "courseName": "思想政治理论课(实践)(1)",
       "credit": "1",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "130",
@@ -58245,6 +58299,7 @@
       "courseName": "思想政治理论课(实践)(1)",
       "credit": "1",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "130",
@@ -58261,6 +58316,7 @@
       "courseName": "思想政治理论课(实践)(1)",
       "credit": "1",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "140",
@@ -58277,6 +58333,7 @@
       "courseName": "思想政治理论课(实践)(1)",
       "credit": "1",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "130",
@@ -58292,7 +58349,9 @@
       "courseId": "1658A001",
       "courseName": "思想政治理论课(实践)(1)",
       "credit": "1",
-      "limitations": [],
+      "limitations": [
+        "禁止选课"
+      ],
       "number": "128",
       "position": "AJ204",
       "teacherId": "1019",
@@ -58307,6 +58366,7 @@
       "courseName": "思想政治理论课(实践)(1)",
       "credit": "1",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "130",
@@ -58323,6 +58383,7 @@
       "courseName": "思想政治理论课(实践)(1)",
       "credit": "1",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "130",
@@ -58339,6 +58400,7 @@
       "courseName": "思想政治理论课(实践)(1)",
       "credit": "1",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "130",
@@ -58355,6 +58417,7 @@
       "courseName": "思想政治理论课(实践)(1)",
       "credit": "1",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "130",
@@ -58370,7 +58433,9 @@
       "courseId": "1658A001",
       "courseName": "思想政治理论课(实践)(1)",
       "credit": "1",
-      "limitations": [],
+      "limitations": [
+        "禁止选课"
+      ],
       "number": "125",
       "position": "J102",
       "teacherId": "1024",
@@ -58384,7 +58449,9 @@
       "courseId": "1658A001",
       "courseName": "思想政治理论课(实践)(1)",
       "credit": "1",
-      "limitations": [],
+      "limitations": [
+        "禁止选课"
+      ],
       "number": "131",
       "position": "J101",
       "teacherId": "1025",
@@ -58399,6 +58466,7 @@
       "courseName": "思想政治理论课(实践)(1)",
       "credit": "1",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "130",
@@ -58414,7 +58482,9 @@
       "courseId": "1658A001",
       "courseName": "思想政治理论课(实践)(1)",
       "credit": "1",
-      "limitations": [],
+      "limitations": [
+        "禁止选课"
+      ],
       "number": "125",
       "position": "AJ107",
       "teacherId": "1027",
@@ -58429,6 +58499,7 @@
       "courseName": "思想政治理论课(实践)(1)",
       "credit": "1",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "130",
@@ -58444,7 +58515,9 @@
       "courseId": "1658A001",
       "courseName": "思想政治理论课(实践)(1)",
       "credit": "1",
-      "limitations": [],
+      "limitations": [
+        "禁止选课"
+      ],
       "number": "118",
       "position": "BJ207",
       "teacherId": "1029",
@@ -58561,6 +58634,7 @@
       "courseName": "思想政治理论课(实践)(2)",
       "credit": "1",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "132",
@@ -58577,6 +58651,7 @@
       "courseName": "思想政治理论课(实践)(2)",
       "credit": "1",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "130",
@@ -58593,6 +58668,7 @@
       "courseName": "思想政治理论课(实践)(2)",
       "credit": "1",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "132",
@@ -58609,6 +58685,7 @@
       "courseName": "思想政治理论课(实践)(2)",
       "credit": "1",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "134",
@@ -58625,6 +58702,7 @@
       "courseName": "思想政治理论课(实践)(2)",
       "credit": "1",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "135",
@@ -58641,6 +58719,7 @@
       "courseName": "思想政治理论课(实践)(2)",
       "credit": "1",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "129",
@@ -58657,6 +58736,7 @@
       "courseName": "思想政治理论课(实践)(2)",
       "credit": "1",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "128",
@@ -58673,6 +58753,7 @@
       "courseName": "思想政治理论课(实践)(2)",
       "credit": "1",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "130",
@@ -58689,6 +58770,7 @@
       "courseName": "思想政治理论课(实践)(2)",
       "credit": "1",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "128",
@@ -58705,6 +58787,7 @@
       "courseName": "思想政治理论课(实践)(2)",
       "credit": "1",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "128",
@@ -58721,6 +58804,7 @@
       "courseName": "思想政治理论课(实践)(2)",
       "credit": "1",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "128",
@@ -58737,6 +58821,7 @@
       "courseName": "思想政治理论课(实践)(2)",
       "credit": "1",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "128",
@@ -58753,6 +58838,7 @@
       "courseName": "思想政治理论课(实践)(2)",
       "credit": "1",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "128",
@@ -58769,6 +58855,7 @@
       "courseName": "思想政治理论课(实践)(2)",
       "credit": "1",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "129",
@@ -58785,6 +58872,7 @@
       "courseName": "思想政治理论课(实践)(2)",
       "credit": "1",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "129",
@@ -58801,6 +58889,7 @@
       "courseName": "思想政治理论课(实践)(2)",
       "credit": "1",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "128",
@@ -58817,6 +58906,7 @@
       "courseName": "思想政治理论课(实践)(2)",
       "credit": "1",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "129",
@@ -58833,6 +58923,7 @@
       "courseName": "思想政治理论课(实践)(2)",
       "credit": "1",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "128",
@@ -58849,6 +58940,7 @@
       "courseName": "思想政治理论课(实践)(2)",
       "credit": "1",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "128",
@@ -58865,6 +58957,7 @@
       "courseName": "思想政治理论课(实践)(2)",
       "credit": "1",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "128",
@@ -58881,6 +58974,7 @@
       "courseName": "思想政治理论课(实践)(2)",
       "credit": "1",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "128",
@@ -58897,6 +58991,7 @@
       "courseName": "思想政治理论课(实践)(2)",
       "credit": "1",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "128",
@@ -58913,6 +59008,7 @@
       "courseName": "思想政治理论课(实践)(2)",
       "credit": "1",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "129",
@@ -58929,6 +59025,7 @@
       "courseName": "思想政治理论课(实践)(2)",
       "credit": "1",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "129",
@@ -58945,6 +59042,7 @@
       "courseName": "思想政治理论课(实践)(2)",
       "credit": "1",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "128",
@@ -58961,6 +59059,7 @@
       "courseName": "思想政治理论课(实践)(2)",
       "credit": "1",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "128",
@@ -58977,6 +59076,7 @@
       "courseName": "思想政治理论课(实践)(2)",
       "credit": "1",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "128",
@@ -58993,6 +59093,7 @@
       "courseName": "思想政治理论课(实践)(2)",
       "credit": "1",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "132",
@@ -72188,7 +72289,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "e8a4eb9b053ce97ccd741509e7663191",
+  "hash": "bc0188597349a072b7c34d2295f56a23",
   "termName": "2023-2024学年春季学期",
-  "updateTimeMs": 1710311907534
+  "updateTimeMs": 1710315534475
 }
