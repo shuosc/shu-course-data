@@ -8433,8 +8433,10 @@
       "courseId": "00864088",
       "courseName": "程序设计(C语言)",
       "credit": "4",
-      "limitations": [],
-      "number": "67",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "68",
       "position": "D413机房",
       "teacherId": "1002",
       "teacherName": "邹启明",
@@ -11238,7 +11240,7 @@
       "courseName": "微积分(3)",
       "credit": "4",
       "limitations": [],
-      "number": "92",
+      "number": "93",
       "position": "EJ303",
       "teacherId": "1019",
       "teacherName": "王文环",
@@ -24833,8 +24835,10 @@
       "courseId": "0400J503",
       "courseName": "金融与财富自由",
       "credit": "2",
-      "limitations": [],
-      "number": "29",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "30",
       "position": "B418",
       "teacherId": "1000",
       "teacherName": "李翔",
@@ -55688,7 +55692,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [],
-      "number": "32",
+      "number": "33",
       "position": "CJ103",
       "teacherId": "1099",
       "teacherName": "管坤",
@@ -57106,7 +57110,7 @@
       "courseName": "毛泽东思想和中国特色社会主义理论体系概论(2)",
       "credit": "2",
       "limitations": [],
-      "number": "91",
+      "number": "92",
       "position": "CJ204",
       "teacherId": "1003",
       "teacherName": "赵静",
@@ -72194,7 +72198,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "dc71b0e9dd95b5ddda8adbc7ec62d466",
+  "hash": "ae1c0087369ead00bbc8549b6a514efb",
   "termName": "2023-2024学年春季学期",
-  "updateTimeMs": 1710434365104
+  "updateTimeMs": 1710437896963
 }
