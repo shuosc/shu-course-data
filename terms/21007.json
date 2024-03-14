@@ -8464,7 +8464,7 @@
       "courseName": "工程制图与计算机绘图基础",
       "credit": "3",
       "limitations": [],
-      "number": "37",
+      "number": "38",
       "position": "D113",
       "teacherId": "1002",
       "teacherName": "刘霞",
@@ -8885,8 +8885,10 @@
       "courseId": "00864119",
       "courseName": "移动应用设计与开发",
       "credit": "3",
-      "limitations": [],
-      "number": "74",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "75",
       "position": "D401机房",
       "teacherId": "1003",
       "teacherName": "佘俊",
@@ -11236,7 +11238,7 @@
       "courseName": "微积分(3)",
       "credit": "4",
       "limitations": [],
-      "number": "90",
+      "number": "92",
       "position": "EJ303",
       "teacherId": "1019",
       "teacherName": "王文环",
@@ -12177,8 +12179,10 @@
       "courseId": "01034118",
       "courseName": "大学物理(2)",
       "credit": "4",
-      "limitations": [],
-      "number": "98",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "99",
       "position": "DJ104",
       "teacherId": "1011",
       "teacherName": "徐飞",
@@ -17090,8 +17094,10 @@
       "courseId": "0200R301",
       "courseName": "启蒙思想家与日本近代化",
       "credit": "2",
-      "limitations": [],
-      "number": "59",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "60",
       "position": "D213",
       "teacherId": "1000",
       "teacherName": "张智慧",
@@ -34123,7 +34129,7 @@
       "courseName": "电工技术",
       "credit": "4",
       "limitations": [],
-      "number": "32",
+      "number": "33",
       "position": "D117",
       "teacherId": "1000",
       "teacherName": "曹智茹",
@@ -57477,8 +57483,10 @@
       "courseId": "16584170",
       "courseName": "毛泽东思想和中国特色社会主义理论体系概论(2)",
       "credit": "2",
-      "limitations": [],
-      "number": "123",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "124",
       "position": "Ⅳ102",
       "teacherId": "3001",
       "teacherName": "汪艳",
@@ -61233,8 +61241,10 @@
       "courseId": "20624118",
       "courseName": "中级汉语听说A(3)",
       "credit": "3",
-      "limitations": [],
-      "number": "20",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "21",
       "position": "B415",
       "teacherId": "1002",
       "teacherName": "仇立颖",
@@ -61371,7 +61381,7 @@
       "courseName": "今日中国",
       "credit": "1",
       "limitations": [],
-      "number": "28",
+      "number": "29",
       "position": "B320",
       "teacherId": "1001",
       "teacherName": "姚喜明",
@@ -61462,7 +61472,7 @@
       "courseName": "基础汉语写作(3)",
       "credit": "2",
       "limitations": [],
-      "number": "17",
+      "number": "18",
       "position": "B418",
       "teacherId": "1002",
       "teacherName": "杨英颖",
@@ -62592,7 +62602,7 @@
       "courseName": "算法入门",
       "credit": "6",
       "limitations": [],
-      "number": "31",
+      "number": "32",
       "position": "D204",
       "teacherId": "1003",
       "teacherName": "Pierre Beauserroy等",
@@ -72184,7 +72194,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "7054aeefb252f4acaacc5b21b53bf0c0",
+  "hash": "dc71b0e9dd95b5ddda8adbc7ec62d466",
   "termName": "2023-2024学年春季学期",
-  "updateTimeMs": 1710430703999
+  "updateTimeMs": 1710434365104
 }
