@@ -19061,7 +19061,7 @@
       "credit": "4",
       "limitations": [],
       "number": "29",
-      "position": "A108",
+      "position": "A323",
       "teacherId": "1002",
       "teacherName": "项军",
       "teacherTitle": "讲师"
@@ -33632,8 +33632,10 @@
       "courseId": "09326164",
       "courseName": "医疗器械概论",
       "credit": "3",
-      "limitations": [],
-      "number": "49",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "54",
       "position": "材324",
       "teacherId": "1000",
       "teacherName": "华子恺",
@@ -72260,7 +72262,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "bfa8906a14c78365b9e542542b549a3e",
+  "hash": "9517a53e4398ed9808ccef769346553e",
   "termName": "2023-2024学年春季学期",
-  "updateTimeMs": 1710499119802
+  "updateTimeMs": 1710502693305
 }
