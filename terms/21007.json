@@ -3163,8 +3163,10 @@
       "courseId": "00853202",
       "courseName": "男生足球(基础)",
       "credit": "1",
-      "limitations": [],
-      "number": "27",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "28",
       "position": "J区北侧",
       "teacherId": "1335",
       "teacherName": "益广仁",
@@ -8403,7 +8405,7 @@
       "courseName": "程序设计(C语言)",
       "credit": "4",
       "limitations": [],
-      "number": "76",
+      "number": "77",
       "position": "D413机房",
       "teacherId": "1001",
       "teacherName": "邹启明",
@@ -12431,7 +12433,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "124",
+      "number": "125",
       "position": "EJ203",
       "teacherId": "1000",
       "teacherName": "查国桥",
@@ -16281,7 +16283,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "18",
+      "number": "19",
       "position": "D116",
       "teacherId": "1003",
       "teacherName": "樊靖郁",
@@ -20165,7 +20167,7 @@
       "courseName": "旅游英语",
       "credit": "2",
       "limitations": [],
-      "number": "48",
+      "number": "49",
       "position": "A115",
       "teacherId": "1007",
       "teacherName": "沈澄",
@@ -26002,7 +26004,7 @@
       "courseName": "统计学",
       "credit": "5",
       "limitations": [],
-      "number": "73",
+      "number": "72",
       "position": "AJ103",
       "teacherId": "1003",
       "teacherName": "陆贵斌",
@@ -27514,7 +27516,7 @@
       "courseName": "人力资源管理",
       "credit": "3",
       "limitations": [],
-      "number": "35",
+      "number": "36",
       "position": "经管109",
       "teacherId": "1001",
       "teacherName": "胡晓龙",
@@ -27617,8 +27619,10 @@
       "courseId": "04195061",
       "courseName": "战略管理",
       "credit": "4",
-      "limitations": [],
-      "number": "39",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "40",
       "position": "经管110",
       "teacherId": "1003",
       "teacherName": "王家宝",
@@ -42755,7 +42759,7 @@
       "courseName": "《兰亭序》与中国书法艺术",
       "credit": "2",
       "limitations": [],
-      "number": "12",
+      "number": "11",
       "position": "1-102",
       "teacherId": "2000",
       "teacherName": "戴东方",
@@ -42785,7 +42789,7 @@
       "courseName": "文人器玩的审美",
       "credit": "2",
       "limitations": [],
-      "number": "37",
+      "number": "38",
       "position": "B316",
       "teacherId": "1000",
       "teacherName": "王沁",
@@ -54546,7 +54550,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "108",
+      "number": "109",
       "position": "CJ204",
       "teacherId": "1027",
       "teacherName": "张金翠",
@@ -72232,7 +72236,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "fe81199aba03e667ad7249d2f9d68b60",
+  "hash": "92882cb8703bca01fbbb75c5847a17ca",
   "termName": "2023-2024学年春季学期",
-  "updateTimeMs": 1710805089817
+  "updateTimeMs": 1710812044755
 }
