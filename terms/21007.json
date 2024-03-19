@@ -8465,7 +8465,7 @@
       "courseName": "工程制图与计算机绘图基础",
       "credit": "3",
       "limitations": [],
-      "number": "16",
+      "number": "17",
       "position": "D221",
       "teacherId": "1003",
       "teacherName": "林成辉",
@@ -10117,7 +10117,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "66",
+      "number": "67",
       "position": "AJ104",
       "teacherId": "1007",
       "teacherName": "薛程",
@@ -11485,7 +11485,7 @@
       "courseName": "数学史",
       "credit": "3",
       "limitations": [],
-      "number": "122",
+      "number": "123",
       "position": "FJ106",
       "teacherId": "1000",
       "teacherName": "谢齐沁",
@@ -11588,7 +11588,7 @@
       "courseName": "泛函分析(特)",
       "credit": "5",
       "limitations": [],
-      "number": "53",
+      "number": "54",
       "position": "D216",
       "teacherId": "1000",
       "teacherName": "李晋等",
@@ -11660,7 +11660,7 @@
       "courseName": "毕业设计(论文)",
       "credit": "24",
       "limitations": [],
-      "number": "139",
+      "number": "140",
       "position": "另行通知",
       "teacherId": "1000",
       "teacherName": "蔡敏",
@@ -11996,7 +11996,7 @@
       "courseName": "最优化方法选讲",
       "credit": "4",
       "limitations": [],
-      "number": "55",
+      "number": "56",
       "position": "FJ303",
       "teacherId": "1002",
       "teacherName": "徐姿",
@@ -56790,7 +56790,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "80",
+      "number": "81",
       "position": "AJ103",
       "teacherId": "1023",
       "teacherName": "韩玲",
@@ -58654,7 +58654,7 @@
         "禁止选课",
         "人数已满"
       ],
-      "number": "134",
+      "number": "135",
       "position": "AJ107",
       "teacherId": "1004",
       "teacherName": "申小翠",
@@ -64677,8 +64677,10 @@
       "courseId": "2400JH02",
       "courseName": "大学生情商密码",
       "credit": "2",
-      "limitations": [],
-      "number": "69",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "70",
       "position": "AJ303",
       "teacherId": "1000",
       "teacherName": "许科",
@@ -72238,7 +72240,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "1d0e951a77d01e9d5f32cc64e73fd092",
+  "hash": "1d752a579dd7aba37f4ed909db1301e0",
   "termName": "2023-2024学年春季学期",
-  "updateTimeMs": 1710830293419
+  "updateTimeMs": 1710833891306
 }
