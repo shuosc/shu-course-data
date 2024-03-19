@@ -17254,7 +17254,7 @@
       "courseName": "中国文明通论",
       "credit": "4",
       "limitations": [],
-      "number": "21",
+      "number": "22",
       "position": "B317",
       "teacherId": "1000",
       "teacherName": "胡宁等",
@@ -20526,8 +20526,10 @@
       "courseId": "03004474",
       "courseName": "通用英语D(3)",
       "credit": "2",
-      "limitations": [],
-      "number": "47",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "48",
       "position": "A104",
       "teacherId": "1006",
       "teacherName": "蔡石兴",
@@ -25304,7 +25306,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "72",
+      "number": "73",
       "position": "AJ103",
       "teacherId": "1002",
       "teacherName": "袁晓燕",
@@ -72236,7 +72238,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "2235cb993eeb89f10e28b5868ffde37c",
+  "hash": "1d0e951a77d01e9d5f32cc64e73fd092",
   "termName": "2023-2024学年春季学期",
-  "updateTimeMs": 1710815900341
+  "updateTimeMs": 1710819506964
 }
