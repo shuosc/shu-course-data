@@ -6115,10 +6115,8 @@
       "courseId": "00853603",
       "courseName": "篮球(3)",
       "credit": "1",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "24",
+      "limitations": [],
+      "number": "23",
       "position": "训练馆2楼",
       "teacherId": "1014",
       "teacherName": "魏磊",
@@ -19748,7 +19746,7 @@
       "courseName": "英语新闻听力",
       "credit": "2",
       "limitations": [],
-      "number": "34",
+      "number": "35",
       "position": "C609",
       "teacherId": "1001",
       "teacherName": "陈晓华",
@@ -20232,8 +20230,10 @@
       "courseId": "03004419",
       "courseName": "旅游英语",
       "credit": "2",
-      "limitations": [],
-      "number": "50",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "51",
       "position": "A115",
       "teacherId": "1011",
       "teacherName": "沈澄",
@@ -29209,7 +29209,7 @@
       "courseName": "国际私法B",
       "credit": "4",
       "limitations": [],
-      "number": "14",
+      "number": "15",
       "position": "B413",
       "teacherId": "1001",
       "teacherName": "王勉青",
@@ -40548,7 +40548,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "40",
+      "number": "41",
       "position": "D109",
       "teacherId": "1000",
       "teacherName": "李华飞",
@@ -40562,7 +40562,7 @@
       "courseName": "生命脉动",
       "credit": "3",
       "limitations": [],
-      "number": "17",
+      "number": "18",
       "position": "B310",
       "teacherId": "1000",
       "teacherName": "李进",
@@ -40576,7 +40576,7 @@
       "courseName": "未来医院",
       "credit": "2",
       "limitations": [],
-      "number": "37",
+      "number": "38",
       "position": "D117",
       "teacherId": "1000",
       "teacherName": "高礼鹏",
@@ -40697,7 +40697,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "70",
+      "number": "71",
       "position": "DJ104",
       "teacherId": "1000",
       "teacherName": "李平等",
@@ -41745,7 +41745,7 @@
       "courseName": "基因工程实验",
       "credit": "2",
       "limitations": [],
-      "number": "13",
+      "number": "12",
       "position": "生命楼224",
       "teacherId": "1001",
       "teacherName": "贺燕云",
@@ -48199,7 +48199,7 @@
       "courseName": "《消费社会》与消费文化",
       "credit": "2",
       "limitations": [],
-      "number": "68",
+      "number": "69",
       "position": "J102",
       "teacherId": "1000",
       "teacherName": "贾鉴",
@@ -64420,7 +64420,7 @@
       "courseName": "习近平新时代中国特色社会主义思想概论",
       "credit": "3",
       "limitations": [],
-      "number": "119",
+      "number": "118",
       "position": "BJ207",
       "teacherId": "1002",
       "teacherName": "张富文",
@@ -72240,7 +72240,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "1469df857cab360a616295cd92bb369d",
+  "hash": "26e40647b1ead9a452a7a483956c0a75",
   "termName": "2023-2024学年春季学期",
-  "updateTimeMs": 1710986832270
+  "updateTimeMs": 1710988745603
 }
