@@ -1592,7 +1592,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "22",
+      "number": "23",
       "position": "体育馆内场",
       "teacherId": "2405",
       "teacherName": "闵伟",
@@ -2379,7 +2379,7 @@
       "courseName": "体育(6)",
       "credit": "1",
       "limitations": [],
-      "number": "14",
+      "number": "13",
       "position": "网球场",
       "teacherId": "2807",
       "teacherName": "陆英浩",
@@ -2454,10 +2454,8 @@
       "courseId": "00853006",
       "courseName": "体育(6)",
       "credit": "1",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "22",
+      "limitations": [],
+      "number": "21",
       "position": "篮球场",
       "teacherId": "2895",
       "teacherName": "陈婷",
@@ -8465,7 +8463,7 @@
       "courseName": "工程制图与计算机绘图基础",
       "credit": "3",
       "limitations": [],
-      "number": "17",
+      "number": "18",
       "position": "D221",
       "teacherId": "1003",
       "teacherName": "林成辉",
@@ -9465,7 +9463,7 @@
       "courseName": "大学生社会实践",
       "credit": "1",
       "limitations": [],
-      "number": "29",
+      "number": "28",
       "position": "1-101",
       "teacherId": "2000",
       "teacherName": "李玲",
@@ -9964,10 +9962,8 @@
       "courseId": "00914006",
       "courseName": "军事理论A",
       "credit": "2",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "121",
+      "limitations": [],
+      "number": "120",
       "position": "1-231",
       "teacherId": "2000",
       "teacherName": "孙士庆",
@@ -10193,7 +10189,7 @@
       "courseName": "大学生心理健康",
       "credit": "2",
       "limitations": [],
-      "number": "21",
+      "number": "22",
       "position": "Ⅳ104",
       "teacherId": "3000",
       "teacherName": "王潇敏",
@@ -10810,10 +10806,8 @@
       "courseId": "01014117",
       "courseName": "高等数学(3)",
       "credit": "4",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "105",
+      "limitations": [],
+      "number": "103",
       "position": "1-503",
       "teacherId": "2001",
       "teacherName": "胡海平",
@@ -10857,7 +10851,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "91",
+      "number": "92",
       "position": "1-231",
       "teacherId": "2001",
       "teacherName": "鞠先孟",
@@ -10902,10 +10896,8 @@
       "courseId": "01014118",
       "courseName": "概率论与数理统计C",
       "credit": "4",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "94",
+      "limitations": [],
+      "number": "93",
       "position": "1-503",
       "teacherId": "2004",
       "teacherName": "胡海平",
@@ -12100,7 +12092,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "100",
+      "number": "101",
       "position": "EJ104",
       "teacherId": "1006",
       "teacherName": "贾蓉蓉",
@@ -13384,8 +13376,10 @@
       "courseId": "01034121",
       "courseName": "大学物理实验(2)",
       "credit": "1",
-      "limitations": [],
-      "number": "21",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "22",
       "position": "F楼1楼",
       "teacherId": "1060",
       "teacherName": "盛雷梅",
@@ -17027,7 +17021,7 @@
       "courseName": "《圣经》与基督教文明",
       "credit": "2",
       "limitations": [],
-      "number": "14",
+      "number": "15",
       "position": "D212",
       "teacherId": "1000",
       "teacherName": "刘义",
@@ -17205,7 +17199,7 @@
       "courseName": "大学创意写作",
       "credit": "3",
       "limitations": [],
-      "number": "11",
+      "number": "10",
       "position": "1-307",
       "teacherId": "2000",
       "teacherName": "许道军",
@@ -24837,10 +24831,8 @@
       "courseId": "0400J503",
       "courseName": "金融与财富自由",
       "credit": "2",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "30",
+      "limitations": [],
+      "number": "29",
       "position": "B418",
       "teacherId": "1000",
       "teacherName": "李翔",
@@ -28698,7 +28690,7 @@
       "courseName": "智能法理",
       "credit": "3",
       "limitations": [],
-      "number": "87",
+      "number": "86",
       "position": "DJ204",
       "teacherId": "1000",
       "teacherName": "洪凌啸",
@@ -33647,12 +33639,12 @@
     {
       "campus": "宝山",
       "capacity": "65",
-      "classTime": "一9-11",
+      "classTime": "一9-11全英语",
       "courseId": "09326177",
       "courseName": "移动机器人环境感知建模技术",
       "credit": "3",
       "limitations": [],
-      "number": "63",
+      "number": "54",
       "position": "计304",
       "teacherId": "1000",
       "teacherName": "解杨敏",
@@ -36552,7 +36544,7 @@
       "courseName": "微机电系统基础",
       "credit": "3",
       "limitations": [],
-      "number": "29",
+      "number": "32",
       "position": "计302",
       "teacherId": "1000",
       "teacherName": "袁光杰",
@@ -39210,7 +39202,7 @@
       "courseName": "植被与PM2.5",
       "credit": "2",
       "limitations": [],
-      "number": "69",
+      "number": "66",
       "position": "1-111",
       "teacherId": "2000",
       "teacherName": "黄凌",
@@ -48256,7 +48248,7 @@
       "courseName": "纪录片:用真实绘制世界",
       "credit": "1",
       "limitations": [],
-      "number": "27",
+      "number": "28",
       "position": "B323",
       "teacherId": "1000",
       "teacherName": "王艳红",
@@ -48453,8 +48445,10 @@
       "courseId": "14555317",
       "courseName": "游戏设计概论A",
       "credit": "3",
-      "limitations": [],
-      "number": "39",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "40",
       "position": "Ⅳ404",
       "teacherId": "3000",
       "teacherName": "周霁婷",
@@ -48562,7 +48556,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "30",
+      "number": "31",
       "position": "Ⅳ206",
       "teacherId": "3000",
       "teacherName": "王艳红",
@@ -50825,7 +50819,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "52",
+      "number": "53",
       "position": "文博504 文德301",
       "teacherId": "2001",
       "teacherName": "薛文骏",
@@ -50901,7 +50895,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "52",
+      "number": "53",
       "position": "文博504",
       "teacherId": "2002",
       "teacherName": "牛英杰",
@@ -50963,7 +50957,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "48",
+      "number": "49",
       "position": "文博302",
       "teacherId": "2002",
       "teacherName": "张倩",
@@ -51021,7 +51015,7 @@
       "courseName": "金融编程与计算",
       "credit": "4",
       "limitations": [],
-      "number": "40",
+      "number": "39",
       "position": "文博306 文德203 文博306",
       "teacherId": "2000",
       "teacherName": "龚玉婷",
@@ -51162,7 +51156,7 @@
       "courseName": "现代计算机检索技术",
       "credit": "1",
       "limitations": [],
-      "number": "28",
+      "number": "29",
       "position": "文德203",
       "teacherId": "2007",
       "teacherName": "王雨婷",
@@ -51252,7 +51246,7 @@
       "courseName": "Python数据分析",
       "credit": "3",
       "limitations": [],
-      "number": "22",
+      "number": "21",
       "position": "文德201 文德303",
       "teacherId": "2003",
       "teacherName": "肖璠",
@@ -51279,10 +51273,8 @@
       "courseId": "15174136",
       "courseName": "Python数据分析",
       "credit": "3",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "27",
+      "limitations": [],
+      "number": "26",
       "position": "文德203",
       "teacherId": "2005",
       "teacherName": "刘启刚",
@@ -51328,7 +51320,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "40",
+      "number": "41",
       "position": "文博101",
       "teacherId": "2000",
       "teacherName": "卞亦文",
@@ -51372,7 +51364,7 @@
       "courseName": "数据分析基础",
       "credit": "4",
       "limitations": [],
-      "number": "34",
+      "number": "33",
       "position": "文德201 文德301 文德301",
       "teacherId": "2001",
       "teacherName": "陈娟",
@@ -51386,7 +51378,7 @@
       "courseName": "数据分析基础",
       "credit": "4",
       "limitations": [],
-      "number": "37",
+      "number": "36",
       "position": "文德301",
       "teacherId": "2002",
       "teacherName": "陈娟",
@@ -51400,7 +51392,7 @@
       "courseName": "数据分析基础",
       "credit": "4",
       "limitations": [],
-      "number": "22",
+      "number": "21",
       "position": "文德301 文德201 文德301",
       "teacherId": "2003",
       "teacherName": "陈娟",
@@ -51486,7 +51478,7 @@
       "courseName": "算法设计与分析",
       "credit": "4",
       "limitations": [],
-      "number": "16",
+      "number": "14",
       "position": "文德203 文德203 文德201",
       "teacherId": "2000",
       "teacherName": "牟立峰",
@@ -51633,10 +51625,8 @@
       "courseId": "1517EY01",
       "courseName": "基于网络技术的商业模式",
       "credit": "2",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "30",
+      "limitations": [],
+      "number": "29",
       "position": "文达605",
       "teacherId": "2001",
       "teacherName": "杜娟",
@@ -51741,10 +51731,8 @@
       "courseId": "1517SY02",
       "courseName": "智慧城市管理与服务前沿技术",
       "credit": "2",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "31",
+      "limitations": [],
+      "number": "30",
       "position": "文博301",
       "teacherId": "2003",
       "teacherName": "孙向阳等",
@@ -51892,7 +51880,7 @@
       "courseName": "市场营销",
       "credit": "4",
       "limitations": [],
-      "number": "36",
+      "number": "35",
       "position": "文博306",
       "teacherId": "2002",
       "teacherName": "陈跃刚",
@@ -51982,7 +51970,7 @@
       "courseName": "商业哲学与社会",
       "credit": "4",
       "limitations": [],
-      "number": "36",
+      "number": "37",
       "position": "文博304",
       "teacherId": "2004",
       "teacherName": "霍佳阁",
@@ -52043,7 +52031,7 @@
       "courseName": "服务创新创业实践",
       "credit": "2",
       "limitations": [],
-      "number": "18",
+      "number": "17",
       "position": "文博205",
       "teacherId": "2003",
       "teacherName": "帅萍等",
@@ -52057,7 +52045,7 @@
       "courseName": "消费者行为学",
       "credit": "4",
       "limitations": [],
-      "number": "50",
+      "number": "51",
       "position": "文博502",
       "teacherId": "2000",
       "teacherName": "才源源",
@@ -52070,10 +52058,8 @@
       "courseId": "15196088",
       "courseName": "国际市场营销概论",
       "credit": "4",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "23",
+      "limitations": [],
+      "number": "22",
       "position": "德205,205,博205,德205,205,205,博205,德205,205",
       "teacherId": "2001",
       "teacherName": "Majeed Salman",
@@ -52100,10 +52086,8 @@
       "courseId": "15196092",
       "courseName": "品牌管理",
       "credit": "4",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "58",
+      "limitations": [],
+      "number": "57",
       "position": "文博404",
       "teacherId": "2000",
       "teacherName": "俞明舟等",
@@ -52131,7 +52115,7 @@
       "courseName": "城市与区域管理",
       "credit": "4",
       "limitations": [],
-      "number": "32",
+      "number": "33",
       "position": "文博101",
       "teacherId": "2000",
       "teacherName": "陈跃刚",
@@ -52189,7 +52173,7 @@
       "courseName": "企业决策模拟",
       "credit": "4",
       "limitations": [],
-      "number": "31",
+      "number": "30",
       "position": "文德201,文德203,文德203",
       "teacherId": "2002",
       "teacherName": "吴海宁",
@@ -52265,10 +52249,8 @@
       "courseId": "15199132",
       "courseName": "数字营销",
       "credit": "4",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "68",
+      "limitations": [],
+      "number": "67",
       "position": "文博404",
       "teacherId": "2000",
       "teacherName": "俞明舟等",
@@ -52419,10 +52401,8 @@
       "courseId": "1519SY02",
       "courseName": "数智化组织发展",
       "credit": "2",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "30",
+      "limitations": [],
+      "number": "29",
       "position": "文达605",
       "teacherId": "2001",
       "teacherName": "陈海宁",
@@ -52480,7 +52460,7 @@
       "courseName": "智能财税",
       "credit": "4",
       "limitations": [],
-      "number": "65",
+      "number": "64",
       "position": "文德205 文博402",
       "teacherId": "2000",
       "teacherName": "陈婉怡",
@@ -52543,7 +52523,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "45",
+      "number": "46",
       "position": "文博302",
       "teacherId": "2003",
       "teacherName": "陈婉怡",
@@ -52621,7 +52601,7 @@
       "courseName": "财务管理",
       "credit": "4",
       "limitations": [],
-      "number": "37",
+      "number": "38",
       "position": "文博101",
       "teacherId": "2008",
       "teacherName": "王兰芳",
@@ -53003,7 +52983,7 @@
       "courseName": "财务计价与策略",
       "credit": "4",
       "limitations": [],
-      "number": "18",
+      "number": "17",
       "position": "文德205,205,205,205,博204,德205,205,205",
       "teacherId": "2002",
       "teacherName": "李晗等",
@@ -53031,7 +53011,7 @@
       "courseName": "财务计价与策略",
       "credit": "4",
       "limitations": [],
-      "number": "35",
+      "number": "34",
       "position": "文博302",
       "teacherId": "2004",
       "teacherName": "方慧",
@@ -53076,10 +53056,8 @@
       "courseId": "15575085",
       "courseName": "商务统计学",
       "credit": "4",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "44",
+      "limitations": [],
+      "number": "43",
       "position": "文博304",
       "teacherId": "2002",
       "teacherName": "童宏玺",
@@ -53092,10 +53070,8 @@
       "courseId": "15575085",
       "courseName": "商务统计学",
       "credit": "4",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "25",
+      "limitations": [],
+      "number": "24",
       "position": "文博206",
       "teacherId": "2003",
       "teacherName": "姜爱萍",
@@ -53123,7 +53099,7 @@
       "courseName": "商务统计学",
       "credit": "4",
       "limitations": [],
-      "number": "17",
+      "number": "15",
       "position": "文博206",
       "teacherId": "2005",
       "teacherName": "姜爱萍",
@@ -53139,7 +53115,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "68",
+      "number": "69",
       "position": "文达506",
       "teacherId": "2000",
       "teacherName": "陈军",
@@ -53196,8 +53172,10 @@
       "courseId": "15575150",
       "courseName": "学术与商务交流",
       "credit": "4",
-      "limitations": [],
-      "number": "21",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "22",
       "position": "文博209",
       "teacherId": "2004",
       "teacherName": "FURTADO ANTHONY LEONARD",
@@ -53210,10 +53188,8 @@
       "courseId": "15575150",
       "courseName": "学术与商务交流",
       "credit": "4",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "22",
+      "limitations": [],
+      "number": "21",
       "position": "文博207 文博204",
       "teacherId": "2005",
       "teacherName": "SKALEVA YULIYA",
@@ -53403,7 +53379,7 @@
       "courseName": "跨文化管理",
       "credit": "4",
       "limitations": [],
-      "number": "54",
+      "number": "55",
       "position": "文博406",
       "teacherId": "2001",
       "teacherName": "聂晶",
@@ -53460,10 +53436,8 @@
       "courseId": "15575307",
       "courseName": "国际商务",
       "credit": "4",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "43",
+      "limitations": [],
+      "number": "41",
       "position": "文博301",
       "teacherId": "2002",
       "teacherName": "周习",
@@ -53721,10 +53695,8 @@
       "courseId": "1557EY01",
       "courseName": "贸易前沿",
       "credit": "2",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "30",
+      "limitations": [],
+      "number": "29",
       "position": "文博101",
       "teacherId": "2004",
       "teacherName": "李瑜敏",
@@ -53842,7 +53814,7 @@
       "courseName": "全球经济治理",
       "credit": "2",
       "limitations": [],
-      "number": "28",
+      "number": "27",
       "position": "文博302",
       "teacherId": "2000",
       "teacherName": "李青",
@@ -54142,7 +54114,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "110",
+      "number": "111",
       "position": "AJ204",
       "teacherId": "1003",
       "teacherName": "童颖",
@@ -56050,10 +56022,8 @@
       "courseId": "16583109",
       "courseName": "形势与政策",
       "credit": "0",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "130",
+      "limitations": [],
+      "number": "129",
       "position": "1-233",
       "teacherId": "2005",
       "teacherName": "韩晓春",
@@ -56131,7 +56101,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [],
-      "number": "103",
+      "number": "107",
       "position": "1-233",
       "teacherId": "2010",
       "teacherName": "韩晓春",
@@ -56145,7 +56115,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [],
-      "number": "38",
+      "number": "41",
       "position": "1-333",
       "teacherId": "2011",
       "teacherName": "李昊匡",
@@ -57024,7 +56994,7 @@
       "courseName": "马克思主义基本原理",
       "credit": "3",
       "limitations": [],
-      "number": "35",
+      "number": "34",
       "position": "Ⅳ401",
       "teacherId": "3002",
       "teacherName": "张靖杰",
@@ -57595,10 +57565,8 @@
       "courseId": "16584171",
       "courseName": "习近平新时代中国特色社会主义思想概论",
       "credit": "3",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "105",
+      "limitations": [],
+      "number": "104",
       "position": "DJ103",
       "teacherId": "1006",
       "teacherName": "曹青春",
@@ -57702,7 +57670,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "125",
+      "number": "126",
       "position": "1-331",
       "teacherId": "2000",
       "teacherName": "宋政超",
@@ -57715,10 +57683,8 @@
       "courseId": "16584171",
       "courseName": "习近平新时代中国特色社会主义思想概论",
       "credit": "3",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "110",
+      "limitations": [],
+      "number": "109",
       "position": "Ⅳ402",
       "teacherId": "3001",
       "teacherName": "程娜",
@@ -57732,7 +57698,7 @@
       "courseName": "习近平新时代中国特色社会主义思想概论",
       "credit": "3",
       "limitations": [],
-      "number": "97",
+      "number": "98",
       "position": "Ⅳ102",
       "teacherId": "3002",
       "teacherName": "申小翠",
@@ -57946,7 +57912,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "35",
+      "number": "36",
       "position": "B417",
       "teacherId": "1015",
       "teacherName": "刘雅君",
@@ -58634,7 +58600,7 @@
         "禁止选课",
         "人数已满"
       ],
-      "number": "135",
+      "number": "136",
       "position": "AJ107",
       "teacherId": "1004",
       "teacherName": "申小翠",
@@ -72222,7 +72188,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "3108417fb92f933dc3c419cf8d25f34c",
+  "hash": "5e0cb262ff2d0c866b311652944f2259",
   "termName": "2023-2024学年春季学期",
-  "updateTimeMs": 1710999516525
+  "updateTimeMs": 1711003277148
 }
