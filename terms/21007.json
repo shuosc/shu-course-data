@@ -10897,7 +10897,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "95",
+      "number": "96",
       "position": "1-503",
       "teacherId": "2004",
       "teacherName": "胡海平",
@@ -51179,10 +51179,8 @@
       "courseId": "15174092",
       "courseName": "现代计算机检索技术",
       "credit": "1",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "42",
+      "limitations": [],
+      "number": "41",
       "position": "文德303",
       "teacherId": "2009",
       "teacherName": "曾若辰",
@@ -51388,7 +51386,7 @@
       "courseName": "数据分析基础",
       "credit": "4",
       "limitations": [],
-      "number": "21",
+      "number": "20",
       "position": "文德301 文德201 文德301",
       "teacherId": "2003",
       "teacherName": "陈娟",
@@ -51788,7 +51786,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "38",
+      "number": "39",
       "position": "德205,博101,德205,德报告厅,报告厅…",
       "teacherId": "2001",
       "teacherName": "吕斐斐等",
@@ -51874,7 +51872,7 @@
       "courseName": "市场营销",
       "credit": "4",
       "limitations": [],
-      "number": "37",
+      "number": "35",
       "position": "文博306",
       "teacherId": "2002",
       "teacherName": "陈跃刚",
@@ -52125,7 +52123,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "55",
+      "number": "56",
       "position": "文博504",
       "teacherId": "2000",
       "teacherName": "何黎胜",
@@ -52154,8 +52152,10 @@
       "courseId": "15199086",
       "courseName": "企业决策模拟",
       "credit": "4",
-      "limitations": [],
-      "number": "31",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "32",
       "position": "文德201",
       "teacherId": "2001",
       "teacherName": "罗艳",
@@ -52245,8 +52245,10 @@
       "courseId": "15199132",
       "courseName": "数字营销",
       "credit": "4",
-      "limitations": [],
-      "number": "67",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "68",
       "position": "文博404",
       "teacherId": "2000",
       "teacherName": "俞明舟等",
@@ -72178,7 +72180,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "30f1f518f1a100733f331f8209c6e927",
+  "hash": "41da72fc60c8035583f5dcb9384875f6",
   "termName": "2023-2024学年春季学期",
-  "updateTimeMs": 1711073058636
+  "updateTimeMs": 1711075097234
 }
