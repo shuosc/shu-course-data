@@ -8991,7 +8991,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "74",
+      "number": "75",
       "position": "DJ103",
       "teacherId": "1005",
       "teacherName": "邹启明",
@@ -11331,7 +11331,7 @@
       "courseName": "微积分(3)",
       "credit": "4",
       "limitations": [],
-      "number": "11",
+      "number": "12",
       "position": "C108",
       "teacherId": "1026",
       "teacherName": "崔艳芬",
@@ -26756,10 +26756,9 @@
       "courseName": "毕业设计(论文)",
       "credit": "20",
       "limitations": [
-        "禁止选课",
-        "人数已满"
+        "禁止选课"
       ],
-      "number": "28",
+      "number": "27",
       "position": "另行通知",
       "teacherId": "1000",
       "teacherName": "丁小凤",
@@ -54592,8 +54591,10 @@
       "courseId": "16583109",
       "courseName": "形势与政策",
       "credit": "0",
-      "limitations": [],
-      "number": "109",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "110",
       "position": "J102",
       "teacherId": "1032",
       "teacherName": "宋哲仁",
@@ -61068,7 +61069,7 @@
       "courseName": "高级汉语阅读(3)",
       "credit": "2",
       "limitations": [],
-      "number": "11",
+      "number": "12",
       "position": "B315",
       "teacherId": "1000",
       "teacherName": "刘婷婷",
@@ -61181,8 +61182,10 @@
       "courseId": "20624115",
       "courseName": "中级汉语读写A(3)",
       "credit": "8",
-      "limitations": [],
-      "number": "24",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "26",
       "position": "A118",
       "teacherId": "1001",
       "teacherName": "黄自然",
@@ -72208,7 +72211,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "067cadc5f961ae7dd9752113807e007a",
+  "hash": "9463205fa27922cad92e6434c0dbff87",
   "termName": "2023-2024学年春季学期",
-  "updateTimeMs": 1711352313004
+  "updateTimeMs": 1711355916215
 }
