@@ -10745,7 +10745,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "120",
+      "number": "121",
       "position": "EJ103",
       "teacherId": "1009",
       "teacherName": "何海安",
@@ -11001,7 +11001,7 @@
       "courseName": "微积分(3)",
       "credit": "4",
       "limitations": [],
-      "number": "76",
+      "number": "77",
       "position": "FJ304",
       "teacherId": "1004",
       "teacherName": "孙孟锋",
@@ -11237,7 +11237,7 @@
       "courseName": "微积分(3)",
       "credit": "4",
       "limitations": [],
-      "number": "97",
+      "number": "96",
       "position": "EJ303",
       "teacherId": "1019",
       "teacherName": "王文环",
@@ -11314,8 +11314,10 @@
       "courseId": "01014127",
       "courseName": "微积分(3)",
       "credit": "4",
-      "limitations": [],
-      "number": "105",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "106",
       "position": "FJ203",
       "teacherId": "1024",
       "teacherName": "胡召平",
@@ -12386,10 +12388,8 @@
       "courseId": "01034118",
       "courseName": "大学物理(2)",
       "credit": "4",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "101",
+      "limitations": [],
+      "number": "100",
       "position": "FJ103",
       "teacherId": "1025",
       "teacherName": "蔡文赫",
@@ -55475,7 +55475,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "111",
+      "number": "112",
       "position": "AJ304",
       "teacherId": "1087",
       "teacherName": "李之喆",
@@ -55556,7 +55556,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "107",
+      "number": "108",
       "position": "J101",
       "teacherId": "1092",
       "teacherName": "刘子杰",
@@ -72206,7 +72206,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "cb708195a4d012d0d9d000818be011ab",
+  "hash": "f2f36363b7500ced2cf9f30430a08a88",
   "termName": "2023-2024学年春季学期",
-  "updateTimeMs": 1711323495858
+  "updateTimeMs": 1711330528974
 }
