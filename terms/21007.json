@@ -54654,8 +54654,10 @@
       "courseId": "16583109",
       "courseName": "形势与政策",
       "credit": "0",
-      "limitations": [],
-      "number": "104",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "105",
       "position": "CJ204",
       "teacherId": "1036",
       "teacherName": "徐苗",
@@ -72206,7 +72208,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "f2f36363b7500ced2cf9f30430a08a88",
+  "hash": "fb0b9f3a8e7464284bd1b27f02743e5d",
   "termName": "2023-2024学年春季学期",
-  "updateTimeMs": 1711330528974
+  "updateTimeMs": 1711332463151
 }
