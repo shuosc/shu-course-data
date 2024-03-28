@@ -9913,9 +9913,10 @@
       "courseName": "军事理论A",
       "credit": "2",
       "limitations": [
-        "禁止选课"
+        "禁止选课",
+        "人数已满"
       ],
-      "number": "108",
+      "number": "109",
       "position": "J102",
       "teacherId": "1006",
       "teacherName": "孙士庆",
@@ -58379,7 +58380,7 @@
       "courseName": "思想政治理论课(实践)(1)",
       "credit": "1",
       "limitations": [],
-      "number": "140",
+      "number": "141",
       "position": "J101",
       "teacherId": "1026",
       "teacherName": "丰箫",
@@ -72202,7 +72203,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "141773bd3368a33481b7ccb1581199a8",
+  "hash": "3fa90c231877c513272da71ddca8ddc5",
   "termName": "2023-2024学年春季学期",
-  "updateTimeMs": 1711611525999
+  "updateTimeMs": 1711615095794
 }
