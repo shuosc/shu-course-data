@@ -54908,8 +54908,10 @@
       "courseId": "16583109",
       "courseName": "形势与政策",
       "credit": "0",
-      "limitations": [],
-      "number": "111",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "112",
       "position": "J101",
       "teacherId": "1052",
       "teacherName": "杨章文",
@@ -55422,7 +55424,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [],
-      "number": "60",
+      "number": "61",
       "position": "BJ204",
       "teacherId": "1084",
       "teacherName": "张丹华",
@@ -58381,7 +58383,7 @@
       "courseName": "思想政治理论课(实践)(1)",
       "credit": "1",
       "limitations": [],
-      "number": "138",
+      "number": "140",
       "position": "J101",
       "teacherId": "1026",
       "teacherName": "丰箫",
@@ -72204,7 +72206,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "6bc1583fb43b4e4ebe1aa4d7a048aaa6",
+  "hash": "dcdf3dd2cbddf741b21eed3801c41de8",
   "termName": "2023-2024学年春季学期",
-  "updateTimeMs": 1711600696167
+  "updateTimeMs": 1711604292246
 }
