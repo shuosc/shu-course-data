@@ -58088,7 +58088,7 @@
       "limitations": [
         "禁止选课"
       ],
-      "number": "128",
+      "number": "129",
       "position": "BJ204",
       "teacherId": "1008",
       "teacherName": "杨秀君",
@@ -58102,9 +58102,10 @@
       "courseName": "思想政治理论课(实践)(1)",
       "credit": "1",
       "limitations": [
-        "禁止选课"
+        "禁止选课",
+        "人数已满"
       ],
-      "number": "129",
+      "number": "130",
       "position": "CJ107",
       "teacherId": "1009",
       "teacherName": "管坤",
@@ -58118,9 +58119,10 @@
       "courseName": "思想政治理论课(实践)(1)",
       "credit": "1",
       "limitations": [
-        "禁止选课"
+        "禁止选课",
+        "人数已满"
       ],
-      "number": "130",
+      "number": "131",
       "position": "CJ107",
       "teacherId": "1010",
       "teacherName": "管坤",
@@ -58380,7 +58382,7 @@
       "courseName": "思想政治理论课(实践)(1)",
       "credit": "1",
       "limitations": [],
-      "number": "141",
+      "number": "144",
       "position": "J101",
       "teacherId": "1026",
       "teacherName": "丰箫",
@@ -72203,7 +72205,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "3fa90c231877c513272da71ddca8ddc5",
+  "hash": "5b939755c374bcb1fc587581e9e3446b",
   "termName": "2023-2024学年春季学期",
-  "updateTimeMs": 1711669161088
+  "updateTimeMs": 1711675994095
 }
