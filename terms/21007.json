@@ -58038,7 +58038,7 @@
         "禁止选课",
         "人数已满"
       ],
-      "number": "130",
+      "number": "132",
       "position": "AJ204",
       "teacherId": "1005",
       "teacherName": "童颖",
@@ -58086,9 +58086,10 @@
       "courseName": "思想政治理论课(实践)(1)",
       "credit": "1",
       "limitations": [
-        "禁止选课"
+        "禁止选课",
+        "人数已满"
       ],
-      "number": "129",
+      "number": "130",
       "position": "BJ204",
       "teacherId": "1008",
       "teacherName": "杨秀君",
@@ -58122,7 +58123,7 @@
         "禁止选课",
         "人数已满"
       ],
-      "number": "134",
+      "number": "135",
       "position": "CJ107",
       "teacherId": "1010",
       "teacherName": "管坤",
@@ -72205,7 +72206,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "e4411fbe6ade40f48eebff00138bf035",
+  "hash": "eb9408743bd23c2759ab1c53d0aa9af2",
   "termName": "2023-2024学年春季学期",
-  "updateTimeMs": 1711755521493
+  "updateTimeMs": 1711762238985
 }
