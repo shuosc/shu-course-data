@@ -4245,6 +4245,20 @@
     },
     {
       "campus": "宝山",
+      "capacity": "40",
+      "classTime": "第一批 夏季学期1-4周 第二批 夏季学期5-8周 限生医专业",
+      "courseId": "0729A009",
+      "courseName": "生产实习",
+      "credit": "8",
+      "limitations": [],
+      "number": "0",
+      "position": "",
+      "teacherId": "1000",
+      "teacherName": "赵恒凯等",
+      "teacherTitle": "副教授"
+    },
+    {
+      "campus": "宝山",
       "capacity": "80",
       "classTime": "夏季学期3-4周 限大数据专业",
       "courseId": "07B1A002",
@@ -9200,7 +9214,7 @@
       "teacherTitle": "教授"
     }
   ],
-  "hash": "df9fc42ea13e9cad44c97f33495a65be",
+  "hash": "09846f6f9117b26acf5704d1085383db",
   "termName": "2023-2024学年夏季学期",
-  "updateTimeMs": 1712101104348
+  "updateTimeMs": 1712110063385
 }
