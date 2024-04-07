@@ -2779,7 +2779,7 @@
       "limitations": [
         "禁止选课"
       ],
-      "number": "21",
+      "number": "22",
       "position": "C319",
       "teacherId": "1001",
       "teacherName": "郑莉芳",
@@ -2844,7 +2844,7 @@
       "limitations": [
         "禁止选课"
       ],
-      "number": "19",
+      "number": "22",
       "position": "C317",
       "teacherId": "1992",
       "teacherName": "李静静",
@@ -4151,10 +4151,8 @@
       "courseId": "00853212",
       "courseName": "男生健美(基础)",
       "credit": "1",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "24",
+      "limitations": [],
+      "number": "23",
       "position": "体育馆T145",
       "teacherId": "1964",
       "teacherName": "尹默林",
@@ -6128,7 +6126,7 @@
       "courseName": "篮球(3)",
       "credit": "1",
       "limitations": [],
-      "number": "23",
+      "number": "22",
       "position": "训练馆2楼",
       "teacherId": "1015",
       "teacherName": "魏磊",
@@ -6529,10 +6527,8 @@
       "courseId": "00853604",
       "courseName": "羽毛球(3)",
       "credit": "1",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "30",
+      "limitations": [],
+      "number": "29",
       "position": "体育馆中心场地",
       "teacherId": "1355",
       "teacherName": "卢高峰",
@@ -6577,10 +6573,8 @@
       "courseId": "00853604",
       "courseName": "羽毛球(3)",
       "credit": "1",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "26",
+      "limitations": [],
+      "number": "25",
       "position": "体育馆中心场地",
       "teacherId": "1383",
       "teacherName": "曾朝恭",
@@ -72204,7 +72198,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "0057e4678eac5964dfa94207e0cfbd29",
+  "hash": "686adc1bdf54d85dc6ad5cda1690bf28",
   "termName": "2023-2024学年春季学期",
-  "updateTimeMs": 1712461137028
+  "updateTimeMs": 1712468309515
 }
