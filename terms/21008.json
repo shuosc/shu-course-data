@@ -8291,6 +8291,20 @@
     },
     {
       "campus": "宝山",
+      "capacity": "10",
+      "classTime": "夏季第1-2周",
+      "courseId": "1846A012",
+      "courseName": "地质实习A",
+      "credit": "2",
+      "limitations": [],
+      "number": "0",
+      "position": "",
+      "teacherId": "1000",
+      "teacherName": "林永亮等",
+      "teacherTitle": "副教授"
+    },
+    {
+      "campus": "宝山",
       "capacity": "80",
       "classTime": "夏季学期3-4周:其中 一1-2 (3-4周) 五1-2 (第3周) 集合",
       "courseId": "1846A013",
@@ -8333,6 +8347,20 @@
     },
     {
       "campus": "宝山",
+      "capacity": "10",
+      "classTime": "夏季第3-4周",
+      "courseId": "1846A024",
+      "courseName": "土木工程应用软件实践",
+      "credit": "3",
+      "limitations": [],
+      "number": "0",
+      "position": "",
+      "teacherId": "1000",
+      "teacherName": "汪德江等",
+      "teacherTitle": "副教授"
+    },
+    {
+      "campus": "宝山",
       "capacity": "15",
       "classTime": "夏季学期第1周: 二3-4 集合",
       "courseId": "1846A027",
@@ -8358,6 +8386,20 @@
       "teacherId": "1000",
       "teacherName": "董浩天",
       "teacherTitle": "副研究员"
+    },
+    {
+      "campus": "宝山",
+      "capacity": "10",
+      "classTime": "夏季3-4周",
+      "courseId": "1846A029",
+      "courseName": "建筑信息模型",
+      "credit": "2",
+      "limitations": [],
+      "number": "0",
+      "position": "",
+      "teacherId": "1000",
+      "teacherName": "汪德江等",
+      "teacherTitle": "副教授"
     },
     {
       "campus": "宝山",
@@ -9217,7 +9259,7 @@
       "teacherTitle": "教授"
     }
   ],
-  "hash": "31036878a0c5464584e08c511de7300e",
+  "hash": "da7901e869d7979ce87b3d394190a896",
   "termName": "2023-2024学年夏季学期",
-  "updateTimeMs": 1712716931577
+  "updateTimeMs": 1712723913641
 }
