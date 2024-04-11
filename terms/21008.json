@@ -7572,8 +7572,10 @@
       "courseId": "1557A004",
       "courseName": "认识实习",
       "credit": "2",
-      "limitations": [],
-      "number": "80",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "70",
       "position": "",
       "teacherId": "2001",
       "teacherName": "贾利军等",
@@ -7600,8 +7602,10 @@
       "courseId": "1557A004",
       "courseName": "认识实习",
       "credit": "2",
-      "limitations": [],
-      "number": "81",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "70",
       "position": "",
       "teacherId": "2003",
       "teacherName": "马汉阳等",
@@ -7628,8 +7632,10 @@
       "courseId": "1557A004",
       "courseName": "认识实习",
       "credit": "2",
-      "limitations": [],
-      "number": "78",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "70",
       "position": "",
       "teacherId": "2005",
       "teacherName": "孙覃玥等",
@@ -7712,8 +7718,10 @@
       "courseId": "1557A006",
       "courseName": "专业实习",
       "credit": "8",
-      "limitations": [],
-      "number": "71",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "70",
       "position": "",
       "teacherId": "2005",
       "teacherName": "孙覃玥等",
@@ -7754,8 +7762,10 @@
       "courseId": "1557A010",
       "courseName": "社会调查",
       "credit": "6",
-      "limitations": [],
-      "number": "74",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "70",
       "position": "",
       "teacherId": "2001",
       "teacherName": "贾利军等",
@@ -7810,8 +7820,10 @@
       "courseId": "1557A010",
       "courseName": "社会调查",
       "credit": "6",
-      "limitations": [],
-      "number": "74",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "70",
       "position": "",
       "teacherId": "2005",
       "teacherName": "孙覃玥等",
@@ -7852,8 +7864,10 @@
       "courseId": "1557A011",
       "courseName": "创新创业实践与案例",
       "credit": "1",
-      "limitations": [],
-      "number": "84",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "65",
       "position": "",
       "teacherId": "2001",
       "teacherName": "贾利军等",
@@ -7866,8 +7880,10 @@
       "courseId": "1557A011",
       "courseName": "创新创业实践与案例",
       "credit": "1",
-      "limitations": [],
-      "number": "70",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "65",
       "position": "",
       "teacherId": "2002",
       "teacherName": "贾利军等",
@@ -9295,7 +9311,7 @@
       "teacherTitle": "教授"
     }
   ],
-  "hash": "bbe38de5eb3a6ab4529e337c534b4d25",
+  "hash": "49f10ad4be754bda7ca31f86e1df6265",
   "termName": "2023-2024学年夏季学期",
-  "updateTimeMs": 1712799351768
+  "updateTimeMs": 1712803218072
 }
