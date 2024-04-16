@@ -1659,14 +1659,12 @@
     },
     {
       "campus": "延长",
-      "capacity": "100",
+      "capacity": "105",
       "classTime": "一10-12 (1-2周) 三10-12 (1-2周) 四7-8 (1-2周) 五3-4(1-2周)",
       "courseId": "00874008",
       "courseName": "形势与政策(实践)",
       "credit": "1",
-      "limitations": [
-        "人数已满"
-      ],
+      "limitations": [],
       "number": "100",
       "position": "",
       "teacherId": "3003",
@@ -1675,13 +1673,15 @@
     },
     {
       "campus": "延长",
-      "capacity": "100",
+      "capacity": "0",
       "classTime": "一10-12 (1-2周) 三10-12 (1-2周) 四7-8 (1-2周) 五3-4(1-2周)",
       "courseId": "00874008",
       "courseName": "形势与政策(实践)",
       "credit": "1",
-      "limitations": [],
-      "number": "5",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "0",
       "position": "",
       "teacherId": "3004",
       "teacherName": "杨秀君",
@@ -9559,7 +9559,7 @@
       "teacherTitle": "教授"
     }
   ],
-  "hash": "9ba3cbdbd7caa3352a6ddb2ade1c81c0",
+  "hash": "59ab1048beff0a1c3bdf09d617bbfe75",
   "termName": "2023-2024学年夏季学期",
-  "updateTimeMs": 1713224299626
+  "updateTimeMs": 1713231314665
 }
