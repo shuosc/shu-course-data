@@ -1057,7 +1057,7 @@
       "courseName": "思想道德与法治(实践)",
       "credit": "1",
       "limitations": [],
-      "number": "33",
+      "number": "34",
       "position": "",
       "teacherId": "2003",
       "teacherName": "徐娴等",
@@ -1271,7 +1271,7 @@
       "courseName": "形势与政策(实践)",
       "credit": "1",
       "limitations": [],
-      "number": "67",
+      "number": "68",
       "position": "",
       "teacherId": "1010",
       "teacherName": "张琳",
@@ -3091,7 +3091,7 @@
       "courseName": "经典作品读书会",
       "credit": "2",
       "limitations": [],
-      "number": "8",
+      "number": "9",
       "position": "",
       "teacherId": "1001",
       "teacherName": "吴雁翔",
@@ -3104,8 +3104,10 @@
       "courseId": "0311A025",
       "courseName": "经典作品读书会",
       "credit": "2",
-      "limitations": [],
-      "number": "24",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "25",
       "position": "",
       "teacherId": "1002",
       "teacherName": "吴雁翔",
@@ -9569,7 +9571,7 @@
       "teacherTitle": "教授"
     }
   ],
-  "hash": "ac7adf6699b205d961e53b6bf54ee6c2",
+  "hash": "2917a8a018ece1a9f152f1434c9c80d1",
   "termName": "2023-2024学年夏季学期",
-  "updateTimeMs": 1713566341126
+  "updateTimeMs": 1713570058041
 }
