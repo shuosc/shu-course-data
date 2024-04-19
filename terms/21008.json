@@ -164,10 +164,8 @@
       "courseId": "00816440",
       "courseName": "计算机代数中的基本知识和技巧",
       "credit": "2",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "40",
+      "limitations": [],
+      "number": "39",
       "position": "",
       "teacherId": "1000",
       "teacherName": "ZHANG YANG",
@@ -616,8 +614,10 @@
       "courseId": "00874007",
       "courseName": "思想道德与法治(实践)",
       "credit": "1",
-      "limitations": [],
-      "number": "149",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "150",
       "position": "",
       "teacherId": "1005",
       "teacherName": "廖香园",
@@ -1087,7 +1087,7 @@
       "courseName": "思想道德与法治(实践)",
       "credit": "1",
       "limitations": [],
-      "number": "75",
+      "number": "76",
       "position": "",
       "teacherId": "2005",
       "teacherName": "钱俊迪等",
@@ -1142,8 +1142,10 @@
       "courseId": "00874008",
       "courseName": "形势与政策(实践)",
       "credit": "1",
-      "limitations": [],
-      "number": "149",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "150",
       "position": "",
       "teacherId": "1002",
       "teacherName": "赵宁",
@@ -1343,7 +1345,7 @@
       "courseName": "形势与政策(实践)",
       "credit": "1",
       "limitations": [],
-      "number": "64",
+      "number": "65",
       "position": "",
       "teacherId": "1015",
       "teacherName": "童颖",
@@ -1636,8 +1638,10 @@
       "courseId": "00874008",
       "courseName": "形势与政策(实践)",
       "credit": "1",
-      "limitations": [],
-      "number": "109",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "110",
       "position": "",
       "teacherId": "2004",
       "teacherName": "杨超",
@@ -2027,7 +2031,7 @@
       "courseName": "电子实习",
       "credit": "4",
       "limitations": [],
-      "number": "60",
+      "number": "59",
       "position": "",
       "teacherId": "1005",
       "teacherName": "周昕等",
@@ -2041,7 +2045,7 @@
       "courseName": "生活中的纳米材料",
       "credit": "2",
       "limitations": [],
-      "number": "39",
+      "number": "37",
       "position": "",
       "teacherId": "1000",
       "teacherName": "Alireza Z. Moshfegh",
@@ -2524,10 +2528,8 @@
       "courseId": "02006105",
       "courseName": "数字电影符号理论",
       "credit": "2",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "50",
+      "limitations": [],
+      "number": "49",
       "position": "",
       "teacherId": "1000",
       "teacherName": "Edgar Meritano",
@@ -3693,7 +3695,7 @@
       "courseName": "认识实习",
       "credit": "5",
       "limitations": [],
-      "number": "26",
+      "number": "27",
       "position": "",
       "teacherId": "1000",
       "teacherName": "姚青琪",
@@ -4917,7 +4919,7 @@
       "courseName": "计算机实习",
       "credit": "2",
       "limitations": [],
-      "number": "17",
+      "number": "19",
       "position": "",
       "teacherId": "1002",
       "teacherName": "李文韬",
@@ -4931,7 +4933,7 @@
       "courseName": "工程项目实践",
       "credit": "5",
       "limitations": [],
-      "number": "25",
+      "number": "27",
       "position": "",
       "teacherId": "1001",
       "teacherName": "吴德亮",
@@ -5859,7 +5861,7 @@
       "courseName": "创新实践",
       "credit": "6",
       "limitations": [],
-      "number": "37",
+      "number": "36",
       "position": "",
       "teacherId": "1000",
       "teacherName": "刘振国",
@@ -7924,10 +7926,8 @@
       "courseId": "1557A006",
       "courseName": "专业实习",
       "credit": "8",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "70",
+      "limitations": [],
+      "number": "69",
       "position": "",
       "teacherId": "2003",
       "teacherName": "马汉阳等",
@@ -8779,7 +8779,7 @@
       "courseName": "语言实践(1)",
       "credit": "6",
       "limitations": [],
-      "number": "12",
+      "number": "13",
       "position": "",
       "teacherId": "1002",
       "teacherName": "张丽华",
@@ -9569,7 +9569,7 @@
       "teacherTitle": "教授"
     }
   ],
-  "hash": "81c4c93bbc521f95dd47d1996ef25be0",
+  "hash": "ce6655d03dd9b8fd5fc0ff2659aa2456",
   "termName": "2023-2024学年夏季学期",
-  "updateTimeMs": 1713551899980
+  "updateTimeMs": 1713555499130
 }
