@@ -5289,6 +5289,20 @@
     },
     {
       "campus": "宝山",
+      "capacity": "20",
+      "classTime": "二3-4 四9-11",
+      "courseId": "10395090",
+      "courseName": "智能制造工程导论",
+      "credit": "2",
+      "limitations": [],
+      "number": "0",
+      "position": "",
+      "teacherId": "1000",
+      "teacherName": "赵杨洋",
+      "teacherTitle": "副教授"
+    },
+    {
+      "campus": "宝山",
       "capacity": "60",
       "classTime": "夏季学期第3周",
       "courseId": "1039A007",
@@ -9559,7 +9573,7 @@
       "teacherTitle": "教授"
     }
   ],
-  "hash": "75ce55e0bc516844ab4117bd284d20ac",
+  "hash": "7706660c4282aaf28468ca3d0cf71429",
   "termName": "2023-2024学年夏季学期",
-  "updateTimeMs": 1713505105113
+  "updateTimeMs": 1713508819594
 }
