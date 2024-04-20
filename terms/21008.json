@@ -552,8 +552,10 @@
       "courseId": "00874007",
       "courseName": "思想道德与法治(实践)",
       "credit": "1",
-      "limitations": [],
-      "number": "149",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "150",
       "position": "",
       "teacherId": "1001",
       "teacherName": "胡雅",
@@ -1178,8 +1180,10 @@
       "courseId": "00874008",
       "courseName": "形势与政策(实践)",
       "credit": "1",
-      "limitations": [],
-      "number": "149",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "150",
       "position": "",
       "teacherId": "1004",
       "teacherName": "李之喆",
@@ -1470,8 +1474,10 @@
       "courseId": "00874008",
       "courseName": "形势与政策(实践)",
       "credit": "1",
-      "limitations": [],
-      "number": "139",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "140",
       "position": "",
       "teacherId": "1023",
       "teacherName": "孙士庆",
@@ -9518,7 +9524,7 @@
       "courseName": "电子实习",
       "credit": "2",
       "limitations": [],
-      "number": "25",
+      "number": "26",
       "position": "",
       "teacherId": "2001",
       "teacherName": "刘成",
@@ -9599,7 +9605,7 @@
       "teacherTitle": "教授"
     }
   ],
-  "hash": "f104f618bb495f96511a7ba1176fa837",
+  "hash": "2f80b1a5554dd8ae23a9f73e5d1cda09",
   "termName": "2023-2024学年夏季学期",
-  "updateTimeMs": 1713652704327
+  "updateTimeMs": 1713656315267
 }
