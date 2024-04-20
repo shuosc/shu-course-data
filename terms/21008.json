@@ -582,8 +582,10 @@
       "courseId": "00874007",
       "courseName": "思想道德与法治(实践)",
       "credit": "1",
-      "limitations": [],
-      "number": "149",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "150",
       "position": "",
       "teacherId": "1003",
       "teacherName": "于亚静",
@@ -1579,7 +1581,7 @@
       "courseName": "形势与政策(实践)",
       "credit": "1",
       "limitations": [],
-      "number": "48",
+      "number": "49",
       "position": "",
       "teacherId": "1030",
       "teacherName": "张琳",
@@ -3699,7 +3701,7 @@
       "courseName": "认识实习",
       "credit": "5",
       "limitations": [],
-      "number": "29",
+      "number": "28",
       "position": "",
       "teacherId": "1000",
       "teacherName": "姚青琪",
@@ -4859,7 +4861,7 @@
       "courseName": "专业课程设计",
       "credit": "4",
       "limitations": [],
-      "number": "23",
+      "number": "24",
       "position": "",
       "teacherId": "1002",
       "teacherName": "仇志坚",
@@ -7499,7 +7501,7 @@
       "courseName": "联合作业B",
       "credit": "6",
       "limitations": [],
-      "number": "18",
+      "number": "19",
       "position": "",
       "teacherId": "3000",
       "teacherName": "司雨茜",
@@ -9402,7 +9404,7 @@
       "courseName": "专业实践(2)",
       "credit": "4",
       "limitations": [],
-      "number": "51",
+      "number": "50",
       "position": "",
       "teacherId": "1000",
       "teacherName": "杨烨",
@@ -9597,7 +9599,7 @@
       "teacherTitle": "教授"
     }
   ],
-  "hash": "e11af546179d6a26ae77efcca313824a",
+  "hash": "fae6ca7345be08cb0f01e3665c9a7c72",
   "termName": "2023-2024学年夏季学期",
-  "updateTimeMs": 1713641909836
+  "updateTimeMs": 1713645499553
 }
