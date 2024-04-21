@@ -3687,7 +3687,7 @@
       "courseName": "专业实习",
       "credit": "10",
       "limitations": [],
-      "number": "136",
+      "number": "137",
       "position": "",
       "teacherId": "1000",
       "teacherName": "沈洪洪",
@@ -7553,7 +7553,7 @@
       "courseName": "电影艺术实践基础(2)",
       "credit": "3",
       "limitations": [],
-      "number": "17",
+      "number": "18",
       "position": "",
       "teacherId": "3000",
       "teacherName": "施博闻等",
@@ -8313,7 +8313,7 @@
       "courseName": "传播技术如何影响人类社会",
       "credit": "2",
       "limitations": [],
-      "number": "11",
+      "number": "10",
       "position": "",
       "teacherId": "1000",
       "teacherName": "JENNIFER ANNE PETERSEN",
@@ -9171,8 +9171,10 @@
       "courseId": "2300A016",
       "courseName": "法语强化B(2)",
       "credit": "4",
-      "limitations": [],
-      "number": "18",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "19",
       "position": "",
       "teacherId": "1007",
       "teacherName": "刘芳菲等",
@@ -9627,7 +9629,7 @@
       "teacherTitle": "教授"
     }
   ],
-  "hash": "90429c9e181cfdb18d36ac69a5159365",
+  "hash": "283a6815615132105a4c0085325645f5",
   "termName": "2023-2024学年夏季学期",
-  "updateTimeMs": 1713728370041
+  "updateTimeMs": 1713731995631
 }
