@@ -1283,7 +1283,7 @@
       "courseName": "形势与政策(实践)",
       "credit": "1",
       "limitations": [],
-      "number": "111",
+      "number": "110",
       "position": "",
       "teacherId": "1010",
       "teacherName": "张琳",
@@ -5105,7 +5105,7 @@
       "courseName": "电子技术课程设计",
       "credit": "4",
       "limitations": [],
-      "number": "8",
+      "number": "9",
       "position": "",
       "teacherId": "1004",
       "teacherName": "郭文彬",
@@ -5565,7 +5565,7 @@
       "courseName": "健康从饮水开始:自来水安全大揭秘",
       "credit": "2",
       "limitations": [],
-      "number": "43",
+      "number": "42",
       "position": "",
       "teacherId": "1000",
       "teacherName": "Sung Kyu Maeng",
@@ -5927,7 +5927,7 @@
       "courseName": "文化遗产的数字重建与表达",
       "credit": "2",
       "limitations": [],
-      "number": "34",
+      "number": "33",
       "position": "",
       "teacherId": "1000",
       "teacherName": "Laurent Lescop",
@@ -7316,8 +7316,10 @@
       "courseId": "1456A043",
       "courseName": "学年论文",
       "credit": "3",
-      "limitations": [],
-      "number": "45",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "46",
       "position": "",
       "teacherId": "3000",
       "teacherName": "陈寅等",
@@ -9169,10 +9171,8 @@
       "courseId": "2300A016",
       "courseName": "法语强化B(2)",
       "credit": "4",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "19",
+      "limitations": [],
+      "number": "18",
       "position": "",
       "teacherId": "1007",
       "teacherName": "刘芳菲等",
@@ -9627,7 +9627,7 @@
       "teacherTitle": "教授"
     }
   ],
-  "hash": "204fb61a41b4063b9e6ea81954cddf65",
+  "hash": "90429c9e181cfdb18d36ac69a5159365",
   "termName": "2023-2024学年夏季学期",
-  "updateTimeMs": 1713724711783
+  "updateTimeMs": 1713728370041
 }
