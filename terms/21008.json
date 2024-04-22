@@ -1388,8 +1388,10 @@
       "courseId": "00874008",
       "courseName": "形势与政策(实践)",
       "credit": "1",
-      "limitations": [],
-      "number": "94",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "95",
       "position": "",
       "teacherId": "1017",
       "teacherName": "张金翠",
@@ -9062,7 +9064,7 @@
       "courseName": "法语强化B(1)",
       "credit": "4",
       "limitations": [],
-      "number": "22",
+      "number": "23",
       "position": "",
       "teacherId": "1009",
       "teacherName": "SHEN ISABELLE等",
@@ -9249,10 +9251,8 @@
       "courseId": "2328A009",
       "courseName": "生产实习",
       "credit": "8",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "69",
+      "limitations": [],
+      "number": "68",
       "position": "",
       "teacherId": "1001",
       "teacherName": "赵恒凯等",
@@ -9266,7 +9266,7 @@
       "courseName": "生产实习",
       "credit": "8",
       "limitations": [],
-      "number": "63",
+      "number": "62",
       "position": "",
       "teacherId": "1002",
       "teacherName": "赵恒凯等",
@@ -9280,7 +9280,7 @@
       "courseName": "生产实习B",
       "credit": "4",
       "limitations": [],
-      "number": "14",
+      "number": "15",
       "position": "",
       "teacherId": "1001",
       "teacherName": "韦庆玥",
@@ -9322,7 +9322,7 @@
       "courseName": "工程制图",
       "credit": "3",
       "limitations": [],
-      "number": "43",
+      "number": "44",
       "position": "",
       "teacherId": "1001",
       "teacherName": "林成辉",
@@ -9630,7 +9630,7 @@
       "teacherTitle": "教授"
     }
   ],
-  "hash": "4ce08e2e1376d6be998e888431be6365",
+  "hash": "0e57234583be86b4b655b26ea4e1306a",
   "termName": "2023-2024学年夏季学期",
-  "updateTimeMs": 1713814706534
+  "updateTimeMs": 1713818322460
 }
