@@ -164,8 +164,10 @@
       "courseId": "00816440",
       "courseName": "计算机代数中的基本知识和技巧",
       "credit": "2",
-      "limitations": [],
-      "number": "39",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "40",
       "position": "",
       "teacherId": "1000",
       "teacherName": "ZHANG YANG",
@@ -1299,7 +1301,7 @@
       "courseName": "形势与政策(实践)",
       "credit": "1",
       "limitations": [],
-      "number": "58",
+      "number": "57",
       "position": "",
       "teacherId": "1011",
       "teacherName": "汪艳",
@@ -1817,7 +1819,7 @@
       "courseName": "金工实习E",
       "credit": "5",
       "limitations": [],
-      "number": "57",
+      "number": "56",
       "position": "",
       "teacherId": "1006",
       "teacherName": "刘利等",
@@ -3907,7 +3909,7 @@
       "courseName": "认识实习",
       "credit": "6",
       "limitations": [],
-      "number": "65",
+      "number": "66",
       "position": "",
       "teacherId": "1000",
       "teacherName": "魏芳",
@@ -5111,7 +5113,7 @@
       "courseName": "电子技术课程设计",
       "credit": "4",
       "limitations": [],
-      "number": "18",
+      "number": "19",
       "position": "",
       "teacherId": "1004",
       "teacherName": "郭文彬",
@@ -9654,7 +9656,7 @@
       "teacherTitle": "教授"
     }
   ],
-  "hash": "260fcb8a879b097a59c2521a5000bc34",
+  "hash": "fbf4e097930888e216b8ebc4f7156782",
   "termName": "2023-2024学年夏季学期",
-  "updateTimeMs": 1713897518599
+  "updateTimeMs": 1713901194742
 }
