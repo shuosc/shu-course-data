@@ -478,8 +478,10 @@
       "courseId": "00856995",
       "courseName": "你的健康和幸福:探索并成为最好的自己",
       "credit": "2",
-      "limitations": [],
-      "number": "117",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "118",
       "position": "",
       "teacherId": "1000",
       "teacherName": "M. Jean Keller",
@@ -1599,7 +1601,7 @@
       "courseName": "形势与政策(实践)",
       "credit": "1",
       "limitations": [],
-      "number": "93",
+      "number": "94",
       "position": "",
       "teacherId": "1030",
       "teacherName": "张琳",
@@ -5517,7 +5519,7 @@
       "courseName": "我们呼吸的空气——城市空气污染探秘",
       "credit": "2",
       "limitations": [],
-      "number": "16",
+      "number": "17",
       "position": "",
       "teacherId": "1000",
       "teacherName": "Emmanouil Romanias",
@@ -9656,7 +9658,7 @@
       "teacherTitle": "教授"
     }
   ],
-  "hash": "edcdded5f24fc2665abffbddd4847d78",
+  "hash": "b87b6aef2a9931c47d8c677962576baa",
   "termName": "2023-2024学年夏季学期",
-  "updateTimeMs": 1713908349149
+  "updateTimeMs": 1713911906625
 }
