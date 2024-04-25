@@ -7556,8 +7556,10 @@
       "courseId": "1479A027",
       "courseName": "毕业联合作业A",
       "credit": "6",
-      "limitations": [],
-      "number": "18",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "19",
       "position": "",
       "teacherId": "3000",
       "teacherName": "潘晓斌",
@@ -9662,7 +9664,7 @@
       "teacherTitle": "教授"
     }
   ],
-  "hash": "1e6eafa9c6bfbd90d035e909e5fb5893",
+  "hash": "12dc6c9705f10b0b952d8465d030b628",
   "termName": "2023-2024学年夏季学期",
-  "updateTimeMs": 1714030733255
+  "updateTimeMs": 1714034456046
 }
