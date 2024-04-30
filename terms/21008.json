@@ -8,8 +8,10 @@
       "courseId": "00814165",
       "courseName": "思想道德与法治(实践)(强)",
       "credit": "1",
-      "limitations": [],
-      "number": "169",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "170",
       "position": "",
       "teacherId": "1000",
       "teacherName": "许富杰",
@@ -36,8 +38,10 @@
       "courseId": "00814228",
       "courseName": "创新实践(强)",
       "credit": "6",
-      "limitations": [],
-      "number": "29",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "30",
       "position": "",
       "teacherId": "1002",
       "teacherName": "王晓霞等",
@@ -95,7 +99,7 @@
       "courseName": "创新实践(强)",
       "credit": "6",
       "limitations": [],
-      "number": "9",
+      "number": "10",
       "position": "",
       "teacherId": "1006",
       "teacherName": "陈红霞等",
@@ -337,7 +341,7 @@
       "courseName": "专业研讨课B(2)(强)",
       "credit": "2",
       "limitations": [],
-      "number": "28",
+      "number": "29",
       "position": "",
       "teacherId": "1000",
       "teacherName": "王晓霞",
@@ -381,7 +385,7 @@
       "courseName": "专业研讨课E(2)(强)",
       "credit": "2",
       "limitations": [],
-      "number": "9",
+      "number": "10",
       "position": "",
       "teacherId": "1000",
       "teacherName": "廖新化",
@@ -478,8 +482,10 @@
       "courseId": "00856995",
       "courseName": "你的健康和幸福:探索并成为最好的自己",
       "credit": "2",
-      "limitations": [],
-      "number": "117",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "118",
       "position": "",
       "teacherId": "1000",
       "teacherName": "M. Jean Keller",
@@ -1441,7 +1447,7 @@
       "courseName": "形势与政策(实践)",
       "credit": "1",
       "limitations": [],
-      "number": "37",
+      "number": "38",
       "position": "",
       "teacherId": "1020",
       "teacherName": "张琳",
@@ -5577,7 +5583,7 @@
       "courseName": "健康从饮水开始:自来水安全大揭秘",
       "credit": "2",
       "limitations": [],
-      "number": "43",
+      "number": "44",
       "position": "",
       "teacherId": "1000",
       "teacherName": "Sung Kyu Maeng",
@@ -9672,7 +9678,7 @@
       "teacherTitle": "教授"
     }
   ],
-  "hash": "5d4071df259d89ae7244dbfa523408fe",
+  "hash": "8e11a06d294197ccb53e5f124f1cb3d5",
   "termName": "2023-2024学年夏季学期",
-  "updateTimeMs": 1714440990770
+  "updateTimeMs": 1714443015616
 }
