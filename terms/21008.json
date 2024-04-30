@@ -7994,8 +7994,10 @@
       "courseId": "1557A006",
       "courseName": "专业实习",
       "credit": "8",
-      "limitations": [],
-      "number": "69",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "70",
       "position": "",
       "teacherId": "2003",
       "teacherName": "马汉阳等",
@@ -8022,8 +8024,10 @@
       "courseId": "1557A006",
       "courseName": "专业实习",
       "credit": "8",
-      "limitations": [],
-      "number": "69",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "70",
       "position": "",
       "teacherId": "2005",
       "teacherName": "孙覃玥等",
@@ -9414,7 +9418,7 @@
       "courseName": "当代人类学核心概念专题",
       "credit": "2",
       "limitations": [],
-      "number": "7",
+      "number": "8",
       "position": "",
       "teacherId": "1000",
       "teacherName": "David H. Price",
@@ -9668,7 +9672,7 @@
       "teacherTitle": "教授"
     }
   ],
-  "hash": "d4faf39a2797522ac9787e8da7e6a31c",
+  "hash": "5d4071df259d89ae7244dbfa523408fe",
   "termName": "2023-2024学年夏季学期",
-  "updateTimeMs": 1714433960989
+  "updateTimeMs": 1714440990770
 }
