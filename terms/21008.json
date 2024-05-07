@@ -546,8 +546,10 @@
       "courseId": "00866034",
       "courseName": "制图测绘",
       "credit": "2",
-      "limitations": [],
-      "number": "25",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "28",
       "position": "第一天在测绘室C418",
       "teacherId": "1004",
       "teacherName": "林成辉",
@@ -640,10 +642,8 @@
       "courseId": "00874007",
       "courseName": "思想道德与法治(实践)",
       "credit": "1",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "150",
+      "limitations": [],
+      "number": "149",
       "position": "J201",
       "teacherId": "1006",
       "teacherName": "徐磊",
@@ -841,7 +841,7 @@
       "courseName": "思想道德与法治(实践)",
       "credit": "1",
       "limitations": [],
-      "number": "96",
+      "number": "97",
       "position": "EJ104",
       "teacherId": "1019",
       "teacherName": "杨郁佳",
@@ -2061,7 +2061,7 @@
       "courseName": "电子实习",
       "credit": "4",
       "limitations": [],
-      "number": "136",
+      "number": "139",
       "position": "HD302c",
       "teacherId": "1005",
       "teacherName": "周昕等",
@@ -2531,7 +2531,7 @@
       "courseName": "数字人文导论",
       "credit": "2",
       "limitations": [],
-      "number": "49",
+      "number": "47",
       "position": "DJ303",
       "teacherId": "1000",
       "teacherName": "James O’Sullivan",
@@ -4781,7 +4781,7 @@
       "courseName": "生产实习",
       "credit": "4",
       "limitations": [],
-      "number": "79",
+      "number": "81",
       "position": "另行通知",
       "teacherId": "1003",
       "teacherName": "崔泽等",
@@ -4836,8 +4836,10 @@
       "courseId": "0936A004",
       "courseName": "生产实习",
       "credit": "4",
-      "limitations": [],
-      "number": "49",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "50",
       "position": "另行通知",
       "teacherId": "1001",
       "teacherName": "金志辉",
@@ -4897,7 +4899,7 @@
       "courseName": "专业课程设计",
       "credit": "4",
       "limitations": [],
-      "number": "30",
+      "number": "31",
       "position": "D221",
       "teacherId": "1002",
       "teacherName": "仇志坚",
@@ -4959,7 +4961,7 @@
       "courseName": "计算机实习",
       "credit": "2",
       "limitations": [],
-      "number": "26",
+      "number": "27",
       "position": "机房-另行通知",
       "teacherId": "1002",
       "teacherName": "李文韬",
@@ -5033,7 +5035,7 @@
       "courseName": "生产实习",
       "credit": "4",
       "limitations": [],
-      "number": "31",
+      "number": "34",
       "position": "另行通知",
       "teacherId": "1003",
       "teacherName": "李云辉",
@@ -5169,7 +5171,7 @@
       "courseName": "专业课程设计",
       "credit": "4",
       "limitations": [],
-      "number": "31",
+      "number": "33",
       "position": "另行通知",
       "teacherId": "1002",
       "teacherName": "仵大奎",
@@ -8508,8 +8510,8 @@
       "number": "4",
       "position": "",
       "teacherId": "3000",
-      "teacherName": "李建新等",
-      "teacherTitle": "教授"
+      "teacherName": "刘兆明",
+      "teacherTitle": "讲师"
     },
     {
       "campus": "延长",
@@ -9678,7 +9680,7 @@
       "teacherTitle": "教授"
     }
   ],
-  "hash": "6e86d989477ec50bebc5c5dde93c1668",
+  "hash": "b532c254db27173de0521cb7418865da",
   "termName": "2023-2024学年夏季学期",
-  "updateTimeMs": 1715056907204
+  "updateTimeMs": 1715078336987
 }
