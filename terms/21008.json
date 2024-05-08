@@ -155,7 +155,7 @@
       "courseName": "自然中的神秘语言:对称性的力与美",
       "credit": "2",
       "limitations": [],
-      "number": "41",
+      "number": "42",
       "position": "DJ304",
       "teacherId": "1000",
       "teacherName": "Alessandro Stroppa",
@@ -1307,7 +1307,7 @@
       "courseName": "形势与政策(实践)",
       "credit": "1",
       "limitations": [],
-      "number": "65",
+      "number": "66",
       "position": "BJ103",
       "teacherId": "1011",
       "teacherName": "汪艳",
@@ -1983,7 +1983,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "71",
+      "number": "72",
       "position": "D415机房",
       "teacherId": "1000",
       "teacherName": "郭帅等",
@@ -3242,8 +3242,10 @@
       "courseId": "0311A035",
       "courseName": "社会调查与实践",
       "credit": "4",
-      "limitations": [],
-      "number": "24",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "25",
       "position": "无集体授课",
       "teacherId": "1002",
       "teacherName": "张珊珊",
@@ -4725,7 +4727,7 @@
       "courseName": "生产实习",
       "credit": "4",
       "limitations": [],
-      "number": "32",
+      "number": "31",
       "position": "另行通知",
       "teacherId": "1000",
       "teacherName": "蔡纯之",
@@ -5035,7 +5037,7 @@
       "courseName": "生产实习",
       "credit": "4",
       "limitations": [],
-      "number": "34",
+      "number": "35",
       "position": "另行通知",
       "teacherId": "1003",
       "teacherName": "李云辉",
@@ -5125,7 +5127,7 @@
       "courseName": "电子技术课程设计",
       "credit": "4",
       "limitations": [],
-      "number": "21",
+      "number": "25",
       "position": "另行通知",
       "teacherId": "1004",
       "teacherName": "郭文彬",
@@ -5171,7 +5173,7 @@
       "courseName": "专业课程设计",
       "credit": "4",
       "limitations": [],
-      "number": "33",
+      "number": "34",
       "position": "另行通知",
       "teacherId": "1002",
       "teacherName": "仵大奎",
@@ -5275,7 +5277,7 @@
       "courseName": "机器人软件设计",
       "credit": "4",
       "limitations": [],
-      "number": "15",
+      "number": "16",
       "position": "另行通知",
       "teacherId": "1001",
       "teacherName": "张曦",
@@ -8241,7 +8243,7 @@
       "courseName": "社会调查",
       "credit": "5",
       "limitations": [],
-      "number": "9",
+      "number": "10",
       "position": "另行通知",
       "teacherId": "1000",
       "teacherName": "阳育芳",
@@ -9367,10 +9369,8 @@
       "courseId": "2386A009",
       "courseName": "工程制图",
       "credit": "3",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "45",
+      "limitations": [],
+      "number": "44",
       "position": "另行通知",
       "teacherId": "1001",
       "teacherName": "林成辉",
@@ -9680,7 +9680,7 @@
       "teacherTitle": "教授"
     }
   ],
-  "hash": "eec37cebd13cdc00ee695c96a2bd6e99",
+  "hash": "9487c5398928d112045a2a135a4d0436",
   "termName": "2023-2024学年夏季学期",
-  "updateTimeMs": 1715157599708
+  "updateTimeMs": 1715161101442
 }
