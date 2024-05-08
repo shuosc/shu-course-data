@@ -8895,7 +8895,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "20",
+      "number": "24",
       "position": "另行通知",
       "teacherId": "1001",
       "teacherName": "杨英颖",
@@ -8903,14 +8903,17 @@
     },
     {
       "campus": "宝山",
-      "capacity": "20",
+      "capacity": "0",
       "classTime": "夏季学期1-4周",
       "courseId": "2062A021",
       "courseName": "语言实践(2)",
       "credit": "6",
-      "limitations": [],
-      "number": "4",
-      "position": "另行通知",
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
+      "number": "0",
+      "position": "不开",
       "teacherId": "1002",
       "teacherName": "杨昱华",
       "teacherTitle": "讲师"
@@ -9680,7 +9683,7 @@
       "teacherTitle": "教授"
     }
   ],
-  "hash": "9487c5398928d112045a2a135a4d0436",
+  "hash": "f9b8baaaca64c2efe31a06994495e5f3",
   "termName": "2023-2024学年夏季学期",
-  "updateTimeMs": 1715161101442
+  "updateTimeMs": 1715164738859
 }
