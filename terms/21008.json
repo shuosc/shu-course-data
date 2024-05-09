@@ -7688,8 +7688,10 @@
       "courseId": "14A4A001",
       "courseName": "学年论文",
       "credit": "3",
-      "limitations": [],
-      "number": "16",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "21",
       "position": "咨询学院",
       "teacherId": "3000",
       "teacherName": "张贝思等",
@@ -7794,8 +7796,10 @@
       "courseId": "14A8A005",
       "courseName": "影视道具制作实践",
       "credit": "4",
-      "limitations": [],
-      "number": "19",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "20",
       "position": "咨询学院",
       "teacherId": "3000",
       "teacherName": "黄一迁等",
@@ -7811,7 +7815,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "21",
+      "number": "20",
       "position": "咨询学院",
       "teacherId": "3000",
       "teacherName": "田合法等",
@@ -9681,7 +9685,7 @@
       "teacherTitle": "教授"
     }
   ],
-  "hash": "c9956ab1c45f19adeb186e592b985ecb",
+  "hash": "25abe1ad2a17460e4ffa9fd4add4f03e",
   "termName": "2023-2024学年夏季学期",
-  "updateTimeMs": 1715240312740
+  "updateTimeMs": 1715244116313
 }
