@@ -1915,14 +1915,17 @@
     },
     {
       "campus": "宝山",
-      "capacity": "15",
+      "capacity": "0",
       "classTime": "夏季学期1-4周 8:00-14:00",
       "courseId": "00883025",
       "courseName": "智能建造与管理实训(机器人方向)",
       "credit": "8",
-      "limitations": [],
-      "number": "1",
-      "position": "HC楼",
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
+      "number": "0",
+      "position": "不开",
       "teacherId": "1000",
       "teacherName": "郭帅等",
       "teacherTitle": "教授"
@@ -1935,7 +1938,7 @@
       "courseName": "智能建造与管理实训(3D打印方向)",
       "credit": "8",
       "limitations": [],
-      "number": "6",
+      "number": "7",
       "position": "HC楼",
       "teacherId": "1000",
       "teacherName": "林柳兰等",
@@ -9683,7 +9686,7 @@
       "teacherTitle": "教授"
     }
   ],
-  "hash": "33e2c9223bb5e4e85baa4d9242f5b0a7",
+  "hash": "1363fc9a3af8e0f9251f4fa3d597d2f1",
   "termName": "2023-2024学年夏季学期",
-  "updateTimeMs": 1715672458648
+  "updateTimeMs": 1715676175362
 }
