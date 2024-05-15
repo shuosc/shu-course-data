@@ -30225,7 +30225,7 @@
     {
       "campus": "宝山",
       "capacity": "30",
-      "classTime": "二9-11 四5-6学院机房上机",
+      "classTime": "二9-11含学院机房上机 四5-6",
       "courseId": "08306031",
       "courseName": "数字图像处理",
       "credit": "4",
@@ -30546,7 +30546,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "30",
+      "capacity": "25",
       "classTime": "一5-6 四5-6学院机房上机",
       "courseId": "08A66006",
       "courseName": "网络入侵检测",
@@ -53939,6 +53939,20 @@
       "teacherTitle": "副教授"
     },
     {
+      "campus": "延长",
+      "capacity": "30",
+      "classTime": "二9-10 四9-10 限国际本科生",
+      "courseId": "20624189",
+      "courseName": "学术汉语(1)(人文类)",
+      "credit": "4",
+      "limitations": [],
+      "number": "0",
+      "position": "",
+      "teacherId": "3000",
+      "teacherName": "杨英颖",
+      "teacherTitle": "讲师"
+    },
+    {
       "campus": "宝山",
       "capacity": "15",
       "classTime": "一3-4 三3-4限国际本科生",
@@ -63389,7 +63403,7 @@
       "teacherTitle": "副教授"
     }
   ],
-  "hash": "891b2e4b6d9183ca6418c00803740ab0",
+  "hash": "a3565c80a99bbd0c8112f0f459b09828",
   "termName": "2024-2025学年秋季学期",
-  "updateTimeMs": 1715748108126
+  "updateTimeMs": 1715751631698
 }
