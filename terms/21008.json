@@ -3140,7 +3140,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "25",
+      "number": "26",
       "position": "C117",
       "teacherId": "1002",
       "teacherName": "吴雁翔",
@@ -3170,7 +3170,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "25",
+      "number": "26",
       "position": "C108",
       "teacherId": "1002",
       "teacherName": "雷远旻",
@@ -3214,7 +3214,7 @@
       "courseName": "外语教学实践",
       "credit": "4",
       "limitations": [],
-      "number": "41",
+      "number": "42",
       "position": "C117",
       "teacherId": "1000",
       "teacherName": "张建琴",
@@ -3244,7 +3244,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "25",
+      "number": "26",
       "position": "无集体授课",
       "teacherId": "1002",
       "teacherName": "张珊珊",
@@ -3271,8 +3271,10 @@
       "courseId": "0311A036",
       "courseName": "跨文化交际与实践",
       "credit": "2",
-      "limitations": [],
-      "number": "24",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "25",
       "position": "C115",
       "teacherId": "1002",
       "teacherName": "程喜",
@@ -9686,7 +9688,7 @@
       "teacherTitle": "教授"
     }
   ],
-  "hash": "080dd18e5a249693b2292039e9901d6f",
+  "hash": "f48f84a283700dc0c22e16b5109b02ea",
   "termName": "2023-2024学年夏季学期",
-  "updateTimeMs": 1715827539896
+  "updateTimeMs": 1715830872824
 }
