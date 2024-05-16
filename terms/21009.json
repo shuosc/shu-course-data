@@ -1536,13 +1536,11 @@
       "courseId": "00853001",
       "courseName": "体育(1)",
       "credit": "1",
-      "limitations": [
-        "禁止选课"
-      ],
+      "limitations": [],
       "number": "0",
       "position": "",
       "teacherId": "3611",
-      "teacherName": "张靖",
+      "teacherName": "陶涛",
       "teacherTitle": "讲师"
     },
     {
@@ -1552,13 +1550,11 @@
       "courseId": "00853001",
       "courseName": "体育(1)",
       "credit": "1",
-      "limitations": [
-        "禁止选课"
-      ],
+      "limitations": [],
       "number": "0",
       "position": "",
       "teacherId": "3612",
-      "teacherName": "张靖",
+      "teacherName": "陶涛",
       "teacherTitle": "讲师"
     },
     {
@@ -1568,14 +1564,12 @@
       "courseId": "00853001",
       "courseName": "体育(1)",
       "credit": "1",
-      "limitations": [
-        "禁止选课"
-      ],
+      "limitations": [],
       "number": "0",
       "position": "",
       "teacherId": "3613",
-      "teacherName": "张靖",
-      "teacherTitle": "讲师"
+      "teacherName": "徐漫云",
+      "teacherTitle": "副教授"
     },
     {
       "campus": "延长",
@@ -1584,14 +1578,12 @@
       "courseId": "00853001",
       "courseName": "体育(1)",
       "credit": "1",
-      "limitations": [
-        "禁止选课"
-      ],
+      "limitations": [],
       "number": "0",
       "position": "",
       "teacherId": "3614",
-      "teacherName": "张靖",
-      "teacherTitle": "讲师"
+      "teacherName": "徐漫云",
+      "teacherTitle": "副教授"
     },
     {
       "campus": "延长",
@@ -1985,7 +1977,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "20",
+      "capacity": "22",
       "classTime": "一05-06 女生篮球",
       "courseId": "00853004",
       "courseName": "体育(4)",
@@ -2027,7 +2019,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "20",
+      "capacity": "22",
       "classTime": "二03-04 女生篮球",
       "courseId": "00853004",
       "courseName": "体育(4)",
@@ -2111,13 +2103,15 @@
     },
     {
       "campus": "延长",
-      "capacity": "20",
+      "capacity": "22",
       "classTime": "二03-04 女生瑜伽",
       "courseId": "00853004",
       "courseName": "体育(4)",
       "credit": "1",
-      "limitations": [],
-      "number": "25",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "22",
       "position": "",
       "teacherId": "3691",
       "teacherName": "徐漫云",
@@ -2139,7 +2133,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "20",
+      "capacity": "22",
       "classTime": "四03-04 女生瑜伽",
       "courseId": "00853004",
       "courseName": "体育(4)",
@@ -2195,13 +2189,15 @@
     },
     {
       "campus": "延长",
-      "capacity": "20",
+      "capacity": "22",
       "classTime": "二07-08 男女武术",
       "courseId": "00853004",
       "courseName": "体育(4)",
       "credit": "1",
-      "limitations": [],
-      "number": "25",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "22",
       "position": "",
       "teacherId": "3716",
       "teacherName": "顾修红",
@@ -2209,13 +2205,15 @@
     },
     {
       "campus": "延长",
-      "capacity": "20",
+      "capacity": "22",
       "classTime": "一07-08女生网球",
       "courseId": "00853004",
       "courseName": "体育(4)",
       "credit": "1",
-      "limitations": [],
-      "number": "25",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "22",
       "position": "",
       "teacherId": "3796",
       "teacherName": "陆树兵",
@@ -8264,7 +8262,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "50",
+      "capacity": "80",
       "classTime": "五1-4",
       "courseId": "00883014",
       "courseName": "数字制造技术",
@@ -8390,12 +8388,14 @@
     },
     {
       "campus": "宝山",
-      "capacity": "15",
+      "capacity": "0",
       "classTime": "二9-10 电子小世界",
       "courseId": "00883034",
       "courseName": "劳动素养专项实践",
       "credit": "1",
-      "limitations": [],
+      "limitations": [
+        "禁止选课"
+      ],
       "number": "0",
       "position": "",
       "teacherId": "1001",
@@ -8418,12 +8418,14 @@
     },
     {
       "campus": "宝山",
-      "capacity": "15",
+      "capacity": "0",
       "classTime": "四3-4 电子小世界",
       "courseId": "00883034",
       "courseName": "劳动素养专项实践",
       "credit": "1",
-      "limitations": [],
+      "limitations": [
+        "禁止选课"
+      ],
       "number": "2",
       "position": "",
       "teacherId": "1003",
@@ -8432,12 +8434,14 @@
     },
     {
       "campus": "宝山",
-      "capacity": "15",
+      "capacity": "0",
       "classTime": "三5-6 电子小世界",
       "courseId": "00883034",
       "courseName": "劳动素养专项实践",
       "credit": "1",
-      "limitations": [],
+      "limitations": [
+        "禁止选课"
+      ],
       "number": "4",
       "position": "",
       "teacherId": "1004",
@@ -8446,12 +8450,14 @@
     },
     {
       "campus": "宝山",
-      "capacity": "15",
+      "capacity": "0",
       "classTime": "一5-6 电子小世界",
       "courseId": "00883034",
       "courseName": "劳动素养专项实践",
       "credit": "1",
-      "limitations": [],
+      "limitations": [
+        "禁止选课"
+      ],
       "number": "5",
       "position": "",
       "teacherId": "1005",
@@ -8460,7 +8466,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "15",
+      "capacity": "32",
       "classTime": "二7-8 木质匠心",
       "courseId": "00883034",
       "courseName": "劳动素养专项实践",
@@ -8474,7 +8480,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "15",
+      "capacity": "32",
       "classTime": "二3-4 木质匠心",
       "courseId": "00883034",
       "courseName": "劳动素养专项实践",
@@ -8488,7 +8494,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "15",
+      "capacity": "32",
       "classTime": "四3-4 木质匠心",
       "courseId": "00883034",
       "courseName": "劳动素养专项实践",
@@ -8502,7 +8508,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "15",
+      "capacity": "32",
       "classTime": "四7-8 木质匠心",
       "courseId": "00883034",
       "courseName": "劳动素养专项实践",
@@ -8516,7 +8522,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "15",
+      "capacity": "32",
       "classTime": "五3-4 木质匠心",
       "courseId": "00883034",
       "courseName": "劳动素养专项实践",
@@ -8530,7 +8536,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "15",
+      "capacity": "20",
       "classTime": "三7-8 陶塑艺术",
       "courseId": "00883034",
       "courseName": "劳动素养专项实践",
@@ -8544,7 +8550,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "15",
+      "capacity": "20",
       "classTime": "二7-8 陶塑艺术",
       "courseId": "00883034",
       "courseName": "劳动素养专项实践",
@@ -8558,7 +8564,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "15",
+      "capacity": "32",
       "classTime": "五7-8 木质匠心",
       "courseId": "00883034",
       "courseName": "劳动素养专项实践",
@@ -8572,7 +8578,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "15",
+      "capacity": "20",
       "classTime": "三3-4 陶塑艺术",
       "courseId": "00883034",
       "courseName": "劳动素养专项实践",
@@ -8586,7 +8592,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "15",
+      "capacity": "40",
       "classTime": "五7-8 金属艺术",
       "courseId": "00883034",
       "courseName": "劳动素养专项实践",
@@ -8600,7 +8606,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "15",
+      "capacity": "40",
       "classTime": "四7-8 金属艺术",
       "courseId": "00883034",
       "courseName": "劳动素养专项实践",
@@ -8614,7 +8620,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "15",
+      "capacity": "40",
       "classTime": "四5-6 金属艺术",
       "courseId": "00883034",
       "courseName": "劳动素养专项实践",
@@ -8628,7 +8634,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "15",
+      "capacity": "40",
       "classTime": "二5-6 金属艺术",
       "courseId": "00883034",
       "courseName": "劳动素养专项实践",
@@ -8642,7 +8648,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "15",
+      "capacity": "40",
       "classTime": "二7-8 金属艺术",
       "courseId": "00883034",
       "courseName": "劳动素养专项实践",
@@ -19857,8 +19863,10 @@
       "courseId": "03004419",
       "courseName": "旅游英语",
       "credit": "2",
-      "limitations": [],
-      "number": "45",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "30",
       "position": "",
       "teacherId": "3001",
       "teacherName": "万思东",
@@ -19871,8 +19879,10 @@
       "courseId": "03004419",
       "courseName": "旅游英语",
       "credit": "2",
-      "limitations": [],
-      "number": "48",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "30",
       "position": "",
       "teacherId": "3002",
       "teacherName": "万思东",
@@ -19885,8 +19895,10 @@
       "courseId": "03004419",
       "courseName": "旅游英语",
       "credit": "2",
-      "limitations": [],
-      "number": "60",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "30",
       "position": "",
       "teacherId": "3003",
       "teacherName": "万思东",
@@ -31661,12 +31673,14 @@
     },
     {
       "campus": "宝山",
-      "capacity": "40",
+      "capacity": "0",
       "classTime": "四9-11",
       "courseId": "09326064",
       "courseName": "优化设计",
       "credit": "3",
-      "limitations": [],
+      "limitations": [
+        "禁止选课"
+      ],
       "number": "2",
       "position": "",
       "teacherId": "1000",
@@ -32123,7 +32137,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "55",
+      "capacity": "66",
       "classTime": "二1-2 四5-6",
       "courseId": "09365060",
       "courseName": "自动控制原理(1)",
@@ -32137,7 +32151,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "55",
+      "capacity": "66",
       "classTime": "二1-2 四5-6",
       "courseId": "09365060",
       "courseName": "自动控制原理(1)",
@@ -32151,7 +32165,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "55",
+      "capacity": "66",
       "classTime": "二1-2 四5-6",
       "courseId": "09365060",
       "courseName": "自动控制原理(1)",
@@ -32221,7 +32235,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "30",
+      "capacity": "31",
       "classTime": "一7-8 四7-8单 全英语",
       "courseId": "09365197",
       "courseName": "自动控制原理B(1)",
@@ -32347,7 +32361,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "30",
+      "capacity": "32",
       "classTime": "二9-11 四3-4实验 全英语",
       "courseId": "09365503",
       "courseName": "电子(2)",
@@ -32375,7 +32389,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "30",
+      "capacity": "32",
       "classTime": "三5-6 五1-2 全英语",
       "courseId": "09365504",
       "courseName": "系统编程",
@@ -32403,7 +32417,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "30",
+      "capacity": "40",
       "classTime": "四9-11",
       "courseId": "09366175",
       "courseName": "供电系统与保护",
@@ -32473,7 +32487,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "45",
+      "capacity": "46",
       "classTime": "另行通知",
       "courseId": "0936A009",
       "courseName": "综合课程设计",
@@ -32487,7 +32501,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "45",
+      "capacity": "46",
       "classTime": "另行通知",
       "courseId": "0936A009",
       "courseName": "综合课程设计",
@@ -32501,7 +32515,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "45",
+      "capacity": "46",
       "classTime": "另行通知",
       "courseId": "0936A009",
       "courseName": "综合课程设计",
@@ -32641,7 +32655,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "40",
+      "capacity": "45",
       "classTime": "一3-4 三7-8单",
       "courseId": "09375008",
       "courseName": "微机原理(2)",
@@ -32655,7 +32669,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "40",
+      "capacity": "45",
       "classTime": "一3-4 三7-8单",
       "courseId": "09375008",
       "courseName": "微机原理(2)",
@@ -32669,7 +32683,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "40",
+      "capacity": "45",
       "classTime": "一3-4 三7-8单",
       "courseId": "09375008",
       "courseName": "微机原理(2)",
@@ -32683,7 +32697,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "40",
+      "capacity": "45",
       "classTime": "一3-4 三7-8单",
       "courseId": "09375008",
       "courseName": "微机原理(2)",
@@ -32697,7 +32711,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "40",
+      "capacity": "45",
       "classTime": "一3-4 三7-8单",
       "courseId": "09375008",
       "courseName": "微机原理(2)",
@@ -32725,7 +32739,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "35",
+      "capacity": "40",
       "classTime": "二9-11 五7-8 含实验",
       "courseId": "09375010",
       "courseName": "检测技术基础",
@@ -32739,7 +32753,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "35",
+      "capacity": "40",
       "classTime": "二9-11 五7-8 含实验",
       "courseId": "09375010",
       "courseName": "检测技术基础",
@@ -32753,7 +32767,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "35",
+      "capacity": "40",
       "classTime": "二9-11 五7-8 含实验",
       "courseId": "09375010",
       "courseName": "检测技术基础",
@@ -32767,7 +32781,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "35",
+      "capacity": "40",
       "classTime": "二9-11 五7-8 含实验",
       "courseId": "09375010",
       "courseName": "检测技术基础",
@@ -32781,7 +32795,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "35",
+      "capacity": "40",
       "classTime": "二9-11 五7-8 含实验",
       "courseId": "09375010",
       "courseName": "检测技术基础",
@@ -32795,7 +32809,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "35",
+      "capacity": "40",
       "classTime": "二9-11 五7-8 含实验",
       "courseId": "09375010",
       "courseName": "检测技术基础",
@@ -33005,6 +33019,20 @@
     },
     {
       "campus": "宝山",
+      "capacity": "40",
+      "classTime": "一7-8 四7-8",
+      "courseId": "09376021",
+      "courseName": "网络科学导论",
+      "credit": "4",
+      "limitations": [],
+      "number": "0",
+      "position": "",
+      "teacherId": "1001",
+      "teacherName": "梁海丽",
+      "teacherTitle": "副研究员"
+    },
+    {
+      "campus": "宝山",
       "capacity": "60",
       "classTime": "二7-8 四3-4",
       "courseId": "09376022",
@@ -33047,7 +33075,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "40",
+      "capacity": "65",
       "classTime": "一5-6 三7-8双",
       "courseId": "09376024",
       "courseName": "软体机器人技术",
@@ -33061,7 +33089,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "30",
+      "capacity": "40",
       "classTime": "一11-12 三5-6",
       "courseId": "09376025",
       "courseName": "运筹学基础",
@@ -33075,7 +33103,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "30",
+      "capacity": "40",
       "classTime": "二3-4 四3-4",
       "courseId": "09376025",
       "courseName": "运筹学基础",
@@ -33089,7 +33117,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "60",
+      "capacity": "65",
       "classTime": "二3-4 五9-10单",
       "courseId": "09376026",
       "courseName": "基于FPGA的现代电子系统设计",
@@ -33103,7 +33131,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "40",
+      "capacity": "45",
       "classTime": "一1-2 四1-2",
       "courseId": "09376027",
       "courseName": "操作系统",
@@ -33117,7 +33145,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "30",
+      "capacity": "35",
       "classTime": "三9-11 五1-3单 含上机",
       "courseId": "09376028",
       "courseName": "面向对象的程序设计",
@@ -33131,7 +33159,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "30",
+      "capacity": "35",
       "classTime": "三9-11 五1-3单 含上机",
       "courseId": "09376028",
       "courseName": "面向对象的程序设计",
@@ -33145,7 +33173,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "30",
+      "capacity": "35",
       "classTime": "三9-11 五1-3单 含上机",
       "courseId": "09376028",
       "courseName": "面向对象的程序设计",
@@ -33159,7 +33187,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "30",
+      "capacity": "35",
       "classTime": "三9-11 五1-3单 含上机",
       "courseId": "09376028",
       "courseName": "面向对象的程序设计",
@@ -33957,7 +33985,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "35",
+      "capacity": "56",
       "classTime": "二3-4 四3-4单",
       "courseId": "09A35004",
       "courseName": "现代控制工程(2)",
@@ -33990,7 +34018,9 @@
       "courseId": "09A35011",
       "courseName": "传感器与智能检测技术",
       "credit": "4",
-      "limitations": [],
+      "limitations": [
+        "人数已满"
+      ],
       "number": "75",
       "position": "",
       "teacherId": "1001",
@@ -34069,7 +34099,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "40",
+      "capacity": "58",
       "classTime": "二5-6 四5-6单",
       "courseId": "09A35021",
       "courseName": "机械原理与设计(2)",
@@ -34097,7 +34127,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "40",
+      "capacity": "53",
       "classTime": "二5-6 四5-6单",
       "courseId": "09A35021",
       "courseName": "机械原理与设计(2)",
@@ -34139,7 +34169,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "40",
+      "capacity": "70",
       "classTime": "四9-11",
       "courseId": "09A36005",
       "courseName": "信号处理与分析",
@@ -34237,7 +34267,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "35",
+      "capacity": "56",
       "classTime": "一1-2 三5-6",
       "courseId": "09B65002",
       "courseName": "机械设计(2)",
@@ -39284,8 +39314,10 @@
       "courseId": "13004116",
       "courseName": "中国工艺美术史A",
       "credit": "3",
-      "limitations": [],
-      "number": "65",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "60",
       "position": "",
       "teacherId": "3002",
       "teacherName": "王蒙",
@@ -39996,8 +40028,10 @@
       "courseId": "13475175",
       "courseName": "建筑设计(2)",
       "credit": "6",
-      "limitations": [],
-      "number": "7",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "6",
       "position": "",
       "teacherId": "3002",
       "teacherName": "魏秦",
@@ -40005,13 +40039,15 @@
     },
     {
       "campus": "延长",
-      "capacity": "6",
+      "capacity": "7",
       "classTime": "一1-4 四5-6",
       "courseId": "13475175",
       "courseName": "建筑设计(2)",
       "credit": "6",
-      "limitations": [],
-      "number": "8",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "7",
       "position": "",
       "teacherId": "3003",
       "teacherName": "刘坤",
@@ -40024,8 +40060,10 @@
       "courseId": "13475175",
       "courseName": "建筑设计(2)",
       "credit": "6",
-      "limitations": [],
-      "number": "7",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "6",
       "position": "",
       "teacherId": "3004",
       "teacherName": "莫弘之",
@@ -40047,13 +40085,15 @@
     },
     {
       "campus": "延长",
-      "capacity": "6",
+      "capacity": "7",
       "classTime": "一1-4 四5-6",
       "courseId": "13475175",
       "courseName": "建筑设计(2)",
       "credit": "6",
-      "limitations": [],
-      "number": "10",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "7",
       "position": "",
       "teacherId": "3006",
       "teacherName": "周天夫",
@@ -40117,13 +40157,15 @@
     },
     {
       "campus": "延长",
-      "capacity": "7",
+      "capacity": "8",
       "classTime": "二1-2 五1-4",
       "courseId": "13475178",
       "courseName": "建筑设计(5)",
       "credit": "6",
-      "limitations": [],
-      "number": "12",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "8",
       "position": "",
       "teacherId": "3004",
       "teacherName": "吴爱民",
@@ -40131,7 +40173,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "7",
+      "capacity": "8",
       "classTime": "二1-2 五1-4",
       "courseId": "13475178",
       "courseName": "建筑设计(5)",
@@ -40145,13 +40187,15 @@
     },
     {
       "campus": "延长",
-      "capacity": "7",
+      "capacity": "8",
       "classTime": "二1-2 五1-4",
       "courseId": "13475178",
       "courseName": "建筑设计(5)",
       "credit": "6",
-      "limitations": [],
-      "number": "9",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "8",
       "position": "",
       "teacherId": "3006",
       "teacherName": "顾林奎",
@@ -40192,8 +40236,10 @@
       "courseId": "13475180",
       "courseName": "场地设计",
       "credit": "2",
-      "limitations": [],
-      "number": "19",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "15",
       "position": "",
       "teacherId": "3000",
       "teacherName": "柏春",
@@ -40360,8 +40406,10 @@
       "courseId": "13476102",
       "courseName": "家具与陈设A",
       "credit": "2",
-      "limitations": [],
-      "number": "23",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "15",
       "position": "",
       "teacherId": "3000",
       "teacherName": "项浚",
@@ -40374,8 +40422,10 @@
       "courseId": "13476148",
       "courseName": "建筑环境与行为心理",
       "credit": "2",
-      "limitations": [],
-      "number": "17",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "15",
       "position": "",
       "teacherId": "3000",
       "teacherName": "李玲",
@@ -40383,7 +40433,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "5",
+      "capacity": "10",
       "classTime": "二5-8(1-5周)",
       "courseId": "13476234",
       "courseName": "综合艺术基础B(2)",
@@ -40397,7 +40447,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "5",
+      "capacity": "10",
       "classTime": "二5-8(1-5周)",
       "courseId": "13476234",
       "courseName": "综合艺术基础B(2)",
@@ -40411,7 +40461,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "5",
+      "capacity": "10",
       "classTime": "二5-8(1-5周)",
       "courseId": "13476234",
       "courseName": "综合艺术基础B(2)",
@@ -40425,7 +40475,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "5",
+      "capacity": "12",
       "classTime": "二5-8(1-5周)",
       "courseId": "13476234",
       "courseName": "综合艺术基础B(2)",
@@ -40444,8 +40494,10 @@
       "courseId": "13476236",
       "courseName": "建筑材料",
       "credit": "2",
-      "limitations": [],
-      "number": "23",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "15",
       "position": "",
       "teacherId": "3000",
       "teacherName": "章国琴",
@@ -40467,7 +40519,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "5",
+      "capacity": "7",
       "classTime": "二5-8(6-10周)",
       "courseId": "13476240",
       "courseName": "综合艺术实践(2)",
@@ -40481,7 +40533,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "5",
+      "capacity": "9",
       "classTime": "二5-8(6-10周)",
       "courseId": "13476240",
       "courseName": "综合艺术实践(2)",
@@ -40495,7 +40547,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "5",
+      "capacity": "15",
       "classTime": "二5-8(6-10周)",
       "courseId": "13476240",
       "courseName": "综合艺术实践(2)",
@@ -40542,8 +40594,10 @@
       "courseId": "13476259",
       "courseName": "健康建筑",
       "credit": "2",
-      "limitations": [],
-      "number": "19",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "15",
       "position": "",
       "teacherId": "3000",
       "teacherName": "周天夫",
@@ -40612,8 +40666,10 @@
       "courseId": "1347A072",
       "courseName": "建筑师业务实践(2)",
       "credit": "16",
-      "limitations": [],
-      "number": "17",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "14",
       "position": "",
       "teacherId": "3002",
       "teacherName": "谢建军",
@@ -41562,8 +41618,10 @@
       "courseId": "13535090",
       "courseName": "基础制图A",
       "credit": "4.5",
-      "limitations": [],
-      "number": "12",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "10",
       "position": "",
       "teacherId": "3002",
       "teacherName": "王阳明",
@@ -41886,8 +41944,10 @@
       "courseId": "13536312",
       "courseName": "公共导识设计A",
       "credit": "6",
-      "limitations": [],
-      "number": "35",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "30",
       "position": "",
       "teacherId": "3001",
       "teacherName": "王蒙",
@@ -41979,7 +42039,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "10",
+      "capacity": "20",
       "classTime": "二9-11",
       "courseId": "13536351",
       "courseName": "中国手作体验A(选)",
@@ -42203,7 +42263,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "7",
+      "capacity": "8",
       "classTime": "二1-2 四7-8单",
       "courseId": "13685061",
       "courseName": "城乡规划原理(1)",
@@ -42217,7 +42277,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "18",
+      "capacity": "30",
       "classTime": "三3-4",
       "courseId": "13685072",
       "courseName": "城市环境与城市生态学A",
@@ -42236,8 +42296,10 @@
       "courseId": "13685084",
       "courseName": "规划设计(3):乡村规划设计",
       "credit": "4",
-      "limitations": [],
-      "number": "8",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "6",
       "position": "",
       "teacherId": "3001",
       "teacherName": "戎筱",
@@ -42264,8 +42326,10 @@
       "courseId": "13685084",
       "courseName": "规划设计(3):乡村规划设计",
       "credit": "4",
-      "limitations": [],
-      "number": "7",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "6",
       "position": "",
       "teacherId": "3003",
       "teacherName": "李开明",
@@ -42306,8 +42370,10 @@
       "courseId": "13685087",
       "courseName": "规划设计(6):控制性详细规划",
       "credit": "6",
-      "limitations": [],
-      "number": "11",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "9",
       "position": "",
       "teacherId": "3003",
       "teacherName": "常江",
@@ -42712,8 +42778,10 @@
       "courseId": "13776027",
       "courseName": "共享创新课(1)",
       "credit": "6",
-      "limitations": [],
-      "number": "37",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "35",
       "position": "",
       "teacherId": "3000",
       "teacherName": "梁海燕",
@@ -42931,7 +42999,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "10",
+      "capacity": "11",
       "classTime": "一1-4(1-4周) 二5-8(1-4周) 三1-4(1-4周) 四6-8(1-4周)",
       "courseId": "13C05008",
       "courseName": "基础制图",
@@ -43398,8 +43466,10 @@
       "courseId": "14555248",
       "courseName": "音响系统A",
       "credit": "4",
-      "limitations": [],
-      "number": "27",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "25",
       "position": "",
       "teacherId": "3002",
       "teacherName": "金勇",
@@ -43510,8 +43580,10 @@
       "courseId": "14556286",
       "courseName": "影视摄影与照明",
       "credit": "4",
-      "limitations": [],
-      "number": "24",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "20",
       "position": "",
       "teacherId": "3000",
       "teacherName": "王天翼",
@@ -43617,7 +43689,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "45",
+      "capacity": "46",
       "classTime": "二5-6 四5-6单",
       "courseId": "14565229",
       "courseName": "外国电影史A",
@@ -43650,8 +43722,10 @@
       "courseId": "14565256",
       "courseName": "剧本写作(1)",
       "credit": "3",
-      "limitations": [],
-      "number": "30",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "22",
       "position": "",
       "teacherId": "3002",
       "teacherName": "郑威",
@@ -43664,8 +43738,10 @@
       "courseId": "14565286",
       "courseName": "导演基础(1)",
       "credit": "3",
-      "limitations": [],
-      "number": "31",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "22",
       "position": "",
       "teacherId": "3001",
       "teacherName": "郑威",
@@ -43687,7 +43763,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "45",
+      "capacity": "46",
       "classTime": "一3-4 三3-4单",
       "courseId": "14565296",
       "courseName": "纪录片创作",
@@ -43819,7 +43895,7 @@
       "courseName": "视觉造型艺术A",
       "credit": "3",
       "limitations": [],
-      "number": "50",
+      "number": "35",
       "position": "",
       "teacherId": "3002",
       "teacherName": "刘延刚",
@@ -44261,7 +44337,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "10",
+      "capacity": "11",
       "classTime": "一1-4实验 三1-4实验",
       "courseId": "14785012",
       "courseName": "语言技巧训练(4)",
@@ -44359,7 +44435,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "10",
+      "capacity": "11",
       "classTime": "四5-8实验",
       "courseId": "14785029",
       "courseName": "影视动作技能(1)",
@@ -44443,7 +44519,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "20",
+      "capacity": "21",
       "classTime": "一7-8 三5-8实验 五7-10实验",
       "courseId": "14795043",
       "courseName": "电影摄影造型创作B",
@@ -44457,7 +44533,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "20",
+      "capacity": "22",
       "classTime": "一3-4 三3-4",
       "courseId": "14795048",
       "courseName": "电影后期调色及DIT",
@@ -44499,7 +44575,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "20",
+      "capacity": "21",
       "classTime": "一5-6 五3-4",
       "courseId": "14795063",
       "courseName": "剪辑技巧与技术",
@@ -44527,7 +44603,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "20",
+      "capacity": "26",
       "classTime": "四1-2",
       "courseId": "14796068",
       "courseName": "电影音乐赏析",
@@ -44723,7 +44799,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "19",
+      "capacity": "21",
       "classTime": "二9-11",
       "courseId": "14996038",
       "courseName": "数字布光与渲染A",
@@ -45087,7 +45163,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "20",
+      "capacity": "22",
       "classTime": "三1-2 五1-2",
       "courseId": "14A45033",
       "courseName": "中外电影史A",
@@ -45134,8 +45210,10 @@
       "courseId": "14A46028",
       "courseName": "故事疗愈",
       "credit": "3",
-      "limitations": [],
-      "number": "49",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "30",
       "position": "",
       "teacherId": "3000",
       "teacherName": "吴丽娜",
@@ -45171,7 +45249,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "20",
+      "capacity": "21",
       "classTime": "咨询学院",
       "courseId": "14A4A002",
       "courseName": "表演工作坊",
@@ -45241,7 +45319,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "20",
+      "capacity": "22",
       "classTime": "二1-2 四1-2",
       "courseId": "14A85012",
       "courseName": "建筑学基础",
@@ -45409,7 +45487,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "20",
+      "capacity": "21",
       "classTime": "三9-11",
       "courseId": "14A86044",
       "courseName": "影视美学",
@@ -50399,7 +50477,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "90",
+      "capacity": "120",
       "classTime": "一9-10 (1周,6周)",
       "courseId": "16583109",
       "courseName": "形势与政策",
@@ -50455,13 +50533,15 @@
     },
     {
       "campus": "延长",
-      "capacity": "90",
+      "capacity": "110",
       "classTime": "二9-10 (2周,7周)",
       "courseId": "16583109",
       "courseName": "形势与政策",
       "credit": "0",
-      "limitations": [],
-      "number": "112",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "110",
       "position": "",
       "teacherId": "3005",
       "teacherName": "万喃喃",
@@ -50483,13 +50563,15 @@
     },
     {
       "campus": "延长",
-      "capacity": "90",
+      "capacity": "120",
       "classTime": "三9-10 (1周,6周)",
       "courseId": "16583109",
       "courseName": "形势与政策",
       "credit": "0",
-      "limitations": [],
-      "number": "141",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "120",
       "position": "",
       "teacherId": "3007",
       "teacherName": "王有英",
@@ -50497,7 +50579,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "90",
+      "capacity": "120",
       "classTime": "三9-10 (2周,7周)",
       "courseId": "16583109",
       "courseName": "形势与政策",
@@ -50539,13 +50621,15 @@
     },
     {
       "campus": "延长",
-      "capacity": "90",
+      "capacity": "120",
       "classTime": "四9-10 (1周,6周)",
       "courseId": "16583109",
       "courseName": "形势与政策",
       "credit": "0",
-      "limitations": [],
-      "number": "141",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "120",
       "position": "",
       "teacherId": "3011",
       "teacherName": "奚建群",
@@ -50553,7 +50637,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "90",
+      "capacity": "109",
       "classTime": "四9-10 (2周,7周)",
       "courseId": "16583109",
       "courseName": "形势与政策",
@@ -52007,7 +52091,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "100",
+      "capacity": "142",
       "classTime": "一9-11",
       "courseId": "16584171",
       "courseName": "习近平新时代中国特色社会主义思想概论",
@@ -53220,8 +53304,10 @@
       "courseId": "17005010",
       "courseName": "马克思主义新闻观",
       "credit": "3",
-      "limitations": [],
-      "number": "56",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "45",
       "position": "",
       "teacherId": "3001",
       "teacherName": "齐爱军",
@@ -53248,8 +53334,10 @@
       "courseId": "17005010",
       "courseName": "马克思主义新闻观",
       "credit": "3",
-      "limitations": [],
-      "number": "58",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "45",
       "position": "",
       "teacherId": "3003",
       "teacherName": "周宇豪",
@@ -64402,7 +64490,7 @@
       "teacherTitle": "副教授"
     }
   ],
-  "hash": "f48febe01147b7b57a86c7abf1883e9d",
+  "hash": "77d73fef26241a6bb449a64a234ef2ce",
   "termName": "2024-2025学年秋季学期",
-  "updateTimeMs": 1715834416202
+  "updateTimeMs": 1715838087171
 }
