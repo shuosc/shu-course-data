@@ -965,7 +965,7 @@
       "courseName": "思想道德与法治(实践)",
       "credit": "1",
       "limitations": [],
-      "number": "56",
+      "number": "57",
       "position": "GJ204",
       "teacherId": "1028",
       "teacherName": "赵申洁等",
@@ -1303,7 +1303,7 @@
       "courseName": "形势与政策(实践)",
       "credit": "1",
       "limitations": [],
-      "number": "75",
+      "number": "76",
       "position": "BJ103",
       "teacherId": "1011",
       "teacherName": "汪艳",
@@ -1601,7 +1601,7 @@
       "courseName": "形势与政策(实践)",
       "credit": "1",
       "limitations": [],
-      "number": "120",
+      "number": "121",
       "position": "EJ103",
       "teacherId": "1030",
       "teacherName": "张琳",
@@ -1724,7 +1724,7 @@
         "人数已满"
       ],
       "number": "0",
-      "position": "",
+      "position": "不开",
       "teacherId": "3004",
       "teacherName": "杨秀君",
       "teacherTitle": "教授"
@@ -1753,7 +1753,7 @@
       "courseName": "金工实习E",
       "credit": "5",
       "limitations": [],
-      "number": "148",
+      "number": "149",
       "position": "HC楼",
       "teacherId": "1001",
       "teacherName": "刘利等",
@@ -1767,7 +1767,7 @@
       "courseName": "金工实习E",
       "credit": "5",
       "limitations": [],
-      "number": "91",
+      "number": "92",
       "position": "HC楼",
       "teacherId": "1002",
       "teacherName": "葛梦滢等",
@@ -1823,7 +1823,7 @@
       "courseName": "金工实习E",
       "credit": "5",
       "limitations": [],
-      "number": "56",
+      "number": "55",
       "position": "HC楼",
       "teacherId": "1006",
       "teacherName": "刘利等",
@@ -2059,8 +2059,10 @@
       "courseId": "00893001",
       "courseName": "电子实习",
       "credit": "4",
-      "limitations": [],
-      "number": "139",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "140",
       "position": "HD302c",
       "teacherId": "1005",
       "teacherName": "周昕等",
@@ -2530,7 +2532,7 @@
       "courseName": "数字人文导论",
       "credit": "2",
       "limitations": [],
-      "number": "47",
+      "number": "46",
       "position": "DJ303",
       "teacherId": "1000",
       "teacherName": "James O’Sullivan",
@@ -3132,7 +3134,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "25",
+      "capacity": "26",
       "classTime": "第一周 一5-6 二5-6 三5-6 四5-6 五5-6",
       "courseId": "0311A025",
       "courseName": "经典作品读书会",
@@ -3162,7 +3164,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "25",
+      "capacity": "26",
       "classTime": "第一周 一3-4 二3-4 三3-4 四3-4 五3-4",
       "courseId": "0311A027",
       "courseName": "英美经典电影欣赏",
@@ -3236,7 +3238,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "25",
+      "capacity": "26",
       "classTime": "无集体授课,参加社会调查与实践项目活动(为期2-3周)",
       "courseId": "0311A035",
       "courseName": "社会调查与实践",
@@ -4046,7 +4048,7 @@
       "courseName": "认识实习",
       "credit": "6",
       "limitations": [],
-      "number": "29",
+      "number": "28",
       "position": "另行通知",
       "teacherId": "1000",
       "teacherName": "丁小凤",
@@ -5128,7 +5130,7 @@
       "courseName": "电子技术课程设计",
       "credit": "4",
       "limitations": [],
-      "number": "27",
+      "number": "32",
       "position": "另行通知",
       "teacherId": "1004",
       "teacherName": "郭文彬",
@@ -5632,7 +5634,7 @@
       "courseName": "生产实习",
       "credit": "8",
       "limitations": [],
-      "number": "6",
+      "number": "7",
       "position": "另行通知",
       "teacherId": "1002",
       "teacherName": "张新颖等",
@@ -5710,7 +5712,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "7",
+      "number": "8",
       "position": "另行通知",
       "teacherId": "1002",
       "teacherName": "顾俭",
@@ -5723,8 +5725,10 @@
       "courseId": "1145A004",
       "courseName": "生产实习",
       "credit": "8",
-      "limitations": [],
-      "number": "6",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "8",
       "position": "另行通知",
       "teacherId": "1003",
       "teacherName": "徐丽",
@@ -5768,7 +5772,7 @@
       "courseName": "化工设计",
       "credit": "4",
       "limitations": [],
-      "number": "7",
+      "number": "9",
       "position": "另行通知",
       "teacherId": "1002",
       "teacherName": "贾少晋",
@@ -8515,7 +8519,7 @@
       "credit": "4",
       "limitations": [],
       "number": "4",
-      "position": "",
+      "position": "咨询学院",
       "teacherId": "3000",
       "teacherName": "刘兆明",
       "teacherTitle": "讲师"
@@ -9688,7 +9692,7 @@
       "teacherTitle": "教授"
     }
   ],
-  "hash": "f48f84a283700dc0c22e16b5109b02ea",
+  "hash": "8ea4ef6b05e2ef7b631bc6efc78d2ea3",
   "termName": "2023-2024学年夏季学期",
-  "updateTimeMs": 1715838090860
+  "updateTimeMs": 1715841648927
 }
