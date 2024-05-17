@@ -9543,7 +9543,7 @@
       "courseName": "线性代数B",
       "credit": "3",
       "limitations": [],
-      "number": "21",
+      "number": "20",
       "position": "",
       "teacherId": "1006",
       "teacherName": "王晓霞",
@@ -16140,8 +16140,8 @@
       "number": "9",
       "position": "",
       "teacherId": "1000",
-      "teacherName": "王伯福",
-      "teacherTitle": "教授"
+      "teacherName": "吴建钊",
+      "teacherTitle": "副研究员"
     },
     {
       "campus": "宝山",
@@ -55268,6 +55268,20 @@
     {
       "campus": "宝山",
       "capacity": "30",
+      "classTime": "四9-11 限国际本科生",
+      "courseId": "20625228",
+      "courseName": "中国文化概论",
+      "credit": "3",
+      "limitations": [],
+      "number": "0",
+      "position": "",
+      "teacherId": "1001",
+      "teacherName": "王丽娜",
+      "teacherTitle": "讲师"
+    },
+    {
+      "campus": "宝山",
+      "capacity": "30",
       "classTime": "一3-4 三3-4 限国际本科生",
       "courseId": "20625229",
       "courseName": "古代汉语A(1)",
@@ -55367,6 +55381,20 @@
       "position": "",
       "teacherId": "1000",
       "teacherName": "黄蓓",
+      "teacherTitle": "讲师"
+    },
+    {
+      "campus": "宝山",
+      "capacity": "30",
+      "classTime": "三9-11 限国际本科生",
+      "courseId": "20626155",
+      "courseName": "中国当代文学选读",
+      "credit": "3",
+      "limitations": [],
+      "number": "0",
+      "position": "",
+      "teacherId": "1001",
+      "teacherName": "杨英颖",
       "teacherTitle": "讲师"
     },
     {
@@ -64710,7 +64738,7 @@
       "teacherTitle": "副教授"
     }
   ],
-  "hash": "4d9a9f5ee0366d8ab73b641ad4e129b0",
+  "hash": "3f58874bca6e64d6a8f0be421faae7b6",
   "termName": "2024-2025学年秋季学期",
-  "updateTimeMs": 1715902829579
+  "updateTimeMs": 1715910099433
 }
