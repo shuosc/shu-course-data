@@ -19787,7 +19787,7 @@
       "courseName": "旅游英语",
       "credit": "2",
       "limitations": [],
-      "number": "35",
+      "number": "36",
       "position": "",
       "teacherId": "1008",
       "teacherName": "沈澄",
@@ -29362,8 +29362,10 @@
       "courseId": "07276167",
       "courseName": "宽带光网络A",
       "credit": "4",
-      "limitations": [],
-      "number": "69",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "70",
       "position": "",
       "teacherId": "1000",
       "teacherName": "伍仕宝",
@@ -30670,7 +30672,7 @@
       "courseName": "数字图像处理",
       "credit": "4",
       "limitations": [],
-      "number": "76",
+      "number": "75",
       "position": "",
       "teacherId": "1001",
       "teacherName": "丁广太",
@@ -48335,7 +48337,7 @@
       "courseName": "当代世界经济与政治",
       "credit": "3",
       "limitations": [],
-      "number": "86",
+      "number": "87",
       "position": "",
       "teacherId": "1002",
       "teacherName": "何英",
@@ -48379,7 +48381,7 @@
       "courseName": "当代世界经济与政治",
       "credit": "3",
       "limitations": [],
-      "number": "70",
+      "number": "71",
       "position": "",
       "teacherId": "2001",
       "teacherName": "杨超",
@@ -49241,7 +49243,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [],
-      "number": "72",
+      "number": "73",
       "position": "",
       "teacherId": "1056",
       "teacherName": "奚建群",
@@ -64658,7 +64660,7 @@
       "teacherTitle": "副教授"
     }
   ],
-  "hash": "e0deae1f1ffc0c49ee4fbbc085d5cd8a",
+  "hash": "e3457ef7a4bf26682ada651314ea3415",
   "termName": "2024-2025学年秋季学期",
-  "updateTimeMs": 1716147503328
+  "updateTimeMs": 1716151153196
 }
