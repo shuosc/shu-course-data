@@ -1995,8 +1995,10 @@
       "courseId": "00893001",
       "courseName": "电子实习",
       "credit": "4",
-      "limitations": [],
-      "number": "139",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "140",
       "position": "HD302c",
       "teacherId": "1001",
       "teacherName": "饶珺等",
@@ -2041,10 +2043,8 @@
       "courseId": "00893001",
       "courseName": "电子实习",
       "credit": "4",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "140",
+      "limitations": [],
+      "number": "139",
       "position": "HD302c",
       "teacherId": "1004",
       "teacherName": "孙欣等",
@@ -9688,7 +9688,7 @@
       "teacherTitle": "教授"
     }
   ],
-  "hash": "b8dd60bcaa0fa5e4ad59eb31bde7c72d",
+  "hash": "016e3053da6d99c489e770f71b098375",
   "termName": "2023-2024学年夏季学期",
-  "updateTimeMs": 1716169250680
+  "updateTimeMs": 1716173151657
 }
