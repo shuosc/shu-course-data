@@ -5967,7 +5967,7 @@
       "courseName": "游泳(1)",
       "credit": "1",
       "limitations": [],
-      "number": "11",
+      "number": "12",
       "position": "",
       "teacherId": "1962",
       "teacherName": "尹默林",
@@ -11754,8 +11754,10 @@
       "courseId": "01034122",
       "courseName": "大学物理实验(3)",
       "credit": "1",
-      "limitations": [],
-      "number": "24",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "25",
       "position": "",
       "teacherId": "1035",
       "teacherName": "盛雷梅",
@@ -24082,7 +24084,7 @@
       "courseName": "金融与财富自由",
       "credit": "2",
       "limitations": [],
-      "number": "23",
+      "number": "22",
       "position": "",
       "teacherId": "1000",
       "teacherName": "李翔",
@@ -48889,7 +48891,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [],
-      "number": "10",
+      "number": "12",
       "position": "",
       "teacherId": "1032",
       "teacherName": "张丹华",
@@ -49588,8 +49590,10 @@
       "courseId": "16583109",
       "courseName": "形势与政策",
       "credit": "0",
-      "limitations": [],
-      "number": "119",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "120",
       "position": "",
       "teacherId": "1081",
       "teacherName": "刘子杰",
@@ -58199,8 +58203,10 @@
       "courseId": "3100R601",
       "courseName": "中国歌词文化",
       "credit": "2",
-      "limitations": [],
-      "number": "69",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "70",
       "position": "",
       "teacherId": "1000",
       "teacherName": "徐倩",
@@ -64657,7 +64663,7 @@
       "teacherTitle": "副教授"
     }
   ],
-  "hash": "e729c69a9636685831f4e3a4227ed7b2",
+  "hash": "5711d32ea3b891125774d7cb0576e811",
   "termName": "2024-2025学年秋季学期",
-  "updateTimeMs": 1716233975587
+  "updateTimeMs": 1716237560280
 }
