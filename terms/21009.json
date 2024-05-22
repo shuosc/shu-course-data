@@ -1805,12 +1805,14 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "20",
+      "capacity": "21",
       "classTime": "三01-02 男女乒乓球",
       "courseId": "00853004",
       "courseName": "体育(4)",
       "credit": "1",
-      "limitations": [],
+      "limitations": [
+        "人数已满"
+      ],
       "number": "21",
       "position": "",
       "teacherId": "2517",
@@ -1948,8 +1950,10 @@
       "courseId": "00853004",
       "courseName": "体育(4)",
       "credit": "1",
-      "limitations": [],
-      "number": "26",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "20",
       "position": "",
       "teacherId": "2805",
       "teacherName": "陆英浩",
@@ -9556,8 +9560,10 @@
       "courseId": "01013010",
       "courseName": "线性代数B",
       "credit": "3",
-      "limitations": [],
-      "number": "105",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "100",
       "position": "",
       "teacherId": "2001",
       "teacherName": "徐玉兰",
@@ -63945,13 +63951,16 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "40",
+      "capacity": "0",
       "classTime": "二5-6 三5-8上机微电子A楼212",
       "courseId": "36056094",
       "courseName": "电子器件结构热设计与仿真分析",
       "credit": "4",
-      "limitations": [],
-      "number": "4",
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
+      "number": "0",
       "position": "",
       "teacherId": "2000",
       "teacherName": "杨连乔",
@@ -64668,7 +64677,7 @@
       "teacherTitle": "副教授"
     }
   ],
-  "hash": "7a2bc1d6419ba4f08479371bacef58bb",
+  "hash": "590cc41e37fc1b50c9576c81d1060201",
   "termName": "2024-2025学年秋季学期",
-  "updateTimeMs": 1716345859527
+  "updateTimeMs": 1716349125067
 }
