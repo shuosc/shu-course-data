@@ -9121,7 +9121,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "40",
+      "capacity": "50",
       "classTime": "四7-8",
       "courseId": "0095J003",
       "courseName": "职业精英之大学生生涯规划与发展指导A",
@@ -9131,6 +9131,20 @@
       "position": "",
       "teacherId": "1000",
       "teacherName": "李红霞等",
+      "teacherTitle": "讲师"
+    },
+    {
+      "campus": "延长",
+      "capacity": "60",
+      "classTime": "二5-6",
+      "courseId": "0095J003",
+      "courseName": "职业精英之大学生生涯规划与发展指导A",
+      "credit": "2",
+      "limitations": [],
+      "number": "0",
+      "position": "",
+      "teacherId": "3000",
+      "teacherName": "候文婷",
       "teacherTitle": "讲师"
     },
     {
@@ -34926,7 +34940,7 @@
       "number": "2",
       "position": "",
       "teacherId": "1000",
-      "teacherName": "尚兴付",
+      "teacherName": "尚兴付等",
       "teacherTitle": "高级实验师"
     },
     {
@@ -36346,7 +36360,7 @@
       "number": "21",
       "position": "",
       "teacherId": "1000",
-      "teacherName": "施思齐",
+      "teacherName": "施思齐等",
       "teacherTitle": "教授"
     },
     {
@@ -50374,12 +50388,14 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "101",
+      "capacity": "112",
       "classTime": "一9-10 (3周,8周)",
       "courseId": "16583109",
       "courseName": "形势与政策",
       "credit": "0",
-      "limitations": [],
+      "limitations": [
+        "人数已满"
+      ],
       "number": "112",
       "position": "",
       "teacherId": "2003",
@@ -50388,7 +50404,7 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "102",
+      "capacity": "113",
       "classTime": "三9-10 (1周,6周)",
       "courseId": "16583109",
       "courseName": "形势与政策",
@@ -50446,12 +50462,14 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "100",
+      "capacity": "111",
       "classTime": "二9-10 (2周,7周)",
       "courseId": "16583109",
       "courseName": "形势与政策",
       "credit": "0",
-      "limitations": [],
+      "limitations": [
+        "人数已满"
+      ],
       "number": "111",
       "position": "",
       "teacherId": "2008",
@@ -50474,12 +50492,14 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "109",
+      "capacity": "115",
       "classTime": "四7-8 (1周,6周)",
       "courseId": "16583109",
       "courseName": "形势与政策",
       "credit": "0",
-      "limitations": [],
+      "limitations": [
+        "人数已满"
+      ],
       "number": "115",
       "position": "",
       "teacherId": "2010",
@@ -63900,8 +63920,10 @@
       "courseId": "36056049",
       "courseName": "微电子封装技术概论",
       "credit": "4",
-      "limitations": [],
-      "number": "71",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "65",
       "position": "",
       "teacherId": "2000",
       "teacherName": "路秀真",
@@ -64677,7 +64699,7 @@
       "teacherTitle": "副教授"
     }
   ],
-  "hash": "99e6b5606c2a90d4dd48899fb0bc7544",
+  "hash": "5940fec66c337dd74345d4b5c02c236d",
   "termName": "2024-2025学年秋季学期",
-  "updateTimeMs": 1716421162197
+  "updateTimeMs": 1716428377259
 }
