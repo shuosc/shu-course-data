@@ -17508,16 +17508,13 @@
     },
     {
       "campus": "宝山",
-      "capacity": "0",
+      "capacity": "30",
       "classTime": "三9-11",
       "courseId": "02075253",
       "courseName": "《庄子》精读",
       "credit": "3",
-      "limitations": [
-        "禁止选课",
-        "人数已满"
-      ],
-      "number": "0",
+      "limitations": [],
+      "number": "4",
       "position": "",
       "teacherId": "1000",
       "teacherName": "苗田",
@@ -17777,16 +17774,13 @@
     },
     {
       "campus": "宝山",
-      "capacity": "0",
+      "capacity": "30",
       "classTime": "二5-6 四1-2单",
       "courseId": "02076300",
       "courseName": "当代外国文学",
       "credit": "3",
-      "limitations": [
-        "禁止选课",
-        "人数已满"
-      ],
-      "number": "0",
+      "limitations": [],
+      "number": "2",
       "position": "",
       "teacherId": "1000",
       "teacherName": "景春雨",
@@ -17887,16 +17881,13 @@
     },
     {
       "campus": "宝山",
-      "capacity": "0",
+      "capacity": "30",
       "classTime": "一1-2 四1-2双",
       "courseId": "02076399",
       "courseName": "《诗经》精读",
       "credit": "3",
-      "limitations": [
-        "禁止选课",
-        "人数已满"
-      ],
-      "number": "0",
+      "limitations": [],
+      "number": "2",
       "position": "",
       "teacherId": "1000",
       "teacherName": "邵炳军",
@@ -17904,16 +17895,13 @@
     },
     {
       "campus": "宝山",
-      "capacity": "0",
+      "capacity": "30",
       "classTime": "三9-11",
       "courseId": "02076405",
       "courseName": "钱钟书读书会",
       "credit": "3",
-      "limitations": [
-        "禁止选课",
-        "人数已满"
-      ],
-      "number": "0",
+      "limitations": [],
+      "number": "4",
       "position": "",
       "teacherId": "1000",
       "teacherName": "王培军",
@@ -17949,16 +17937,13 @@
     },
     {
       "campus": "宝山",
-      "capacity": "0",
+      "capacity": "30",
       "classTime": "三9-11",
       "courseId": "02076423",
       "courseName": "日本民间文学导论",
       "credit": "3",
-      "limitations": [
-        "禁止选课",
-        "人数已满"
-      ],
-      "number": "0",
+      "limitations": [],
+      "number": "3",
       "position": "",
       "teacherId": "1000",
       "teacherName": "石圆圆",
@@ -17994,15 +17979,12 @@
     },
     {
       "campus": "宝山",
-      "capacity": "0",
+      "capacity": "30",
       "classTime": "一7-8 四3-4单",
       "courseId": "02076428",
       "courseName": "诗词创意写作",
       "credit": "3",
-      "limitations": [
-        "禁止选课",
-        "人数已满"
-      ],
+      "limitations": [],
       "number": "0",
       "position": "",
       "teacherId": "1000",
@@ -18028,15 +18010,12 @@
     },
     {
       "campus": "宝山",
-      "capacity": "0",
+      "capacity": "30",
       "classTime": "三3-4 五7-8双",
       "courseId": "02076447",
       "courseName": "古诗文吟诵",
       "credit": "3",
-      "limitations": [
-        "禁止选课",
-        "人数已满"
-      ],
+      "limitations": [],
       "number": "0",
       "position": "",
       "teacherId": "1000",
@@ -18090,16 +18069,13 @@
     },
     {
       "campus": "宝山",
-      "capacity": "0",
+      "capacity": "30",
       "classTime": "三9-11",
       "courseId": "02076469",
       "courseName": "新媒介文艺理论选读",
       "credit": "3",
-      "limitations": [
-        "禁止选课",
-        "人数已满"
-      ],
-      "number": "0",
+      "limitations": [],
+      "number": "1",
       "position": "",
       "teacherId": "1000",
       "teacherName": "段似膺",
@@ -18121,16 +18097,13 @@
     },
     {
       "campus": "宝山",
-      "capacity": "0",
+      "capacity": "30",
       "classTime": "二9-11",
       "courseId": "02076478",
       "courseName": "《左传》《国语》对读",
       "credit": "3",
-      "limitations": [
-        "禁止选课",
-        "人数已满"
-      ],
-      "number": "0",
+      "limitations": [],
+      "number": "1",
       "position": "",
       "teacherId": "1000",
       "teacherName": "章宁",
@@ -45499,7 +45472,8 @@
       "courseName": "导演概论(1)",
       "credit": "4",
       "limitations": [
-        "禁止选课"
+        "禁止选课",
+        "人数已满"
       ],
       "number": "19",
       "position": "",
@@ -45593,7 +45567,8 @@
       "courseName": "图形图像处理A",
       "credit": "3",
       "limitations": [
-        "禁止选课"
+        "禁止选课",
+        "人数已满"
       ],
       "number": "0",
       "position": "",
@@ -65955,7 +65930,7 @@
       "teacherTitle": "副教授"
     }
   ],
-  "hash": "cd08faf9987688deb0de46e89a54a5c2",
+  "hash": "e9d6ded6e2ab54e6f1372ed053c42551",
   "termName": "2024-2025学年秋季学期",
-  "updateTimeMs": 1716525679156
+  "updateTimeMs": 1716529083672
 }
