@@ -922,13 +922,16 @@
     },
     {
       "campus": "宝山",
-      "capacity": "20",
+      "capacity": "0",
       "classTime": "五3-4 全英语",
       "courseId": "00816338",
       "courseName": "认知神经科学导论(强)",
       "credit": "2",
-      "limitations": [],
-      "number": "2",
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
+      "number": "0",
       "position": "",
       "teacherId": "1000",
       "teacherName": "李颖洁等",
@@ -23300,7 +23303,7 @@
     {
       "campus": "宝山",
       "capacity": "15",
-      "classTime": "二5-6",
+      "classTime": "一5-6",
       "courseId": "03116163",
       "courseName": "高级口译A(1)",
       "credit": "2",
@@ -65952,7 +65955,7 @@
       "teacherTitle": "副教授"
     }
   ],
-  "hash": "09e9ba572917aa55b6ae0c6de789fea4",
+  "hash": "cd08faf9987688deb0de46e89a54a5c2",
   "termName": "2024-2025学年秋季学期",
-  "updateTimeMs": 1716507510948
+  "updateTimeMs": 1716514811670
 }
