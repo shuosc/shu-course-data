@@ -745,7 +745,7 @@
       "courseName": "思想道德与法治(实践)",
       "credit": "1",
       "limitations": [],
-      "number": "148",
+      "number": "149",
       "position": "FJ103",
       "teacherId": "1013",
       "teacherName": "刘文敏",
@@ -1168,8 +1168,10 @@
       "courseId": "00874008",
       "courseName": "形势与政策(实践)",
       "credit": "1",
-      "limitations": [],
-      "number": "149",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "150",
       "position": "J103",
       "teacherId": "1003",
       "teacherName": "孙士庆",
@@ -2606,7 +2608,7 @@
       "courseName": "跨文化语境下的古今异类想象",
       "credit": "2",
       "limitations": [],
-      "number": "11",
+      "number": "10",
       "position": "D114",
       "teacherId": "1000",
       "teacherName": "Rania Huntington(中文名:韩瑞亚)",
@@ -2986,7 +2988,7 @@
       "courseName": "认识实习(1)",
       "credit": "5",
       "limitations": [],
-      "number": "0",
+      "number": "1",
       "position": "另行通知",
       "teacherId": "1000",
       "teacherName": "叶小翠",
@@ -9674,7 +9676,7 @@
       "teacherTitle": "教授"
     }
   ],
-  "hash": "dba7cb930e9fa51b4019858e65fe51c4",
+  "hash": "d7362266008592d69fbc45581d910a20",
   "termName": "2023-2024学年夏季学期",
-  "updateTimeMs": 1716529087640
+  "updateTimeMs": 1716532900323
 }
