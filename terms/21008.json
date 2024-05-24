@@ -7667,8 +7667,10 @@
       "courseId": "14A0A015",
       "courseName": "联合作业(3)",
       "credit": "8",
-      "limitations": [],
-      "number": "14",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "15",
       "position": "咨询学院",
       "teacherId": "3000",
       "teacherName": "霍猛等",
@@ -9676,7 +9678,7 @@
       "teacherTitle": "教授"
     }
   ],
-  "hash": "d7362266008592d69fbc45581d910a20",
+  "hash": "2ff5a8ea83829f11456db027ba504fa7",
   "termName": "2023-2024学年夏季学期",
-  "updateTimeMs": 1716539981236
+  "updateTimeMs": 1716543511622
 }
