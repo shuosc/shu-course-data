@@ -833,7 +833,7 @@
       "courseName": "思想道德与法治(实践)",
       "credit": "1",
       "limitations": [],
-      "number": "97",
+      "number": "98",
       "position": "EJ104",
       "teacherId": "1019",
       "teacherName": "杨郁佳",
@@ -2035,8 +2035,10 @@
       "courseId": "00893001",
       "courseName": "电子实习",
       "credit": "4",
-      "limitations": [],
-      "number": "139",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "140",
       "position": "HD302c",
       "teacherId": "1004",
       "teacherName": "孙欣等",
@@ -4656,7 +4658,7 @@
       "courseName": "改变世界的工程机械创新及方法",
       "credit": "2",
       "limitations": [],
-      "number": "20",
+      "number": "21",
       "position": "B427",
       "teacherId": "1000",
       "teacherName": "Zhou Xiaobo",
@@ -4772,7 +4774,7 @@
       "courseName": "生产实习",
       "credit": "4",
       "limitations": [],
-      "number": "87",
+      "number": "88",
       "position": "另行通知",
       "teacherId": "1003",
       "teacherName": "崔泽等",
@@ -5026,7 +5028,7 @@
       "courseName": "生产实习",
       "credit": "4",
       "limitations": [],
-      "number": "35",
+      "number": "36",
       "position": "另行通知",
       "teacherId": "1003",
       "teacherName": "李云辉",
@@ -5162,7 +5164,7 @@
       "courseName": "专业课程设计",
       "credit": "4",
       "limitations": [],
-      "number": "37",
+      "number": "38",
       "position": "另行通知",
       "teacherId": "1002",
       "teacherName": "仵大奎",
@@ -9337,10 +9339,8 @@
       "courseId": "2332A007",
       "courseName": "生产实习B",
       "credit": "4",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "40",
+      "limitations": [],
+      "number": "39",
       "position": "另行通知",
       "teacherId": "1002",
       "teacherName": "崔泽等",
@@ -9678,7 +9678,7 @@
       "teacherTitle": "教授"
     }
   ],
-  "hash": "2ff5a8ea83829f11456db027ba504fa7",
+  "hash": "143d02d61e7b0c055ca5f32ab404b4f4",
   "termName": "2023-2024学年夏季学期",
-  "updateTimeMs": 1716766762793
+  "updateTimeMs": 1716774162237
 }
