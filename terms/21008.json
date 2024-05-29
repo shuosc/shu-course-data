@@ -125,7 +125,7 @@
       "courseName": "材料化学",
       "credit": "2",
       "limitations": [],
-      "number": "10",
+      "number": "9",
       "position": "D114",
       "teacherId": "1000",
       "teacherName": "Lorenzo Malavasi",
@@ -2550,7 +2550,7 @@
       "courseName": "数字电影符号理论",
       "credit": "2",
       "limitations": [],
-      "number": "48",
+      "number": "47",
       "position": "DJ203",
       "teacherId": "1000",
       "teacherName": "Edgar Meritano",
@@ -4246,11 +4246,11 @@
       "courseName": "法理学B(2)",
       "credit": "3",
       "limitations": [],
-      "number": "0",
-      "position": "待定",
+      "number": "1",
+      "position": "经管106",
       "teacherId": "1000",
-      "teacherName": "待定",
-      "teacherTitle": ""
+      "teacherName": "潘传表",
+      "teacherTitle": "副教授"
     },
     {
       "campus": "宝山",
@@ -4259,11 +4259,13 @@
       "courseId": "06265179",
       "courseName": "国际法C",
       "credit": "5",
-      "limitations": [],
-      "number": "0",
-      "position": "待定",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "1",
+      "position": "经管109",
       "teacherId": "1000",
-      "teacherName": "待定",
+      "teacherName": "袁曾",
       "teacherTitle": ""
     },
     {
@@ -4669,8 +4671,10 @@
       "courseId": "09006035",
       "courseName": "电脑游戏与物理学",
       "credit": "2",
-      "limitations": [],
-      "number": "69",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "70",
       "position": "DJ204",
       "teacherId": "1000",
       "teacherName": "Valyukh Sergiy",
@@ -9704,7 +9708,7 @@
       "teacherTitle": "教授"
     }
   ],
-  "hash": "396b0e70025bfbaf49780d284712da30",
+  "hash": "de75a45742aa412e49902f3a07cf98ad",
   "termName": "2023-2024学年夏季学期",
-  "updateTimeMs": 1716964898752
+  "updateTimeMs": 1716972054540
 }
