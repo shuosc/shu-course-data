@@ -4240,6 +4240,34 @@
     },
     {
       "campus": "宝山",
+      "capacity": "1",
+      "classTime": "一1-2 二1-2 三9-11单 五1-2",
+      "courseId": "06265137",
+      "courseName": "法理学B(2)",
+      "credit": "3",
+      "limitations": [],
+      "number": "0",
+      "position": "待定",
+      "teacherId": "1000",
+      "teacherName": "待定",
+      "teacherTitle": ""
+    },
+    {
+      "campus": "宝山",
+      "capacity": "1",
+      "classTime": "一9-11 二9-11 三9-11 四9-11单 五7-8",
+      "courseId": "06265179",
+      "courseName": "国际法C",
+      "credit": "5",
+      "limitations": [],
+      "number": "0",
+      "position": "待定",
+      "teacherId": "1000",
+      "teacherName": "待定",
+      "teacherTitle": ""
+    },
+    {
+      "campus": "宝山",
       "capacity": "80",
       "classTime": "夏季学期3-4周",
       "courseId": "0626A018",
@@ -4446,7 +4474,7 @@
       "courseName": "生产实习",
       "credit": "8",
       "limitations": [],
-      "number": "57",
+      "number": "58",
       "position": "另行通知",
       "teacherId": "1000",
       "teacherName": "赵恒凯等",
@@ -9676,7 +9704,7 @@
       "teacherTitle": "教授"
     }
   ],
-  "hash": "de19b69a48e2503d781545a82c72e069",
+  "hash": "47baf279282cf5f3081774f0d8406d00",
   "termName": "2023-2024学年夏季学期",
-  "updateTimeMs": 1716939500689
+  "updateTimeMs": 1716947095660
 }
