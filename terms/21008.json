@@ -411,7 +411,7 @@
       "courseName": "体育(2)",
       "credit": "1",
       "limitations": [],
-      "number": "3",
+      "number": "4",
       "position": "体育馆T115",
       "teacherId": "1922",
       "teacherName": "刘超云",
@@ -789,7 +789,7 @@
       "courseName": "思想道德与法治(实践)",
       "credit": "1",
       "limitations": [],
-      "number": "51",
+      "number": "52",
       "position": "AJ204",
       "teacherId": "1016",
       "teacherName": "安奕男等",
@@ -1591,7 +1591,7 @@
       "courseName": "形势与政策(实践)",
       "credit": "1",
       "limitations": [],
-      "number": "135",
+      "number": "136",
       "position": "EJ103",
       "teacherId": "1030",
       "teacherName": "张琳",
@@ -5560,12 +5560,14 @@
     },
     {
       "campus": "宝山",
-      "capacity": "30",
+      "capacity": "9",
       "classTime": "一1-2(1-2周) 二1-2(1-2周) 三1-2(1-2周) 四1-2(1-2周) 五1-2(1-2周) 全英语授课",
       "courseId": "11006016",
       "courseName": "纳米药物的奥妙",
       "credit": "2",
-      "limitations": [],
+      "limitations": [
+        "人数已满"
+      ],
       "number": "9",
       "position": "D204",
       "teacherId": "1000",
@@ -9714,7 +9716,7 @@
       "teacherTitle": "教授"
     }
   ],
-  "hash": "f5336d7e50d54deed8441ed8543ef05e",
+  "hash": "fa76be2cb756ce9f964ba41a8dba8758",
   "termName": "2023-2024学年夏季学期",
-  "updateTimeMs": 1717144808400
+  "updateTimeMs": 1717148295641
 }
