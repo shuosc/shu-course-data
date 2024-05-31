@@ -1065,7 +1065,7 @@
       "courseName": "思想道德与法治(实践)",
       "credit": "1",
       "limitations": [],
-      "number": "71",
+      "number": "72",
       "position": "2-212",
       "teacherId": "2003",
       "teacherName": "徐娴等",
@@ -1606,8 +1606,10 @@
       "courseId": "00874008",
       "courseName": "形势与政策(实践)",
       "credit": "1",
-      "limitations": [],
-      "number": "109",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "110",
       "position": "1-233",
       "teacherId": "2001",
       "teacherName": "韩晓春",
@@ -9706,7 +9708,7 @@
       "teacherTitle": "教授"
     }
   ],
-  "hash": "781958bdcd41ef7a3692a07f7edf6790",
+  "hash": "7ea942ce6f71a41e4c53dc2219a863c8",
   "termName": "2023-2024学年夏季学期",
-  "updateTimeMs": 1717130465371
+  "updateTimeMs": 1717133969632
 }
