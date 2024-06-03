@@ -590,10 +590,8 @@
       "courseId": "00874007",
       "courseName": "思想道德与法治(实践)",
       "credit": "1",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "150",
+      "limitations": [],
+      "number": "149",
       "position": "BJ107",
       "teacherId": "1003",
       "teacherName": "于亚静",
@@ -622,8 +620,10 @@
       "courseId": "00874007",
       "courseName": "思想道德与法治(实践)",
       "credit": "1",
-      "limitations": [],
-      "number": "149",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "150",
       "position": "CJ107",
       "teacherId": "1005",
       "teacherName": "廖香园",
@@ -636,8 +636,10 @@
       "courseId": "00874007",
       "courseName": "思想道德与法治(实践)",
       "credit": "1",
-      "limitations": [],
-      "number": "148",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "150",
       "position": "J201",
       "teacherId": "1006",
       "teacherName": "徐磊",
@@ -789,7 +791,7 @@
       "courseName": "思想道德与法治(实践)",
       "credit": "1",
       "limitations": [],
-      "number": "52",
+      "number": "57",
       "position": "AJ204",
       "teacherId": "1016",
       "teacherName": "安奕男等",
@@ -803,7 +805,7 @@
       "courseName": "思想道德与法治(实践)",
       "credit": "1",
       "limitations": [],
-      "number": "101",
+      "number": "100",
       "position": "CJ204",
       "teacherId": "1017",
       "teacherName": "宗琪等",
@@ -1311,7 +1313,7 @@
       "courseName": "形势与政策(实践)",
       "credit": "1",
       "limitations": [],
-      "number": "48",
+      "number": "50",
       "position": "CJ104",
       "teacherId": "1012",
       "teacherName": "赵宁",
@@ -1421,7 +1423,7 @@
       "courseName": "形势与政策(实践)",
       "credit": "1",
       "limitations": [],
-      "number": "136",
+      "number": "137",
       "position": "EJ106",
       "teacherId": "1019",
       "teacherName": "宋津明",
@@ -1435,7 +1437,7 @@
       "courseName": "形势与政策(实践)",
       "credit": "1",
       "limitations": [],
-      "number": "48",
+      "number": "51",
       "position": "AJ103",
       "teacherId": "1020",
       "teacherName": "张琳",
@@ -1464,10 +1466,8 @@
       "courseId": "00874008",
       "courseName": "形势与政策(实践)",
       "credit": "1",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "140",
+      "limitations": [],
+      "number": "139",
       "position": "J102",
       "teacherId": "1022",
       "teacherName": "赵宁",
@@ -1576,8 +1576,10 @@
       "courseId": "00874008",
       "courseName": "形势与政策(实践)",
       "credit": "1",
-      "limitations": [],
-      "number": "139",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "140",
       "position": "FJ106",
       "teacherId": "1029",
       "teacherName": "宋津明",
@@ -1591,7 +1593,7 @@
       "courseName": "形势与政策(实践)",
       "credit": "1",
       "limitations": [],
-      "number": "136",
+      "number": "137",
       "position": "EJ103",
       "teacherId": "1030",
       "teacherName": "张琳",
@@ -9476,7 +9478,7 @@
       "courseName": "全球视野下的非洲:非洲全球化网络的再思考",
       "credit": "2",
       "limitations": [],
-      "number": "13",
+      "number": "12",
       "position": "D212",
       "teacherId": "1000",
       "teacherName": "Maria Margaretha Antonia Kaag",
@@ -9716,7 +9718,7 @@
       "teacherTitle": "教授"
     }
   ],
-  "hash": "d18b190d546fb8216dd297bde24ca074",
+  "hash": "8df82530fe7f74c4f0a6c3c62460f7ed",
   "termName": "2023-2024学年夏季学期",
-  "updateTimeMs": 1717371556211
+  "updateTimeMs": 1717379070426
 }
