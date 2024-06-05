@@ -411,7 +411,7 @@
       "courseName": "体育(2)",
       "credit": "1",
       "limitations": [],
-      "number": "5",
+      "number": "6",
       "position": "体育馆T115",
       "teacherId": "1922",
       "teacherName": "刘超云",
@@ -481,7 +481,7 @@
       "courseName": "你的健康和幸福:探索并成为最好的自己",
       "credit": "2",
       "limitations": [],
-      "number": "113",
+      "number": "111",
       "position": "DJ203",
       "teacherId": "1000",
       "teacherName": "M. Jean Keller",
@@ -1993,8 +1993,10 @@
       "courseId": "00893001",
       "courseName": "电子实习",
       "credit": "4",
-      "limitations": [],
-      "number": "139",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "140",
       "position": "HD302c",
       "teacherId": "1001",
       "teacherName": "饶珺等",
@@ -2156,7 +2158,7 @@
       "courseName": "生产实习A",
       "credit": "6",
       "limitations": [],
-      "number": "137",
+      "number": "138",
       "position": "机房-另行通知",
       "teacherId": "1000",
       "teacherName": "胡召平等",
@@ -7876,7 +7878,7 @@
       "courseName": "数据分析基础",
       "credit": "2",
       "limitations": [],
-      "number": "27",
+      "number": "26",
       "position": "D112",
       "teacherId": "1000",
       "teacherName": "Vijayan Sugumaran",
@@ -7890,7 +7892,7 @@
       "courseName": "创新与企业家精神",
       "credit": "2",
       "limitations": [],
-      "number": "124",
+      "number": "123",
       "position": "DJ108",
       "teacherId": "1000",
       "teacherName": "Markus Prandini",
@@ -8246,7 +8248,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "180",
+      "number": "181",
       "position": "J102",
       "teacherId": "1001",
       "teacherName": "汪艳",
@@ -9716,7 +9718,7 @@
       "teacherTitle": "教授"
     }
   ],
-  "hash": "a7f2779985850e91e484ee5c67f99a5f",
+  "hash": "030858dcec1032686e279e3dff5d9499",
   "termName": "2023-2024学年夏季学期",
-  "updateTimeMs": 1717551743853
+  "updateTimeMs": 1717555598134
 }
