@@ -789,7 +789,7 @@
       "courseName": "思想道德与法治(实践)",
       "credit": "1",
       "limitations": [],
-      "number": "70",
+      "number": "71",
       "position": "AJ204",
       "teacherId": "1016",
       "teacherName": "安奕男等",
@@ -861,7 +861,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "180",
+      "number": "181",
       "position": "J202",
       "teacherId": "1021",
       "teacherName": "朱艳华",
@@ -1437,7 +1437,7 @@
       "courseName": "形势与政策(实践)",
       "credit": "1",
       "limitations": [],
-      "number": "60",
+      "number": "63",
       "position": "AJ103",
       "teacherId": "1020",
       "teacherName": "张琳",
@@ -6323,8 +6323,10 @@
       "courseId": "1350A059",
       "courseName": "创作实践(1)",
       "credit": "2",
-      "limitations": [],
-      "number": "27",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "28",
       "position": "美院210、211",
       "teacherId": "1000",
       "teacherName": "范墨",
@@ -8246,7 +8248,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "186",
+      "number": "187",
       "position": "J102",
       "teacherId": "1001",
       "teacherName": "汪艳",
@@ -9716,7 +9718,7 @@
       "teacherTitle": "教授"
     }
   ],
-  "hash": "97584f84fa0f1bb2bb3084b596456c3e",
+  "hash": "697d97bce7cd839a6dda6fb14a785532",
   "termName": "2023-2024学年夏季学期",
-  "updateTimeMs": 1717573133750
+  "updateTimeMs": 1717576846637
 }
