@@ -2023,8 +2023,10 @@
       "courseId": "00893001",
       "courseName": "电子实习",
       "credit": "4",
-      "limitations": [],
-      "number": "139",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "140",
       "position": "HD302c",
       "teacherId": "1003",
       "teacherName": "张海光等",
@@ -2738,7 +2740,7 @@
       "courseName": "学术论文写作规范",
       "credit": "6",
       "limitations": [],
-      "number": "54",
+      "number": "55",
       "position": "BJ204",
       "teacherId": "1000",
       "teacherName": "张永禄",
@@ -9714,7 +9716,7 @@
       "teacherTitle": "教授"
     }
   ],
-  "hash": "5637ca3533e92b99884f2c9e25dd1eba",
+  "hash": "177d355ced18bc9894c7f72153118143",
   "termName": "2023-2024学年夏季学期",
-  "updateTimeMs": 1717656120318
+  "updateTimeMs": 1717659501160
 }
