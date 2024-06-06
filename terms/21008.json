@@ -975,7 +975,7 @@
       "courseName": "思想道德与法治(实践)",
       "credit": "1",
       "limitations": [],
-      "number": "68",
+      "number": "77",
       "position": "BJ104",
       "teacherId": "1029",
       "teacherName": "孙霞萍",
@@ -1266,8 +1266,10 @@
       "courseId": "00874008",
       "courseName": "形势与政策(实践)",
       "credit": "1",
-      "limitations": [],
-      "number": "153",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "154",
       "position": "BJ107",
       "teacherId": "1009",
       "teacherName": "宋津明",
@@ -2025,10 +2027,8 @@
       "courseId": "00893001",
       "courseName": "电子实习",
       "credit": "4",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "140",
+      "limitations": [],
+      "number": "139",
       "position": "HD302c",
       "teacherId": "1003",
       "teacherName": "张海光等",
@@ -9001,7 +9001,7 @@
       "courseName": "数字工程:理论、模拟与应用",
       "credit": "2",
       "limitations": [],
-      "number": "22",
+      "number": "21",
       "position": "B317",
       "teacherId": "1000",
       "teacherName": "Abel CHEROUAT",
@@ -9062,8 +9062,10 @@
       "courseId": "2300A015",
       "courseName": "法语强化B(1)",
       "credit": "4",
-      "limitations": [],
-      "number": "26",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "27",
       "position": "另行通知",
       "teacherId": "1004",
       "teacherName": "李佳等",
@@ -9076,8 +9078,10 @@
       "courseId": "2300A015",
       "courseName": "法语强化B(1)",
       "credit": "4",
-      "limitations": [],
-      "number": "26",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "27",
       "position": "另行通知",
       "teacherId": "1005",
       "teacherName": "章婵等",
@@ -9090,8 +9094,10 @@
       "courseId": "2300A015",
       "courseName": "法语强化B(1)",
       "credit": "4",
-      "limitations": [],
-      "number": "26",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "27",
       "position": "另行通知",
       "teacherId": "1006",
       "teacherName": "孙敏等",
@@ -9104,8 +9110,10 @@
       "courseId": "2300A015",
       "courseName": "法语强化B(1)",
       "credit": "4",
-      "limitations": [],
-      "number": "26",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "27",
       "position": "另行通知",
       "teacherId": "1007",
       "teacherName": "张少琼等",
@@ -9136,7 +9144,7 @@
       "courseName": "法语强化B(1)",
       "credit": "4",
       "limitations": [],
-      "number": "24",
+      "number": "25",
       "position": "另行通知",
       "teacherId": "1009",
       "teacherName": "赵倩等",
@@ -9144,12 +9152,14 @@
     },
     {
       "campus": "宝山",
-      "capacity": "60",
+      "capacity": "32",
       "classTime": "夏季学期1-2周",
       "courseId": "2300A015",
       "courseName": "法语强化B(1)",
       "credit": "4",
-      "limitations": [],
+      "limitations": [
+        "人数已满"
+      ],
       "number": "32",
       "position": "另行通知",
       "teacherId": "1010",
@@ -9290,7 +9300,7 @@
       "courseName": "法语强化B(2)",
       "credit": "4",
       "limitations": [],
-      "number": "19",
+      "number": "20",
       "position": "另行通知",
       "teacherId": "1009",
       "teacherName": "李苏等",
@@ -9350,7 +9360,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "66",
+      "number": "67",
       "position": "另行通知",
       "teacherId": "1002",
       "teacherName": "赵恒凯等",
@@ -9718,7 +9728,7 @@
       "teacherTitle": "教授"
     }
   ],
-  "hash": "fbf6befd1a9d6a267c045c89cc8d2604",
+  "hash": "df3eaeb3dabeb30fc92d4ffac8081895",
   "termName": "2023-2024学年夏季学期",
-  "updateTimeMs": 1717630831531
+  "updateTimeMs": 1717638131093
 }
