@@ -2007,8 +2007,10 @@
       "courseId": "00893001",
       "courseName": "电子实习",
       "credit": "4",
-      "limitations": [],
-      "number": "139",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "140",
       "position": "HD302c",
       "teacherId": "1002",
       "teacherName": "曾婵玉等",
@@ -5982,7 +5984,7 @@
       "courseName": "当代艺术叙事——捕捉事件",
       "credit": "2",
       "limitations": [],
-      "number": "16",
+      "number": "17",
       "position": "B424",
       "teacherId": "1000",
       "teacherName": "Jim Speers",
@@ -9712,7 +9714,7 @@
       "teacherTitle": "教授"
     }
   ],
-  "hash": "61baaf8f899456ea6d9b4c07e858a6ab",
+  "hash": "5637ca3533e92b99884f2c9e25dd1eba",
   "termName": "2023-2024学年夏季学期",
-  "updateTimeMs": 1717648776294
+  "updateTimeMs": 1717652318918
 }
