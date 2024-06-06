@@ -25167,6 +25167,22 @@
     },
     {
       "campus": "宝山",
+      "capacity": "0",
+      "classTime": "另行通知",
+      "courseId": "0413A007",
+      "courseName": "毕业设计(论文)",
+      "credit": "20",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "0",
+      "position": "",
+      "teacherId": "1000",
+      "teacherName": "姚青琪",
+      "teacherTitle": ""
+    },
+    {
+      "campus": "宝山",
       "capacity": "30",
       "classTime": "三1-2",
       "courseId": "0413SY01",
@@ -25641,6 +25657,22 @@
     },
     {
       "campus": "宝山",
+      "capacity": "0",
+      "classTime": "另行通知",
+      "courseId": "0414A009",
+      "courseName": "毕业设计(论文)",
+      "credit": "20",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "0",
+      "position": "",
+      "teacherId": "1000",
+      "teacherName": "沈洪洪",
+      "teacherTitle": "管理员"
+    },
+    {
+      "campus": "宝山",
       "capacity": "30",
       "classTime": "五3-4",
       "courseId": "0414SY01",
@@ -25876,6 +25908,22 @@
       "teacherId": "1000",
       "teacherName": "林僖",
       "teacherTitle": "副教授"
+    },
+    {
+      "campus": "宝山",
+      "capacity": "0",
+      "classTime": "另行通知",
+      "courseId": "0415A009",
+      "courseName": "毕业设计(论文)",
+      "credit": "20",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "0",
+      "position": "",
+      "teacherId": "1000",
+      "teacherName": "姚青琪",
+      "teacherTitle": ""
     },
     {
       "campus": "宝山",
@@ -42173,6 +42221,20 @@
       "teacherTitle": "讲师"
     },
     {
+      "campus": "",
+      "capacity": "0",
+      "classTime": "",
+      "courseId": "13516157",
+      "courseName": "书画鉴定C",
+      "credit": "3",
+      "limitations": [],
+      "number": "0",
+      "position": "",
+      "teacherId": "3000",
+      "teacherName": "",
+      "teacherTitle": ""
+    },
+    {
       "campus": "宝山",
       "capacity": "22",
       "classTime": "一9-11",
@@ -42215,6 +42277,20 @@
       "teacherId": "1000",
       "teacherName": "陈红梅",
       "teacherTitle": "教授"
+    },
+    {
+      "campus": "",
+      "capacity": "0",
+      "classTime": "",
+      "courseId": "13516244",
+      "courseName": "草篆书研究",
+      "credit": "3",
+      "limitations": [],
+      "number": "0",
+      "position": "",
+      "teacherId": "3000",
+      "teacherName": "",
+      "teacherTitle": ""
     },
     {
       "campus": "宝山",
@@ -43557,6 +43633,20 @@
       "teacherTitle": "讲师"
     },
     {
+      "campus": "",
+      "capacity": "0",
+      "classTime": "",
+      "courseId": "13776027",
+      "courseName": "共享创新课(1)",
+      "credit": "6",
+      "limitations": [],
+      "number": "0",
+      "position": "",
+      "teacherId": "3000",
+      "teacherName": "",
+      "teacherTitle": ""
+    },
+    {
       "campus": "宝山",
       "capacity": "35",
       "classTime": "(一5-8(5-8周) (二5-8(5-8周) (三5-8(5-8周) (四5-7(5-8周)",
@@ -43569,6 +43659,20 @@
       "teacherId": "1000",
       "teacherName": "宋瑜",
       "teacherTitle": "副教授"
+    },
+    {
+      "campus": "",
+      "capacity": "0",
+      "classTime": "",
+      "courseId": "13776028",
+      "courseName": "共享创新课(2)",
+      "credit": "6",
+      "limitations": [],
+      "number": "0",
+      "position": "",
+      "teacherId": "3000",
+      "teacherName": "",
+      "teacherTitle": ""
     },
     {
       "campus": "宝山",
@@ -43597,6 +43701,34 @@
       "teacherId": "1002",
       "teacherName": "陈文佳",
       "teacherTitle": "讲师"
+    },
+    {
+      "campus": "",
+      "capacity": "0",
+      "classTime": "",
+      "courseId": "13776029",
+      "courseName": "共享创新课(3)",
+      "credit": "6",
+      "limitations": [],
+      "number": "0",
+      "position": "",
+      "teacherId": "3001",
+      "teacherName": "",
+      "teacherTitle": ""
+    },
+    {
+      "campus": "",
+      "capacity": "0",
+      "classTime": "",
+      "courseId": "13776029",
+      "courseName": "共享创新课(3)",
+      "credit": "6",
+      "limitations": [],
+      "number": "0",
+      "position": "",
+      "teacherId": "3002",
+      "teacherName": "",
+      "teacherTitle": ""
     },
     {
       "campus": "宝山",
@@ -66054,7 +66186,7 @@
       "teacherTitle": "副教授"
     }
   ],
-  "hash": "8b25dfd74ce4176be3ce2c13b3adc8e1",
+  "hash": "4a03f667cbd4cc7795d855e182487bab",
   "termName": "2024-2025学年秋季学期",
-  "updateTimeMs": 1717652315084
+  "updateTimeMs": 1717656116241
 }
