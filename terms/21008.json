@@ -8670,6 +8670,22 @@
     },
     {
       "campus": "宝山",
+      "capacity": "0",
+      "classTime": "另行通知",
+      "courseId": "1846A002",
+      "courseName": "毕业设计(论文)",
+      "credit": "26",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "0",
+      "position": "另行通知",
+      "teacherId": "1000",
+      "teacherName": "林永亮",
+      "teacherTitle": "副教授"
+    },
+    {
+      "campus": "宝山",
       "capacity": "30",
       "classTime": "夏季学期1-4周",
       "courseId": "1846A004",
@@ -9712,7 +9728,7 @@
       "teacherTitle": "教授"
     }
   ],
-  "hash": "191bdc2d73fae0b474bc71650a1bddaf",
+  "hash": "46d5e085244ece73cdb560f459125f14",
   "termName": "2023-2024学年夏季学期",
-  "updateTimeMs": 1717742528349
+  "updateTimeMs": 1717745916313
 }
