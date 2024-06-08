@@ -28648,7 +28648,7 @@
       "courseName": "毕业实习",
       "credit": "9",
       "limitations": [],
-      "number": "85",
+      "number": "86",
       "position": "",
       "teacherId": "1000",
       "teacherName": "袁曾等",
@@ -42644,7 +42644,7 @@
       "courseName": "文博展览设计",
       "credit": "7.5",
       "limitations": [],
-      "number": "14",
+      "number": "15",
       "position": "",
       "teacherId": "3000",
       "teacherName": "董春欣",
@@ -42756,7 +42756,7 @@
       "courseName": "展示照明设计",
       "credit": "4.5",
       "limitations": [],
-      "number": "13",
+      "number": "14",
       "position": "",
       "teacherId": "3000",
       "teacherName": "孔荀",
@@ -50599,8 +50599,10 @@
       "courseId": "16583109",
       "courseName": "形势与政策",
       "credit": "0",
-      "limitations": [],
-      "number": "100",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "101",
       "position": "",
       "teacherId": "1073",
       "teacherName": "童颖",
@@ -51754,7 +51756,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [],
-      "number": "103",
+      "number": "104",
       "position": "",
       "teacherId": "3002",
       "teacherName": "宋哲仁",
@@ -53805,7 +53807,7 @@
       "courseName": "劳动教育理论课",
       "credit": "1",
       "limitations": [],
-      "number": "3",
+      "number": "4",
       "position": "",
       "teacherId": "3001",
       "teacherName": "关山彤",
@@ -66306,7 +66308,7 @@
       "teacherTitle": "副教授"
     }
   ],
-  "hash": "68273cb12a45de4365a1e589376c907c",
+  "hash": "edd51aaba480f8ad6b386d25fd0b131d",
   "termName": "2024-2025学年秋季学期",
-  "updateTimeMs": 1717882708383
+  "updateTimeMs": 1717886307139
 }
