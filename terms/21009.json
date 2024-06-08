@@ -8165,8 +8165,10 @@
       "courseId": "00874028",
       "courseName": "大学生社会实践",
       "credit": "1",
-      "limitations": [],
-      "number": "39",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "40",
       "position": "",
       "teacherId": "1006",
       "teacherName": "康玉菲",
@@ -8258,7 +8260,7 @@
       "courseName": "大学生社会实践",
       "credit": "1",
       "limitations": [],
-      "number": "14",
+      "number": "15",
       "position": "",
       "teacherId": "1012",
       "teacherName": "张政",
@@ -36699,7 +36701,7 @@
       "courseName": "科技文献检索及撰写",
       "credit": "2",
       "limitations": [],
-      "number": "0",
+      "number": "1",
       "position": "",
       "teacherId": "1000",
       "teacherName": "张良苗",
@@ -36942,8 +36944,10 @@
       "courseId": "10436061",
       "courseName": "功能信息材料学",
       "credit": "3",
-      "limitations": [],
-      "number": "29",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "30",
       "position": "",
       "teacherId": "1002",
       "teacherName": "陈建国",
@@ -42992,7 +42996,7 @@
       "courseName": "首饰工艺基础",
       "credit": "6",
       "limitations": [],
-      "number": "8",
+      "number": "9",
       "position": "",
       "teacherId": "1000",
       "teacherName": "吕中泉",
@@ -43005,8 +43009,10 @@
       "courseId": "13536545",
       "courseName": "玻璃工艺基础A",
       "credit": "4.5",
-      "limitations": [],
-      "number": "19",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "20",
       "position": "",
       "teacherId": "1000",
       "teacherName": "王沁",
@@ -49392,7 +49398,7 @@
       "courseName": "当代世界经济与政治",
       "credit": "3",
       "limitations": [],
-      "number": "53",
+      "number": "54",
       "position": "",
       "teacherId": "1001",
       "teacherName": "何英",
@@ -50245,10 +50251,8 @@
       "courseId": "16583109",
       "courseName": "形势与政策",
       "credit": "0",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "120",
+      "limitations": [],
+      "number": "119",
       "position": "",
       "teacherId": "1049",
       "teacherName": "杨章文",
@@ -50322,7 +50326,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [],
-      "number": "79",
+      "number": "78",
       "position": "",
       "teacherId": "1054",
       "teacherName": "奚建群",
@@ -50512,7 +50516,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [],
-      "number": "85",
+      "number": "86",
       "position": "",
       "teacherId": "1067",
       "teacherName": "童颖",
@@ -66302,7 +66306,7 @@
       "teacherTitle": "副教授"
     }
   ],
-  "hash": "4b536c0c02a60c11b1ca1625499a4bf7",
+  "hash": "1d349b5d94c7ab2a5b03f79f8a166914",
   "termName": "2024-2025学年秋季学期",
-  "updateTimeMs": 1717875492090
+  "updateTimeMs": 1717879147630
 }
