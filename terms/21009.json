@@ -7422,7 +7422,7 @@
       "courseName": "游泳(男、女)",
       "credit": "1",
       "limitations": [],
-      "number": "14",
+      "number": "15",
       "position": "",
       "teacherId": "1974",
       "teacherName": "周璇",
@@ -24557,7 +24557,7 @@
       "courseName": "经济学的思维方式",
       "credit": "2",
       "limitations": [],
-      "number": "25",
+      "number": "24",
       "position": "",
       "teacherId": "1000",
       "teacherName": "石灵云等",
@@ -34319,7 +34319,7 @@
       "courseName": "模拟电子技术基础",
       "credit": "3",
       "limitations": [],
-      "number": "6",
+      "number": "5",
       "position": "",
       "teacherId": "1000",
       "teacherName": "饶进军",
@@ -41367,8 +41367,10 @@
       "courseId": "13476240",
       "courseName": "综合艺术实践(2)",
       "credit": "2",
-      "limitations": [],
-      "number": "9",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "10",
       "position": "",
       "teacherId": "3002",
       "teacherName": "蒋崇无",
@@ -49428,7 +49430,7 @@
       "courseName": "当代世界经济与政治",
       "credit": "3",
       "limitations": [],
-      "number": "58",
+      "number": "59",
       "position": "",
       "teacherId": "1001",
       "teacherName": "何英",
@@ -50755,10 +50757,8 @@
       "courseId": "16583109",
       "courseName": "形势与政策",
       "credit": "0",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "120",
+      "limitations": [],
+      "number": "119",
       "position": "",
       "teacherId": "1081",
       "teacherName": "刘子杰",
@@ -55903,7 +55903,7 @@
       "courseName": "认识语言",
       "credit": "1",
       "limitations": [],
-      "number": "11",
+      "number": "10",
       "position": "",
       "teacherId": "1000",
       "teacherName": "张新玲等",
@@ -57440,7 +57440,7 @@
       "courseName": "线性代数",
       "credit": "5",
       "limitations": [],
-      "number": "62",
+      "number": "63",
       "position": "",
       "teacherId": "1004",
       "teacherName": "Abdellatif EL BADIA等",
@@ -66369,7 +66369,7 @@
       "teacherTitle": "副教授"
     }
   ],
-  "hash": "6bb78171c9203827123188e7f729304b",
+  "hash": "71b8c96364425cf6dcb2859dea025c95",
   "termName": "2024-2025学年秋季学期",
-  "updateTimeMs": 1718131299714
+  "updateTimeMs": 1718134735079
 }
