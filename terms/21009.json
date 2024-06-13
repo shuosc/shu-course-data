@@ -26075,6 +26075,20 @@
     {
       "campus": "宝山",
       "capacity": "70",
+      "classTime": "一5-6 三5-6",
+      "courseId": "04165002",
+      "courseName": "税收学",
+      "credit": "4",
+      "limitations": [],
+      "number": "0",
+      "position": "",
+      "teacherId": "1003",
+      "teacherName": "朱欢",
+      "teacherTitle": "助理研究员"
+    },
+    {
+      "campus": "宝山",
+      "capacity": "70",
       "classTime": "一9-11 三3-4上机",
       "courseId": "04175006",
       "courseName": "数据库应用",
@@ -32919,7 +32933,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "20",
+      "capacity": "21",
       "classTime": "四5-6",
       "courseId": "09365199",
       "courseName": "自动控制原理实验技术",
@@ -32935,7 +32949,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "20",
+      "capacity": "21",
       "classTime": "三7-8",
       "courseId": "09365199",
       "courseName": "自动控制原理实验技术",
@@ -66400,7 +66414,7 @@
       "teacherTitle": "副教授"
     }
   ],
-  "hash": "87faacaf7e4a753a74eb6a4d162fd907",
+  "hash": "470e279f5be923b4931ca6fc2169b311",
   "termName": "2024-2025学年秋季学期",
-  "updateTimeMs": 1718268020241
+  "updateTimeMs": 1718271515096
 }
