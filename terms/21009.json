@@ -25237,6 +25237,7 @@
       "courseName": "毕业设计(论文)",
       "credit": "20",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "0",
@@ -25721,6 +25722,7 @@
       "courseName": "毕业设计(论文)",
       "credit": "20",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "0",
@@ -25971,6 +25973,7 @@
       "courseName": "毕业设计(论文)",
       "credit": "20",
       "limitations": [
+        "禁止选课",
         "人数已满"
       ],
       "number": "0",
@@ -42335,7 +42338,9 @@
       "courseId": "13516157",
       "courseName": "书画鉴定C",
       "credit": "3",
-      "limitations": [],
+      "limitations": [
+        "人数已满"
+      ],
       "number": "0",
       "position": "",
       "teacherId": "3000",
@@ -42393,7 +42398,9 @@
       "courseId": "13516244",
       "courseName": "草篆书研究",
       "credit": "3",
-      "limitations": [],
+      "limitations": [
+        "人数已满"
+      ],
       "number": "0",
       "position": "",
       "teacherId": "3000",
@@ -43749,7 +43756,9 @@
       "courseId": "13776027",
       "courseName": "共享创新课(1)",
       "credit": "6",
-      "limitations": [],
+      "limitations": [
+        "人数已满"
+      ],
       "number": "0",
       "position": "",
       "teacherId": "3000",
@@ -43777,7 +43786,9 @@
       "courseId": "13776028",
       "courseName": "共享创新课(2)",
       "credit": "6",
-      "limitations": [],
+      "limitations": [
+        "人数已满"
+      ],
       "number": "0",
       "position": "",
       "teacherId": "3000",
@@ -43819,7 +43830,9 @@
       "courseId": "13776029",
       "courseName": "共享创新课(3)",
       "credit": "6",
-      "limitations": [],
+      "limitations": [
+        "人数已满"
+      ],
       "number": "0",
       "position": "",
       "teacherId": "3001",
@@ -43833,7 +43846,9 @@
       "courseId": "13776029",
       "courseName": "共享创新课(3)",
       "credit": "6",
-      "limitations": [],
+      "limitations": [
+        "人数已满"
+      ],
       "number": "0",
       "position": "",
       "teacherId": "3002",
@@ -63362,7 +63377,9 @@
       "courseId": "31975019",
       "courseName": "器乐演奏(7)",
       "credit": "2",
-      "limitations": [],
+      "limitations": [
+        "人数已满"
+      ],
       "number": "1",
       "position": "",
       "teacherId": "1025",
@@ -66383,7 +66400,7 @@
       "teacherTitle": "副教授"
     }
   ],
-  "hash": "36892e2e1b6e0de05041cb8a3e72be04",
+  "hash": "d2dabf12356f28acea921848db8e476c",
   "termName": "2024-2025学年秋季学期",
-  "updateTimeMs": 1718242996875
+  "updateTimeMs": 1718246838528
 }
