@@ -527,7 +527,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "26",
+      "number": "27",
       "position": "第一天在测绘室C418",
       "teacherId": "1003",
       "teacherName": "刘霞",
@@ -1825,7 +1825,7 @@
       "courseName": "制造技术实践C(1)",
       "credit": "2",
       "limitations": [],
-      "number": "49",
+      "number": "48",
       "position": "HC楼",
       "teacherId": "1000",
       "teacherName": "刘江丽等",
@@ -2047,8 +2047,10 @@
       "courseId": "00893001",
       "courseName": "电子实习",
       "credit": "4",
-      "limitations": [],
-      "number": "139",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "140",
       "position": "HD302c",
       "teacherId": "1005",
       "teacherName": "周昕等",
@@ -9724,7 +9726,7 @@
       "teacherTitle": "教授"
     }
   ],
-  "hash": "88c49db3ba43619288cd8b106eb5640b",
+  "hash": "fcc5971fa3a75a0375c8b43e362b94f7",
   "termName": "2023-2024学年夏季学期",
-  "updateTimeMs": 1718257147114
+  "updateTimeMs": 1718260943723
 }
