@@ -10400,6 +10400,20 @@
     },
     {
       "campus": "宝山",
+      "capacity": "50",
+      "classTime": "一3-4 三3-4",
+      "courseId": "01014127",
+      "courseName": "微积分(3)",
+      "credit": "4",
+      "limitations": [],
+      "number": "0",
+      "position": "",
+      "teacherId": "1000",
+      "teacherName": "赵凤珍",
+      "teacherTitle": "副教授"
+    },
+    {
+      "campus": "宝山",
       "capacity": "40",
       "classTime": "一3-4 三3-4 五3-4",
       "courseId": "01014138",
@@ -10985,6 +10999,20 @@
       "teacherId": "1000",
       "teacherName": "张丽杰",
       "teacherTitle": "副教授"
+    },
+    {
+      "campus": "宝山",
+      "capacity": "50",
+      "classTime": "二9-10 四9-10",
+      "courseId": "01034118",
+      "courseName": "大学物理(2)",
+      "credit": "4",
+      "limitations": [],
+      "number": "0",
+      "position": "",
+      "teacherId": "1000",
+      "teacherName": "颜明",
+      "teacherTitle": "教授"
     },
     {
       "campus": "宝山",
@@ -66414,7 +66442,7 @@
       "teacherTitle": "副教授"
     }
   ],
-  "hash": "470e279f5be923b4931ca6fc2169b311",
+  "hash": "435632862fd912a232e8adcdc3782a1a",
   "termName": "2024-2025学年秋季学期",
-  "updateTimeMs": 1718329441059
+  "updateTimeMs": 1718333265507
 }
