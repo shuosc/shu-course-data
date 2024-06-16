@@ -4,7 +4,7 @@
     {
       "campus": "宝山",
       "capacity": "170",
-      "classTime": "(一7-8 (三5-6 (五7-8单",
+      "classTime": "一7-8 三5-6 五7-8单",
       "courseId": "00814165",
       "courseName": "思想道德与法治(实践)(强)",
       "credit": "1",
@@ -2029,7 +2029,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "280",
+      "number": "281",
       "position": "HC楼",
       "teacherId": "1001",
       "teacherName": "刘利等",
@@ -2045,7 +2045,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "280",
+      "number": "281",
       "position": "HC楼",
       "teacherId": "1002",
       "teacherName": "葛梦滢等",
@@ -2059,7 +2059,7 @@
       "courseName": "金工实习E",
       "credit": "5",
       "limitations": [],
-      "number": "217",
+      "number": "220",
       "position": "HC楼",
       "teacherId": "1003",
       "teacherName": "刘江丽等",
@@ -2073,7 +2073,7 @@
       "courseName": "金工实习E",
       "credit": "5",
       "limitations": [],
-      "number": "190",
+      "number": "193",
       "position": "HC楼",
       "teacherId": "1004",
       "teacherName": "刘江丽等",
@@ -2115,12 +2115,14 @@
     },
     {
       "campus": "宝山",
-      "capacity": "100",
+      "capacity": "48",
       "classTime": "6月16日-6月20日 (含周六、周日) 14:30-20:30",
       "courseId": "00883012",
       "courseName": "制造技术实践C(1)",
       "credit": "2",
-      "limitations": [],
+      "limitations": [
+        "人数已满"
+      ],
       "number": "48",
       "position": "HC楼",
       "teacherId": "1000",
@@ -2167,7 +2169,7 @@
       "courseName": "工程训练(1)",
       "credit": "2",
       "limitations": [],
-      "number": "97",
+      "number": "103",
       "position": "HC楼",
       "teacherId": "1003",
       "teacherName": "葛梦滢等",
@@ -2241,12 +2243,14 @@
     },
     {
       "campus": "宝山",
-      "capacity": "75",
+      "capacity": "73",
       "classTime": "6月26日-6月27日,7月12日-7月14日 (含周六、周日)14:30-20:30",
       "courseId": "00883027",
       "courseName": "工程综合创新实践(1)",
       "credit": "2",
-      "limitations": [],
+      "limitations": [
+        "人数已满"
+      ],
       "number": "73",
       "position": "HC楼",
       "teacherId": "1000",
@@ -2497,7 +2501,7 @@
       "courseName": "计算实习B(1)",
       "credit": "5",
       "limitations": [],
-      "number": "55",
+      "number": "59",
       "position": "机房-另行通知",
       "teacherId": "1001",
       "teacherName": "童宏玺",
@@ -4329,8 +4333,10 @@
       "courseId": "0415A008",
       "courseName": "社会调查",
       "credit": "5",
-      "limitations": [],
-      "number": "29",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "30",
       "position": "另行通知",
       "teacherId": "1000",
       "teacherName": "王一鸣",
@@ -11058,14 +11064,14 @@
       "courseName": "国际化短期课程",
       "credit": "2",
       "limitations": [],
-      "number": "57",
+      "number": "58",
       "position": "EJ204",
       "teacherId": "1000",
       "teacherName": "岳晓冬",
       "teacherTitle": "教授"
     }
   ],
-  "hash": "c29bff8deedc6a187f29bc021c646f4e",
+  "hash": "39200a5b1a0e8d16bc32694220a5d495",
   "termName": "2023-2024学年夏季学期",
-  "updateTimeMs": 1718523521536
+  "updateTimeMs": 1718527235071
 }
