@@ -4732,7 +4732,7 @@
       "courseName": "社会调查",
       "credit": "5",
       "limitations": [],
-      "number": "12",
+      "number": "14",
       "position": "另行通知",
       "teacherId": "1000",
       "teacherName": "魏芳",
@@ -4828,7 +4828,7 @@
       "courseName": "认识实习",
       "credit": "4",
       "limitations": [],
-      "number": "17",
+      "number": "18",
       "position": "另行通知",
       "teacherId": "1000",
       "teacherName": "袁真富等",
@@ -4929,7 +4929,7 @@
       "courseName": "认识实习",
       "credit": "4",
       "limitations": [],
-      "number": "73",
+      "number": "74",
       "position": "另行通知",
       "teacherId": "1000",
       "teacherName": "袁曾等",
@@ -7983,7 +7983,7 @@
       "courseName": "城市认识实习",
       "credit": "3",
       "limitations": [],
-      "number": "4",
+      "number": "3",
       "position": "实习地",
       "teacherId": "3002",
       "teacherName": "田伟利等",
@@ -8277,8 +8277,10 @@
       "courseId": "13C2A001",
       "courseName": "城市认识实习",
       "credit": "4",
-      "limitations": [],
-      "number": "4",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "5",
       "position": "实习地",
       "teacherId": "3001",
       "teacherName": "李开明等",
@@ -8697,7 +8699,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "23",
+      "number": "24",
       "position": "咨询学院",
       "teacherId": "3000",
       "teacherName": "高磊",
@@ -9668,7 +9670,7 @@
       "courseName": "广告实践入门与仿真实训",
       "credit": "4",
       "limitations": [],
-      "number": "22",
+      "number": "23",
       "position": "学院实验大楼201(用一次)",
       "teacherId": "3000",
       "teacherName": "段秋婷等",
@@ -9846,7 +9848,7 @@
       "courseName": "会展实践入门与仿真实训",
       "credit": "4",
       "limitations": [],
-      "number": "9",
+      "number": "8",
       "position": "学院实验大楼307",
       "teacherId": "3000",
       "teacherName": "孟令光",
@@ -11069,7 +11071,7 @@
       "teacherTitle": "教授"
     }
   ],
-  "hash": "4049177a91d47ba81bc55ba1832ef864",
+  "hash": "af1de13e6d62a54b45672af371a32864",
   "termName": "2023-2024学年夏季学期",
-  "updateTimeMs": 1718602891333
+  "updateTimeMs": 1718606584014
 }
