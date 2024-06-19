@@ -461,17 +461,18 @@
     },
     {
       "campus": "宝山",
-      "capacity": "20",
+      "capacity": "0",
       "classTime": "一05-06 三05-06单 五01-02 操舞",
       "courseId": "00853001",
       "courseName": "体育(1)",
       "credit": "1",
       "limitations": [
         "禁止选课",
-        "禁止退课"
+        "禁止退课",
+        "人数已满"
       ],
       "number": "0",
-      "position": "体育馆T115",
+      "position": "不开",
       "teacherId": "1921",
       "teacherName": "刘超云",
       "teacherTitle": "讲师"
@@ -2071,7 +2072,7 @@
       "courseName": "金工实习E",
       "credit": "5",
       "limitations": [],
-      "number": "208",
+      "number": "209",
       "position": "HC楼",
       "teacherId": "1004",
       "teacherName": "刘江丽等",
@@ -3406,17 +3407,18 @@
     },
     {
       "campus": "宝山",
-      "capacity": "30",
+      "capacity": "0",
       "classTime": "夏季学期1-2周 第一次集中时间:6月3日周一13:00",
       "courseId": "0260A057",
       "courseName": "语言知识库建设实践",
       "credit": "4",
       "limitations": [
         "禁止选课",
-        "禁止退课"
+        "禁止退课",
+        "人数已满"
       ],
       "number": "0",
-      "position": "另行通知",
+      "position": "不开",
       "teacherId": "1000",
       "teacherName": "钱小飞",
       "teacherTitle": "讲师"
@@ -9887,7 +9889,7 @@
         "人数已满"
       ],
       "number": "0",
-      "position": "另行通知",
+      "position": "不开",
       "teacherId": "1000",
       "teacherName": "林永亮",
       "teacherTitle": "副教授"
@@ -9959,17 +9961,18 @@
     },
     {
       "campus": "宝山",
-      "capacity": "15",
+      "capacity": "0",
       "classTime": "夏季学期第1周: (一1-2 集合",
       "courseId": "1846A023",
       "courseName": "结构类课程设计",
       "credit": "2",
       "limitations": [
         "禁止选课",
-        "禁止退课"
+        "禁止退课",
+        "人数已满"
       ],
       "number": "0",
-      "position": "D116",
+      "position": "不开",
       "teacherId": "1000",
       "teacherName": "刘文燕",
       "teacherTitle": "讲师"
@@ -10038,17 +10041,18 @@
     },
     {
       "campus": "宝山",
-      "capacity": "15",
+      "capacity": "0",
       "classTime": "夏季学期第1周: (一1-2 集合",
       "courseId": "1846A030",
       "courseName": "工程项目管理类课程设计",
       "credit": "2",
       "limitations": [
         "禁止选课",
-        "禁止退课"
+        "禁止退课",
+        "人数已满"
       ],
       "number": "0",
-      "position": "D208",
+      "position": "不开",
       "teacherId": "1000",
       "teacherName": "赵慧玲",
       "teacherTitle": "副教授"
@@ -11073,7 +11077,7 @@
       "teacherTitle": "教授"
     }
   ],
-  "hash": "9c73821c77f345c2b6c645ef1d2de3de",
+  "hash": "9dc566a8c7262fe5d56dfd93685a09aa",
   "termName": "2023-2024学年夏季学期",
-  "updateTimeMs": 1718765289940
+  "updateTimeMs": 1718768349709
 }
