@@ -268,7 +268,7 @@
       "courseName": "力学与实践(1)",
       "credit": "3",
       "limitations": [],
-      "number": "25",
+      "number": "27",
       "position": "AJ303",
       "teacherId": "1000",
       "teacherName": "吕浡等",
@@ -2010,10 +2010,8 @@
       "courseId": "00883002",
       "courseName": "金工实习A",
       "credit": "6",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "280",
+      "limitations": [],
+      "number": "279",
       "position": "HC楼",
       "teacherId": "1000",
       "teacherName": "葛梦滢等",
@@ -2073,7 +2071,7 @@
       "courseName": "金工实习E",
       "credit": "5",
       "limitations": [],
-      "number": "206",
+      "number": "208",
       "position": "HC楼",
       "teacherId": "1004",
       "teacherName": "刘江丽等",
@@ -2081,14 +2079,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "45",
+      "capacity": "39",
       "classTime": "6月3日-6月15日(含周六) 8:00-14:00 限微电子学院",
       "courseId": "00883006",
       "courseName": "金工实习E",
       "credit": "5",
       "limitations": [
         "禁止选课",
-        "禁止退课"
+        "禁止退课",
+        "人数已满"
       ],
       "number": "39",
       "position": "HC楼",
@@ -2098,14 +2097,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "70",
+      "capacity": "48",
       "classTime": "6月3日-6月15日(含周六) 8:00-14:00",
       "courseId": "00883006",
       "courseName": "金工实习E",
       "credit": "5",
       "limitations": [
         "禁止选课",
-        "禁止退课"
+        "禁止退课",
+        "人数已满"
       ],
       "number": "48",
       "position": "HC楼",
@@ -2182,8 +2182,10 @@
       "courseId": "00883020",
       "courseName": "机械制造创新实践(1)",
       "credit": "2",
-      "limitations": [],
-      "number": "109",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "110",
       "position": "HC楼",
       "teacherId": "1000",
       "teacherName": "葛梦滢等",
@@ -2854,7 +2856,7 @@
       "courseName": "力学与实践(1)",
       "credit": "2",
       "limitations": [],
-      "number": "28",
+      "number": "26",
       "position": "AJ303",
       "teacherId": "1000",
       "teacherName": "杨小权等",
@@ -3314,7 +3316,7 @@
       "courseName": "认识实习(1)",
       "credit": "5",
       "limitations": [],
-      "number": "73",
+      "number": "72",
       "position": "另行通知",
       "teacherId": "1000",
       "teacherName": "叶小翠",
@@ -3444,7 +3446,7 @@
       "courseName": "认识实习(1)",
       "credit": "5",
       "limitations": [],
-      "number": "16",
+      "number": "18",
       "position": "另行通知",
       "teacherId": "1000",
       "teacherName": "叶小翠",
@@ -4828,7 +4830,7 @@
       "courseName": "认识实习",
       "credit": "4",
       "limitations": [],
-      "number": "18",
+      "number": "20",
       "position": "另行通知",
       "teacherId": "1000",
       "teacherName": "袁真富等",
@@ -4929,7 +4931,7 @@
       "courseName": "认识实习",
       "credit": "4",
       "limitations": [],
-      "number": "74",
+      "number": "75",
       "position": "另行通知",
       "teacherId": "1000",
       "teacherName": "袁曾等",
@@ -11064,14 +11066,14 @@
       "courseName": "国际化短期课程",
       "credit": "2",
       "limitations": [],
-      "number": "56",
+      "number": "55",
       "position": "EJ204",
       "teacherId": "1000",
       "teacherName": "岳晓冬",
       "teacherTitle": "教授"
     }
   ],
-  "hash": "e94def6ff243972410d3fa6202088162",
+  "hash": "9c73821c77f345c2b6c645ef1d2de3de",
   "termName": "2023-2024学年夏季学期",
-  "updateTimeMs": 1718753971500
+  "updateTimeMs": 1718761485766
 }
