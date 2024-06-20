@@ -2169,13 +2169,15 @@
     },
     {
       "campus": "延长",
-      "capacity": "20",
+      "capacity": "22",
       "classTime": "二05-06 女生瑜伽",
       "courseId": "00853004",
       "courseName": "体育(4)",
       "credit": "1",
-      "limitations": [],
-      "number": "31",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "22",
       "position": "",
       "teacherId": "3692",
       "teacherName": "徐漫云",
@@ -2199,13 +2201,15 @@
     },
     {
       "campus": "延长",
-      "capacity": "20",
+      "capacity": "22",
       "classTime": "四05-06 女生瑜伽",
       "courseId": "00853004",
       "courseName": "体育(4)",
       "credit": "1",
-      "limitations": [],
-      "number": "29",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "22",
       "position": "",
       "teacherId": "3696",
       "teacherName": "徐漫云",
@@ -2213,13 +2217,15 @@
     },
     {
       "campus": "延长",
-      "capacity": "20",
+      "capacity": "24",
       "classTime": "四05-06 男女武术",
       "courseId": "00853004",
       "courseName": "体育(4)",
       "credit": "1",
-      "limitations": [],
-      "number": "29",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "24",
       "position": "",
       "teacherId": "3710",
       "teacherName": "顾修红",
@@ -2275,7 +2281,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "20",
+      "capacity": "26",
       "classTime": "二01-02 男生网球",
       "courseId": "00853004",
       "courseName": "体育(4)",
@@ -2289,7 +2295,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "20",
+      "capacity": "26",
       "classTime": "二03-04 女生网球",
       "courseId": "00853004",
       "courseName": "体育(4)",
@@ -66437,7 +66443,7 @@
       "teacherTitle": "副教授"
     }
   ],
-  "hash": "93873c78c382b9c58ac90a1c81ec1e11",
+  "hash": "4a3a13c21016f73436c98de780a56cc3",
   "termName": "2024-2025学年秋季学期",
-  "updateTimeMs": 1718858354467
+  "updateTimeMs": 1718861896477
 }
