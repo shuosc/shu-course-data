@@ -6293,13 +6293,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "20",
+      "capacity": "0",
       "classTime": "一07-08 男女体育舞蹈",
       "courseId": "00853414",
       "courseName": "体育舞蹈(1)",
       "credit": "1",
-      "limitations": [],
-      "number": "2",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "0",
       "position": "",
       "teacherId": "1603",
       "teacherName": "俞华",
@@ -7426,12 +7428,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "25",
+      "capacity": "0",
       "classTime": "一03-04 男女游泳",
       "courseId": "0085X078",
       "courseName": "游泳(男、女)",
       "credit": "1",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
       "number": "0",
       "position": "",
       "teacherId": "1892",
@@ -53904,6 +53909,20 @@
       "teacherTitle": "讲师"
     },
     {
+      "campus": "宝山",
+      "capacity": "90",
+      "classTime": "三9-11",
+      "courseId": "16584168",
+      "courseName": "马克思主义基本原理",
+      "credit": "3",
+      "limitations": [],
+      "number": "0",
+      "position": "",
+      "teacherId": "1031",
+      "teacherName": "孙伟平等",
+      "teacherTitle": "教授"
+    },
+    {
       "campus": "嘉定",
       "capacity": "100",
       "classTime": "二9-11",
@@ -67260,7 +67279,7 @@
       "teacherTitle": "副教授"
     }
   ],
-  "hash": "da0e1ba0512f85853a4870fa5559eb06",
+  "hash": "39381147deb50b659537d44565e0236a",
   "termName": "2024-2025学年秋季学期",
-  "updateTimeMs": 1718948314469
+  "updateTimeMs": 1718952124231
 }
