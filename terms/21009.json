@@ -6577,7 +6577,7 @@
       "courseName": "荷球(1)",
       "credit": "1",
       "limitations": [],
-      "number": "10",
+      "number": "9",
       "position": "",
       "teacherId": "1064",
       "teacherName": "秦文宏",
@@ -11674,8 +11674,10 @@
       "courseId": "01034122",
       "courseName": "大学物理实验(3)",
       "credit": "1",
-      "limitations": [],
-      "number": "24",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "25",
       "position": "",
       "teacherId": "1003",
       "teacherName": "安康",
@@ -29980,8 +29982,10 @@
       "courseId": "07275163",
       "courseName": "电路与电子线路基础实验(1)",
       "credit": "1",
-      "limitations": [],
-      "number": "35",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "36",
       "position": "",
       "teacherId": "1001",
       "teacherName": "冯玉田",
@@ -30428,7 +30432,7 @@
       "courseName": "复变函数与积分变换A",
       "credit": "4",
       "limitations": [],
-      "number": "12",
+      "number": "13",
       "position": "",
       "teacherId": "1009",
       "teacherName": "朱梦实",
@@ -51320,7 +51324,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [],
-      "number": "53",
+      "number": "52",
       "position": "",
       "teacherId": "1072",
       "teacherName": "童颖",
@@ -53648,7 +53652,7 @@
       "courseName": "马克思主义基本原理",
       "credit": "3",
       "limitations": [],
-      "number": "75",
+      "number": "74",
       "position": "",
       "teacherId": "1013",
       "teacherName": "高红明",
@@ -67285,7 +67289,7 @@
       "teacherTitle": "副教授"
     }
   ],
-  "hash": "b5861f1aa4895caa5a3870f94984a7ca",
+  "hash": "347a22f7b9b1d2440e4b797acd923e92",
   "termName": "2024-2025学年秋季学期",
-  "updateTimeMs": 1719009527760
+  "updateTimeMs": 1719013107515
 }
