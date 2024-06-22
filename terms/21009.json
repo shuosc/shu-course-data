@@ -20305,8 +20305,10 @@
       "courseId": "03004413",
       "courseName": "英美报刊选读",
       "credit": "2",
-      "limitations": [],
-      "number": "44",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "45",
       "position": "",
       "teacherId": "1006",
       "teacherName": "郁菊芬",
@@ -50879,8 +50881,10 @@
       "courseId": "16583109",
       "courseName": "形势与政策",
       "credit": "0",
-      "limitations": [],
-      "number": "107",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "108",
       "position": "",
       "teacherId": "1038",
       "teacherName": "李之喆",
@@ -67377,7 +67381,7 @@
       "teacherTitle": "副教授"
     }
   ],
-  "hash": "74533d0e377dc4e37121bfae8f477547",
+  "hash": "a55e46c0c40efc8c52647795608523e6",
   "termName": "2024-2025学年秋季学期",
-  "updateTimeMs": 1719095893345
+  "updateTimeMs": 1719099499426
 }
