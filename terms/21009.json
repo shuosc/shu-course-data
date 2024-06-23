@@ -6719,7 +6719,7 @@
       "courseName": "高尔夫球(1)",
       "credit": "1",
       "limitations": [],
-      "number": "9",
+      "number": "10",
       "position": "",
       "teacherId": "1247",
       "teacherName": "郭蘋蘋",
@@ -20278,7 +20278,7 @@
       "courseName": "英美报刊选读",
       "credit": "2",
       "limitations": [],
-      "number": "29",
+      "number": "28",
       "position": "",
       "teacherId": "1004",
       "teacherName": "郁菊芬",
@@ -20685,8 +20685,10 @@
       "courseId": "03004422",
       "courseName": "英美散文名篇选读",
       "credit": "2",
-      "limitations": [],
-      "number": "44",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "45",
       "position": "",
       "teacherId": "1004",
       "teacherName": "商晓芳",
@@ -50746,7 +50748,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [],
-      "number": "97",
+      "number": "96",
       "position": "",
       "teacherId": "1029",
       "teacherName": "陶志欢",
@@ -51202,7 +51204,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [],
-      "number": "77",
+      "number": "78",
       "position": "",
       "teacherId": "1059",
       "teacherName": "赵宁",
@@ -54851,10 +54853,8 @@
       "courseId": "16584173",
       "courseName": "毛泽东思想和中国特色社会主义理论体系概论C",
       "credit": "3",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "120",
+      "limitations": [],
+      "number": "119",
       "position": "",
       "teacherId": "1005",
       "teacherName": "徐海峰",
@@ -67381,7 +67381,7 @@
       "teacherTitle": "副教授"
     }
   ],
-  "hash": "a55e46c0c40efc8c52647795608523e6",
+  "hash": "dea9df4e2ef9b99f99139abb1975fea7",
   "termName": "2024-2025学年秋季学期",
-  "updateTimeMs": 1719099499426
+  "updateTimeMs": 1719107285165
 }
