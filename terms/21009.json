@@ -7915,7 +7915,7 @@
       "courseName": "工程制图与计算机绘图基础",
       "credit": "3",
       "limitations": [],
-      "number": "32",
+      "number": "33",
       "position": "",
       "teacherId": "1003",
       "teacherName": "刘霞",
@@ -8073,7 +8073,7 @@
       "courseName": "工程制图与计算机绘图基础",
       "credit": "3",
       "limitations": [],
-      "number": "6",
+      "number": "7",
       "position": "",
       "teacherId": "1014",
       "teacherName": "方建华",
@@ -8935,7 +8935,7 @@
       "courseName": "劳动素养专项实践",
       "credit": "1",
       "limitations": [],
-      "number": "6",
+      "number": "7",
       "position": "",
       "teacherId": "1019",
       "teacherName": "何岚岚等",
@@ -10945,7 +10945,7 @@
       "courseName": "空间解析几何",
       "credit": "3",
       "limitations": [],
-      "number": "60",
+      "number": "61",
       "position": "",
       "teacherId": "1001",
       "teacherName": "董建锋",
@@ -11539,7 +11539,7 @@
       "courseName": "大学物理(3)",
       "credit": "4",
       "limitations": [],
-      "number": "70",
+      "number": "71",
       "position": "",
       "teacherId": "1021",
       "teacherName": "李永乐",
@@ -11979,7 +11979,7 @@
       "courseName": "大学物理实验(3)",
       "credit": "1",
       "limitations": [],
-      "number": "13",
+      "number": "14",
       "position": "",
       "teacherId": "1021",
       "teacherName": "王洪飞",
@@ -20671,8 +20671,10 @@
       "courseId": "03004422",
       "courseName": "英美散文名篇选读",
       "credit": "2",
-      "limitations": [],
-      "number": "44",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "45",
       "position": "",
       "teacherId": "1003",
       "teacherName": "商晓芳",
@@ -25231,8 +25233,10 @@
       "courseId": "0400JH04",
       "courseName": "经济生活中的悖论",
       "credit": "2",
-      "limitations": [],
-      "number": "69",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "70",
       "position": "",
       "teacherId": "1000",
       "teacherName": "史青",
@@ -35899,8 +35903,10 @@
       "courseId": "09B65021",
       "courseName": "工程力学(1)",
       "credit": "3",
-      "limitations": [],
-      "number": "24",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "25",
       "position": "",
       "teacherId": "1005",
       "teacherName": "李凯",
@@ -54853,8 +54859,10 @@
       "courseId": "16584173",
       "courseName": "毛泽东思想和中国特色社会主义理论体系概论C",
       "credit": "3",
-      "limitations": [],
-      "number": "119",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "120",
       "position": "",
       "teacherId": "1005",
       "teacherName": "徐海峰",
@@ -67381,7 +67389,7 @@
       "teacherTitle": "副教授"
     }
   ],
-  "hash": "dea9df4e2ef9b99f99139abb1975fea7",
+  "hash": "bee95c1b2e9ca56308d322f509080a33",
   "termName": "2024-2025学年秋季学期",
-  "updateTimeMs": 1719107285165
+  "updateTimeMs": 1719110891069
 }
