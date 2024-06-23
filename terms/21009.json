@@ -22399,8 +22399,10 @@
       "courseId": "03004488",
       "courseName": "英语阅读",
       "credit": "2",
-      "limitations": [],
-      "number": "44",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "45",
       "position": "",
       "teacherId": "1005",
       "teacherName": "吴羊",
@@ -67375,7 +67377,7 @@
       "teacherTitle": "副教授"
     }
   ],
-  "hash": "4c55bec761cd2207d257beee58d22c7f",
+  "hash": "e8253b285cf1c084368b80839867cf47",
   "termName": "2024-2025学年秋季学期",
-  "updateTimeMs": 1719175106340
+  "updateTimeMs": 1719178716225
 }
