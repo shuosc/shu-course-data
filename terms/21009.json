@@ -19120,6 +19120,20 @@
     },
     {
       "campus": "宝山",
+      "capacity": "20",
+      "classTime": "二7-8 四7-8",
+      "courseId": "02095001",
+      "courseName": "社会学概论B",
+      "credit": "4",
+      "limitations": [],
+      "number": "0",
+      "position": "",
+      "teacherId": "1003",
+      "teacherName": "吴金晶",
+      "teacherTitle": "讲师"
+    },
+    {
+      "campus": "宝山",
       "capacity": "50",
       "classTime": "三1-2 五7-8",
       "courseId": "02095007",
@@ -67439,7 +67453,7 @@
       "teacherTitle": "副教授"
     }
   ],
-  "hash": "082939502c63255917a807387d50e419",
+  "hash": "34c7afbdd92c389bc4d7816516b86a3d",
   "termName": "2024-2025学年秋季学期",
-  "updateTimeMs": 1719301132354
+  "updateTimeMs": 1719304853826
 }
