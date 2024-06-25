@@ -2067,14 +2067,12 @@
     },
     {
       "campus": "延长",
-      "capacity": "22",
+      "capacity": "26",
       "classTime": "二03-04 女生篮球",
       "courseId": "00853004",
       "courseName": "体育(4)",
       "credit": "1",
-      "limitations": [
-        "人数已满"
-      ],
+      "limitations": [],
       "number": "22",
       "position": "",
       "teacherId": "3034",
@@ -2300,8 +2298,10 @@
       "courseId": "00853004",
       "courseName": "体育(4)",
       "credit": "1",
-      "limitations": [],
-      "number": "27",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "26",
       "position": "",
       "teacherId": "3862",
       "teacherName": "宗志伟",
@@ -20758,7 +20758,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "31",
+      "capacity": "32",
       "classTime": "四3-4",
       "courseId": "03004424",
       "courseName": "英语国家概况",
@@ -22510,13 +22510,15 @@
     },
     {
       "campus": "延长",
-      "capacity": "36",
+      "capacity": "38",
       "classTime": "二5-6",
       "courseId": "03004489",
       "courseName": "英语写作",
       "credit": "2",
-      "limitations": [],
-      "number": "39",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "38",
       "position": "",
       "teacherId": "3002",
       "teacherName": "肖福寿",
@@ -42016,7 +42018,7 @@
       "number": "4",
       "position": "",
       "teacherId": "3001",
-      "teacherName": "项浚",
+      "teacherName": "项浚等",
       "teacherTitle": "讲师"
     },
     {
@@ -54340,7 +54342,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "164",
+      "capacity": "168",
       "classTime": "一9-11",
       "courseId": "16584171",
       "courseName": "习近平新时代中国特色社会主义思想概论",
@@ -55531,8 +55533,10 @@
       "courseId": "17005006",
       "courseName": "网络与新媒体技术应用",
       "credit": "3",
-      "limitations": [],
-      "number": "55",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "45",
       "position": "",
       "teacherId": "3001",
       "teacherName": "王成文",
@@ -56196,12 +56200,15 @@
     },
     {
       "campus": "延长",
-      "capacity": "30",
+      "capacity": "0",
       "classTime": "三3-4双 五3-4",
       "courseId": "17706079",
       "courseName": "社交媒体应用",
       "credit": "3",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
       "number": "0",
       "position": "",
       "teacherId": "3000",
@@ -56350,13 +56357,16 @@
     },
     {
       "campus": "延长",
-      "capacity": "30",
+      "capacity": "0",
       "classTime": "三9-10 五7-8单",
       "courseId": "17B46009",
       "courseName": "设计基础与摄影表现",
       "credit": "3",
-      "limitations": [],
-      "number": "1",
+      "limitations": [
+        "禁止选课",
+        "人数已满"
+      ],
+      "number": "0",
       "position": "",
       "teacherId": "3002",
       "teacherName": "张莉莉",
@@ -67429,7 +67439,7 @@
       "teacherTitle": "副教授"
     }
   ],
-  "hash": "5ba988fa3a7ba80e9f1f56fbc3277f57",
+  "hash": "082939502c63255917a807387d50e419",
   "termName": "2024-2025学年秋季学期",
-  "updateTimeMs": 1719297744991
+  "updateTimeMs": 1719301132354
 }
