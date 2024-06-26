@@ -11245,7 +11245,7 @@
       "courseName": "大学物理(2)",
       "credit": "4",
       "limitations": [],
-      "number": "48",
+      "number": "49",
       "position": "",
       "teacherId": "1000",
       "teacherName": "颜明",
@@ -12279,7 +12279,7 @@
       "courseName": "大学物理实验(3)",
       "credit": "1",
       "limitations": [],
-      "number": "13",
+      "number": "14",
       "position": "",
       "teacherId": "1037",
       "teacherName": "郝敏佳",
@@ -27967,8 +27967,10 @@
       "courseId": "04205036",
       "courseName": "基础会计",
       "credit": "6",
-      "limitations": [],
-      "number": "24",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "25",
       "position": "",
       "teacherId": "1001",
       "teacherName": "陈溪",
@@ -67650,7 +67652,7 @@
       "teacherTitle": "副教授"
     }
   ],
-  "hash": "bbfb85c6dd1f1ee4e4cbc749f7b04fec",
+  "hash": "27bf9aad607d85627ea90bfa1675c74b",
   "termName": "2024-2025学年秋季学期",
-  "updateTimeMs": 1719441523363
+  "updateTimeMs": 1719445230290
 }
