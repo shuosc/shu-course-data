@@ -42813,14 +42813,32 @@
       "teacherTitle": "讲师"
     },
     {
-      "campus": "延长",
+      "campus": "宝山",
       "capacity": "12",
+      "classTime": "一1-4(1-4周) 二1-4(1-4周) 三1-4(1-4周) 四1-4(1-4周) 五1-4(1-4周)",
+      "courseId": "13506240",
+      "courseName": "油画人体C(3)",
+      "credit": "6",
+      "limitations": [
+        "禁止选课",
+        "禁止退课"
+      ],
+      "number": "0",
+      "position": "",
+      "teacherId": "1000",
+      "teacherName": "曹炜",
+      "teacherTitle": "讲师"
+    },
+    {
+      "campus": "延长",
+      "capacity": "0",
       "classTime": "一1-4(1-4周) 二1-4(1-4周) 三1-4(1-4周) 四1-4(1-4周)五1-4(1-4周)",
       "courseId": "13506240",
       "courseName": "油画人体C(3)",
       "credit": "6",
       "limitations": [
-        "禁止选课"
+        "禁止选课",
+        "人数已满"
       ],
       "number": "0",
       "position": "",
@@ -56553,7 +56571,7 @@
       "number": "2",
       "position": "",
       "teacherId": "1000",
-      "teacherName": "欧阳煜",
+      "teacherName": "欧阳煜等",
       "teacherTitle": "副教授"
     },
     {
@@ -56770,16 +56788,13 @@
     },
     {
       "campus": "宝山",
-      "capacity": "0",
+      "capacity": "5",
       "classTime": "二5-6 四1-2实验",
       "courseId": "18466136",
       "courseName": "土木工程实验B",
       "credit": "3",
-      "limitations": [
-        "禁止选课",
-        "人数已满"
-      ],
-      "number": "0",
+      "limitations": [],
+      "number": "2",
       "position": "",
       "teacherId": "1000",
       "teacherName": "胡宝琳等",
@@ -67453,7 +67468,7 @@
       "teacherTitle": "副教授"
     }
   ],
-  "hash": "34c7afbdd92c389bc4d7816516b86a3d",
+  "hash": "8e2bf6de6ed640d1e7ba294a2338cba1",
   "termName": "2024-2025学年秋季学期",
-  "updateTimeMs": 1719358744564
+  "updateTimeMs": 1719366228936
 }
