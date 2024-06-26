@@ -6690,8 +6690,10 @@
       "courseId": "00853421",
       "courseName": "高尔夫球(1)",
       "credit": "1",
-      "limitations": [],
-      "number": "25",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "26",
       "position": "",
       "teacherId": "1243",
       "teacherName": "郭蘋蘋",
@@ -8077,7 +8079,7 @@
       "courseName": "工程制图与计算机绘图基础",
       "credit": "3",
       "limitations": [],
-      "number": "28",
+      "number": "27",
       "position": "",
       "teacherId": "1013",
       "teacherName": "沙凤龙",
@@ -12337,7 +12339,7 @@
       "courseName": "大学物理实验(3)",
       "credit": "1",
       "limitations": [],
-      "number": "24",
+      "number": "23",
       "position": "",
       "teacherId": "1041",
       "teacherName": "黄怀湘",
@@ -12984,7 +12986,7 @@
       "courseName": "大学物理实验(3)",
       "credit": "1",
       "limitations": [],
-      "number": "8",
+      "number": "7",
       "position": "",
       "teacherId": "1082",
       "teacherName": "郝敏佳",
@@ -20350,7 +20352,7 @@
       "courseName": "英美报刊选读",
       "credit": "2",
       "limitations": [],
-      "number": "34",
+      "number": "35",
       "position": "",
       "teacherId": "1001",
       "teacherName": "郁菊芬",
@@ -20363,10 +20365,8 @@
       "courseId": "03004413",
       "courseName": "英美报刊选读",
       "credit": "2",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "45",
+      "limitations": [],
+      "number": "44",
       "position": "",
       "teacherId": "1002",
       "teacherName": "郁菊芬",
@@ -20855,10 +20855,8 @@
       "courseId": "03004424",
       "courseName": "英语国家概况",
       "credit": "2",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "45",
+      "limitations": [],
+      "number": "44",
       "position": "",
       "teacherId": "1001",
       "teacherName": "李晓媛",
@@ -21119,10 +21117,8 @@
       "courseId": "03004475",
       "courseName": "通用英语D(4)",
       "credit": "2",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "45",
+      "limitations": [],
+      "number": "44",
       "position": "",
       "teacherId": "1004",
       "teacherName": "钱洁雯",
@@ -30303,7 +30299,7 @@
       "courseName": "电路与电子线路基础实验(1)",
       "credit": "1",
       "limitations": [],
-      "number": "30",
+      "number": "31",
       "position": "",
       "teacherId": "1007",
       "teacherName": "李敏",
@@ -51008,7 +51004,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [],
-      "number": "58",
+      "number": "59",
       "position": "",
       "teacherId": "1031",
       "teacherName": "马成瑶",
@@ -51191,10 +51187,8 @@
       "courseId": "16583109",
       "courseName": "形势与政策",
       "credit": "0",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "91",
+      "limitations": [],
+      "number": "90",
       "position": "",
       "teacherId": "1043",
       "teacherName": "杨章文",
@@ -51839,10 +51833,8 @@
       "courseId": "16583109",
       "courseName": "形势与政策",
       "credit": "0",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "100",
+      "limitations": [],
+      "number": "99",
       "position": "",
       "teacherId": "1086",
       "teacherName": "宋津明",
@@ -55197,8 +55189,10 @@
       "courseId": "16584173",
       "courseName": "毛泽东思想和中国特色社会主义理论体系概论C",
       "credit": "3",
-      "limitations": [],
-      "number": "79",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "80",
       "position": "",
       "teacherId": "3001",
       "teacherName": "吴立群",
@@ -67652,7 +67646,7 @@
       "teacherTitle": "副教授"
     }
   ],
-  "hash": "ac97466b56281ff41f7238facc3ed66a",
+  "hash": "5ade1f2fd0b1e3018ad07032951d5d32",
   "termName": "2024-2025学年秋季学期",
-  "updateTimeMs": 1719423501575
+  "updateTimeMs": 1719427372795
 }
