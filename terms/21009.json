@@ -7557,7 +7557,7 @@
       "courseName": "游泳(男、女)",
       "credit": "1",
       "limitations": [],
-      "number": "13",
+      "number": "12",
       "position": "",
       "teacherId": "1897",
       "teacherName": "陈婷",
@@ -9825,7 +9825,7 @@
       "courseName": "线性代数B",
       "credit": "3",
       "limitations": [],
-      "number": "84",
+      "number": "83",
       "position": "",
       "teacherId": "1002",
       "teacherName": "曾晓艳",
@@ -12386,8 +12386,10 @@
       "courseId": "01034122",
       "courseName": "大学物理实验(3)",
       "credit": "1",
-      "limitations": [],
-      "number": "24",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "25",
       "position": "",
       "teacherId": "1044",
       "teacherName": "鲁玉明",
@@ -25258,7 +25260,7 @@
       "courseName": "经济学的思维方式",
       "credit": "2",
       "limitations": [],
-      "number": "30",
+      "number": "29",
       "position": "",
       "teacherId": "1000",
       "teacherName": "石灵云等",
@@ -67648,7 +67650,7 @@
       "teacherTitle": "副教授"
     }
   ],
-  "hash": "4a4bbd410629e6881305b1a74875fd6f",
+  "hash": "bbfb85c6dd1f1ee4e4cbc749f7b04fec",
   "termName": "2024-2025学年秋季学期",
-  "updateTimeMs": 1719430715390
+  "updateTimeMs": 1719434343286
 }
