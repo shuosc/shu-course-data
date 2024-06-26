@@ -9808,8 +9808,10 @@
       "courseId": "01013010",
       "courseName": "线性代数B",
       "credit": "3",
-      "limitations": [],
-      "number": "94",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "95",
       "position": "",
       "teacherId": "1001",
       "teacherName": "蔡敏",
@@ -34117,7 +34119,7 @@
       "courseName": "电路(1)",
       "credit": "4",
       "limitations": [],
-      "number": "18",
+      "number": "17",
       "position": "",
       "teacherId": "1005",
       "teacherName": "朱明",
@@ -60804,7 +60806,7 @@
       "courseName": "走进舞蹈艺术",
       "credit": "3",
       "limitations": [],
-      "number": "14",
+      "number": "13",
       "position": "",
       "teacherId": "1000",
       "teacherName": "还国志",
@@ -67646,7 +67648,7 @@
       "teacherTitle": "副教授"
     }
   ],
-  "hash": "5ade1f2fd0b1e3018ad07032951d5d32",
+  "hash": "4a4bbd410629e6881305b1a74875fd6f",
   "termName": "2024-2025学年秋季学期",
-  "updateTimeMs": 1719427372795
+  "updateTimeMs": 1719430715390
 }
