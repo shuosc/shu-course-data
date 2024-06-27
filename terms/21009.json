@@ -6304,8 +6304,10 @@
       "courseId": "00853411",
       "courseName": "击剑(1)",
       "credit": "1",
-      "limitations": [],
-      "number": "25",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "26",
       "position": "",
       "teacherId": "1704",
       "teacherName": "周珏",
@@ -6766,8 +6768,10 @@
       "courseId": "00853421",
       "courseName": "高尔夫球(1)",
       "credit": "1",
-      "limitations": [],
-      "number": "25",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "26",
       "position": "",
       "teacherId": "1254",
       "teacherName": "黄军海",
@@ -8594,10 +8598,8 @@
       "courseId": "00883018",
       "courseName": "工程训练(2)",
       "credit": "2",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "85",
+      "limitations": [],
+      "number": "84",
       "position": "",
       "teacherId": "1003",
       "teacherName": "刘利等",
@@ -8611,7 +8613,7 @@
       "courseName": "工程训练(2)",
       "credit": "2",
       "limitations": [],
-      "number": "82",
+      "number": "81",
       "position": "",
       "teacherId": "1004",
       "teacherName": "刘利等",
@@ -10000,10 +10002,8 @@
       "courseId": "01014011",
       "courseName": "概率论A",
       "credit": "3",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "94",
+      "limitations": [],
+      "number": "93",
       "position": "",
       "teacherId": "1003",
       "teacherName": "张红娟",
@@ -10283,7 +10283,7 @@
       "courseName": "微积分(1)",
       "credit": "6",
       "limitations": [],
-      "number": "5",
+      "number": "6",
       "position": "",
       "teacherId": "1004",
       "teacherName": "佟丽宁",
@@ -11750,10 +11750,8 @@
       "courseId": "01034122",
       "courseName": "大学物理实验(3)",
       "credit": "1",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "25",
+      "limitations": [],
+      "number": "24",
       "position": "",
       "teacherId": "1003",
       "teacherName": "安康",
@@ -12040,10 +12038,8 @@
       "courseId": "01034122",
       "courseName": "大学物理实验(3)",
       "credit": "1",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "25",
+      "limitations": [],
+      "number": "24",
       "position": "",
       "teacherId": "1021",
       "teacherName": "王洪飞",
@@ -13006,7 +13002,7 @@
       "courseName": "大学物理实验(3)",
       "credit": "1",
       "limitations": [],
-      "number": "13",
+      "number": "15",
       "position": "",
       "teacherId": "1082",
       "teacherName": "郝敏佳",
@@ -20529,10 +20525,8 @@
       "courseId": "03004417",
       "courseName": "商务英语听说",
       "credit": "2",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "45",
+      "limitations": [],
+      "number": "44",
       "position": "",
       "teacherId": "1000",
       "teacherName": "张柯",
@@ -26536,7 +26530,7 @@
       "courseName": "国际贸易原理",
       "credit": "4",
       "limitations": [],
-      "number": "27",
+      "number": "28",
       "position": "",
       "teacherId": "1004",
       "teacherName": "王静华",
@@ -28029,10 +28023,8 @@
       "courseId": "04205036",
       "courseName": "基础会计",
       "credit": "6",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "25",
+      "limitations": [],
+      "number": "24",
       "position": "",
       "teacherId": "1003",
       "teacherName": "毛丽娟",
@@ -28812,7 +28804,7 @@
       "courseName": "创新创业与知识产权",
       "credit": "4",
       "limitations": [],
-      "number": "56",
+      "number": "57",
       "position": "",
       "teacherId": "1000",
       "teacherName": "袁真富等",
@@ -32290,7 +32282,7 @@
       "courseName": "计算思维实训(1)",
       "credit": "2",
       "limitations": [],
-      "number": "184",
+      "number": "185",
       "position": "",
       "teacherId": "1000",
       "teacherName": "赵俊娟等",
@@ -34155,7 +34147,7 @@
       "courseName": "电路(1)",
       "credit": "4",
       "limitations": [],
-      "number": "22",
+      "number": "21",
       "position": "",
       "teacherId": "1005",
       "teacherName": "朱明",
@@ -50484,7 +50476,7 @@
       "courseName": "当代世界经济与政治",
       "credit": "3",
       "limitations": [],
-      "number": "117",
+      "number": "118",
       "position": "",
       "teacherId": "1004",
       "teacherName": "李华",
@@ -51376,7 +51368,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [],
-      "number": "29",
+      "number": "30",
       "position": "",
       "teacherId": "1053",
       "teacherName": "杨章文",
@@ -67708,7 +67700,7 @@
       "teacherTitle": "副教授"
     }
   ],
-  "hash": "896b78af0b631d2ca6d3fb1ea8381ef6",
+  "hash": "da7586359b35563afbda4a2de227c147",
   "termName": "2024-2025学年秋季学期",
-  "updateTimeMs": 1719495567170
+  "updateTimeMs": 1719499138109
 }
