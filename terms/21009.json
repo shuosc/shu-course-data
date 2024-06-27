@@ -7613,7 +7613,7 @@
       "courseName": "游泳(男、女)",
       "credit": "1",
       "limitations": [],
-      "number": "24",
+      "number": "23",
       "position": "",
       "teacherId": "1974",
       "teacherName": "周璇",
@@ -12288,10 +12288,8 @@
       "courseId": "01034122",
       "courseName": "大学物理实验(3)",
       "credit": "1",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "25",
+      "limitations": [],
+      "number": "24",
       "position": "",
       "teacherId": "1037",
       "teacherName": "郝敏佳",
@@ -12673,7 +12671,7 @@
       "courseName": "大学物理实验(3)",
       "credit": "1",
       "limitations": [],
-      "number": "24",
+      "number": "23",
       "position": "",
       "teacherId": "1061",
       "teacherName": "王洪飞",
@@ -13928,7 +13926,7 @@
       "courseName": "大学化学",
       "credit": "2",
       "limitations": [],
-      "number": "4",
+      "number": "3",
       "position": "",
       "teacherId": "1014",
       "teacherName": "柏跃玲",
@@ -22828,7 +22826,7 @@
       "courseName": "英语演辩与思辨",
       "credit": "2",
       "limitations": [],
-      "number": "27",
+      "number": "28",
       "position": "",
       "teacherId": "1005",
       "teacherName": "Ryan Rylee",
@@ -25116,7 +25114,7 @@
       "courseName": "身边的博弈论",
       "credit": "2",
       "limitations": [],
-      "number": "44",
+      "number": "45",
       "position": "",
       "teacherId": "1000",
       "teacherName": "刘奎",
@@ -32824,8 +32822,10 @@
       "courseId": "0900LH03",
       "courseName": "机器人时代",
       "credit": "2",
-      "limitations": [],
-      "number": "69",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "70",
       "position": "",
       "teacherId": "1000",
       "teacherName": "杨扬",
@@ -54434,7 +54434,7 @@
       "courseName": "习近平新时代中国特色社会主义思想概论",
       "credit": "3",
       "limitations": [],
-      "number": "99",
+      "number": "98",
       "position": "",
       "teacherId": "1001",
       "teacherName": "李大山",
@@ -67698,7 +67698,7 @@
       "teacherTitle": "副教授"
     }
   ],
-  "hash": "13505a72e01200e5cce05a3ef27f20b5",
+  "hash": "711c62f792b96f0afe783acb57ac7036",
   "termName": "2024-2025学年秋季学期",
-  "updateTimeMs": 1719513645793
+  "updateTimeMs": 1719517205481
 }
