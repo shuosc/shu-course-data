@@ -7717,7 +7717,7 @@
       "courseName": "程序设计(C语言)",
       "credit": "4",
       "limitations": [],
-      "number": "13",
+      "number": "12",
       "position": "",
       "teacherId": "1006",
       "teacherName": "佘俊",
@@ -7745,7 +7745,7 @@
       "courseName": "程序设计(C语言)",
       "credit": "4",
       "limitations": [],
-      "number": "16",
+      "number": "15",
       "position": "",
       "teacherId": "1008",
       "teacherName": "佘俊",
@@ -7829,7 +7829,7 @@
       "courseName": "程序设计(C语言)",
       "credit": "4",
       "limitations": [],
-      "number": "16",
+      "number": "17",
       "position": "",
       "teacherId": "1014",
       "teacherName": "邹启明",
@@ -8027,7 +8027,7 @@
       "courseName": "工程制图与计算机绘图基础",
       "credit": "3",
       "limitations": [],
-      "number": "28",
+      "number": "27",
       "position": "",
       "teacherId": "1009",
       "teacherName": "沙凤龙",
@@ -8041,7 +8041,7 @@
       "courseName": "工程制图与计算机绘图基础",
       "credit": "3",
       "limitations": [],
-      "number": "32",
+      "number": "33",
       "position": "",
       "teacherId": "1010",
       "teacherName": "刘霞",
@@ -8805,7 +8805,7 @@
       "courseName": "劳动素养专项实践",
       "credit": "1",
       "limitations": [],
-      "number": "17",
+      "number": "16",
       "position": "",
       "teacherId": "1008",
       "teacherName": "葛梦滢等",
@@ -10654,8 +10654,10 @@
       "courseId": "01014127",
       "courseName": "微积分(3)",
       "credit": "4",
-      "limitations": [],
-      "number": "49",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "50",
       "position": "",
       "teacherId": "1000",
       "teacherName": "赵凤珍",
@@ -11311,7 +11313,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "84",
+      "number": "85",
       "position": "",
       "teacherId": "1003",
       "teacherName": "何英",
@@ -11453,7 +11455,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "82",
+      "number": "83",
       "position": "",
       "teacherId": "1012",
       "teacherName": "白丽华",
@@ -11611,7 +11613,7 @@
       "courseName": "大学物理(3)",
       "credit": "4",
       "limitations": [],
-      "number": "38",
+      "number": "39",
       "position": "",
       "teacherId": "1022",
       "teacherName": "王洪飞",
@@ -12048,8 +12050,10 @@
       "courseId": "01034122",
       "courseName": "大学物理实验(3)",
       "credit": "1",
-      "limitations": [],
-      "number": "24",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "25",
       "position": "",
       "teacherId": "1021",
       "teacherName": "王洪飞",
@@ -13016,7 +13020,7 @@
       "courseName": "大学物理实验(3)",
       "credit": "1",
       "limitations": [],
-      "number": "16",
+      "number": "17",
       "position": "",
       "teacherId": "1082",
       "teacherName": "郝敏佳",
@@ -22826,7 +22830,7 @@
       "courseName": "英语演辩与思辨",
       "credit": "2",
       "limitations": [],
-      "number": "36",
+      "number": "37",
       "position": "",
       "teacherId": "1004",
       "teacherName": "Ryan Rylee",
@@ -23050,12 +23054,14 @@
     },
     {
       "campus": "宝山",
-      "capacity": "38",
+      "capacity": "37",
       "classTime": "二7-8",
       "courseId": "03004504",
       "courseName": "中国文化精要",
       "credit": "2",
-      "limitations": [],
+      "limitations": [
+        "人数已满"
+      ],
       "number": "37",
       "position": "",
       "teacherId": "1003",
@@ -25406,7 +25412,7 @@
       "courseName": "经国济民",
       "credit": "3",
       "limitations": [],
-      "number": "42",
+      "number": "43",
       "position": "",
       "teacherId": "1000",
       "teacherName": "聂永有等",
@@ -28003,8 +28009,10 @@
       "courseId": "04205036",
       "courseName": "基础会计",
       "credit": "6",
-      "limitations": [],
-      "number": "24",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "25",
       "position": "",
       "teacherId": "1001",
       "teacherName": "陈溪",
@@ -28018,7 +28026,7 @@
       "courseName": "基础会计",
       "credit": "6",
       "limitations": [],
-      "number": "18",
+      "number": "17",
       "position": "",
       "teacherId": "1002",
       "teacherName": "娄祝坤",
@@ -28117,8 +28125,10 @@
       "courseId": "04206033",
       "courseName": "会计信息系统",
       "credit": "6",
-      "limitations": [],
-      "number": "55",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "56",
       "position": "",
       "teacherId": "1001",
       "teacherName": "吴建刚",
@@ -28812,7 +28822,7 @@
       "courseName": "创新创业与知识产权",
       "credit": "4",
       "limitations": [],
-      "number": "56",
+      "number": "57",
       "position": "",
       "teacherId": "1000",
       "teacherName": "袁真富等",
@@ -32813,7 +32823,7 @@
       "courseName": "智慧地球与创新思维",
       "credit": "4",
       "limitations": [],
-      "number": "26",
+      "number": "25",
       "position": "",
       "teacherId": "1000",
       "teacherName": "顾申申",
@@ -33913,7 +33923,7 @@
       "number": "33",
       "position": "",
       "teacherId": "1001",
-      "teacherName": "待定,多人授课",
+      "teacherName": "Pedro Vítor等",
       "teacherTitle": ""
     },
     {
@@ -33927,7 +33937,7 @@
       "number": "27",
       "position": "",
       "teacherId": "1002",
-      "teacherName": "待定,多人授课",
+      "teacherName": "Pedro Vítor等",
       "teacherTitle": ""
     },
     {
@@ -33943,7 +33953,7 @@
       "number": "32",
       "position": "",
       "teacherId": "1001",
-      "teacherName": "待定,多人授课",
+      "teacherName": "João Oliveira e Silva等",
       "teacherTitle": ""
     },
     {
@@ -33957,7 +33967,7 @@
       "number": "28",
       "position": "",
       "teacherId": "1002",
-      "teacherName": "待定,多人授课",
+      "teacherName": "João Oliveira e Silva等",
       "teacherTitle": ""
     },
     {
@@ -39052,7 +39062,7 @@
       "number": "30",
       "position": "",
       "teacherId": "1001",
-      "teacherName": "Amaral Margarida Sofia等",
+      "teacherName": "Manuela Pereira等",
       "teacherTitle": ""
     },
     {
@@ -39068,7 +39078,7 @@
       "number": "35",
       "position": "",
       "teacherId": "1002",
-      "teacherName": "Amaral Margarida Sofia等",
+      "teacherName": "Manuela Pereira等",
       "teacherTitle": ""
     },
     {
@@ -39084,7 +39094,7 @@
       "number": "30",
       "position": "",
       "teacherId": "1001",
-      "teacherName": "待定,多人授课",
+      "teacherName": "Mário Lopes等",
       "teacherTitle": ""
     },
     {
@@ -39098,8 +39108,8 @@
       "number": "23",
       "position": "",
       "teacherId": "1002",
-      "teacherName": "待定,多人授课",
-      "teacherTitle": ""
+      "teacherName": "陈玲俐",
+      "teacherTitle": "副教授"
     },
     {
       "campus": "宝山",
@@ -39114,7 +39124,7 @@
       "number": "30",
       "position": "",
       "teacherId": "1001",
-      "teacherName": "待定,多人授课",
+      "teacherName": "Paulo Ribeiro等",
       "teacherTitle": ""
     },
     {
@@ -39130,7 +39140,7 @@
       "number": "30",
       "position": "",
       "teacherId": "1002",
-      "teacherName": "待定,多人授课",
+      "teacherName": "Paulo Ribeiro等",
       "teacherTitle": ""
     },
     {
@@ -41699,10 +41709,8 @@
       "courseId": "1300RH62",
       "courseName": "意大利文艺复兴时期的艺术与爱",
       "credit": "2",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "70",
+      "limitations": [],
+      "number": "69",
       "position": "",
       "teacherId": "1000",
       "teacherName": "郭亮",
@@ -51393,8 +51401,10 @@
       "courseId": "16583109",
       "courseName": "形势与政策",
       "credit": "0",
-      "limitations": [],
-      "number": "102",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "103",
       "position": "",
       "teacherId": "1054",
       "teacherName": "奚建群",
@@ -51608,7 +51618,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [],
-      "number": "80",
+      "number": "79",
       "position": "",
       "teacherId": "1068",
       "teacherName": "宋芳明",
@@ -52354,7 +52364,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [],
-      "number": "42",
+      "number": "43",
       "position": "",
       "teacherId": "1118",
       "teacherName": "张金翠",
@@ -52526,7 +52536,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [],
-      "number": "4",
+      "number": "3",
       "position": "",
       "teacherId": "1130",
       "teacherName": "宋哲仁",
@@ -54164,7 +54174,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "90",
+      "number": "91",
       "position": "",
       "teacherId": "1022",
       "teacherName": "袁晓晶",
@@ -54209,10 +54219,8 @@
       "courseId": "16584168",
       "courseName": "马克思主义基本原理",
       "credit": "3",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "90",
+      "limitations": [],
+      "number": "89",
       "position": "",
       "teacherId": "1025",
       "teacherName": "关山彤",
@@ -55151,8 +55159,10 @@
       "courseId": "16584173",
       "courseName": "毛泽东思想和中国特色社会主义理论体系概论C",
       "credit": "3",
-      "limitations": [],
-      "number": "124",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "125",
       "position": "",
       "teacherId": "1005",
       "teacherName": "徐海峰",
@@ -55165,8 +55175,10 @@
       "courseId": "16584173",
       "courseName": "毛泽东思想和中国特色社会主义理论体系概论C",
       "credit": "3",
-      "limitations": [],
-      "number": "124",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "125",
       "position": "",
       "teacherId": "1006",
       "teacherName": "梁艳",
@@ -56845,8 +56857,8 @@
       "number": "28",
       "position": "",
       "teacherId": "1001",
-      "teacherName": "待定,多人授课",
-      "teacherTitle": ""
+      "teacherName": "任重",
+      "teacherTitle": "副教授"
     },
     {
       "campus": "宝山",
@@ -56861,7 +56873,7 @@
       "number": "31",
       "position": "",
       "teacherId": "1002",
-      "teacherName": "待定,多人授课",
+      "teacherName": "Mário Lopes等",
       "teacherTitle": ""
     },
     {
@@ -56877,7 +56889,7 @@
       "number": "30",
       "position": "",
       "teacherId": "1001",
-      "teacherName": "待定,多人授课",
+      "teacherName": "Paulo Ribeiro等",
       "teacherTitle": ""
     },
     {
@@ -56891,7 +56903,7 @@
       "number": "27",
       "position": "",
       "teacherId": "1002",
-      "teacherName": "待定,多人授课",
+      "teacherName": "Paulo Ribeiro等",
       "teacherTitle": ""
     },
     {
@@ -56907,7 +56919,7 @@
       "number": "30",
       "position": "",
       "teacherId": "1001",
-      "teacherName": "Martins Arantes Amilcar Jose等",
+      "teacherName": "Diogo Ferreira等",
       "teacherTitle": ""
     },
     {
@@ -56923,7 +56935,7 @@
       "number": "30",
       "position": "",
       "teacherId": "1002",
-      "teacherName": "Martins Arantes Amilcar Jose等",
+      "teacherName": "Diogo Ferreira等",
       "teacherTitle": ""
     },
     {
@@ -56939,7 +56951,7 @@
       "number": "30",
       "position": "",
       "teacherId": "1001",
-      "teacherName": "待定,多人授课",
+      "teacherName": "Mário Lopes等",
       "teacherTitle": ""
     },
     {
@@ -56953,7 +56965,7 @@
       "number": "19",
       "position": "",
       "teacherId": "1002",
-      "teacherName": "待定,多人授课",
+      "teacherName": "Mário Lopes等",
       "teacherTitle": ""
     },
     {
@@ -56967,7 +56979,7 @@
       "number": "18",
       "position": "",
       "teacherId": "1001",
-      "teacherName": "待定,多人授课",
+      "teacherName": "Alexandre Gonçalves等",
       "teacherTitle": ""
     },
     {
@@ -56983,7 +56995,7 @@
       "number": "30",
       "position": "",
       "teacherId": "1002",
-      "teacherName": "待定,多人授课",
+      "teacherName": "Alexandre Gonçalves等",
       "teacherTitle": ""
     },
     {
@@ -56999,7 +57011,7 @@
       "number": "30",
       "position": "",
       "teacherId": "1001",
-      "teacherName": "待定,多人授课",
+      "teacherName": "Diogo Mendes等",
       "teacherTitle": ""
     },
     {
@@ -57013,7 +57025,7 @@
       "number": "18",
       "position": "",
       "teacherId": "1002",
-      "teacherName": "待定,多人授课",
+      "teacherName": "Diogo Mendes等",
       "teacherTitle": ""
     },
     {
@@ -58026,7 +58038,7 @@
       "courseName": "品牌与传播智慧",
       "credit": "2",
       "limitations": [],
-      "number": "34",
+      "number": "36",
       "position": "",
       "teacherId": "1000",
       "teacherName": "宋瑜",
@@ -67480,7 +67492,7 @@
       "number": "39",
       "position": "",
       "teacherId": "1001",
-      "teacherName": "Martins Almeida Jose Afonso等",
+      "teacherName": "Leigh Jones Khosla等",
       "teacherTitle": ""
     },
     {
@@ -67496,7 +67508,7 @@
       "number": "68",
       "position": "",
       "teacherId": "1002",
-      "teacherName": "Martins Almeida Jose Afonso等",
+      "teacherName": "Leigh Jones Khosla等",
       "teacherTitle": ""
     },
     {
@@ -67512,7 +67524,7 @@
       "number": "66",
       "position": "",
       "teacherId": "1003",
-      "teacherName": "Martins Almeida Jose Afonso等",
+      "teacherName": "Leigh Jones Khosla等",
       "teacherTitle": ""
     },
     {
@@ -67700,7 +67712,7 @@
       "teacherTitle": "副教授"
     }
   ],
-  "hash": "1489311bbe880f8efd2b1d5e3d380630",
+  "hash": "d4bf6acf11301527ddb64c6201e4ab3b",
   "termName": "2024-2025学年秋季学期",
-  "updateTimeMs": 1719553134641
+  "updateTimeMs": 1719556948033
 }
