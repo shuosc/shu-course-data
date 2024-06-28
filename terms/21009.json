@@ -4963,7 +4963,7 @@
       "courseName": "男生足球(1)",
       "credit": "1",
       "limitations": [],
-      "number": "19",
+      "number": "18",
       "position": "",
       "teacherId": "1238",
       "teacherName": "王文胜",
@@ -30219,7 +30219,7 @@
       "courseName": "电路与电子线路基础(1)",
       "credit": "5",
       "limitations": [],
-      "number": "19",
+      "number": "20",
       "position": "",
       "teacherId": "1008",
       "teacherName": "LUO YANHUA",
@@ -30405,7 +30405,7 @@
       "courseName": "电路与电子线路基础实验(1)",
       "credit": "1",
       "limitations": [],
-      "number": "25",
+      "number": "26",
       "position": "",
       "teacherId": "1012",
       "teacherName": "王旭智",
@@ -51001,8 +51001,10 @@
       "courseId": "16583109",
       "courseName": "形势与政策",
       "credit": "0",
-      "limitations": [],
-      "number": "103",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "104",
       "position": "",
       "teacherId": "1029",
       "teacherName": "陶志欢",
@@ -53365,8 +53367,8 @@
       "number": "0",
       "position": "",
       "teacherId": "3000",
-      "teacherName": "",
-      "teacherTitle": ""
+      "teacherName": "艾萍",
+      "teacherTitle": "副教授"
     },
     {
       "campus": "宝山",
@@ -54007,8 +54009,10 @@
       "courseId": "16584168",
       "courseName": "马克思主义基本原理",
       "credit": "3",
-      "limitations": [],
-      "number": "89",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "90",
       "position": "",
       "teacherId": "1013",
       "teacherName": "高红明",
@@ -54294,7 +54298,7 @@
       "courseName": "马克思主义基本原理",
       "credit": "3",
       "limitations": [],
-      "number": "27",
+      "number": "28",
       "position": "",
       "teacherId": "1031",
       "teacherName": "孙伟平等",
@@ -55129,8 +55133,10 @@
       "courseId": "16584173",
       "courseName": "毛泽东思想和中国特色社会主义理论体系概论C",
       "credit": "3",
-      "limitations": [],
-      "number": "123",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "124",
       "position": "",
       "teacherId": "1004",
       "teacherName": "杨章文",
@@ -55159,8 +55165,10 @@
       "courseId": "16584173",
       "courseName": "毛泽东思想和中国特色社会主义理论体系概论C",
       "credit": "3",
-      "limitations": [],
-      "number": "123",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "124",
       "position": "",
       "teacherId": "1006",
       "teacherName": "梁艳",
@@ -67698,7 +67706,7 @@
       "teacherTitle": "副教授"
     }
   ],
-  "hash": "fac46d487392c0ec1955804602162430",
+  "hash": "d3dbfba91190c1e1f1425ac7cac6519d",
   "termName": "2024-2025学年秋季学期",
-  "updateTimeMs": 1719531568617
+  "updateTimeMs": 1719539086829
 }
