@@ -10898,13 +10898,13 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "62",
+      "capacity": "66",
       "classTime": "一3-4 五3-4 国际学生 全英语",
       "courseId": "01014115",
       "courseName": "高等数学(1)",
       "credit": "4",
       "limitations": [],
-      "number": "60",
+      "number": "62",
       "position": "2-201",
       "teacherId": "2007",
       "teacherName": "董建锋",
@@ -23898,7 +23898,7 @@
         "人数已满"
       ],
       "number": "45",
-      "position": "C429",
+      "position": "C429机房",
       "teacherId": "1004",
       "teacherName": "Ryan Rylee",
       "teacherTitle": ""
@@ -25516,10 +25516,8 @@
       "courseId": "03115403",
       "courseName": "英语写作基础(1)",
       "credit": "2",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "15",
+      "limitations": [],
+      "number": "11",
       "position": "C118",
       "teacherId": "1001",
       "teacherName": "陈海叶",
@@ -25548,10 +25546,8 @@
       "courseId": "03115403",
       "courseName": "英语写作基础(1)",
       "credit": "2",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "15",
+      "limitations": [],
+      "number": "13",
       "position": "C120",
       "teacherId": "1003",
       "teacherName": "王晓莹",
@@ -48755,7 +48751,7 @@
       "courseName": "经典华语电影",
       "credit": "4",
       "limitations": [],
-      "number": "25",
+      "number": "26",
       "position": "1-205",
       "teacherId": "2000",
       "teacherName": "祝明杰",
@@ -51145,7 +51141,7 @@
       "courseName": "金融专业导论(1)",
       "credit": "1",
       "limitations": [],
-      "number": "27",
+      "number": "28",
       "position": "文博302",
       "teacherId": "2001",
       "teacherName": "孙覃玥",
@@ -51192,7 +51188,7 @@
       "courseName": "金融专业导论(2)",
       "credit": "1",
       "limitations": [],
-      "number": "52",
+      "number": "53",
       "position": "文博502",
       "teacherId": "2002",
       "teacherName": "孙覃玥等",
@@ -51326,7 +51322,7 @@
       "courseName": "货币银行",
       "credit": "2",
       "limitations": [],
-      "number": "59",
+      "number": "60",
       "position": "文博406",
       "teacherId": "2002",
       "teacherName": "吴军",
@@ -51340,7 +51336,7 @@
       "courseName": "估值与风险建模",
       "credit": "4",
       "limitations": [],
-      "number": "22",
+      "number": "23",
       "position": "文博205",
       "teacherId": "2000",
       "teacherName": "张倩",
@@ -51425,10 +51421,8 @@
       "courseId": "15174136",
       "courseName": "Python数据分析",
       "credit": "3",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "33",
+      "limitations": [],
+      "number": "32",
       "position": "文德203,文德301",
       "teacherId": "2001",
       "teacherName": "陈娟",
@@ -52477,7 +52471,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "70",
+      "number": "71",
       "position": "文博402,文博404",
       "teacherId": "2000",
       "teacherName": "程敏",
@@ -52846,7 +52840,7 @@
       "courseName": "现代汉语(1)",
       "credit": "6",
       "limitations": [],
-      "number": "58",
+      "number": "60",
       "position": "文荟301,文博406,文博404",
       "teacherId": "2000",
       "teacherName": "周彩美",
@@ -52904,7 +52898,7 @@
       "courseName": "国际贸易理论",
       "credit": "4",
       "limitations": [],
-      "number": "58",
+      "number": "57",
       "position": "文博506",
       "teacherId": "2003",
       "teacherName": "周习",
@@ -52933,8 +52927,10 @@
       "courseId": "15575085",
       "courseName": "商务统计学",
       "credit": "4",
-      "limitations": [],
-      "number": "40",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "41",
       "position": "文博302",
       "teacherId": "2002",
       "teacherName": "童宏玺",
@@ -53197,7 +53193,7 @@
       "courseName": "会计学",
       "credit": "4",
       "limitations": [],
-      "number": "58",
+      "number": "60",
       "position": "文博404,文博406",
       "teacherId": "2012",
       "teacherName": "陈婉怡",
@@ -53998,10 +53994,8 @@
       "courseId": "16583004",
       "courseName": "当代世界经济与政治",
       "credit": "3",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "102",
+      "limitations": [],
+      "number": "101",
       "position": "1-231",
       "teacherId": "2002",
       "teacherName": "杨超",
@@ -58849,10 +58843,8 @@
       "courseId": "16584173",
       "courseName": "毛泽东思想和中国特色社会主义理论体系概论C",
       "credit": "3",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "120",
+      "limitations": [],
+      "number": "119",
       "position": "1-333",
       "teacherId": "2001",
       "teacherName": "高立伟",
@@ -59469,7 +59461,7 @@
       "credit": "3",
       "limitations": [],
       "number": "18",
-      "position": "学院实验中心306室",
+      "position": "Ⅳ111",
       "teacherId": "3002",
       "teacherName": "杨恒",
       "teacherTitle": "讲师"
@@ -70986,14 +70978,12 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "40",
+      "capacity": "41",
       "classTime": "一3-4 三3-4",
       "courseId": "36056040",
       "courseName": "汽车电子学基础",
       "credit": "4",
-      "limitations": [
-        "人数已满"
-      ],
+      "limitations": [],
       "number": "40",
       "position": "1-301",
       "teacherId": "2000",
@@ -71117,7 +71107,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "20",
+      "number": "21",
       "position": "微电子A楼214",
       "teacherId": "2003",
       "teacherName": "陈亮",
@@ -71874,7 +71864,7 @@
       "teacherTitle": "副教授"
     }
   ],
-  "hash": "dfaa544bbd33e75f83426f97e46c56a2",
+  "hash": "0598c6e8714f7286e1e91ae6b7c1b3e7",
   "termName": "2024-2025学年秋季学期",
-  "updateTimeMs": 1724655718481
+  "updateTimeMs": 1724661746277
 }
