@@ -674,7 +674,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "38",
+      "number": "39",
       "position": "D123",
       "teacherId": "1000",
       "teacherName": "陆杰",
@@ -1749,7 +1749,7 @@
       "courseName": "体育(1)",
       "credit": "1",
       "limitations": [],
-      "number": "19",
+      "number": "18",
       "position": "行健楼二楼",
       "teacherId": "3693",
       "teacherName": "徐漫云",
@@ -1870,10 +1870,8 @@
       "courseId": "00853004",
       "courseName": "体育(4)",
       "credit": "1",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "22",
+      "limitations": [],
+      "number": "21",
       "position": "体育馆内场",
       "teacherId": "2405",
       "teacherName": "闵伟",
@@ -2456,7 +2454,7 @@
         "禁止选课",
         "禁止退课"
       ],
-      "number": "13",
+      "number": "18",
       "position": "C218",
       "teacherId": "1001",
       "teacherName": "郑莉芳",
@@ -2473,7 +2471,7 @@
         "禁止选课",
         "禁止退课"
       ],
-      "number": "16",
+      "number": "18",
       "position": "C319",
       "teacherId": "1991",
       "teacherName": "李静静",
@@ -2490,7 +2488,7 @@
         "禁止选课",
         "禁止退课"
       ],
-      "number": "8",
+      "number": "13",
       "position": "C317",
       "teacherId": "1993",
       "teacherName": "李静静",
@@ -2505,9 +2503,10 @@
       "credit": "1",
       "limitations": [
         "禁止选课",
-        "禁止退课"
+        "禁止退课",
+        "人数已满"
       ],
-      "number": "18",
+      "number": "26",
       "position": "C218",
       "teacherId": "1002",
       "teacherName": "郑莉芳",
@@ -2524,7 +2523,7 @@
         "禁止选课",
         "禁止退课"
       ],
-      "number": "6",
+      "number": "9",
       "position": "C319",
       "teacherId": "1992",
       "teacherName": "李静静",
@@ -2541,7 +2540,7 @@
         "禁止选课",
         "禁止退课"
       ],
-      "number": "10",
+      "number": "13",
       "position": "C317",
       "teacherId": "1994",
       "teacherName": "李静静",
@@ -2634,10 +2633,8 @@
       "courseId": "00853101",
       "courseName": "体育基础课",
       "credit": "1",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "30",
+      "limitations": [],
+      "number": "29",
       "position": "C222",
       "teacherId": "1026",
       "teacherName": "胡吉",
@@ -2909,7 +2906,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "29",
+      "number": "28",
       "position": "C220",
       "teacherId": "1092",
       "teacherName": "许汸",
@@ -2954,10 +2951,8 @@
       "courseId": "00853101",
       "courseName": "体育基础课",
       "credit": "1",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "29",
+      "limitations": [],
+      "number": "28",
       "position": "C222",
       "teacherId": "1141",
       "teacherName": "何颖强",
@@ -3035,7 +3030,7 @@
       "courseName": "体育基础课",
       "credit": "1",
       "limitations": [],
-      "number": "25",
+      "number": "24",
       "position": "C218",
       "teacherId": "1154",
       "teacherName": "居蔚青",
@@ -3049,7 +3044,7 @@
       "courseName": "体育基础课",
       "credit": "1",
       "limitations": [],
-      "number": "25",
+      "number": "24",
       "position": "C222",
       "teacherId": "1155",
       "teacherName": "居蔚青",
@@ -3204,10 +3199,8 @@
       "courseId": "00853101",
       "courseName": "体育基础课",
       "credit": "1",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "28",
+      "limitations": [],
+      "number": "27",
       "position": "C208",
       "teacherId": "1236",
       "teacherName": "王文胜",
@@ -3876,10 +3869,8 @@
       "courseId": "00853101",
       "courseName": "体育基础课",
       "credit": "1",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "26",
+      "limitations": [],
+      "number": "25",
       "position": "C222",
       "teacherId": "1455",
       "teacherName": "张轶",
@@ -4705,7 +4696,7 @@
       "courseName": "体育基础课",
       "credit": "1",
       "limitations": [],
-      "number": "24",
+      "number": "23",
       "position": "C311",
       "teacherId": "1895",
       "teacherName": "陈婷",
@@ -4938,10 +4929,8 @@
       "courseId": "00853101",
       "courseName": "体育基础课",
       "credit": "1",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "28",
+      "limitations": [],
+      "number": "26",
       "position": "C208",
       "teacherId": "1961",
       "teacherName": "尹默林",
@@ -5610,10 +5599,8 @@
       "courseId": "00853403",
       "courseName": "篮球(1)",
       "credit": "1",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "25",
+      "limitations": [],
+      "number": "24",
       "position": "训练馆2楼",
       "teacherId": "1015",
       "teacherName": "魏磊",
@@ -5858,10 +5845,8 @@
       "courseId": "00853404",
       "courseName": "羽毛球(1)",
       "credit": "1",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "26",
+      "limitations": [],
+      "number": "25",
       "position": "体育馆中心场地",
       "teacherId": "1275",
       "teacherName": "颜中杰",
@@ -6080,10 +6065,8 @@
       "courseId": "00853404",
       "courseName": "羽毛球(1)",
       "credit": "1",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "27",
+      "limitations": [],
+      "number": "26",
       "position": "体育馆中心场地",
       "teacherId": "1432",
       "teacherName": "柴承军",
@@ -6273,7 +6256,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "26",
+      "number": "27",
       "position": "训练馆乒乓房",
       "teacherId": "1495",
       "teacherName": "林威力",
@@ -6488,10 +6471,8 @@
       "courseId": "00853406",
       "courseName": "网球(1)",
       "credit": "1",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "24",
+      "limitations": [],
+      "number": "23",
       "position": "E区网1",
       "teacherId": "1876",
       "teacherName": "李婷",
@@ -6615,7 +6596,7 @@
       "courseName": "游泳(1)",
       "credit": "1",
       "limitations": [],
-      "number": "25",
+      "number": "24",
       "position": "游泳馆小池",
       "teacherId": "1964",
       "teacherName": "尹默林",
@@ -6824,10 +6805,8 @@
       "courseId": "00853416",
       "courseName": "女生瑜珈(1)",
       "credit": "1",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "26",
+      "limitations": [],
+      "number": "25",
       "position": "体育馆T101",
       "teacherId": "1571",
       "teacherName": "李燕",
@@ -7119,7 +7098,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "26",
+      "number": "27",
       "position": "J区南侧高尔夫球场",
       "teacherId": "1243",
       "teacherName": "郭蘋蘋",
@@ -7333,7 +7312,7 @@
       "courseName": "旱地冰球(1)",
       "credit": "1",
       "limitations": [],
-      "number": "14",
+      "number": "13",
       "position": "训练馆2楼",
       "teacherId": "1174",
       "teacherName": "唐冬菊",
@@ -7682,7 +7661,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "24",
+      "number": "25",
       "position": "体育馆东门厅",
       "teacherId": "1681",
       "teacherName": "徐春毅",
@@ -10701,7 +10680,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "106",
+      "number": "107",
       "position": "FJ103",
       "teacherId": "1003",
       "teacherName": "丁洋",
@@ -14131,7 +14110,7 @@
       "courseName": "量子力学(II)",
       "credit": "6",
       "limitations": [],
-      "number": "18",
+      "number": "17",
       "position": "A114",
       "teacherId": "1000",
       "teacherName": "张燚",
@@ -15448,8 +15427,8 @@
       "number": "16",
       "position": "HA四楼",
       "teacherId": "1033",
-      "teacherName": "王辉",
-      "teacherTitle": "讲师"
+      "teacherName": "宣瑞飞等",
+      "teacherTitle": "实验师"
     },
     {
       "campus": "宝山",
@@ -17917,10 +17896,8 @@
       "courseId": "0200R021",
       "courseName": "大众考古",
       "credit": "3",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "70",
+      "limitations": [],
+      "number": "69",
       "position": "BJ103",
       "teacherId": "1000",
       "teacherName": "郑晓蕖等",
@@ -18784,12 +18761,12 @@
     {
       "campus": "宝山",
       "capacity": "30",
-      "classTime": "一7-8(1-5周)",
+      "classTime": "一7-8(1-5周) 全英语",
       "courseId": "0200Y045",
       "courseName": "在大学里思考与成长",
       "credit": "1",
       "limitations": [],
-      "number": "25",
+      "number": "23",
       "position": "B413",
       "teacherId": "1000",
       "teacherName": "YUN XIA",
@@ -30067,7 +30044,7 @@
       "courseName": "英美法经典案例解读",
       "credit": "2",
       "limitations": [],
-      "number": "65",
+      "number": "66",
       "position": "DJ204",
       "teacherId": "1000",
       "teacherName": "芦雪峰",
@@ -30128,8 +30105,10 @@
       "courseId": "0600RH30",
       "courseName": "法律的伦理困境",
       "credit": "4",
-      "limitations": [],
-      "number": "69",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "70",
       "position": "BJ204",
       "teacherId": "1000",
       "teacherName": "李清伟",
@@ -30465,7 +30444,7 @@
       "courseName": "刑法A",
       "credit": "6",
       "limitations": [],
-      "number": "33",
+      "number": "34",
       "position": "AJ204",
       "teacherId": "1000",
       "teacherName": "王林林",
@@ -30633,7 +30612,7 @@
       "courseName": "民法A(1)",
       "credit": "4",
       "limitations": [],
-      "number": "25",
+      "number": "26",
       "position": "A121",
       "teacherId": "1002",
       "teacherName": "李智",
@@ -30721,7 +30700,7 @@
       "courseName": "习近平法治思想概论",
       "credit": "2",
       "limitations": [],
-      "number": "60",
+      "number": "61",
       "position": "A101",
       "teacherId": "1002",
       "teacherName": "文学国等",
@@ -40802,7 +40781,7 @@
       "courseName": "生物与生物化学",
       "credit": "4",
       "limitations": [],
-      "number": "33",
+      "number": "32",
       "position": "D310",
       "teacherId": "1002",
       "teacherName": "Manuela Pereira等",
@@ -40844,7 +40823,7 @@
       "courseName": "环境社会学",
       "credit": "2",
       "limitations": [],
-      "number": "28",
+      "number": "27",
       "position": "D123",
       "teacherId": "1001",
       "teacherName": "Paulo Ribeiro等",
@@ -41833,7 +41812,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "71",
+      "number": "72",
       "position": "FJ106",
       "teacherId": "1003",
       "teacherName": "朱红艳",
@@ -41911,7 +41890,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "71",
+      "number": "72",
       "position": "EJ104",
       "teacherId": "1008",
       "teacherName": "张文举",
@@ -53818,7 +53797,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "122",
+      "number": "121",
       "position": "AJ107",
       "teacherId": "1004",
       "teacherName": "赖练",
@@ -54736,7 +54715,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [],
-      "number": "93",
+      "number": "92",
       "position": "CJ107",
       "teacherId": "1063",
       "teacherName": "祁晶",
@@ -55732,7 +55711,7 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [],
-      "number": "71",
+      "number": "72",
       "position": "J102",
       "teacherId": "1128",
       "teacherName": "孙士庆",
@@ -57137,7 +57116,7 @@
       "courseName": "马克思主义基本原理",
       "credit": "3",
       "limitations": [],
-      "number": "101",
+      "number": "102",
       "position": "EJ104",
       "teacherId": "1002",
       "teacherName": "焦成焕",
@@ -62167,7 +62146,7 @@
       "courseName": "项目管理",
       "credit": "6",
       "limitations": [],
-      "number": "117",
+      "number": "116",
       "position": "FJ106",
       "teacherId": "1002",
       "teacherName": "LAMROUS Sid等",
@@ -62962,7 +62941,7 @@
       "courseName": "工程化学",
       "credit": "3",
       "limitations": [],
-      "number": "71",
+      "number": "70",
       "position": "BJ103",
       "teacherId": "1003",
       "teacherName": "徐甲强",
@@ -63256,7 +63235,7 @@
       "courseName": "算法与编程",
       "credit": "6",
       "limitations": [],
-      "number": "73",
+      "number": "72",
       "position": "EJ103",
       "teacherId": "1001",
       "teacherName": "Antoine JOUGLET等",
@@ -63402,7 +63381,7 @@
       "courseName": "机械系统的运动学和动力学",
       "credit": "6",
       "limitations": [],
-      "number": "35",
+      "number": "34",
       "position": "DJ104",
       "teacherId": "1001",
       "teacherName": "Elienne Arnoult等",
@@ -70849,7 +70828,7 @@
       "position": "微电子A楼214",
       "teacherId": "2005",
       "teacherName": "蔡杲哲",
-      "teacherTitle": ""
+      "teacherTitle": "助理研究员"
     },
     {
       "campus": "宝山",
@@ -71019,7 +70998,7 @@
       "courseName": "概率论与数理统计",
       "credit": "4",
       "limitations": [],
-      "number": "57",
+      "number": "56",
       "position": "DJ103",
       "teacherId": "1003",
       "teacherName": "Mourao Jose Manuel等",
@@ -71123,7 +71102,7 @@
       "courseName": "强化英语(4)",
       "credit": "2",
       "limitations": [],
-      "number": "27",
+      "number": "26",
       "position": "A121",
       "teacherId": "1001",
       "teacherName": "倪珮玥",
@@ -71355,7 +71334,7 @@
       "courseName": "计算与编程",
       "credit": "4",
       "limitations": [],
-      "number": "58",
+      "number": "57",
       "position": "AJ303",
       "teacherId": "1002",
       "teacherName": "Balsa da Silva Joao Carlos等",
@@ -71554,7 +71533,7 @@
       "teacherTitle": "副教授"
     }
   ],
-  "hash": "01a122b79eae1eb6291638554260572c",
+  "hash": "a29b0bd6ba1737a5f37d0d0859eb8cc2",
   "termName": "2024-2025学年秋季学期",
-  "updateTimeMs": 1725179994492
+  "updateTimeMs": 1725266574529
 }
