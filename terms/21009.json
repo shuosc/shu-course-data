@@ -2448,7 +2448,7 @@
         "禁止选课",
         "禁止退课"
       ],
-      "number": "21",
+      "number": "22",
       "position": "C218",
       "teacherId": "1001",
       "teacherName": "郑莉芳",
@@ -2463,9 +2463,10 @@
       "credit": "1",
       "limitations": [
         "禁止选课",
-        "禁止退课"
+        "禁止退课",
+        "人数已满"
       ],
-      "number": "22",
+      "number": "24",
       "position": "C319",
       "teacherId": "1991",
       "teacherName": "李静静",
@@ -2482,7 +2483,7 @@
         "禁止选课",
         "禁止退课"
       ],
-      "number": "13",
+      "number": "15",
       "position": "C317",
       "teacherId": "1993",
       "teacherName": "李静静",
@@ -2500,7 +2501,7 @@
         "禁止退课",
         "人数已满"
       ],
-      "number": "27",
+      "number": "28",
       "position": "C218",
       "teacherId": "1002",
       "teacherName": "郑莉芳",
@@ -2517,7 +2518,7 @@
         "禁止选课",
         "禁止退课"
       ],
-      "number": "10",
+      "number": "12",
       "position": "C319",
       "teacherId": "1992",
       "teacherName": "李静静",
@@ -2767,10 +2768,8 @@
       "courseId": "00853101",
       "courseName": "体育基础课",
       "credit": "1",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "25",
+      "limitations": [],
+      "number": "24",
       "position": "C208",
       "teacherId": "1062",
       "teacherName": "秦文宏",
@@ -3005,10 +3004,8 @@
       "courseId": "00853101",
       "courseName": "体育基础课",
       "credit": "1",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "25",
+      "limitations": [],
+      "number": "24",
       "position": "C313",
       "teacherId": "1153",
       "teacherName": "居蔚青",
@@ -3491,10 +3488,8 @@
       "courseId": "00853101",
       "courseName": "体育基础课",
       "credit": "1",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "28",
+      "limitations": [],
+      "number": "27",
       "position": "C315",
       "teacherId": "1331",
       "teacherName": "益广仁",
@@ -22055,7 +22050,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "46",
+      "number": "47",
       "position": "C117",
       "teacherId": "1006",
       "teacherName": "商晓芳",
@@ -42469,7 +42464,7 @@
       "courseName": "药物微生物技术",
       "credit": "2",
       "limitations": [],
-      "number": "34",
+      "number": "33",
       "position": "GJ103",
       "teacherId": "1000",
       "teacherName": "牛莉莉",
@@ -42584,7 +42579,7 @@
       "courseName": "现代生物技术A",
       "credit": "2",
       "limitations": [],
-      "number": "23",
+      "number": "22",
       "position": "材328",
       "teacherId": "1001",
       "teacherName": "高娟",
@@ -61603,10 +61598,8 @@
       "courseId": "2200R200",
       "courseName": "霓裳之舞:服饰艺术与生活",
       "credit": "2",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "70",
+      "limitations": [],
+      "number": "69",
       "position": "BJ207",
       "teacherId": "1000",
       "teacherName": "王敏",
@@ -71699,7 +71692,7 @@
       "teacherTitle": "副教授"
     }
   ],
-  "hash": "4c9d9bdb6fed23ee61e5c476118cfaa1",
+  "hash": "6bc6a3b13b170be55627c743ccf97a72",
   "termName": "2024-2025学年秋季学期",
-  "updateTimeMs": 1725784818571
+  "updateTimeMs": 1725871505113
 }
