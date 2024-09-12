@@ -11687,8 +11687,8 @@
       "number": "53",
       "position": "EJ304",
       "teacherId": "1002",
-      "teacherName": "盛万成",
-      "teacherTitle": "教授"
+      "teacherName": "黄平亮",
+      "teacherTitle": "讲师"
     },
     {
       "campus": "宝山",
@@ -27359,7 +27359,7 @@
       "courseName": "城市经济与管理",
       "credit": "3",
       "limitations": [],
-      "number": "16",
+      "number": "15",
       "position": "经管111",
       "teacherId": "1000",
       "teacherName": "向宽虎",
@@ -30603,7 +30603,7 @@
     {
       "campus": "宝山",
       "capacity": "42",
-      "classTime": "一3-4 三3-4 五9-10",
+      "classTime": "一3-4 三3-4 五3-4",
       "courseId": "06265051",
       "courseName": "民事诉讼法A",
       "credit": "6",
@@ -34167,7 +34167,7 @@
       "courseName": "创新创业实训(1)",
       "credit": "2",
       "limitations": [],
-      "number": "63",
+      "number": "62",
       "position": "另行通知",
       "teacherId": "1000",
       "teacherName": "王含章等",
@@ -50525,7 +50525,7 @@
       "position": "Ⅳ307",
       "teacherId": "3002",
       "teacherName": "张贝思",
-      "teacherTitle": "讲师"
+      "teacherTitle": ""
     },
     {
       "campus": "延长",
@@ -50690,7 +50690,7 @@
       "position": "不用",
       "teacherId": "3000",
       "teacherName": "张贝思等",
-      "teacherTitle": "讲师"
+      "teacherTitle": ""
     },
     {
       "campus": "延长",
@@ -51154,8 +51154,10 @@
       "courseId": "15145052",
       "courseName": "Python金融大数据分析",
       "credit": "4",
-      "limitations": [],
-      "number": "45",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "46",
       "position": "文博303,文德203,文德301",
       "teacherId": "2003",
       "teacherName": "孙覃玥等",
@@ -60806,7 +60808,7 @@
       "courseName": "中级汉语读写A(1)",
       "credit": "8",
       "limitations": [],
-      "number": "18",
+      "number": "19",
       "position": "D206",
       "teacherId": "1002",
       "teacherName": "王敏敏",
@@ -60834,7 +60836,7 @@
       "courseName": "中级汉语听说A(1)",
       "credit": "3",
       "limitations": [],
-      "number": "18",
+      "number": "19",
       "position": "D206",
       "teacherId": "1002",
       "teacherName": "张丽华",
@@ -61092,7 +61094,7 @@
       "courseName": "普通话语音训练(1)",
       "credit": "2",
       "limitations": [],
-      "number": "23",
+      "number": "24",
       "position": "B425",
       "teacherId": "1001",
       "teacherName": "李文韬",
@@ -61119,8 +61121,10 @@
       "courseId": "20625195",
       "courseName": "中级汉语阅读(1)",
       "credit": "2",
-      "limitations": [],
-      "number": "24",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "25",
       "position": "D314",
       "teacherId": "1001",
       "teacherName": "刘婷婷",
@@ -61166,7 +61170,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "27",
+      "number": "28",
       "position": "B320",
       "teacherId": "1002",
       "teacherName": "刘春梅",
@@ -61432,7 +61436,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "30",
+      "number": "31",
       "position": "B323",
       "teacherId": "1000",
       "teacherName": "杨一飞",
@@ -71696,7 +71700,7 @@
       "teacherTitle": "副教授"
     }
   ],
-  "hash": "00a068a33c4ca40c618643cda4ce2cda",
+  "hash": "843ffa89a86358028fea930a9b544ba5",
   "termName": "2024-2025学年秋季学期",
-  "updateTimeMs": 1726044209007
+  "updateTimeMs": 1726130678808
 }
