@@ -2427,7 +2427,7 @@
       "courseName": "体育(5)",
       "credit": "1",
       "limitations": [],
-      "number": "8",
+      "number": "7",
       "position": "训练馆X106",
       "teacherId": "1712",
       "teacherName": "顾修红",
@@ -2442,9 +2442,10 @@
       "credit": "1",
       "limitations": [
         "禁止选课",
-        "禁止退课"
+        "禁止退课",
+        "人数已满"
       ],
-      "number": "22",
+      "number": "24",
       "position": "C218",
       "teacherId": "1001",
       "teacherName": "郑莉芳",
@@ -2462,7 +2463,7 @@
         "禁止退课",
         "人数已满"
       ],
-      "number": "24",
+      "number": "28",
       "position": "C319",
       "teacherId": "1991",
       "teacherName": "李静静",
@@ -2531,11 +2532,27 @@
         "禁止选课",
         "禁止退课"
       ],
-      "number": "14",
+      "number": "15",
       "position": "C317",
       "teacherId": "1994",
       "teacherName": "李静静",
       "teacherTitle": "讲师"
+    },
+    {
+      "campus": "延长",
+      "capacity": "1",
+      "classTime": "二09-10",
+      "courseId": "00853071",
+      "courseName": "体育(5)(保健班)",
+      "credit": "1",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "1",
+      "position": "行健楼二楼",
+      "teacherId": "3711",
+      "teacherName": "顾修红",
+      "teacherTitle": "助教"
     },
     {
       "campus": "宝山",
@@ -2734,8 +2751,10 @@
       "courseId": "00853101",
       "courseName": "体育基础课",
       "credit": "1",
-      "limitations": [],
-      "number": "29",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "30",
       "position": "C213",
       "teacherId": "1053",
       "teacherName": "吕彪",
@@ -2890,10 +2909,8 @@
       "courseId": "00853101",
       "courseName": "体育基础课",
       "credit": "1",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "28",
+      "limitations": [],
+      "number": "27",
       "position": "C220",
       "teacherId": "1092",
       "teacherName": "许汸",
@@ -4227,7 +4244,7 @@
       "courseName": "体育基础课",
       "credit": "1",
       "limitations": [],
-      "number": "27",
+      "number": "25",
       "position": "C222",
       "teacherId": "1662",
       "teacherName": "林大参",
@@ -4394,10 +4411,8 @@
       "courseId": "00853101",
       "courseName": "体育基础课",
       "credit": "1",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "28",
+      "limitations": [],
+      "number": "27",
       "position": "C313",
       "teacherId": "1771",
       "teacherName": "陈利荣",
@@ -4458,10 +4473,8 @@
       "courseId": "00853101",
       "courseName": "体育基础课",
       "credit": "1",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "28",
+      "limitations": [],
+      "number": "27",
       "position": "C314",
       "teacherId": "1793",
       "teacherName": "陆树兵",
@@ -4905,7 +4918,7 @@
       "courseName": "体育基础课",
       "credit": "1",
       "limitations": [],
-      "number": "26",
+      "number": "25",
       "position": "C208",
       "teacherId": "1961",
       "teacherName": "尹默林",
@@ -8935,7 +8948,7 @@
       "courseName": "计算机操作基础",
       "credit": "0",
       "limitations": [],
-      "number": "30",
+      "number": "29",
       "position": "四教211机房",
       "teacherId": "3000",
       "teacherName": "邹启明",
@@ -11554,7 +11567,7 @@
       "courseName": "微积分(1)(经管类)",
       "credit": "6",
       "limitations": [],
-      "number": "41",
+      "number": "42",
       "position": "FJ104",
       "teacherId": "1003",
       "teacherName": "潘晓敏",
@@ -19124,7 +19137,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "46",
+      "number": "47",
       "position": "A213",
       "teacherId": "1002",
       "teacherName": "张珊",
@@ -22154,7 +22167,7 @@
       "courseName": "通用英语D(1)",
       "credit": "4",
       "limitations": [],
-      "number": "22",
+      "number": "23",
       "position": "C111",
       "teacherId": "1001",
       "teacherName": "陈荣",
@@ -42030,7 +42043,7 @@
       "courseName": "生命科学导论",
       "credit": "2",
       "limitations": [],
-      "number": "54",
+      "number": "55",
       "position": "GJ204",
       "teacherId": "1007",
       "teacherName": "黄海",
@@ -48394,7 +48407,7 @@
       "courseName": "影视艺术概论",
       "credit": "2",
       "limitations": [],
-      "number": "57",
+      "number": "56",
       "position": "Ⅳ403",
       "teacherId": "3003",
       "teacherName": "徐霁",
@@ -48488,7 +48501,7 @@
       "courseName": "电影技术导论",
       "credit": "2",
       "limitations": [],
-      "number": "32",
+      "number": "31",
       "position": "Ⅳ304",
       "teacherId": "3005",
       "teacherName": "于冰等",
@@ -49104,7 +49117,7 @@
       "courseName": "认识电影设备",
       "credit": "2",
       "limitations": [],
-      "number": "43",
+      "number": "42",
       "position": "四教610",
       "teacherId": "3000",
       "teacherName": "王晓峰",
@@ -49134,7 +49147,7 @@
       "courseName": "摄影基础B",
       "credit": "3",
       "limitations": [],
-      "number": "18",
+      "number": "17",
       "position": "Ⅳ312",
       "teacherId": "3002",
       "teacherName": "陈凯",
@@ -51641,7 +51654,7 @@
       "courseName": "管理决策分析",
       "credit": "4",
       "limitations": [],
-      "number": "44",
+      "number": "43",
       "position": "文博301",
       "teacherId": "2000",
       "teacherName": "孙向阳",
@@ -60920,7 +60933,7 @@
       "courseName": "学术汉语(1)(人文类)",
       "credit": "4",
       "limitations": [],
-      "number": "21",
+      "number": "20",
       "position": "Ⅳ116",
       "teacherId": "3000",
       "teacherName": "鄢胜涵",
@@ -71696,7 +71709,7 @@
       "teacherTitle": "副教授"
     }
   ],
-  "hash": "e335c9601f0b4ae661a792344f8ebce1",
+  "hash": "f87ae4af04e1a4fd49b7488ac3c1318c",
   "termName": "2024-2025学年秋季学期",
-  "updateTimeMs": 1726216963547
+  "updateTimeMs": 1726303319600
 }
