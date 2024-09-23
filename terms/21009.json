@@ -10861,7 +10861,7 @@
       "courseName": "微积分C",
       "credit": "3",
       "limitations": [],
-      "number": "94",
+      "number": "93",
       "position": "EJ104",
       "teacherId": "1002",
       "teacherName": "杨永建",
@@ -30660,10 +30660,8 @@
       "courseId": "06265136",
       "courseName": "法理学B(1)",
       "credit": "5",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "36",
+      "limitations": [],
+      "number": "35",
       "position": "A202",
       "teacherId": "1002",
       "teacherName": "潘传表",
@@ -30718,10 +30716,8 @@
       "courseId": "06265171",
       "courseName": "中国法律史",
       "credit": "5",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "36",
+      "limitations": [],
+      "number": "35",
       "position": "A115",
       "teacherId": "1001",
       "teacherName": "李瑞",
@@ -30766,10 +30762,8 @@
       "courseId": "06265172",
       "courseName": "宪法学",
       "credit": "5",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "37",
+      "limitations": [],
+      "number": "36",
       "position": "A213",
       "teacherId": "1002",
       "teacherName": "王涛",
@@ -30799,7 +30793,7 @@
       "courseName": "民法A(1)",
       "credit": "4",
       "limitations": [],
-      "number": "26",
+      "number": "25",
       "position": "A121",
       "teacherId": "1002",
       "teacherName": "李智",
@@ -30886,8 +30880,10 @@
       "courseId": "06265194",
       "courseName": "习近平法治思想概论",
       "credit": "2",
-      "limitations": [],
-      "number": "61",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "62",
       "position": "A101",
       "teacherId": "1002",
       "teacherName": "文学国等",
@@ -38384,7 +38380,7 @@
       "courseName": "信息论冶金学",
       "credit": "3",
       "limitations": [],
-      "number": "15",
+      "number": "14",
       "position": "计302",
       "teacherId": "1000",
       "teacherName": "尤静林",
@@ -38454,7 +38450,7 @@
       "courseName": "冶金实验",
       "credit": "3",
       "limitations": [],
-      "number": "22",
+      "number": "21",
       "position": "东区13号楼-105,302,304,320",
       "teacherId": "1001",
       "teacherName": "郭海亮等",
@@ -38732,7 +38728,7 @@
       "courseName": "科技文献检索及撰写",
       "credit": "2",
       "limitations": [],
-      "number": "30",
+      "number": "29",
       "position": "D410机房",
       "teacherId": "1000",
       "teacherName": "田青超",
@@ -50982,8 +50978,10 @@
       "courseId": "15145035",
       "courseName": "金融体系",
       "credit": "4",
-      "limitations": [],
-      "number": "39",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "40",
       "position": "另见学院安排",
       "teacherId": "2001",
       "teacherName": "卜南阳等",
@@ -50997,7 +50995,7 @@
       "courseName": "金融体系",
       "credit": "4",
       "limitations": [],
-      "number": "27",
+      "number": "26",
       "position": "文博101,文博508",
       "teacherId": "2002",
       "teacherName": "谢娅敏",
@@ -51092,7 +51090,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "39",
+      "number": "40",
       "position": "另见学院安排",
       "teacherId": "2001",
       "teacherName": "张倩等",
@@ -51106,7 +51104,7 @@
       "courseName": "投资分析",
       "credit": "4",
       "limitations": [],
-      "number": "49",
+      "number": "48",
       "position": "文博402",
       "teacherId": "2002",
       "teacherName": "朱杰",
@@ -53993,10 +53991,8 @@
       "courseId": "16583109",
       "courseName": "形势与政策",
       "credit": "0",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "129",
+      "limitations": [],
+      "number": "128",
       "position": "J102",
       "teacherId": "1006",
       "teacherName": "张金翠",
@@ -55021,7 +55017,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "90",
+      "number": "91",
       "position": "CJ103",
       "teacherId": "1072",
       "teacherName": "童颖",
@@ -55446,7 +55442,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "126",
+      "number": "125",
       "position": "BJ207",
       "teacherId": "1099",
       "teacherName": "宋津明",
@@ -71705,7 +71701,7 @@
       "teacherTitle": "副教授"
     }
   ],
-  "hash": "37add1263168fd3ec0a7c9ffcb391686",
+  "hash": "fba5510a992ebcf0755e445ffefa7595",
   "termName": "2024-2025学年秋季学期",
-  "updateTimeMs": 1726994448318
+  "updateTimeMs": 1727081141445
 }
