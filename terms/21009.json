@@ -30712,8 +30712,10 @@
       "courseId": "06265171",
       "courseName": "中国法律史",
       "credit": "5",
-      "limitations": [],
-      "number": "35",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "36",
       "position": "A115",
       "teacherId": "1001",
       "teacherName": "李瑞",
@@ -30758,8 +30760,10 @@
       "courseId": "06265172",
       "courseName": "宪法学",
       "credit": "5",
-      "limitations": [],
-      "number": "36",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "37",
       "position": "A213",
       "teacherId": "1002",
       "teacherName": "王涛",
@@ -71697,7 +71701,7 @@
       "teacherTitle": "副教授"
     }
   ],
-  "hash": "490a02923bedb05c5ad9def55acf2491",
+  "hash": "cc85a7c7fd80ec495a6ad51bc6bd2ba0",
   "termName": "2024-2025学年秋季学期",
-  "updateTimeMs": 1727512913069
+  "updateTimeMs": 1727599335618
 }
