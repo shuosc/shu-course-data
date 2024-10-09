@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "license": "GPL-3.0-only",
   "scripts": {
-    "start": "nodemon --config nodemon.json src/index.ts"
+    "dev": "nodemon --config nodemon.json src/index.ts",
+    "start": "tsc && node dist/index.js"
   },
   "devDependencies": {
     "@types/node": "^18",
