@@ -38,7 +38,7 @@ jobs:
 
       - name: Install OpenVPN Client
         run: |
-          sudo apt-get update && sudo apt-get -y install openvpn && sudo apt-get -y install tree
+          sudo apt-get update && sudo apt-get -y install openvpn
 
       - name: Install dependencies
         run: |
@@ -75,7 +75,7 @@ jobs:
 
       - name: Check Results
         run: |
-          tree
+          tree -I node_modules
 
       - name: Shutdown OpenVPN
         run: |

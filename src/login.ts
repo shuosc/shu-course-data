@@ -65,7 +65,7 @@ export default function fetchCallbackUrl(
                     const location = res.headers.location;
                     moduleLog(
                       'OAUTH',
-                      logChain('Login Successfully', location)
+                      logChain('Login Successfully')
                     );
                     resolve(location);
                   })
