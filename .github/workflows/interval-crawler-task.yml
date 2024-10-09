@@ -55,9 +55,21 @@ jobs:
         run: |
           until ping -c1 xk.autoisp.shu.edu.cn; do sleep 2; done
 
+      - name: Setup Node.js environment
+        uses: actions/setup-node@v4.0.2
+        with:
+          node-version: 18.x
+          cache: 'yarn'
+
+      - name: Install dependencies
+        run: yarn install
+
       - name: Fetch data
-        run: |
-          echo "${{ secrets.SHU_PASSWORD }}" | pipenv run python crawler.py -o interval-crawler-task-result -u ${{ secrets.SHU_USERNAME }} --password-stdin
+        env:
+          SHUSTUID: ${{ secrets.SHU_USERNAME }}
+          SHUSTUPWD: ${{ secrets.SHU_PASSWORD }}
+          OUTPUTDIR: interval-crawler-task-result
+        run: yarn start
 
       - name: Shutdown OpenVPN
         run: |
