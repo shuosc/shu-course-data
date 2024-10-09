@@ -51,7 +51,7 @@ function getToken(): Promise<string> {
         })
           .then((r) => {
             const token = r.url.split('index.html?token=')[1];
-            moduleLog('JWXK', logChain('TOKEN', token));
+            // moduleLog('JWXK', logChain('TOKEN', token));
             resolve(token);
           })
           .catch(reject);
