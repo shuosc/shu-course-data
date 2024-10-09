@@ -1,0 +1,25 @@
+{
+  "name": "shu-course-data",
+  "version": "1.0.0",
+  "license": "GPL-3.0-only",
+  "scripts": {
+    "start": "nodemon --config nodemon.json src/index.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^18",
+    "@types/prompts": "^2.4.9",
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "@types/node-fetch": "2",
+    "@types/node-rsa": "^1.1.4",
+    "axios": "^1.7.7",
+    "chalk": "^4",
+    "dotenv": "^16.4.5",
+    "node-fetch": "2",
+    "node-rsa": "^1.1.1",
+    "nodemon": "^3.1.7",
+    "prompts": "^2.4.2",
+    "ts-node": "^10.9.2"
+  }
+}
