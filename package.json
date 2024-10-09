@@ -1,7 +1,7 @@
 {
   "name": "shu-course-data",
   "version": "1.0.0",
-  "license": "GPL-3.0-only",
+  "license": "AGPL-3.0-only",
   "scripts": {
     "dev": "nodemon --config nodemon.json src/index.ts",
     "start": "tsc && node dist/index.js"
