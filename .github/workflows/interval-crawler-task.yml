@@ -38,7 +38,7 @@ jobs:
 
       - name: Install OpenVPN Client
         run: |
-          sudo apt-get update && sudo apt-get -y install openvpn
+          sudo apt-get update && sudo apt-get -y install openvpn && sudo apt-get -y install tree
 
       - name: Install dependencies
         run: |
@@ -72,6 +72,10 @@ jobs:
           SHUSTUPWD: ${{ secrets.SHU_PASSWORD }}
           OUTPUTDIR: interval-crawler-task-result
         run: yarn start
+
+      - name: Check Results
+        run: |
+          tree
 
       - name: Shutdown OpenVPN
         run: |
