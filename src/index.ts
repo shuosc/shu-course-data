@@ -159,11 +159,11 @@ fetchBatch().then((batch) => {
       };
       fs.writeFileSync(
         `./${OUTPUTDIR}/terms/${batch.schoolTerm}.json`,
-        JSON.stringify(info)
+        JSON.stringify(info, null, 2)
       );
       fs.writeFileSync(
         `./${OUTPUTDIR}/current.json`,
-        JSON.stringify([batch.schoolTerm])
+        JSON.stringify([batch.schoolTerm], null, 2)
       );
       moduleLog('JWXK', logChain('课程信息已写入', batch.schoolTerm));
     });

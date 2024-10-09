@@ -13,7 +13,11 @@
 1. **Interval Crawler Task —
    [位于`main`分支](https://github.com/shuosc/shu-course-data/blob/main/.github/workflows/interval-crawler-task.yml)**
 
-   抓取课程数据：`crawler.py`；分析课程数据变化并推送数据到 `data` 分支（或创建 Pull Request 人工复审）：`post_crawler.py`；
+   抓取课程数据：
+   - `crawler.py` - xk.autoisp.shu.edu.cn 的爬虫；
+   - `src/index.ts` - jwxk.shu.edu.cn 的爬虫；
+   
+   分析课程数据变化并推送数据到 `data` 分支（或创建 Pull Request 人工复审）：`post_crawler.py`；
 
 2. **Publish to COS —
    [位于`data`分支](https://github.com/shuosc/shu-course-data/blob/data/.github/workflows/publish-to-cos.yml)**
@@ -44,8 +48,8 @@
 | --------------- | ---------- | ------------------------------------------------------------ |
 | `course`        | `Course[]` | 课程数据（`Course`具体字段略）                               |
 | `termName`      | `string`   | 学期名称                                                     |
-| `backendOrigin` | `string`   | 学校选课系统后端 Origin，当前固定为 `http://xk.autoisp.shu.edu.cn` |
-| `hash`          | `string`   | 使用 Python 的`json.dumps`函数将`course`字段的值转为 JSON 格式（`sort_keys=True`，其他参数默认），对该 JSON 文本取 MD5 的值，用以标识本学期数据的版本 |
+| `backendOrigin` | `string`   | 学校选课系统后端 Origin， `http://xk.autoisp.shu.edu.cn` 或 `https://jwxk.shu.edu.cn` |
+| `hash`          | `string`   | Python 下通过`json.dumps`函数将`course`字段的值转为 JSON 格式（`sort_keys=True`，其他参数默认），对该 JSON 文本取 MD5 的值；JS 下对 `courses`字段以 key 进行排序后通过`JSON.stringfy`函数转为 JSON 格式，取文本的 MD5 值。用以标识本学期数据的版本 |
 | `updateTimeMs`  | `number`   | 数据抓取时间，单位毫秒（ms）                                 |
 
 `current.json`内容为`termId`数组，即当前选课系统中开放的学期。
