@@ -113,6 +113,26 @@ function fetchAllCourses(token: string): Promise<ICourse[]> {
   });
 }
 
+function getCourseLimitations(course: ICourse): string[] {
+  let str = [];
+  // 无限制不处理
+  if (course.selectLimit === '无限制') course.selectLimit = undefined;
+  // 处理除了人数已满的限制
+  for (const limit of course.selectLimit?.split(',') || []) {
+    if (limit === '无限制') continue;
+    if (limit === course.limitNumberName) continue;
+    str.push(limit);
+  }
+  // 处理人数已满
+  if (course.noCheckKrl == '0' && course.KRL == course.YXRS)
+    str.push('人数已满');
+  // 处理禁止选课
+  if (course.canSelect === '0') str.push('禁止选课');
+  // 处理禁止退课
+  if (course.canDelete === '0') str.push('禁止退课');
+  return str;
+}
+
 function makeCoursesSimple(courses: ICourse[]): ISimpleCourse[] {
   return courses.map((course) => {
     const simpleCourse: ISimpleCourse = {
@@ -126,12 +146,11 @@ function makeCoursesSimple(courses: ICourse[]): ISimpleCourse[] {
       campus: course.XQ,
       position: course.teachingPlaceHide,
       capacity: course.KRL.toString(),
-      number: course.YXRS.toString(),
-      limitations: course.selectLimit
-        ? course.selectLimit === '无限制'
-          ? []
-          : [course.selectLimit]
-        : [],
+      number:
+        course.noCheckKrl === '1'
+          ? course.YXRS2.toString()
+          : course.YXRS.toString(),
+      limitations: getCourseLimitations(course),
     };
     return Object.keys(simpleCourse)
       .sort()

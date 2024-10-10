@@ -39,7 +39,14 @@ export interface ICourse {
    * 方案 3 选课人数
    */
   FAXKRS3: number;
-  YXRS2: 240;
+  /**
+   * 选满锁定(检测课程容量)课程的选课人数
+   */
+  YXRS: number;
+  /**
+   * 非选满锁定(不检测课程容量)课程的选课人数
+   */
+  YXRS2: number;
   /**
    * 研究生课程容量
    */
@@ -65,10 +72,22 @@ export interface ICourse {
    * 如：1
    */
   preCourseName: string;
-  NSKRL: 0;
-  NVSKRL: 0;
-  NSXKRS: 0;
-  NVSXKRS: 0;
+  /**
+   * 男生课容量
+   */
+  NSKRL: number;
+  /**
+   * 女生课容量
+   */
+  NVSKRL: number;
+  /**
+   * 男生选课人数
+   */
+  NSXKRS: number;
+  /**
+   * 女生选课人数
+   */
+  NVSXKRS: number;
   limitKindList: {
     wid: '2326FAD9500630C3E0638D000A0ADF4E';
     teachingClassID: '202420252000000001001';
@@ -229,12 +248,20 @@ export interface ICourse {
    * 课程容量
    */
   KRL: number;
-  YXRS: 0;
+  /**
+   * 第一志愿人数
+   */
   DYZYRS: 0;
   SFYX: '';
-  SFYM: '0';
+  /**
+   * 课程是否已经选满
+   */
+  SFYM: '0' | '1';
   secretVal: string;
-  SFCT: '0';
+  /**
+   * 是否冲突
+   */
+  SFCT: '0' | '1';
   SFXZXK: '';
   XGXKLB: '';
   DGJC: '';
