@@ -15982,7 +15982,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "20",
+      "capacity": "0",
       "classTime": "一9-11",
       "courseId": "0200R022",
       "courseName": "20世纪中国特工史",
@@ -16318,7 +16318,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "65",
+      "capacity": "0",
       "classTime": "三7-8",
       "courseId": "0200R601",
       "courseName": "普通话语音与普通话测试",
@@ -30280,7 +30280,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "65",
+      "capacity": "0",
       "classTime": "一7-8",
       "courseId": "0900L605",
       "courseName": "数字时代的学习",
@@ -38455,6 +38455,20 @@
       "number": "16",
       "position": "",
       "teacherId": "1003",
+      "teacherName": "何一波",
+      "teacherTitle": ""
+    },
+    {
+      "campus": "宝山",
+      "capacity": "10",
+      "classTime": "",
+      "courseId": "13006066",
+      "courseName": "陶艺创作(选)",
+      "credit": "3",
+      "limitations": [],
+      "number": "0",
+      "position": "",
+      "teacherId": "1004",
       "teacherName": "何一波",
       "teacherTitle": ""
     },
@@ -59898,6 +59912,20 @@
       "campus": "宝山",
       "capacity": "1",
       "classTime": "见学院小课表",
+      "courseId": "31975005",
+      "courseName": "声乐演唱(5)",
+      "credit": "2",
+      "limitations": [],
+      "number": "0",
+      "position": "",
+      "teacherId": "1010",
+      "teacherName": "李建林",
+      "teacherTitle": ""
+    },
+    {
+      "campus": "宝山",
+      "capacity": "1",
+      "classTime": "见学院小课表",
       "courseId": "31975008",
       "courseName": "声乐演唱(8)",
       "credit": "2",
@@ -60032,6 +60060,20 @@
       "position": "",
       "teacherId": "1010",
       "teacherName": "屠雁萍",
+      "teacherTitle": ""
+    },
+    {
+      "campus": "宝山",
+      "capacity": "1",
+      "classTime": "见学院小课表",
+      "courseId": "31975008",
+      "courseName": "声乐演唱(8)",
+      "credit": "2",
+      "limitations": [],
+      "number": "0",
+      "position": "",
+      "teacherId": "1011",
+      "teacherName": "李建林",
       "teacherTitle": ""
     },
     {
@@ -60570,6 +60612,20 @@
       "campus": "宝山",
       "capacity": "1",
       "classTime": "见学院小课表",
+      "courseId": "31975014",
+      "courseName": "器乐演奏(2)",
+      "credit": "2",
+      "limitations": [],
+      "number": "0",
+      "position": "",
+      "teacherId": "1033",
+      "teacherName": "朴英",
+      "teacherTitle": "教授"
+    },
+    {
+      "campus": "宝山",
+      "capacity": "1",
+      "classTime": "见学院小课表",
       "courseId": "31975017",
       "courseName": "器乐演奏(5)",
       "credit": "2",
@@ -60929,6 +60985,20 @@
       "teacherId": "1026",
       "teacherName": "张晓东",
       "teacherTitle": "副教授"
+    },
+    {
+      "campus": "宝山",
+      "capacity": "1",
+      "classTime": "见学院小课表",
+      "courseId": "31975017",
+      "courseName": "器乐演奏(5)",
+      "credit": "2",
+      "limitations": [],
+      "number": "0",
+      "position": "",
+      "teacherId": "1027",
+      "teacherName": "朴英",
+      "teacherTitle": "教授"
     },
     {
       "campus": "宝山",
@@ -64521,7 +64591,7 @@
       "teacherTitle": ""
     }
   ],
-  "hash": "5a17fa8a5763c78fabd7726bc3293fb4",
+  "hash": "bb661dbe5b8efe45d99c521837c264d9",
   "termName": "2024-2025学年冬季学期",
-  "updateTimeMs": 1729048081037
+  "updateTimeMs": 1729050463431
 }
