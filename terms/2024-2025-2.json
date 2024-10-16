@@ -10046,7 +10046,7 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "70",
+      "capacity": "87",
       "classTime": "一1-2 三5-6",
       "courseId": "01014116",
       "courseName": "高等数学(2)",
@@ -10060,7 +10060,7 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "70",
+      "capacity": "81",
       "classTime": "一3-4 三7-8",
       "courseId": "01014116",
       "courseName": "高等数学(2)",
@@ -10074,7 +10074,7 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "70",
+      "capacity": "83",
       "classTime": "二3-4 四7-8",
       "courseId": "01014116",
       "courseName": "高等数学(2)",
@@ -10088,7 +10088,7 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "70",
+      "capacity": "71",
       "classTime": "二1-2 四5-6",
       "courseId": "01014116",
       "courseName": "高等数学(2)",
@@ -10130,7 +10130,7 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "50",
+      "capacity": "59",
       "classTime": "一3-4 三3-4 国际生 全英语",
       "courseId": "01014116",
       "courseName": "高等数学(2)",
@@ -18912,7 +18912,7 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "35",
+      "capacity": "40",
       "classTime": "二3-4 限微电子",
       "courseId": "03004413",
       "courseName": "英美报刊选读",
@@ -26117,6 +26117,20 @@
       "number": "98",
       "position": "",
       "teacherId": "1000",
+      "teacherName": "马嘉萌",
+      "teacherTitle": "副教授"
+    },
+    {
+      "campus": "宝山",
+      "capacity": "60",
+      "classTime": "二5-6 四5-6 全英语",
+      "courseId": "04716001",
+      "courseName": "财务风险与内部控制",
+      "credit": "4",
+      "limitations": [],
+      "number": "0",
+      "position": "",
+      "teacherId": "1002",
       "teacherName": "马嘉萌",
       "teacherTitle": "副教授"
     },
@@ -46468,12 +46482,14 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "14",
+      "capacity": "28",
       "classTime": "二1-2 四1-2 限国际生 全英语",
       "courseId": "15196062",
       "courseName": "中级财务会计",
       "credit": "4",
-      "limitations": [],
+      "limitations": [
+        "人数已满"
+      ],
       "number": "28",
       "position": "",
       "teacherId": "2002",
@@ -64505,7 +64521,7 @@
       "teacherTitle": ""
     }
   ],
-  "hash": "bbd8b34355e086c57b9652605bb8af17",
+  "hash": "5a17fa8a5763c78fabd7726bc3293fb4",
   "termName": "2024-2025学年冬季学期",
-  "updateTimeMs": 1729044471589
+  "updateTimeMs": 1729048081037
 }
