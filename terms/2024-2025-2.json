@@ -59473,7 +59473,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "30",
+      "capacity": "20",
       "classTime": "一3-4",
       "courseId": "31735040",
       "courseName": "和声基础(2)",
@@ -59497,6 +59497,20 @@
       "position": "",
       "teacherId": "1002",
       "teacherName": "郑曲曲",
+      "teacherTitle": ""
+    },
+    {
+      "campus": "宝山",
+      "capacity": "10",
+      "classTime": "一7-8",
+      "courseId": "31735040",
+      "courseName": "和声基础(2)",
+      "credit": "2",
+      "limitations": [],
+      "number": "0",
+      "position": "",
+      "teacherId": "1003",
+      "teacherName": "李京键",
       "teacherTitle": ""
     },
     {
@@ -65554,7 +65568,7 @@
       "teacherTitle": ""
     }
   ],
-  "hash": "9c3b5d7330975f00f722e8622ce3ce92",
+  "hash": "b1c5bdba4303f6afd794cc440f17955e",
   "termName": "2024-2025学年冬季学期",
-  "updateTimeMs": 1729134327030
+  "updateTimeMs": 1729136801149
 }
