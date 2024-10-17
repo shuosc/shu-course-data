@@ -7665,6 +7665,34 @@
     },
     {
       "campus": "宝山",
+      "capacity": "80",
+      "classTime": "二3-4 四3-4 上机 五3-4双",
+      "courseId": "00864088",
+      "courseName": "程序设计(C语言)",
+      "credit": "4",
+      "limitations": [],
+      "number": "0",
+      "position": "",
+      "teacherId": "1010",
+      "teacherName": "赵俊娟",
+      "teacherTitle": ""
+    },
+    {
+      "campus": "宝山",
+      "capacity": "80",
+      "classTime": "一3-4 三5-6 上机 五3-4单",
+      "courseId": "00864088",
+      "courseName": "程序设计(C语言)",
+      "credit": "4",
+      "limitations": [],
+      "number": "0",
+      "position": "",
+      "teacherId": "1011",
+      "teacherName": "许庆国",
+      "teacherTitle": "副教授"
+    },
+    {
+      "campus": "宝山",
       "capacity": "70",
       "classTime": "一3-4 含上机",
       "courseId": "00864092",
@@ -46401,6 +46429,48 @@
       "teacherTitle": "副教授"
     },
     {
+      "campus": "延长",
+      "capacity": "30",
+      "classTime": "三9-10",
+      "courseId": "14W35001",
+      "courseName": "人工智能导论",
+      "credit": "2",
+      "limitations": [],
+      "number": "0",
+      "position": "",
+      "teacherId": "3000",
+      "teacherName": "黄东晋等",
+      "teacherTitle": "副教授"
+    },
+    {
+      "campus": "延长",
+      "capacity": "30",
+      "classTime": "四9-10",
+      "courseId": "14W35002",
+      "courseName": "电影技术前沿",
+      "credit": "2",
+      "limitations": [],
+      "number": "0",
+      "position": "",
+      "teacherId": "3000",
+      "teacherName": "丁友东等",
+      "teacherTitle": "教授"
+    },
+    {
+      "campus": "延长",
+      "capacity": "30",
+      "classTime": "一9-10",
+      "courseId": "14W35003",
+      "courseName": "影视艺术思维",
+      "credit": "2",
+      "limitations": [],
+      "number": "0",
+      "position": "",
+      "teacherId": "3000",
+      "teacherName": "施博闻等",
+      "teacherTitle": ""
+    },
+    {
       "campus": "嘉定",
       "capacity": "40",
       "classTime": "二5-6单 五3-4 含国际生 全英语",
@@ -65484,7 +65554,7 @@
       "teacherTitle": ""
     }
   ],
-  "hash": "82d738ddb74dbdf5317d225844abdaf2",
+  "hash": "67556ebc5d35d45579d9cbcd1896098f",
   "termName": "2024-2025学年冬季学期",
-  "updateTimeMs": 1729122117407
+  "updateTimeMs": 1729130822989
 }
