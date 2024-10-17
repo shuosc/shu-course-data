@@ -9276,7 +9276,7 @@
       "courseName": "大学生心理健康",
       "credit": "2",
       "limitations": [],
-      "number": "106",
+      "number": "105",
       "position": "",
       "teacherId": "1006",
       "teacherName": "孔卫平",
@@ -27891,7 +27891,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "55",
+      "capacity": "75",
       "classTime": "二5-6 四1-2",
       "courseId": "07275158",
       "courseName": "信息论与编码",
@@ -51493,7 +51493,7 @@
       "courseName": "思想道德与法治",
       "credit": "3",
       "limitations": [],
-      "number": "209",
+      "number": "208",
       "position": "",
       "teacherId": "1004",
       "teacherName": "李之喆",
@@ -52182,8 +52182,10 @@
       "courseId": "16584172",
       "courseName": "劳动教育理论课",
       "credit": "1",
-      "limitations": [],
-      "number": "71",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "70",
       "position": "",
       "teacherId": "1004",
       "teacherName": "杨阳",
@@ -52397,7 +52399,7 @@
       "courseName": "劳动教育理论课",
       "credit": "1",
       "limitations": [],
-      "number": "142",
+      "number": "141",
       "position": "",
       "teacherId": "1019",
       "teacherName": "魏冰娥",
@@ -52411,7 +52413,7 @@
       "courseName": "劳动教育理论课",
       "credit": "1",
       "limitations": [],
-      "number": "80",
+      "number": "79",
       "position": "",
       "teacherId": "1020",
       "teacherName": "魏冰娥",
@@ -65308,7 +65310,7 @@
       "teacherTitle": ""
     }
   ],
-  "hash": "dd03b37f25cff239936e0edc9130e6f1",
+  "hash": "470f0ccbe1d65a7004dab4eb4b4cbb3b",
   "termName": "2024-2025学年冬季学期",
-  "updateTimeMs": 1729158156355
+  "updateTimeMs": 1729161904706
 }
