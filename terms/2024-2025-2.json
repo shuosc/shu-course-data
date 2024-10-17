@@ -1717,12 +1717,16 @@
     },
     {
       "campus": "延长",
-      "capacity": "20",
+      "capacity": "0",
       "classTime": "三03-04 女生篮球",
       "courseId": "00853002",
       "courseName": "体育(2)",
       "credit": "1",
-      "limitations": [],
+      "limitations": [
+        "禁止选课",
+        "人数已满",
+        "禁止选课"
+      ],
       "number": "0",
       "position": "",
       "teacherId": "3055",
@@ -1732,6 +1736,20 @@
     {
       "campus": "延长",
       "capacity": "22",
+      "classTime": "一07-08 男女乒乓球",
+      "courseId": "00853002",
+      "courseName": "体育(2)",
+      "credit": "1",
+      "limitations": [],
+      "number": "0",
+      "position": "",
+      "teacherId": "3112",
+      "teacherName": "林建华",
+      "teacherTitle": ""
+    },
+    {
+      "campus": "延长",
+      "capacity": "20",
       "classTime": "一05-06 男女武术",
       "courseId": "00853002",
       "courseName": "体育(2)",
@@ -1801,7 +1819,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "20",
+      "capacity": "22",
       "classTime": "一07-08 女生网球",
       "courseId": "00853002",
       "courseName": "体育(2)",
@@ -19541,7 +19559,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "35",
+      "capacity": "30",
       "classTime": "二1-2",
       "courseId": "03004424",
       "courseName": "英语国家概况",
@@ -19555,7 +19573,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "35",
+      "capacity": "30",
       "classTime": "二3-4",
       "courseId": "03004424",
       "courseName": "英语国家概况",
@@ -19569,7 +19587,7 @@
     },
     {
       "campus": "延长",
-      "capacity": "35",
+      "capacity": "30",
       "classTime": "二5-6",
       "courseId": "03004424",
       "courseName": "英语国家概况",
@@ -65310,7 +65328,7 @@
       "teacherTitle": ""
     }
   ],
-  "hash": "470f0ccbe1d65a7004dab4eb4b4cbb3b",
+  "hash": "5fe229d58933e31a290079ac2e3688c1",
   "termName": "2024-2025学年冬季学期",
-  "updateTimeMs": 1729161904706
+  "updateTimeMs": 1729165257221
 }
