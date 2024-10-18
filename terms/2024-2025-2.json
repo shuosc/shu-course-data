@@ -1255,7 +1255,7 @@
       "courseName": "专业实习",
       "credit": "8",
       "limitations": [],
-      "number": "28",
+      "number": "29",
       "position": "",
       "teacherId": "1002",
       "teacherName": "王晓霞等",
@@ -9612,7 +9612,7 @@
       "courseName": "安全、逃生与避险",
       "credit": "2",
       "limitations": [],
-      "number": "46",
+      "number": "47",
       "position": "",
       "teacherId": "1000",
       "teacherName": "徐义圣等",
@@ -24740,7 +24740,7 @@
       "courseName": "市场经济与政府职能",
       "credit": "2",
       "limitations": [],
-      "number": "64",
+      "number": "65",
       "position": "",
       "teacherId": "1000",
       "teacherName": "卢正刚",
@@ -27474,7 +27474,7 @@
       "courseName": "人才招聘与测评",
       "credit": "3",
       "limitations": [],
-      "number": "12",
+      "number": "11",
       "position": "",
       "teacherId": "1000",
       "teacherName": "胡晓龙",
@@ -44602,7 +44602,7 @@
       "courseName": "毕业设计(论文)调研",
       "credit": "10",
       "limitations": [],
-      "number": "6",
+      "number": "7",
       "position": "",
       "teacherId": "3002",
       "teacherName": "邱宇",
@@ -53207,8 +53207,10 @@
       "courseId": "16583109",
       "courseName": "形势与政策",
       "credit": "0",
-      "limitations": [],
-      "number": "119",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "120",
       "position": "",
       "teacherId": "3007",
       "teacherName": "奚建群",
@@ -67749,7 +67751,7 @@
       "teacherTitle": ""
     }
   ],
-  "hash": "47f47a362786d7f8819c167bed4d483f",
+  "hash": "fc509bc6d2c179e51ffe4d2cd318bd14",
   "termName": "2024-2025学年冬季学期",
-  "updateTimeMs": 1729284070564
+  "updateTimeMs": 1729287638725
 }
