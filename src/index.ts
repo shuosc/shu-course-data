@@ -115,17 +115,11 @@ function fetchAllCourses(token: string): Promise<ICourse[]> {
 
 function getCourseLimitations(course: ICourse): string[] {
   let str = [];
-  // 无限制不处理
-  if (course.selectLimit === '无限制') course.selectLimit = undefined;
-  // 处理除了人数已满的限制
-  for (const limit of course.selectLimit?.split(',') || []) {
-    if (limit === '无限制') continue;
-    if (limit === course.limitNumberName) continue;
-    str.push(limit);
-  }
   // 处理人数已满
-  if (course.noCheckKrl == '0' && course.KRL == course.YXRS)
+  if (course.noCheckKrl === '0' && course.KRL == course.YXRS)
     str.push('人数已满');
+  // 处理人满锁定
+  else if (course.noCheckKrl === '0') str.push(`限制人数`);
   // 处理禁止选课
   if (course.canSelect === '0') str.push('禁止选课');
   // 处理禁止退课
