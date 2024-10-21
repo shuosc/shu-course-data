@@ -21,96 +21,57 @@ const httpsAgent = new Agent({
 });
 fs.mkdirSync(`./${OUTPUTDIR}/terms`, { recursive: true });
 
-function fetchBatch(): Promise<{ schoolTerm: string; name: string }> {
-  return new Promise((resolve, reject) => {
-    fetch('https://jwxk.shu.edu.cn/xsxk/profile/index.html', {
+async function fetchBatch(): Promise<{ schoolTerm: string; name: string }> {
+  const res = await fetch(
+    'https://jwxk.shu.edu.cn/xsxk/profile/index.html',
+    {
       agent: httpsAgent,
-    })
-      .then((r) => {
-        r.text()
-          .then((r) => {
-            const batchInfo = JSON.parse(
-              r.split('var batch = ')[1].split(';')[0]
-            );
-            const { schoolTerm, name } = batchInfo;
-            moduleLog('JWXK', name);
-            resolve(batchInfo);
-          })
-          .catch(reject);
-      })
-      .catch(reject);
-  });
+    }
+  );
+  const text = await res.text();
+  const batchInfo = JSON.parse(text.split('var batch = ')[1].split(';')[0]);
+  const { name } = batchInfo;
+  moduleLog('JWXK', name);
+  return batchInfo;
 }
 
-function getToken(): Promise<string> {
-  return new Promise((resolve, reject) => {
-    fetchCallbackUrl(SHUSTUID!, SHUSTUPWD!)
-      .then((url) => {
-        fetch(url, {
-          agent: httpsAgent,
-        })
-          .then((r) => {
-            const token = r.url.split('index.html?token=')[1];
-            // moduleLog('JWXK', logChain('TOKEN', token));
-            resolve(token);
-          })
-          .catch(reject);
-      })
-      .catch(reject);
+async function getToken(): Promise<string> {
+  const url = await fetchCallbackUrl(SHUSTUID!, SHUSTUPWD!);
+  const res = await fetch(url, {
+    agent: httpsAgent,
   });
+  const token = res.url.split('index.html?token=')[1];
+  // moduleLog('JWXK', logChain('TOKEN', token));
+  return token;
 }
 
-function fetchAllCourses(token: string): Promise<ICourse[]> {
-  return new Promise((resolve, reject) => {
-    fetch('https://jwxk.shu.edu.cn/xsxk/elective/shu/clazz/list', {
-      method: 'POST',
-      headers: {
-        Authorization: token,
-        'Content-Type': 'application/x-www-form-urlencoded',
-      },
-      body: 'teachingClassType=ALLKC&pageNumber=1&pageSize=1',
-      agent: httpsAgent,
-    })
-      .then((r) => {
-        r.json()
-          .then((r) => {
-            if (r.code === 200) {
-              const length = r.data.list.total;
-              moduleLog('JWXK', logChain('课程总容量', length));
-              moduleLog('JWXK', '获取所有课程信息中...');
-              fetch('https://jwxk.shu.edu.cn/xsxk/elective/shu/clazz/list', {
-                method: 'POST',
-                headers: {
-                  Authorization: token,
-                  'Content-Type': 'application/x-www-form-urlencoded',
-                },
-                body: 'teachingClassType=ALLKC&pageNumber=1&pageSize=' + length,
-                agent: httpsAgent,
-              })
-                .then((r) => {
-                  r.json()
-                    .then((r) => {
-                      if (r.code === 200) {
-                        moduleLog(
-                          'JWXK',
-                          logChain('返回课程总容量', r.data.list.rows.length)
-                        );
-                        resolve(r.data.list.rows);
-                      } else {
-                        reject(r.msg);
-                      }
-                    })
-                    .catch(reject);
-                })
-                .catch(reject);
-            } else {
-              reject(r.msg);
-            }
-          })
-          .catch(reject);
-      })
-      .catch(reject);
+async function fetchAllCourses(token: string): Promise<ICourse[]> {
+  const res = await fetch('https://jwxk.shu.edu.cn/xsxk/elective/shu/clazz/list', {
+    method: 'POST',
+    headers: {
+      Authorization: token,
+      'Content-Type': 'application/x-www-form-urlencoded',
+    },
+    body: 'teachingClassType=ALLKC&pageNumber=1&pageSize=1',
+    agent: httpsAgent,
   });
+  const j = await res.json();
+  const length = j.data.list.total;
+  moduleLog('JWXK', logChain('课程总容量', length));
+  moduleLog('JWXK', '获取所有课程信息中...');
+  const res2 = await fetch('https://jwxk.shu.edu.cn/xsxk/elective/shu/clazz/list', {
+    method: 'POST',
+    headers: {
+      Authorization: token,
+      'Content-Type': 'application/x-www-form-urlencoded',
+    },
+    body: 'teachingClassType=ALLKC&pageNumber=1&pageSize=' + length,
+    agent: httpsAgent,
+  });
+  const j2 = await res2.json();
+  const length2 = j2.data.list.rows.length;
+  moduleLog('JWXK', logChain('返回课程总容量', length2));
+  return j2.data.list.rows;
 }
 
 function getCourseLimitations(course: ICourse): string[] {

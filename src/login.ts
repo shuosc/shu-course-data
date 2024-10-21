@@ -20,69 +20,44 @@ wTBNePOk1H+LRQokgQIDAQAB
   return rsa.encrypt(source, 'base64');
 }
 
-export default function fetchCallbackUrl(
+export default async function fetchCallbackUrl(
   SHUSTUID: string,
   SHUSTUPWD: string
 ): Promise<string> {
   moduleLog('OAUTH', 'Start Login..');
-  return new Promise((resolve, reject) => {
-    client({
-      url: '/oauth/authorize?response_type=code&client_id=E422OBk2611Y4bUEO21gm1OF1RxkFLQ6&redirect_uri=https%3A%2F%2Fjwxk.shu.edu.cn%2Fxsxk%2Foauth%2Fcallback&scope=1',
-      method: 'GET',
-      maxRedirects: 0,
-      validateStatus: (s) => s === 302,
-    })
-      .then((res) => {
-        const location = res.headers.location;
-        client({
-          url: location,
-          method: 'GET',
-          maxRedirects: 0,
-          validateStatus: (s) => s === 200,
-        })
-          .then(() => {
-            client({
-              url: location,
-              method: 'POST',
-              maxRedirects: 0,
-              validateStatus: (s) => s === 302,
-              data: `username=${SHUSTUID}&password=${encodeURIComponent(
-                encryptShuPassword(SHUSTUPWD)
-              )}`,
-              headers: {
-                'Content-Type': 'application/x-www-form-urlencoded',
-              },
-            })
-              .then((res) => {
-                const location = res.headers.location;
-                client({
-                  url: location,
-                  method: 'GET',
-                  maxRedirects: 0,
-                  validateStatus: (s) => s === 302,
-                })
-                  .then((res) => {
-                    const location = res.headers.location;
-                    moduleLog(
-                      'OAUTH',
-                      logChain('Login Successfully')
-                    );
-                    resolve(location);
-                  })
-                  .catch((err) => {
-                    reject(err);
-                  });
-              })
-              .catch((err) => {
-                reject(err);
-              });
-          })
-          .catch((err) => {
-            reject(err);
-          });
-      })
-      .catch((err) => {
-        reject(err);
-      });
+  const res1 = await client({
+    url: '/oauth/authorize?response_type=code&client_id=E422OBk2611Y4bUEO21gm1OF1RxkFLQ6&redirect_uri=https%3A%2F%2Fjwxk.shu.edu.cn%2Fxsxk%2Foauth%2Fcallback&scope=1',
+    method: 'GET',
+    maxRedirects: 0,
+    validateStatus: (s) => s === 302,
   });
+  const location1 = res1.headers.location;
+  await client({
+    url: location1,
+    method: 'GET',
+    maxRedirects: 0,
+    validateStatus: (s) => s === 200,
+  });
+  const res2 = await client({
+    url: location1,
+    method: 'POST',
+    maxRedirects: 0,
+    validateStatus: (s) => s === 302,
+    data: `username=${SHUSTUID}&password=${encodeURIComponent(
+      encryptShuPassword(SHUSTUPWD)
+    )}`,
+    headers: {
+      'Content-Type': 'application/x-www-form-urlencoded',
+    },
+  });
+  const location2 = res2.headers.location;
+  const res3 = await client({
+    url: location2,
+    method: 'GET',
+    maxRedirects: 0,
+    validateStatus: (s) => s === 302,
+  });
+  const location3 = res3.headers.location;
+  moduleLog('OAUTH', logChain('Login Successfully'));
+  return location3;
 }
