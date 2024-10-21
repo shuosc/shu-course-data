@@ -38,7 +38,7 @@ export default async function fetchCallbackUrl(
     maxRedirects: 0,
     validateStatus: (s) => s === 200,
   });
-  const res3 = await client({
+  const res2 = await client({
     url: location1,
     method: 'POST',
     maxRedirects: 0,
@@ -50,14 +50,14 @@ export default async function fetchCallbackUrl(
       'Content-Type': 'application/x-www-form-urlencoded',
     },
   });
-  const location2 = res3.headers.location;
-  const res4 = await client({
+  const location2 = res2.headers.location;
+  const res3 = await client({
     url: location2,
     method: 'GET',
     maxRedirects: 0,
     validateStatus: (s) => s === 302,
   });
-  const location3 = res4.headers.location;
+  const location3 = res3.headers.location;
   moduleLog('OAUTH', logChain('Login Successfully'));
   return location3;
 }
