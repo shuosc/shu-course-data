@@ -63,26 +63,15 @@ export default function fetchCallbackUrl(
                 })
                   .then((res) => {
                     const location = res.headers.location;
-                    moduleLog(
-                      'OAUTH',
-                      logChain('Login Successfully')
-                    );
+                    moduleLog('OAUTH', logChain('Login Successfully'));
                     resolve(location);
                   })
-                  .catch((err) => {
-                    reject(err);
-                  });
+                  .catch(reject);
               })
-              .catch((err) => {
-                reject(err);
-              });
+              .catch(reject);
           })
-          .catch((err) => {
-            reject(err);
-          });
+          .catch(reject);
       })
-      .catch((err) => {
-        reject(err);
-      });
+      .catch(reject);
   });
 }
