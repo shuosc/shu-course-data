@@ -6,7 +6,7 @@ import 'dotenv/config';
 
 import fetchCallbackUrl from './login';
 import { logChain, moduleLog } from './logger';
-import { ICourse, ISimpleCourse } from './type';
+import { ICourse, IElectiveBatch, ISimpleCourse } from './type';
 
 const SHUSTUID = process.env.SHUSTUID;
 const SHUSTUPWD = process.env.SHUSTUPWD;
@@ -21,7 +21,9 @@ const httpsAgent = new Agent({
 });
 fs.mkdirSync(`./${OUTPUTDIR}/terms`, { recursive: true });
 
-function fetchBatch(): Promise<{ schoolTerm: string; name: string }> {
+function fetchBatch(
+  token: string
+): Promise<{ schoolTerm: string; name: string; code: string }[]> {
   return new Promise((resolve, reject) => {
     fetch('https://jwxk.shu.edu.cn/xsxk/profile/index.html', {
       agent: httpsAgent,
@@ -32,9 +34,65 @@ function fetchBatch(): Promise<{ schoolTerm: string; name: string }> {
             const batchInfo = JSON.parse(
               r.split('var batch = ')[1].split(';')[0]
             );
-            const { schoolTerm, name } = batchInfo;
-            moduleLog('JWXK', name);
-            resolve(batchInfo);
+            const { code, schoolTerm, name } = batchInfo;
+            moduleLog('JWXK', logChain('batchId', code));
+            fetch(
+              `https://jwxk.shu.edu.cn/xsxk/elective/grablessons?batchId=${code}`,
+              {
+                agent: httpsAgent,
+                headers: {
+                  Cookie: `Authorization=${token}`,
+                },
+              }
+            )
+              .then((r) =>
+                r
+                  .text()
+                  .then((r) => {
+                    const {
+                      electiveBatchList,
+                    }: {
+                      electiveBatchList: IElectiveBatch[];
+                    } = JSON.parse(
+                      r.split('grablessonsVue.studentInfo = ')[1].split(';')[0]
+                    );
+                    const batches: {
+                      schoolTerm: string;
+                      name: string;
+                      code: string;
+                    }[] = electiveBatchList
+                      .filter((e) => e.canSelect === '1')
+                      .map((e) => ({
+                        schoolTerm: e.schoolTerm,
+                        name: e.name,
+                        code: e.code,
+                      }))
+                      .sort((a, b) => {
+                        const convertTermToNumber = (term: string) => {
+                          const [startYear, endYear, semester] =
+                            term.split('-');
+                          return parseInt(startYear) * 10 + parseInt(semester);
+                        };
+                        return (
+                          convertTermToNumber(b.schoolTerm) -
+                          convertTermToNumber(a.schoolTerm)
+                        );
+                      });
+                    moduleLog(
+                      'JWXK',
+                      logChain(
+                        '批次信息',
+                        '\n - ' +
+                          batches
+                            .map((e) => `${e.name}(${e.schoolTerm})`)
+                            .join('\n - ')
+                      )
+                    );
+                    resolve(batches);
+                  })
+                  .catch(reject)
+              )
+              .catch(reject);
           })
           .catch(reject);
       })
@@ -60,55 +118,72 @@ function getToken(): Promise<string> {
   });
 }
 
-function fetchAllCourses(token: string): Promise<ICourse[]> {
+function fetchAllCourses(token: string, code: string): Promise<ICourse[]> {
   return new Promise((resolve, reject) => {
-    fetch('https://jwxk.shu.edu.cn/xsxk/elective/shu/clazz/list', {
-      method: 'POST',
-      headers: {
-        Authorization: token,
-        'Content-Type': 'application/x-www-form-urlencoded',
-      },
-      body: 'teachingClassType=ALLKC&pageNumber=1&pageSize=1',
+    fetch(`https://jwxk.shu.edu.cn/xsxk/elective/grablessons?batchId=${code}`, {
       agent: httpsAgent,
+      headers: {
+        Cookie: `Authorization=${token}`,
+      },
     })
-      .then((r) => {
-        r.json()
+      .then(() =>
+        fetch('https://jwxk.shu.edu.cn/xsxk/elective/shu/clazz/list', {
+          method: 'POST',
+          headers: {
+            Authorization: token,
+            'Content-Type': 'application/x-www-form-urlencoded',
+          },
+          body: 'teachingClassType=ALLKC&pageNumber=1&pageSize=1',
+          agent: httpsAgent,
+        })
           .then((r) => {
-            if (r.code === 200) {
-              const length = r.data.list.total;
-              moduleLog('JWXK', logChain('课程总容量', length));
-              moduleLog('JWXK', '获取所有课程信息中...');
-              fetch('https://jwxk.shu.edu.cn/xsxk/elective/shu/clazz/list', {
-                method: 'POST',
-                headers: {
-                  Authorization: token,
-                  'Content-Type': 'application/x-www-form-urlencoded',
-                },
-                body: 'teachingClassType=ALLKC&pageNumber=1&pageSize=' + length,
-                agent: httpsAgent,
-              })
-                .then((r) => {
-                  r.json()
+            r.json()
+              .then((r) => {
+                if (r.code === 200) {
+                  const length = r.data.list.total;
+                  moduleLog('JWXK', logChain('课程总容量', length));
+                  moduleLog('JWXK', '获取所有课程信息中...');
+                  fetch(
+                    'https://jwxk.shu.edu.cn/xsxk/elective/shu/clazz/list',
+                    {
+                      method: 'POST',
+                      headers: {
+                        Authorization: token,
+                        'Content-Type': 'application/x-www-form-urlencoded',
+                      },
+                      body:
+                        'teachingClassType=ALLKC&pageNumber=1&pageSize=' +
+                        length,
+                      agent: httpsAgent,
+                    }
+                  )
                     .then((r) => {
-                      if (r.code === 200) {
-                        moduleLog(
-                          'JWXK',
-                          logChain('返回课程总容量', r.data.list.rows.length)
-                        );
-                        resolve(r.data.list.rows);
-                      } else {
-                        reject(r.msg);
-                      }
+                      r.json()
+                        .then((r) => {
+                          if (r.code === 200) {
+                            moduleLog(
+                              'JWXK',
+                              logChain(
+                                '返回课程总容量',
+                                r.data.list.rows.length
+                              )
+                            );
+                            resolve(r.data.list.rows);
+                          } else {
+                            reject(r.msg);
+                          }
+                        })
+                        .catch(reject);
                     })
                     .catch(reject);
-                })
-                .catch(reject);
-            } else {
-              reject(r.msg);
-            }
+                } else {
+                  reject(r.msg);
+                }
+              })
+              .catch(reject);
           })
-          .catch(reject);
-      })
+          .catch(reject)
+      )
       .catch(reject);
   });
 }
@@ -156,29 +231,36 @@ function makeCoursesSimple(courses: ICourse[]): ISimpleCourse[] {
   });
 }
 
-fetchBatch().then((batch) => {
-  getToken().then((token) => {
-    fetchAllCourses(token).then((courses) => {
-      const simpleCourses = makeCoursesSimple(courses);
-      const info = {
-        backendOrigin: 'https://jwxk.shu.edu.cn',
-        courses: simpleCourses,
-        hash: crypto
-          .createHash('md5')
-          .update(JSON.stringify(simpleCourses))
-          .digest('hex'),
-        termName: batch.name,
-        updateTimeMs: Date.now(),
-      };
-      fs.writeFileSync(
-        `./${OUTPUTDIR}/terms/${batch.schoolTerm}.json`,
-        JSON.stringify(info, null, 2)
-      );
-      fs.writeFileSync(
-        `./${OUTPUTDIR}/current.json`,
-        JSON.stringify([batch.schoolTerm], null, 2)
-      );
-      moduleLog('JWXK', logChain('课程信息已写入', batch.schoolTerm));
-    });
+getToken().then((token) => {
+  fetchBatch(token).then(async (batches) => {
+    for (const batch of batches) {
+      moduleLog('JWXK', logChain('开始处理学期', batch.schoolTerm));
+      await fetchAllCourses(token, batch.code).then((courses) => {
+        const simpleCourses = makeCoursesSimple(courses);
+        const info = {
+          backendOrigin: 'https://jwxk.shu.edu.cn',
+          courses: simpleCourses,
+          hash: crypto
+            .createHash('md5')
+            .update(JSON.stringify(simpleCourses))
+            .digest('hex'),
+          termName: batch.name,
+          updateTimeMs: Date.now(),
+        };
+        fs.writeFileSync(
+          `./${OUTPUTDIR}/terms/${batch.schoolTerm}.json`,
+          JSON.stringify(info, null, 2)
+        );
+      });
+    }
+    moduleLog('JWXK', '所有学期均已获取完毕');
+    fs.writeFileSync(
+      `./${OUTPUTDIR}/current.json`,
+      JSON.stringify(
+        batches.map((b) => b.schoolTerm),
+        null,
+        2
+      )
+    );
   });
 });
