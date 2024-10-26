@@ -10396,9 +10396,9 @@
       "courseName": "线性代数",
       "credit": "3",
       "limitations": [
-        "人数已满"
+        "限制人数"
       ],
-      "number": "115",
+      "number": "117",
       "position": "",
       "teacherId": "1001",
       "teacherName": "蔡敏",
@@ -10548,9 +10548,9 @@
       "courseName": "线性代数",
       "credit": "3",
       "limitations": [
-        "人数已满"
+        "限制人数"
       ],
-      "number": "120",
+      "number": "121",
       "position": "",
       "teacherId": "1011",
       "teacherName": "蔡敏",
@@ -11973,13 +11973,13 @@
     },
     {
       "campus": "宝山",
-      "capacity": "120",
+      "capacity": "117",
       "classTime": "二3-4 四3-4",
       "courseId": "01034117",
       "courseName": "大学物理(1)",
       "credit": "4",
       "limitations": [
-        "限制人数"
+        "人数已满"
       ],
       "number": "117",
       "position": "",
@@ -11989,7 +11989,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "117",
+      "capacity": "104",
       "classTime": "二3-4 四3-4",
       "courseId": "01034117",
       "courseName": "大学物理(1)",
@@ -12019,7 +12019,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "117",
+      "capacity": "70",
       "classTime": "二3-4 四3-4",
       "courseId": "01034117",
       "courseName": "大学物理(1)",
@@ -12033,7 +12033,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "117",
+      "capacity": "70",
       "classTime": "二3-4 四3-4",
       "courseId": "01034117",
       "courseName": "大学物理(1)",
@@ -68434,7 +68434,7 @@
       "teacherTitle": ""
     }
   ],
-  "hash": "d63540ad1ce39ecf44ffbb92b65407b8",
+  "hash": "ccbe6e576c8a92ab2921cd87da51259a",
   "termName": "2024-2025学年冬季学期",
-  "updateTimeMs": 1729939536614
+  "updateTimeMs": 1729942831365
 }
