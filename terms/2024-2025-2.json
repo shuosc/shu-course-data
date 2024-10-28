@@ -50,7 +50,9 @@
       "courseId": "00000000",
       "courseName": "活动课",
       "credit": "0",
-      "limitations": [],
+      "limitations": [
+        "限制人数"
+      ],
       "number": "57",
       "position": "",
       "teacherId": "1004",
@@ -64,8 +66,10 @@
       "courseId": "00000000",
       "courseName": "活动课",
       "credit": "0",
-      "limitations": [],
-      "number": "237",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "230",
       "position": "",
       "teacherId": "1005",
       "teacherName": "赵知为",
@@ -53423,7 +53427,9 @@
       "courseId": "16583109",
       "courseName": "形势与政策",
       "credit": "0",
-      "limitations": [],
+      "limitations": [
+        "限制人数"
+      ],
       "number": "10",
       "position": "",
       "teacherId": "1137",
@@ -68454,7 +68460,7 @@
       "teacherTitle": ""
     }
   ],
-  "hash": "0018bc30d1329a36ca9a3764d0f163be",
+  "hash": "6b0dc5243e72b668f678d6bfa05852b7",
   "termName": "2024-2025学年冬季学期",
-  "updateTimeMs": 1730085040691
+  "updateTimeMs": 1730087382477
 }
