@@ -20125,7 +20125,9 @@
       "courseId": "03004414",
       "courseName": "商务英语写作",
       "credit": "2",
-      "limitations": [],
+      "limitations": [
+        "人数已满"
+      ],
       "number": "0",
       "position": "",
       "teacherId": "3001",
@@ -21308,13 +21310,13 @@
     },
     {
       "campus": "宝山",
-      "capacity": "49",
+      "capacity": "45",
       "classTime": "一1-2 三1-2",
       "courseId": "03004481",
       "courseName": "通用英语B(2)",
       "credit": "4",
       "limitations": [
-        "限制人数"
+        "人数已满"
       ],
       "number": "45",
       "position": "",
@@ -21554,12 +21556,14 @@
     },
     {
       "campus": "宝山",
-      "capacity": "49",
+      "capacity": "45",
       "classTime": "一1-2 三1-2",
       "courseId": "03004481",
       "courseName": "通用英语B(2)",
       "credit": "4",
-      "limitations": [],
+      "limitations": [
+        "人数已满"
+      ],
       "number": "45",
       "position": "",
       "teacherId": "1020",
@@ -21598,12 +21602,14 @@
     },
     {
       "campus": "宝山",
-      "capacity": "49",
+      "capacity": "45",
       "classTime": "一1-2 三1-2",
       "courseId": "03004481",
       "courseName": "通用英语B(2)",
       "credit": "4",
-      "limitations": [],
+      "limitations": [
+        "限制人数"
+      ],
       "number": "8",
       "position": "",
       "teacherId": "1023",
@@ -21640,12 +21646,14 @@
     },
     {
       "campus": "宝山",
-      "capacity": "49",
+      "capacity": "46",
       "classTime": "一1-2 三1-2",
       "courseId": "03004481",
       "courseName": "通用英语B(2)",
       "credit": "4",
-      "limitations": [],
+      "limitations": [
+        "人数已满"
+      ],
       "number": "46",
       "position": "",
       "teacherId": "1026",
@@ -21686,13 +21694,13 @@
     },
     {
       "campus": "宝山",
-      "capacity": "49",
+      "capacity": "45",
       "classTime": "一1-2 三1-2",
       "courseId": "03004481",
       "courseName": "通用英语B(2)",
       "credit": "4",
       "limitations": [
-        "限制人数"
+        "人数已满"
       ],
       "number": "45",
       "position": "",
@@ -24874,12 +24882,14 @@
     },
     {
       "campus": "宝山",
-      "capacity": "70",
+      "capacity": "60",
       "classTime": "二5-6",
       "courseId": "0400J509",
       "courseName": "货币政策和人民币的保值增值",
       "credit": "2",
-      "limitations": [],
+      "limitations": [
+        "限制人数"
+      ],
       "number": "37",
       "position": "",
       "teacherId": "1000",
@@ -30898,7 +30908,7 @@
     {
       "campus": "宝山",
       "capacity": "45",
-      "classTime": "一1-2 学院机房上机 二5-6 四5-6单",
+      "classTime": "一1-2 二5-6 上机 四5-6单",
       "courseId": "08305014",
       "courseName": "数据库原理(1)",
       "credit": "4",
@@ -37932,12 +37942,14 @@
       "courseId": "1100L011",
       "courseName": "化妆品透视",
       "credit": "2",
-      "limitations": [],
-      "number": "7",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "0",
       "position": "",
       "teacherId": "3000",
       "teacherName": "雷炳莉",
-      "teacherTitle": "高级讲师"
+      "teacherTitle": ""
     },
     {
       "campus": "宝山",
@@ -68460,7 +68472,7 @@
       "teacherTitle": ""
     }
   ],
-  "hash": "f036a3eb33a88016ed11b7a2253bfaa3",
+  "hash": "c28ee362ae6c0ca83af4d400cf8d91ed",
   "termName": "2024-2025学年冬季学期",
-  "updateTimeMs": 1730180635865
+  "updateTimeMs": 1730195005183
 }
