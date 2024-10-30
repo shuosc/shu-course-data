@@ -25,74 +25,59 @@ function fetchBatch(
   token: string
 ): Promise<{ schoolTerm: string; name: string; code: string }[]> {
   return new Promise((resolve, reject) => {
-    fetch('https://jwxk.shu.edu.cn/xsxk/profile/index.html', {
+    fetch(`https://jwxk.shu.edu.cn/xsxk/web/studentInfo`, {
+      method: 'POST',
+      headers: {
+        Authorization: token,
+        'Content-Type': 'application/x-www-form-urlencoded',
+      },
+      body: `token=${token}`,
       agent: httpsAgent,
     })
       .then((r) => {
-        r.text()
+        r.json()
           .then((r) => {
-            const batchInfo = JSON.parse(
-              r.split('var batch = ')[1].split(';')[0]
-            );
-            const { code, schoolTerm, name } = batchInfo;
-            moduleLog('JWXK', logChain('batchId', code));
-            fetch(
-              `https://jwxk.shu.edu.cn/xsxk/elective/grablessons?batchId=${code}`,
-              {
-                agent: httpsAgent,
-                headers: {
-                  Cookie: `Authorization=${token}`,
-                },
+            if (r.code !== 200) reject(r.msg);
+            const raw_batches: {
+              schoolTerm: string;
+              name: string;
+              code: string;
+            }[] = (r.data.student.electiveBatchList as IElectiveBatch[])
+              // .filter((e) => e.canSelect === '1')
+              .map((e) => ({
+                schoolTerm: e.schoolTerm,
+                name: e.name,
+                code: e.code,
+              }))
+              .sort((a, b) => {
+                const convertTermToNumber = (term: string) => {
+                  const [startYear, endYear, semester] = term.split('-');
+                  return parseInt(startYear) * 10 + parseInt(semester);
+                };
+                return (
+                  convertTermToNumber(b.schoolTerm) -
+                  convertTermToNumber(a.schoolTerm)
+                );
+              });
+            const batches_set = new Set<string>();
+            const batches = raw_batches.filter((e) => {
+              if (!batches_set.has(e.schoolTerm)) {
+                batches_set.add(e.schoolTerm);
+                return true;
               }
-            )
-              .then((r) =>
-                r
-                  .text()
-                  .then((r) => {
-                    const {
-                      electiveBatchList,
-                    }: {
-                      electiveBatchList: IElectiveBatch[];
-                    } = JSON.parse(
-                      r.split('grablessonsVue.studentInfo = ')[1].split(';')[0]
-                    );
-                    const batches: {
-                      schoolTerm: string;
-                      name: string;
-                      code: string;
-                    }[] = electiveBatchList
-                      .filter((e) => e.canSelect === '1')
-                      .map((e) => ({
-                        schoolTerm: e.schoolTerm,
-                        name: e.name,
-                        code: e.code,
-                      }))
-                      .sort((a, b) => {
-                        const convertTermToNumber = (term: string) => {
-                          const [startYear, endYear, semester] =
-                            term.split('-');
-                          return parseInt(startYear) * 10 + parseInt(semester);
-                        };
-                        return (
-                          convertTermToNumber(b.schoolTerm) -
-                          convertTermToNumber(a.schoolTerm)
-                        );
-                      });
-                    moduleLog(
-                      'JWXK',
-                      logChain(
-                        '批次信息',
-                        '\n - ' +
-                          batches
-                            .map((e) => `${e.name}(${e.schoolTerm})`)
-                            .join('\n - ')
-                      )
-                    );
-                    resolve(batches);
-                  })
-                  .catch(reject)
+              return false;
+            });
+            moduleLog(
+              'JWXK',
+              logChain(
+                '批次信息',
+                '\n - ' +
+                  batches
+                    .map((e) => `${e.name}(${e.schoolTerm}) ${e.code}`)
+                    .join('\n - ')
               )
-              .catch(reject);
+            );
+            resolve(batches);
           })
           .catch(reject);
       })
@@ -120,12 +105,15 @@ function getToken(): Promise<string> {
 
 function fetchAllCourses(token: string, code: string): Promise<ICourse[]> {
   return new Promise((resolve, reject) => {
-    fetch(`https://jwxk.shu.edu.cn/xsxk/elective/grablessons?batchId=${code}`, {
-      agent: httpsAgent,
-      headers: {
-        Cookie: `Authorization=${token}`,
-      },
-    })
+    fetch(
+      `https://jwxk.shu.edu.cn/xsxk/elective/shu/grablessons?batchId=${code}`,
+      {
+        agent: httpsAgent,
+        headers: {
+          Cookie: `Authorization=${token}`,
+        },
+      }
+    )
       .then(() =>
         fetch('https://jwxk.shu.edu.cn/xsxk/elective/shu/clazz/list', {
           method: 'POST',
