@@ -687,7 +687,7 @@
       "position": "",
       "teacherId": "1000",
       "teacherName": "席丽丽",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -959,7 +959,7 @@
       "position": "",
       "teacherId": "1000",
       "teacherName": "郭加宏",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -1023,7 +1023,7 @@
       "position": "",
       "teacherId": "1000",
       "teacherName": "吕迎春",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -1071,7 +1071,7 @@
       "position": "",
       "teacherId": "1000",
       "teacherName": "奚晋扬等",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -1103,7 +1103,7 @@
       "position": "",
       "teacherId": "1000",
       "teacherName": "任清华",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -1135,7 +1135,7 @@
       "position": "",
       "teacherId": "1000",
       "teacherName": "刘杨等",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -1167,7 +1167,7 @@
       "position": "",
       "teacherId": "1000",
       "teacherName": "吴建钊",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -1263,7 +1263,7 @@
       "position": "",
       "teacherId": "1000",
       "teacherName": "王鹏",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -1327,7 +1327,7 @@
       "position": "",
       "teacherId": "1000",
       "teacherName": "高兴华",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -1406,7 +1406,7 @@
       "number": "29",
       "position": "",
       "teacherId": "1002",
-      "teacherName": "王晓霞等",
+      "teacherName": "王晓霞",
       "teacherTitle": "副教授"
     },
     {
@@ -1422,7 +1422,7 @@
       "number": "35",
       "position": "",
       "teacherId": "1003",
-      "teacherName": "曾志刚等",
+      "teacherName": "曾志刚",
       "teacherTitle": "副教授"
     },
     {
@@ -1438,7 +1438,7 @@
       "number": "10",
       "position": "",
       "teacherId": "1004",
-      "teacherName": "陈红霞等",
+      "teacherName": "陈红霞",
       "teacherTitle": "教授"
     },
     {
@@ -1454,7 +1454,7 @@
       "number": "20",
       "position": "",
       "teacherId": "1005",
-      "teacherName": "洪玲等",
+      "teacherName": "洪玲",
       "teacherTitle": "副教授"
     },
     {
@@ -1867,7 +1867,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "24",
+      "number": "25",
       "position": "",
       "teacherId": "3032",
       "teacherName": "林建华",
@@ -2051,15 +2051,15 @@
     },
     {
       "campus": "延长",
-      "capacity": "24",
+      "capacity": "25",
       "classTime": "一07-08 女生网球",
       "courseId": "00853002",
       "courseName": "体育(2)",
       "credit": "1",
       "limitations": [
-        "限制人数"
+        "人数已满"
       ],
-      "number": "23",
+      "number": "25",
       "position": "",
       "teacherId": "3793",
       "teacherName": "陆树兵",
@@ -3003,7 +3003,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "24",
+      "number": "25",
       "position": "",
       "teacherId": "1331",
       "teacherName": "益广仁",
@@ -4467,7 +4467,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "26",
+      "capacity": "27",
       "classTime": "四09-10 男女跆拳道",
       "courseId": "00853218",
       "courseName": "跆拳道(基础)",
@@ -4475,7 +4475,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "26",
+      "number": "27",
       "position": "",
       "teacherId": "1638",
       "teacherName": "程龙",
@@ -4851,7 +4851,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "26",
+      "capacity": "27",
       "classTime": "三07-08 男生高尔夫",
       "courseId": "00853221",
       "courseName": "高尔夫球(基础)",
@@ -4859,7 +4859,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "26",
+      "number": "27",
       "position": "",
       "teacherId": "1285",
       "teacherName": "沙俊波",
@@ -5451,7 +5451,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "19",
+      "number": "20",
       "position": "",
       "teacherId": "1156",
       "teacherName": "居蔚青",
@@ -5881,9 +5881,9 @@
       "courseName": "篮球(2)",
       "credit": "1",
       "limitations": [
-        "限制人数"
+        "人数已满"
       ],
-      "number": "23",
+      "number": "24",
       "position": "",
       "teacherId": "1056",
       "teacherName": "吕彪",
@@ -7267,13 +7267,13 @@
     },
     {
       "campus": "宝山",
-      "capacity": "30",
+      "capacity": "31",
       "classTime": "三05-06 女生高尔夫",
       "courseId": "00853521",
       "courseName": "高尔夫球(2)",
       "credit": "1",
       "limitations": [
-        "限制人数"
+        "人数已满"
       ],
       "number": "31",
       "position": "",
@@ -8361,12 +8361,12 @@
       "courseName": "体育中国",
       "credit": "3",
       "limitations": [
-        "人数已满"
+        "限制人数"
       ],
-      "number": "70",
+      "number": "69",
       "position": "",
       "teacherId": "1000",
-      "teacherName": "刘兵等",
+      "teacherName": "刘兵",
       "teacherTitle": "教授"
     },
     {
@@ -8411,7 +8411,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "3",
+      "number": "2",
       "position": "",
       "teacherId": "1932",
       "teacherName": "卢琳",
@@ -8499,15 +8499,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "95",
+      "capacity": "97",
       "classTime": "三9-11 五1-2 上机",
       "courseId": "00864088",
       "courseName": "程序设计(C语言)",
       "credit": "4",
       "limitations": [
-        "人数已满"
+        "限制人数"
       ],
-      "number": "95",
+      "number": "96",
       "position": "",
       "teacherId": "1001",
       "teacherName": "佘俊",
@@ -8523,7 +8523,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "36",
+      "number": "37",
       "position": "",
       "teacherId": "1002",
       "teacherName": "宋波",
@@ -8563,7 +8563,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "82",
+      "capacity": "84",
       "classTime": "一9-11 三7-8 上机",
       "courseId": "00864088",
       "courseName": "程序设计(C语言)",
@@ -8571,7 +8571,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "82",
+      "number": "84",
       "position": "",
       "teacherId": "1005",
       "teacherName": "高珏",
@@ -8579,8 +8579,24 @@
     },
     {
       "campus": "宝山",
-      "capacity": "81",
+      "capacity": "83",
       "classTime": "二9-11 四5-6 上机",
+      "courseId": "00864088",
+      "courseName": "程序设计(C语言)",
+      "credit": "4",
+      "limitations": [
+        "限制人数"
+      ],
+      "number": "82",
+      "position": "",
+      "teacherId": "1006",
+      "teacherName": "张军英",
+      "teacherTitle": ""
+    },
+    {
+      "campus": "宝山",
+      "capacity": "81",
+      "classTime": "二9-11 四9-10 上机",
       "courseId": "00864088",
       "courseName": "程序设计(C语言)",
       "credit": "4",
@@ -8589,29 +8605,13 @@
       ],
       "number": "81",
       "position": "",
-      "teacherId": "1006",
-      "teacherName": "张军英",
-      "teacherTitle": ""
-    },
-    {
-      "campus": "宝山",
-      "capacity": "80",
-      "classTime": "二9-11 四9-10 上机",
-      "courseId": "00864088",
-      "courseName": "程序设计(C语言)",
-      "credit": "4",
-      "limitations": [
-        "人数已满"
-      ],
-      "number": "80",
-      "position": "",
       "teacherId": "1007",
       "teacherName": "高洪皓",
       "teacherTitle": "副教授"
     },
     {
       "campus": "宝山",
-      "capacity": "98",
+      "capacity": "100",
       "classTime": "一9-11 三9-10 上机",
       "courseId": "00864088",
       "courseName": "程序设计(C语言)",
@@ -8619,7 +8619,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "98",
+      "number": "100",
       "position": "",
       "teacherId": "1008",
       "teacherName": "邹启明",
@@ -8841,9 +8841,9 @@
       "courseName": "工程制图与计算机绘图基础",
       "credit": "3",
       "limitations": [
-        "人数已满"
+        "限制人数"
       ],
-      "number": "56",
+      "number": "55",
       "position": "",
       "teacherId": "1005",
       "teacherName": "方建华",
@@ -9099,7 +9099,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "29",
+      "number": "30",
       "position": "",
       "teacherId": "1001",
       "teacherName": "宋波",
@@ -9145,9 +9145,9 @@
       "courseName": "数据分析与智能计算",
       "credit": "3",
       "limitations": [
-        "限制人数"
+        "人数已满"
       ],
-      "number": "80",
+      "number": "81",
       "position": "",
       "teacherId": "1004",
       "teacherName": "张军英",
@@ -9401,9 +9401,9 @@
       "courseName": "程序设计(Python语言)",
       "credit": "4",
       "limitations": [
-        "人数已满"
+        "限制人数"
       ],
-      "number": "80",
+      "number": "79",
       "position": "",
       "teacherId": "1004",
       "teacherName": "宋波",
@@ -9419,7 +9419,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "83",
+      "number": "85",
       "position": "",
       "teacherId": "1005",
       "teacherName": "邹启明",
@@ -9483,7 +9483,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "57",
+      "number": "58",
       "position": "",
       "teacherId": "1001",
       "teacherName": "陶媛",
@@ -10383,7 +10383,7 @@
       "position": "",
       "teacherId": "1000",
       "teacherName": "徐义圣等",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -10441,9 +10441,9 @@
       "courseName": "大学生心理健康",
       "credit": "2",
       "limitations": [
-        "限制人数"
+        "人数已满"
       ],
-      "number": "109",
+      "number": "110",
       "position": "",
       "teacherId": "1003",
       "teacherName": "黄丽娜",
@@ -10457,9 +10457,9 @@
       "courseName": "大学生心理健康",
       "credit": "2",
       "limitations": [
-        "人数已满"
+        "限制人数"
       ],
-      "number": "133",
+      "number": "134",
       "position": "",
       "teacherId": "1004",
       "teacherName": "曹惠",
@@ -10499,15 +10499,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "122",
+      "capacity": "125",
       "classTime": "二7-8双 五9-10 实验 线上",
       "courseId": "00944008",
       "courseName": "大学生心理健康",
       "credit": "2",
       "limitations": [
-        "人数已满"
+        "限制人数"
       ],
-      "number": "122",
+      "number": "123",
       "position": "",
       "teacherId": "1007",
       "teacherName": "廖香园",
@@ -10555,7 +10555,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "112",
+      "number": "114",
       "position": "",
       "teacherId": "1010",
       "teacherName": "海棠",
@@ -10803,7 +10803,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "70",
+      "capacity": "60",
       "classTime": "一5-6 三5-6",
       "courseId": "0100LH02",
       "courseName": "数学探索与发现",
@@ -10814,7 +10814,7 @@
       "number": "35",
       "position": "",
       "teacherId": "1000",
-      "teacherName": "王卿文等",
+      "teacherName": "王卿文",
       "teacherTitle": "教授"
     },
     {
@@ -11323,7 +11323,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "93",
+      "number": "92",
       "position": "",
       "teacherId": "1009",
       "teacherName": "纪丽洁",
@@ -11339,7 +11339,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "84",
+      "number": "85",
       "position": "",
       "teacherId": "1010",
       "teacherName": "纪丽洁",
@@ -11347,7 +11347,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "122",
+      "capacity": "125",
       "classTime": "一9-11",
       "courseId": "01014104",
       "courseName": "线性代数",
@@ -11355,7 +11355,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "122",
+      "number": "125",
       "position": "",
       "teacherId": "1011",
       "teacherName": "蔡敏",
@@ -11427,7 +11427,7 @@
     },
     {
       "campus": "嘉定",
-      "capacity": "77",
+      "capacity": "79",
       "classTime": "一1-2 三5-6",
       "courseId": "01014116",
       "courseName": "高等数学(2)",
@@ -11435,7 +11435,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "77",
+      "number": "79",
       "position": "",
       "teacherId": "2001",
       "teacherName": "张琴",
@@ -11481,9 +11481,9 @@
       "courseName": "高等数学(2)",
       "credit": "4",
       "limitations": [
-        "限制人数"
+        "人数已满"
       ],
-      "number": "80",
+      "number": "81",
       "position": "",
       "teacherId": "2004",
       "teacherName": "豆艳萍",
@@ -11531,7 +11531,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "63",
+      "number": "62",
       "position": "",
       "teacherId": "2007",
       "teacherName": "董建锋",
@@ -11627,7 +11627,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "46",
+      "number": "48",
       "position": "",
       "teacherId": "1005",
       "teacherName": "杨永建",
@@ -11699,7 +11699,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "119",
+      "capacity": "120",
       "classTime": "一3-4 三3-4 五3-4",
       "courseId": "01014126",
       "courseName": "微积分(2)",
@@ -11707,7 +11707,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "119",
+      "number": "120",
       "position": "",
       "teacherId": "1010",
       "teacherName": "刘东杰",
@@ -11747,7 +11747,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "119",
+      "capacity": "120",
       "classTime": "一3-4 三3-4 五3-4",
       "courseId": "01014126",
       "courseName": "微积分(2)",
@@ -11755,7 +11755,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "119",
+      "number": "120",
       "position": "",
       "teacherId": "1013",
       "teacherName": "徐姿",
@@ -11763,7 +11763,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "118",
+      "capacity": "120",
       "classTime": "一3-4 三3-4 五3-4",
       "courseId": "01014126",
       "courseName": "微积分(2)",
@@ -11779,7 +11779,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "105",
+      "capacity": "107",
       "classTime": "一5-6 三5-6 五1-2",
       "courseId": "01014126",
       "courseName": "微积分(2)",
@@ -11787,7 +11787,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "105",
+      "number": "107",
       "position": "",
       "teacherId": "1015",
       "teacherName": "胡召平",
@@ -11827,15 +11827,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "105",
+      "capacity": "110",
       "classTime": "一5-6 三5-6 五7-8",
       "courseId": "01014126",
       "courseName": "微积分(2)",
       "credit": "6",
       "limitations": [
-        "人数已满"
+        "限制人数"
       ],
-      "number": "105",
+      "number": "108",
       "position": "",
       "teacherId": "1018",
       "teacherName": "段成华",
@@ -11955,7 +11955,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "118",
+      "capacity": "119",
       "classTime": "一9-10 三9-10 五1-2",
       "courseId": "01014126",
       "courseName": "微积分(2)",
@@ -11963,7 +11963,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "118",
+      "number": "119",
       "position": "",
       "teacherId": "1026",
       "teacherName": "佟丽宁",
@@ -12041,9 +12041,9 @@
       "courseName": "微积分(2)(经管类)",
       "credit": "6",
       "limitations": [
-        "人数已满"
+        "限制人数"
       ],
-      "number": "131",
+      "number": "130",
       "position": "",
       "teacherId": "1002",
       "teacherName": "曹正军",
@@ -12107,7 +12107,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "37",
+      "number": "38",
       "position": "",
       "teacherId": "1000",
       "teacherName": "王珂",
@@ -12771,7 +12771,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "120",
+      "capacity": "122",
       "classTime": "二1-2 四1-2",
       "courseId": "01034117",
       "courseName": "大学物理(1)",
@@ -12779,7 +12779,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "120",
+      "number": "122",
       "position": "",
       "teacherId": "1001",
       "teacherName": "戴晔",
@@ -12787,13 +12787,13 @@
     },
     {
       "campus": "宝山",
-      "capacity": "121",
+      "capacity": "122",
       "classTime": "二1-2 四1-2",
       "courseId": "01034117",
       "courseName": "大学物理(1)",
       "credit": "4",
       "limitations": [
-        "人数已满"
+        "限制人数"
       ],
       "number": "121",
       "position": "",
@@ -12835,15 +12835,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "120",
+      "capacity": "121",
       "classTime": "二7-8 四7-8",
       "courseId": "01034117",
       "courseName": "大学物理(1)",
       "credit": "4",
       "limitations": [
-        "限制人数"
+        "人数已满"
       ],
-      "number": "119",
+      "number": "121",
       "position": "",
       "teacherId": "1005",
       "teacherName": "李永乐",
@@ -12851,13 +12851,13 @@
     },
     {
       "campus": "宝山",
-      "capacity": "121",
+      "capacity": "122",
       "classTime": "二1-2 四1-2",
       "courseId": "01034117",
       "courseName": "大学物理(1)",
       "credit": "4",
       "limitations": [
-        "人数已满"
+        "限制人数"
       ],
       "number": "121",
       "position": "",
@@ -12987,7 +12987,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "97",
+      "number": "101",
       "position": "",
       "teacherId": "1014",
       "teacherName": "高恒",
@@ -13065,9 +13065,9 @@
       "courseName": "大学物理(1)",
       "credit": "4",
       "limitations": [
-        "限制人数"
+        "人数已满"
       ],
-      "number": "119",
+      "number": "120",
       "position": "",
       "teacherId": "1019",
       "teacherName": "赵苏串",
@@ -13091,7 +13091,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "117",
+      "capacity": "118",
       "classTime": "二9-10 四9-10",
       "courseId": "01034117",
       "courseName": "大学物理(1)",
@@ -13099,7 +13099,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "117",
+      "number": "118",
       "position": "",
       "teacherId": "1021",
       "teacherName": "戴晔",
@@ -13535,7 +13535,7 @@
       "position": "",
       "teacherId": "1021",
       "teacherName": "张惠芳",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -13567,7 +13567,7 @@
       "position": "",
       "teacherId": "1023",
       "teacherName": "张赛锋",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -13583,7 +13583,7 @@
       "position": "",
       "teacherId": "1024",
       "teacherName": "郭艳群",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -13631,7 +13631,7 @@
       "position": "",
       "teacherId": "1027",
       "teacherName": "张惠芳",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -13663,7 +13663,7 @@
       "position": "",
       "teacherId": "1029",
       "teacherName": "张赛锋",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -13679,7 +13679,7 @@
       "position": "",
       "teacherId": "1030",
       "teacherName": "郭艳群",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -13727,7 +13727,7 @@
       "position": "",
       "teacherId": "1033",
       "teacherName": "邓冬梅",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -13759,7 +13759,7 @@
       "position": "",
       "teacherId": "1035",
       "teacherName": "张赛锋",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -13775,7 +13775,7 @@
       "position": "",
       "teacherId": "1036",
       "teacherName": "郭艳群",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -13823,7 +13823,7 @@
       "position": "",
       "teacherId": "1039",
       "teacherName": "邓冬梅",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -13855,7 +13855,7 @@
       "position": "",
       "teacherId": "1041",
       "teacherName": "张赛锋",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -13871,7 +13871,7 @@
       "position": "",
       "teacherId": "1042",
       "teacherName": "吴伟",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -13919,7 +13919,7 @@
       "position": "",
       "teacherId": "1045",
       "teacherName": "邓冬梅",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -13967,7 +13967,7 @@
       "position": "",
       "teacherId": "1048",
       "teacherName": "吴伟",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -14015,7 +14015,7 @@
       "position": "",
       "teacherId": "1051",
       "teacherName": "张惠芳",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -14043,7 +14043,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "14",
+      "number": "15",
       "position": "",
       "teacherId": "1053",
       "teacherName": "鲁玉明",
@@ -14111,7 +14111,7 @@
       "position": "",
       "teacherId": "1057",
       "teacherName": "张惠芳",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -14303,7 +14303,7 @@
       "position": "",
       "teacherId": "1069",
       "teacherName": "邓冬梅",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -14315,7 +14315,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "18",
+      "number": "19",
       "position": "",
       "teacherId": "1070",
       "teacherName": "耿在斌",
@@ -14399,7 +14399,7 @@
       "position": "",
       "teacherId": "1075",
       "teacherName": "邓冬梅",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -14409,9 +14409,9 @@
       "courseName": "大学物理实验(1)",
       "credit": "1",
       "limitations": [
-        "限制人数"
+        "人数已满"
       ],
-      "number": "24",
+      "number": "25",
       "position": "",
       "teacherId": "1076",
       "teacherName": "耿在斌",
@@ -14431,7 +14431,7 @@
       "position": "",
       "teacherId": "1077",
       "teacherName": "张赛锋",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -14495,7 +14495,7 @@
       "position": "",
       "teacherId": "1081",
       "teacherName": "邓冬梅",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -14527,7 +14527,7 @@
       "position": "",
       "teacherId": "1083",
       "teacherName": "张赛锋",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -14543,7 +14543,7 @@
       "position": "",
       "teacherId": "1084",
       "teacherName": "郭艳群",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -14559,7 +14559,7 @@
       "position": "",
       "teacherId": "1085",
       "teacherName": "郭艳群",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -14623,7 +14623,7 @@
       "position": "",
       "teacherId": "1089",
       "teacherName": "张赛锋",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -14719,7 +14719,7 @@
       "position": "",
       "teacherId": "1095",
       "teacherName": "张赛锋",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -14735,7 +14735,7 @@
       "position": "",
       "teacherId": "1096",
       "teacherName": "郭艳群",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -14783,7 +14783,7 @@
       "position": "",
       "teacherId": "1099",
       "teacherName": "张惠芳",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -14831,7 +14831,7 @@
       "position": "",
       "teacherId": "1102",
       "teacherName": "吴伟",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -15391,7 +15391,7 @@
       "position": "",
       "teacherId": "1002",
       "teacherName": "陈园园",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -15471,7 +15471,7 @@
       "position": "",
       "teacherId": "1003",
       "teacherName": "邓江",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -15529,9 +15529,9 @@
       "courseName": "大学化学",
       "credit": "2",
       "limitations": [
-        "限制人数"
+        "人数已满"
       ],
-      "number": "49",
+      "number": "50",
       "position": "",
       "teacherId": "1007",
       "teacherName": "陈运荣",
@@ -15711,7 +15711,7 @@
       "position": "",
       "teacherId": "1008",
       "teacherName": "陈静",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -15759,7 +15759,7 @@
       "position": "",
       "teacherId": "1011",
       "teacherName": "韩璐蓬",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -15807,7 +15807,7 @@
       "position": "",
       "teacherId": "1014",
       "teacherName": "陈国荣",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -15823,7 +15823,7 @@
       "position": "",
       "teacherId": "1015",
       "teacherName": "郑锋",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -15839,7 +15839,7 @@
       "position": "",
       "teacherId": "1016",
       "teacherName": "王金合",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -15903,7 +15903,7 @@
       "position": "",
       "teacherId": "1020",
       "teacherName": "林锦鸿",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -16751,7 +16751,7 @@
       "position": "",
       "teacherId": "1003",
       "teacherName": "任清华",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -17055,7 +17055,7 @@
       "position": "",
       "teacherId": "1000",
       "teacherName": "张晓艳",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -17071,7 +17071,7 @@
       "position": "",
       "teacherId": "1001",
       "teacherName": "林锦鸿",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -17199,7 +17199,7 @@
       "position": "",
       "teacherId": "1002",
       "teacherName": "张晓艳",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -17263,7 +17263,7 @@
       "position": "",
       "teacherId": "1003",
       "teacherName": "任清华",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -17583,7 +17583,7 @@
       "position": "",
       "teacherId": "1002",
       "teacherName": "张晓艳",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -17679,7 +17679,7 @@
       "position": "",
       "teacherId": "1003",
       "teacherName": "王志亮",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -17695,7 +17695,7 @@
       "position": "",
       "teacherId": "1001",
       "teacherName": "尹征南",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -17743,7 +17743,7 @@
       "position": "",
       "teacherId": "1002",
       "teacherName": "魏莎",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -17791,7 +17791,7 @@
       "position": "",
       "teacherId": "1005",
       "teacherName": "张燕",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -17871,7 +17871,7 @@
       "position": "",
       "teacherId": "1005",
       "teacherName": "王秀梅",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -17903,7 +17903,7 @@
       "position": "",
       "teacherId": "1000",
       "teacherName": "陆泽琦",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -17951,7 +17951,7 @@
       "position": "",
       "teacherId": "1000",
       "teacherName": "苏志龙",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -17983,7 +17983,7 @@
       "position": "",
       "teacherId": "1000",
       "teacherName": "卢占斌",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -17999,7 +17999,7 @@
       "position": "",
       "teacherId": "1000",
       "teacherName": "吕浡",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -18139,7 +18139,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "51",
+      "number": "52",
       "position": "",
       "teacherId": "1000",
       "teacherName": "石圆圆",
@@ -18367,7 +18367,7 @@
       "position": "",
       "teacherId": "1000",
       "teacherName": "朱善杰等",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -18383,7 +18383,7 @@
       "position": "",
       "teacherId": "1002",
       "teacherName": "朱善杰等",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -18395,7 +18395,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "43",
+      "number": "44",
       "position": "",
       "teacherId": "1000",
       "teacherName": "聂世昌",
@@ -18431,7 +18431,7 @@
       "position": "",
       "teacherId": "1000",
       "teacherName": "罗小茗等",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -18575,7 +18575,7 @@
       "position": "",
       "teacherId": "1000",
       "teacherName": "朱善杰",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "嘉定",
@@ -18735,7 +18735,7 @@
       "position": "",
       "teacherId": "1000",
       "teacherName": "罗小茗等",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -19081,9 +19081,9 @@
       "courseName": "应用写作A",
       "credit": "3",
       "limitations": [
-        "人数已满"
+        "限制人数"
       ],
-      "number": "62",
+      "number": "61",
       "position": "",
       "teacherId": "1001",
       "teacherName": "汪雨萌",
@@ -19097,9 +19097,9 @@
       "courseName": "应用写作A",
       "credit": "3",
       "limitations": [
-        "人数已满"
+        "限制人数"
       ],
-      "number": "61",
+      "number": "62",
       "position": "",
       "teacherId": "1002",
       "teacherName": "汪雨萌",
@@ -19823,7 +19823,7 @@
       "position": "",
       "teacherId": "1000",
       "teacherName": "罗小茗",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -20041,9 +20041,9 @@
       "courseName": "全球史",
       "credit": "3",
       "limitations": [
-        "人数已满"
+        "限制人数"
       ],
-      "number": "55",
+      "number": "56",
       "position": "",
       "teacherId": "1002",
       "teacherName": "郭丹彤",
@@ -20075,7 +20075,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "28",
+      "number": "29",
       "position": "",
       "teacherId": "1004",
       "teacherName": "柴彬",
@@ -20115,7 +20115,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "55",
+      "capacity": "56",
       "classTime": "三9-11",
       "courseId": "02084280",
       "courseName": "全球史",
@@ -20123,7 +20123,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "55",
+      "number": "56",
       "position": "",
       "teacherId": "1007",
       "teacherName": "徐之凯",
@@ -22827,7 +22827,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "12",
+      "number": "13",
       "position": "",
       "teacherId": "3001",
       "teacherName": "周育",
@@ -22985,9 +22985,9 @@
       "courseName": "通用英语B(2)",
       "credit": "4",
       "limitations": [
-        "限制人数"
+        "人数已满"
       ],
-      "number": "49",
+      "number": "50",
       "position": "",
       "teacherId": "1007",
       "teacherName": "薛清",
@@ -23107,7 +23107,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "49",
+      "capacity": "50",
       "classTime": "一3-4 三3-4",
       "courseId": "03004481",
       "courseName": "通用英语B(2)",
@@ -23115,7 +23115,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "49",
+      "number": "50",
       "position": "",
       "teacherId": "1015",
       "teacherName": "蔡俏兰",
@@ -23243,7 +23243,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "27",
+      "number": "28",
       "position": "",
       "teacherId": "1023",
       "teacherName": "杨兆明",
@@ -23347,7 +23347,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "49",
+      "capacity": "50",
       "classTime": "一3-4 三3-4",
       "courseId": "03004481",
       "courseName": "通用英语B(2)",
@@ -23355,7 +23355,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "49",
+      "number": "50",
       "position": "",
       "teacherId": "1030",
       "teacherName": "范金萍",
@@ -23515,7 +23515,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "25",
+      "number": "26",
       "position": "",
       "teacherId": "1003",
       "teacherName": "陈莎",
@@ -23699,7 +23699,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "34",
+      "capacity": "35",
       "classTime": "一5-6 三5-6",
       "courseId": "03004484",
       "courseName": "通用学术英语A(2)",
@@ -23707,7 +23707,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "34",
+      "number": "35",
       "position": "",
       "teacherId": "1015",
       "teacherName": "虞怡达",
@@ -23961,9 +23961,9 @@
       "courseName": "英语口语",
       "credit": "2",
       "limitations": [
-        "人数已满"
+        "限制人数"
       ],
-      "number": "45",
+      "number": "44",
       "position": "",
       "teacherId": "1003",
       "teacherName": "RYLEE RYAN DOUGLAS BARNES",
@@ -26619,7 +26619,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "67",
+      "number": "66",
       "position": "",
       "teacherId": "1000",
       "teacherName": "祝波",
@@ -27947,7 +27947,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "19",
+      "number": "18",
       "position": "",
       "teacherId": "1000",
       "teacherName": "孟添",
@@ -28335,7 +28335,7 @@
       "position": "",
       "teacherId": "1000",
       "teacherName": "李洪波",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -29182,7 +29182,7 @@
       "number": "26",
       "position": "",
       "teacherId": "1001",
-      "teacherName": "邵建军等",
+      "teacherName": "邵建军",
       "teacherTitle": ""
     },
     {
@@ -29343,7 +29343,7 @@
       "position": "",
       "teacherId": "1000",
       "teacherName": "王则灵",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -29547,7 +29547,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "33",
+      "number": "34",
       "position": "",
       "teacherId": "1002",
       "teacherName": "韩亚娟",
@@ -29563,7 +29563,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "17",
+      "number": "19",
       "position": "",
       "teacherId": "1000",
       "teacherName": "李明琨",
@@ -29595,7 +29595,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "19",
+      "number": "18",
       "position": "",
       "teacherId": "1000",
       "teacherName": "费红英",
@@ -29963,7 +29963,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "43",
+      "number": "44",
       "position": "",
       "teacherId": "1002",
       "teacherName": "马嘉萌",
@@ -30079,7 +30079,7 @@
       "position": "",
       "teacherId": "1000",
       "teacherName": "袁曾",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -30107,7 +30107,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "38",
+      "number": "39",
       "position": "",
       "teacherId": "1000",
       "teacherName": "颜士鹏",
@@ -30251,7 +30251,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "50",
+      "number": "49",
       "position": "",
       "teacherId": "1000",
       "teacherName": "郭娜娜",
@@ -30275,7 +30275,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "70",
+      "capacity": "60",
       "classTime": "一5-6 三3-4",
       "courseId": "0600RH31",
       "courseName": "创新创业与知识产权",
@@ -30286,7 +30286,7 @@
       "number": "44",
       "position": "",
       "teacherId": "1000",
-      "teacherName": "王勉青等",
+      "teacherName": "王勉青",
       "teacherTitle": "教授"
     },
     {
@@ -30335,7 +30335,7 @@
       "position": "",
       "teacherId": "1000",
       "teacherName": "袁曾",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -30427,7 +30427,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "13",
+      "number": "12",
       "position": "",
       "teacherId": "1000",
       "teacherName": "崔文玉",
@@ -31065,9 +31065,9 @@
       "courseName": "信息与国力",
       "credit": "1",
       "limitations": [
-        "人数已满"
+        "限制人数"
       ],
-      "number": "30",
+      "number": "29",
       "position": "",
       "teacherId": "1000",
       "teacherName": "管业鹏",
@@ -31135,7 +31135,7 @@
       "position": "",
       "teacherId": "1000",
       "teacherName": "李正璇",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -31403,7 +31403,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "84",
+      "number": "83",
       "position": "",
       "teacherId": "1002",
       "teacherName": "魏鹤鸣",
@@ -31455,7 +31455,7 @@
       "position": "",
       "teacherId": "1002",
       "teacherName": "肖悦娱",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -31769,9 +31769,9 @@
       "courseName": "电路与电子线路基础(2)",
       "credit": "5",
       "limitations": [
-        "限制人数"
+        "人数已满"
       ],
-      "number": "79",
+      "number": "80",
       "position": "",
       "teacherId": "1002",
       "teacherName": "颜锦奎",
@@ -32783,7 +32783,7 @@
       "position": "",
       "teacherId": "1002",
       "teacherName": "黄青华",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -33039,7 +33039,7 @@
       "position": "",
       "teacherId": "3000",
       "teacherName": "岳涛",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -33663,7 +33663,7 @@
       "position": "",
       "teacherId": "1001",
       "teacherName": "封卫兵",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -33771,7 +33771,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "50",
+      "number": "49",
       "position": "",
       "teacherId": "1000",
       "teacherName": "许东",
@@ -33951,7 +33951,7 @@
       "position": "",
       "teacherId": "1001",
       "teacherName": "李晓强",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -33999,7 +33999,7 @@
       "position": "",
       "teacherId": "1004",
       "teacherName": "李晓强",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -34159,7 +34159,7 @@
       "position": "",
       "teacherId": "1001",
       "teacherName": "马丽艳",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -34207,7 +34207,7 @@
       "position": "",
       "teacherId": "1002",
       "teacherName": "刘娜",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -34287,7 +34287,7 @@
       "position": "",
       "teacherId": "1000",
       "teacherName": "孙翊",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -34399,7 +34399,7 @@
       "position": "",
       "teacherId": "1004",
       "teacherName": "马丽艳",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -34479,7 +34479,7 @@
       "position": "",
       "teacherId": "1000",
       "teacherName": "张丹等",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -34527,7 +34527,7 @@
       "position": "",
       "teacherId": "1000",
       "teacherName": "吴行阳",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -34543,7 +34543,7 @@
       "position": "",
       "teacherId": "1000",
       "teacherName": "许京荆",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -34591,7 +34591,7 @@
       "position": "",
       "teacherId": "3000",
       "teacherName": "林柳兰",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -34607,7 +34607,7 @@
       "position": "",
       "teacherId": "1000",
       "teacherName": "刘娜等",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -34623,7 +34623,7 @@
       "position": "",
       "teacherId": "1000",
       "teacherName": "兰伟霞",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -34703,7 +34703,7 @@
       "position": "",
       "teacherId": "1000",
       "teacherName": "姚远",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "延长",
@@ -34719,7 +34719,7 @@
       "position": "",
       "teacherId": "3000",
       "teacherName": "姚远",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -34739,7 +34739,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "70",
+      "capacity": "65",
       "classTime": "二3-4 五3-4",
       "courseId": "0900LH02",
       "courseName": "智慧地球与创新思维",
@@ -34751,7 +34751,7 @@
       "position": "",
       "teacherId": "1000",
       "teacherName": "胡涛",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -34847,7 +34847,7 @@
       "position": "",
       "teacherId": "1000",
       "teacherName": "陶璟",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -34963,7 +34963,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "30",
+      "capacity": "31",
       "classTime": "二1-2 五3-4",
       "courseId": "09325027",
       "courseName": "液压与气压传动",
@@ -34971,7 +34971,7 @@
       "limitations": [
         "人数已满"
       ],
-      "number": "30",
+      "number": "31",
       "position": "",
       "teacherId": "1001",
       "teacherName": "沈健",
@@ -35055,7 +35055,7 @@
       "position": "",
       "teacherId": "1000",
       "teacherName": "宋薇",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -35279,7 +35279,7 @@
       "position": "",
       "teacherId": "1000",
       "teacherName": "沈振军",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -35519,7 +35519,7 @@
       "position": "",
       "teacherId": "1000",
       "teacherName": "郑华东",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -35599,7 +35599,7 @@
       "position": "",
       "teacherId": "1002",
       "teacherName": "胡涛",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -35727,7 +35727,7 @@
       "position": "",
       "teacherId": "1002",
       "teacherName": "孙学成",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -35887,7 +35887,7 @@
       "position": "",
       "teacherId": "1002",
       "teacherName": "郭慧",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -36095,7 +36095,7 @@
       "position": "",
       "teacherId": "1003",
       "teacherName": "王建国",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -36143,7 +36143,7 @@
       "position": "",
       "teacherId": "1006",
       "teacherName": "王建国",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -36207,7 +36207,7 @@
       "position": "",
       "teacherId": "1004",
       "teacherName": "陈挚",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -36335,7 +36335,7 @@
       "position": "",
       "teacherId": "1001",
       "teacherName": "胡涛",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -36975,7 +36975,7 @@
       "position": "",
       "teacherId": "1001",
       "teacherName": "王舒憬",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -37007,7 +37007,7 @@
       "position": "",
       "teacherId": "1000",
       "teacherName": "杨磊",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -37023,7 +37023,7 @@
       "position": "",
       "teacherId": "1000",
       "teacherName": "杨磊",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -37327,7 +37327,7 @@
       "position": "",
       "teacherId": "1001",
       "teacherName": "宋薇",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -37343,7 +37343,7 @@
       "position": "",
       "teacherId": "1002",
       "teacherName": "刘梅",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -37519,7 +37519,7 @@
       "position": "",
       "teacherId": "1001",
       "teacherName": "张震",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -37615,7 +37615,7 @@
       "position": "",
       "teacherId": "1000",
       "teacherName": "魏塬",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -37823,7 +37823,7 @@
       "position": "",
       "teacherId": "1001",
       "teacherName": "张震",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -37871,7 +37871,7 @@
       "position": "",
       "teacherId": "1000",
       "teacherName": "张震",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -38175,7 +38175,7 @@
       "position": "",
       "teacherId": "1002",
       "teacherName": "蔡红霞",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -38303,7 +38303,7 @@
       "position": "",
       "teacherId": "1001",
       "teacherName": "汪地",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -38335,7 +38335,7 @@
       "position": "",
       "teacherId": "1001",
       "teacherName": "汪地",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -38351,7 +38351,7 @@
       "position": "",
       "teacherId": "1002",
       "teacherName": "汪地",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -38399,7 +38399,7 @@
       "position": "",
       "teacherId": "1001",
       "teacherName": "高同跃",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -38479,7 +38479,7 @@
       "position": "",
       "teacherId": "1001",
       "teacherName": "张燕",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -38847,7 +38847,7 @@
       "position": "",
       "teacherId": "1000",
       "teacherName": "李强",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -38975,7 +38975,7 @@
       "position": "",
       "teacherId": "1000",
       "teacherName": "侯龙",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -39087,7 +39087,7 @@
       "position": "",
       "teacherId": "1000",
       "teacherName": "沈平",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -39119,7 +39119,7 @@
       "position": "",
       "teacherId": "1000",
       "teacherName": "张银辉",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -39135,7 +39135,7 @@
       "position": "",
       "teacherId": "1000",
       "teacherName": "范洪强",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -39263,7 +39263,7 @@
       "position": "",
       "teacherId": "1000",
       "teacherName": "胡春东",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -39295,7 +39295,7 @@
       "position": "",
       "teacherId": "1000",
       "teacherName": "易军",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -39519,7 +39519,7 @@
       "position": "",
       "teacherId": "1001",
       "teacherName": "贾林",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -39535,7 +39535,7 @@
       "position": "",
       "teacherId": "1002",
       "teacherName": "耿志",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -39791,7 +39791,7 @@
       "position": "",
       "teacherId": "1000",
       "teacherName": "贾林",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -39855,7 +39855,7 @@
       "position": "",
       "teacherId": "1000",
       "teacherName": "范灵聪等",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -39935,7 +39935,7 @@
       "position": "",
       "teacherId": "1000",
       "teacherName": "谢建军",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -39999,7 +39999,7 @@
       "position": "",
       "teacherId": "1000",
       "teacherName": "范灵聪",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -40015,7 +40015,7 @@
       "position": "",
       "teacherId": "1000",
       "teacherName": "雷芳",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -40047,7 +40047,7 @@
       "position": "",
       "teacherId": "1000",
       "teacherName": "杨昕昕",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -40095,7 +40095,7 @@
       "position": "",
       "teacherId": "1000",
       "teacherName": "张良苗",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -40111,7 +40111,7 @@
       "position": "",
       "teacherId": "1000",
       "teacherName": "谢建军等",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -40351,7 +40351,7 @@
       "position": "",
       "teacherId": "1001",
       "teacherName": "王达",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -40431,7 +40431,7 @@
       "position": "",
       "teacherId": "1000",
       "teacherName": "赖建明",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -40443,7 +40443,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "24",
+      "number": "23",
       "position": "",
       "teacherId": "1002",
       "teacherName": "胡剑峰",
@@ -40463,7 +40463,7 @@
       "position": "",
       "teacherId": "1000",
       "teacherName": "赵岳",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -40719,7 +40719,7 @@
       "position": "",
       "teacherId": "1000",
       "teacherName": "王杨君等",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "嘉定",
@@ -40735,7 +40735,7 @@
       "position": "",
       "teacherId": "2000",
       "teacherName": "黄凌",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "延长",
@@ -40751,7 +40751,7 @@
       "position": "",
       "teacherId": "3000",
       "teacherName": "王杨君",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -40783,7 +40783,7 @@
       "position": "",
       "teacherId": "1000",
       "teacherName": "陈文倩等",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "嘉定",
@@ -40815,7 +40815,7 @@
       "position": "",
       "teacherId": "3000",
       "teacherName": "陈文倩",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -40827,7 +40827,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "47",
+      "number": "46",
       "position": "",
       "teacherId": "1000",
       "teacherName": "冯艳丽",
@@ -40847,7 +40847,7 @@
       "position": "",
       "teacherId": "2000",
       "teacherName": "雷炳莉",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "延长",
@@ -40863,7 +40863,7 @@
       "position": "",
       "teacherId": "3000",
       "teacherName": "雷炳莉",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -40879,7 +40879,7 @@
       "position": "",
       "teacherId": "1000",
       "teacherName": "金荣等",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -40911,7 +40911,7 @@
       "position": "",
       "teacherId": "1000",
       "teacherName": "黄守双等",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "嘉定",
@@ -40975,7 +40975,7 @@
       "position": "",
       "teacherId": "1000",
       "teacherName": "马静",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "嘉定",
@@ -41007,7 +41007,7 @@
       "position": "",
       "teacherId": "3000",
       "teacherName": "马静",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -41935,7 +41935,7 @@
       "position": "",
       "teacherId": "1000",
       "teacherName": "王杨君",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -42303,7 +42303,7 @@
       "position": "",
       "teacherId": "1000",
       "teacherName": "SU QIANQIAN等",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -42335,7 +42335,7 @@
       "position": "",
       "teacherId": "1000",
       "teacherName": "朱晨光",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -42555,7 +42555,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "69",
+      "number": "68",
       "position": "",
       "teacherId": "1000",
       "teacherName": "王丽君",
@@ -42607,7 +42607,7 @@
       "position": "",
       "teacherId": "1000",
       "teacherName": "李平等",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -42665,9 +42665,9 @@
       "courseName": "中国饮食文化",
       "credit": "2",
       "limitations": [
-        "限制人数"
+        "人数已满"
       ],
-      "number": "69",
+      "number": "70",
       "position": "",
       "teacherId": "1000",
       "teacherName": "高海燕等",
@@ -42847,7 +42847,7 @@
       "position": "",
       "teacherId": "1002",
       "teacherName": "李平",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -42959,7 +42959,7 @@
       "position": "",
       "teacherId": "1002",
       "teacherName": "李平",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -43119,7 +43119,7 @@
       "position": "",
       "teacherId": "1000",
       "teacherName": "於得红",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -43327,7 +43327,7 @@
       "position": "",
       "teacherId": "1000",
       "teacherName": "朱晨光",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -43471,7 +43471,7 @@
       "position": "",
       "teacherId": "1000",
       "teacherName": "於得红",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -44649,9 +44649,9 @@
       "courseName": "现代艺术思潮与建筑",
       "credit": "1",
       "limitations": [
-        "限制人数"
+        "人数已满"
       ],
-      "number": "19",
+      "number": "20",
       "position": "",
       "teacherId": "1000",
       "teacherName": "王海松",
@@ -49979,7 +49979,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "42",
+      "number": "41",
       "position": "",
       "teacherId": "3000",
       "teacherName": "张莹",
@@ -50057,9 +50057,9 @@
       "courseName": "广告与社会",
       "credit": "2",
       "limitations": [
-        "人数已满"
+        "限制人数"
       ],
-      "number": "70",
+      "number": "69",
       "position": "",
       "teacherId": "1000",
       "teacherName": "贾鉴",
@@ -52971,7 +52971,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "62",
+      "number": "63",
       "position": "",
       "teacherId": "2004",
       "teacherName": "吕斐斐",
@@ -53199,7 +53199,7 @@
       "position": "",
       "teacherId": "2002",
       "teacherName": "田圣炳",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "嘉定",
@@ -53263,7 +53263,7 @@
       "position": "",
       "teacherId": "2006",
       "teacherName": "田圣炳",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "嘉定",
@@ -54139,7 +54139,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "19",
+      "number": "20",
       "position": "",
       "teacherId": "2002",
       "teacherName": "沈一帆",
@@ -54891,7 +54891,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "44",
+      "number": "45",
       "position": "",
       "teacherId": "2001",
       "teacherName": "方楚怡",
@@ -55291,7 +55291,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "68",
+      "number": "69",
       "position": "",
       "teacherId": "1000",
       "teacherName": "曾海龙",
@@ -55459,13 +55459,13 @@
     },
     {
       "campus": "宝山",
-      "capacity": "125",
+      "capacity": "130",
       "classTime": "一5-6(2周,7周)",
       "courseId": "16583109",
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
-        "人数已满"
+        "限制人数"
       ],
       "number": "125",
       "position": "",
@@ -55483,7 +55483,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "124",
+      "number": "125",
       "position": "",
       "teacherId": "1003",
       "teacherName": "焦成焕",
@@ -55583,7 +55583,7 @@
       "position": "",
       "teacherId": "1009",
       "teacherName": "徐义圣",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -55611,7 +55611,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "136",
+      "number": "137",
       "position": "",
       "teacherId": "1011",
       "teacherName": "王沁",
@@ -55651,13 +55651,13 @@
     },
     {
       "campus": "宝山",
-      "capacity": "135",
+      "capacity": "140",
       "classTime": "一9-10(3周,8周)",
       "courseId": "16583109",
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
-        "人数已满"
+        "限制人数"
       ],
       "number": "135",
       "position": "",
@@ -55689,9 +55689,9 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
-        "人数已满"
+        "限制人数"
       ],
-      "number": "135",
+      "number": "134",
       "position": "",
       "teacherId": "1016",
       "teacherName": "李之喆",
@@ -56121,9 +56121,9 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
-        "限制人数"
+        "人数已满"
       ],
-      "number": "119",
+      "number": "120",
       "position": "",
       "teacherId": "1043",
       "teacherName": "童颖",
@@ -56409,9 +56409,9 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
-        "人数已满"
+        "限制人数"
       ],
-      "number": "132",
+      "number": "131",
       "position": "",
       "teacherId": "1061",
       "teacherName": "刘子杰",
@@ -56827,7 +56827,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "12",
+      "number": "13",
       "position": "",
       "teacherId": "1087",
       "teacherName": "杨秀君",
@@ -57001,9 +57001,9 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
-        "人数已满"
+        "限制人数"
       ],
-      "number": "120",
+      "number": "119",
       "position": "",
       "teacherId": "1098",
       "teacherName": "孙士庆",
@@ -57215,7 +57215,7 @@
       "position": "",
       "teacherId": "1111",
       "teacherName": "于伟",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -57451,7 +57451,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "68",
+      "number": "69",
       "position": "",
       "teacherId": "1126",
       "teacherName": "王有英",
@@ -58427,7 +58427,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "84",
+      "number": "85",
       "position": "",
       "teacherId": "1006",
       "teacherName": "赵宁",
@@ -58571,7 +58571,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "46",
+      "number": "47",
       "position": "",
       "teacherId": "1004",
       "teacherName": "艾慧",
@@ -59243,7 +59243,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "27",
+      "number": "28",
       "position": "",
       "teacherId": "1008",
       "teacherName": "高红明",
@@ -59579,7 +59579,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "27",
+      "number": "26",
       "position": "",
       "teacherId": "1006",
       "teacherName": "曹青春",
@@ -59995,7 +59995,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "75",
+      "number": "76",
       "position": "",
       "teacherId": "1011",
       "teacherName": "李大山",
@@ -60607,7 +60607,7 @@
       "position": "",
       "teacherId": "1000",
       "teacherName": "刘友古",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -60715,7 +60715,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "5",
+      "number": "6",
       "position": "",
       "teacherId": "1000",
       "teacherName": "戴益斌等",
@@ -60767,7 +60767,7 @@
       "position": "",
       "teacherId": "1000",
       "teacherName": "刘友古",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -61279,7 +61279,7 @@
       "position": "",
       "teacherId": "3000",
       "teacherName": "汪伟",
-      "teacherTitle": ""
+      "teacherTitle": "工程师"
     },
     {
       "campus": "延长",
@@ -61935,7 +61935,7 @@
       "position": "",
       "teacherId": "3000",
       "teacherName": "汪伟",
-      "teacherTitle": ""
+      "teacherTitle": "工程师"
     },
     {
       "campus": "延长",
@@ -63387,7 +63387,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "33",
+      "number": "34",
       "position": "",
       "teacherId": "3000",
       "teacherName": "宋瑜",
@@ -64703,7 +64703,7 @@
       "position": "",
       "teacherId": "1002",
       "teacherName": "赵永梅",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -65067,7 +65067,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "38",
+      "number": "39",
       "position": "",
       "teacherId": "1002",
       "teacherName": "陈娜",
@@ -65439,7 +65439,7 @@
       "position": "",
       "teacherId": "1000",
       "teacherName": "宋薇",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -65627,7 +65627,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "12",
+      "number": "13",
       "position": "",
       "teacherId": "1000",
       "teacherName": "吴成章",
@@ -65755,7 +65755,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "26",
+      "number": "27",
       "position": "",
       "teacherId": "1000",
       "teacherName": "刘寅斌",
@@ -66223,7 +66223,7 @@
       "position": "",
       "teacherId": "3000",
       "teacherName": "陈蓉",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -72879,7 +72879,7 @@
       "position": "",
       "teacherId": "2005",
       "teacherName": "殷录桥等",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "嘉定",
@@ -73167,7 +73167,7 @@
       "position": "",
       "teacherId": "2001",
       "teacherName": "路秀真",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "嘉定",
@@ -73215,7 +73215,7 @@
       "position": "",
       "teacherId": "2000",
       "teacherName": "殷录桥",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "嘉定",
@@ -73359,7 +73359,7 @@
       "position": "",
       "teacherId": "1000",
       "teacherName": "孟庆时等",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -73433,9 +73433,9 @@
       "courseName": "医道中国",
       "credit": "3",
       "limitations": [
-        "限制人数"
+        "人数已满"
       ],
-      "number": "69",
+      "number": "70",
       "position": "",
       "teacherId": "1000",
       "teacherName": "苏佳灿等",
@@ -73967,7 +73967,7 @@
       "position": "",
       "teacherId": "1000",
       "teacherName": "孙翊",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -73999,7 +73999,7 @@
       "position": "",
       "teacherId": "1000",
       "teacherName": "丁基恒",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -74015,7 +74015,7 @@
       "position": "",
       "teacherId": "1000",
       "teacherName": "王敏等",
-      "teacherTitle": ""
+      "teacherTitle": "高级讲师"
     },
     {
       "campus": "宝山",
@@ -74082,7 +74082,7 @@
       "teacherTitle": ""
     }
   ],
-  "hash": "4a0c4029d7b60c5fe439d0a720e7b6ad",
+  "hash": "8e81e61d06470d2203bd261b0396c848",
   "termName": "2024-2025学年冬季学期",
-  "updateTimeMs": 1730689840600
+  "updateTimeMs": 1730692192429
 }
