@@ -14815,8 +14815,8 @@
       "number": "0",
       "position": "",
       "teacherId": "1101",
-      "teacherName": "郝敏佳",
-      "teacherTitle": "实验师"
+      "teacherName": "张爱林",
+      "teacherTitle": "教授"
     },
     {
       "campus": "宝山",
@@ -22339,6 +22339,22 @@
       "teacherTitle": "讲师"
     },
     {
+      "campus": "宝山",
+      "capacity": "0",
+      "classTime": "一1-2 三1-2",
+      "courseId": "03004473",
+      "courseName": "通用英语D(2)",
+      "credit": "4",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "0",
+      "position": "",
+      "teacherId": "1005",
+      "teacherName": "陈荣",
+      "teacherTitle": "讲师"
+    },
+    {
       "campus": "延长",
       "capacity": "0",
       "classTime": "一3-4 三3-4",
@@ -26479,8 +26495,8 @@
       "number": "0",
       "position": "",
       "teacherId": "1000",
-      "teacherName": "王嘉源",
-      "teacherTitle": "讲师"
+      "teacherName": "赵倩",
+      "teacherTitle": ""
     },
     {
       "campus": "宝山",
@@ -26879,7 +26895,7 @@
       "number": "0",
       "position": "",
       "teacherId": "1000",
-      "teacherName": "聂永有",
+      "teacherName": "聂永有等",
       "teacherTitle": "教授"
     },
     {
@@ -62752,7 +62768,7 @@
       "position": "",
       "teacherId": "1001",
       "teacherName": "赵寻",
-      "teacherTitle": ""
+      "teacherTitle": "讲师"
     },
     {
       "campus": "宝山",
@@ -62880,7 +62896,7 @@
       "position": "",
       "teacherId": "1001",
       "teacherName": "赵寻",
-      "teacherTitle": ""
+      "teacherTitle": "讲师"
     },
     {
       "campus": "宝山",
@@ -74083,7 +74099,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "bc73b9eabf807af684d805b4f37fe066",
+  "hash": "5f7316bb91dc1a497d3e3803dbd49ceb",
   "termName": "2024-2025学年冬季学期",
-  "updateTimeMs": 1731487783278
+  "updateTimeMs": 1731491004179
 }
