@@ -201,7 +201,7 @@ function makeCoursesSimple(courses: ICourse[]): ISimpleCourse[] {
       teacherTitle: course.SKJSZC,
       classTime: course.YPSJDD,
       campus: course.XQ,
-      position: course.teachingPlaceHide,
+      position: course.teachingPlaceHide || '',
       capacity: course.KRL.toString(),
       number:
         course.noCheckKrl === '1'

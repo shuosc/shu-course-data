@@ -206,7 +206,7 @@ export interface ICourse {
    * 如：三7-8 限钱院
    */
   teachingPlace: string;
-  teachingPlaceHide: '';
+  teachingPlaceHide?: string;
   /**
    * 学时
    */
