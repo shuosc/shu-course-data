@@ -14837,6 +14837,22 @@
     {
       "campus": "宝山",
       "capacity": "0",
+      "classTime": "五1-2",
+      "courseId": "01034120",
+      "courseName": "大学物理实验(1)",
+      "credit": "1",
+      "limitations": [
+        "人数已满"
+      ],
+      "number": "0",
+      "position": "F楼1楼",
+      "teacherId": "1103",
+      "teacherName": "安康",
+      "teacherTitle": "讲师"
+    },
+    {
+      "campus": "宝山",
+      "capacity": "0",
       "classTime": "五3-4",
       "courseId": "01034121",
       "courseName": "大学物理实验(2)",
@@ -74099,7 +74115,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "68f75f349036033b36448a46ac0a425f",
+  "hash": "1aab168f93c0c6fa20980f4d78bad603",
   "termName": "2024-2025学年冬季学期",
-  "updateTimeMs": 1731836576629
+  "updateTimeMs": 1731840285597
 }
