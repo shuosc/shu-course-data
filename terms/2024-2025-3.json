@@ -35847,16 +35847,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "25",
+      "capacity": "0",
       "classTime": "另行通知",
       "courseId": "0936A009",
       "courseName": "综合课程设计",
       "credit": "4",
       "limitations": [
-        "限制人数",
-        "禁止选课"
+        "人数已满"
       ],
-      "number": "5",
+      "number": "0",
       "position": "",
       "teacherId": "1001",
       "teacherName": "杨影",
@@ -35864,13 +35863,13 @@
     },
     {
       "campus": "宝山",
-      "capacity": "25",
+      "capacity": "30",
       "classTime": "另行通知",
       "courseId": "0936A009",
       "courseName": "综合课程设计",
       "credit": "4",
       "limitations": [
-        "人数已满"
+        "限制人数"
       ],
       "number": "25",
       "position": "",
@@ -35880,13 +35879,13 @@
     },
     {
       "campus": "宝山",
-      "capacity": "25",
+      "capacity": "30",
       "classTime": "另行通知",
       "courseId": "0936A009",
       "courseName": "综合课程设计",
       "credit": "4",
       "limitations": [
-        "人数已满"
+        "限制人数"
       ],
       "number": "25",
       "position": "",
@@ -76812,7 +76811,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "7b7072139c81ef4777b01946645f94a9",
+  "hash": "4a9859fefd41132e6c73dad78f53bbb0",
   "termName": "2024-2025学年春季学期",
-  "updateTimeMs": 1736235606147
+  "updateTimeMs": 1736239595229
 }
