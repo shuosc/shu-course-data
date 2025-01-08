@@ -10625,7 +10625,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "100",
+      "capacity": "60",
       "classTime": "三3-4单 五11-12 实验 线上",
       "courseId": "00944008",
       "courseName": "大学生心理健康",
@@ -10737,7 +10737,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "100",
+      "capacity": "40",
       "classTime": "三1-2单 五11-12 实验 线上",
       "courseId": "00944008",
       "courseName": "大学生心理健康",
@@ -17553,7 +17553,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "20",
+      "capacity": "10",
       "classTime": "二5-6",
       "courseId": "0182EY02",
       "courseName": "研究方法与前沿(工程技术前沿概览)",
@@ -26119,7 +26119,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "70",
+      "capacity": "50",
       "classTime": "三5-6",
       "courseId": "0400J501",
       "courseName": "走近服务经济",
@@ -26247,7 +26247,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "70",
+      "capacity": "50",
       "classTime": "一5-6 三5-6",
       "courseId": "0400JH02",
       "courseName": "金融与社会",
@@ -29223,13 +29223,13 @@
     },
     {
       "campus": "宝山",
-      "capacity": "30",
+      "capacity": "0",
       "classTime": "四9-11",
       "courseId": "04235012",
       "courseName": "信息政策与法规",
       "credit": "3",
       "limitations": [
-        "限制人数"
+        "人数已满"
       ],
       "number": "0",
       "position": "",
@@ -29623,7 +29623,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "30",
+      "capacity": "14",
       "classTime": "三3-4",
       "courseId": "0464EY01",
       "courseName": "金融物流监管",
@@ -29847,7 +29847,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "50",
+      "capacity": "30",
       "classTime": "一5-6 三9-10",
       "courseId": "04716007",
       "courseName": "财务专业英语",
@@ -34519,7 +34519,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "70",
+      "capacity": "40",
       "classTime": "三3-4",
       "courseId": "0900L005",
       "courseName": "精准医疗中的工程技术",
@@ -41893,7 +41893,7 @@
       "position": "",
       "teacherId": "1000",
       "teacherName": "游学极",
-      "teacherTitle": ""
+      "teacherTitle": "副教授"
     },
     {
       "campus": "宝山",
@@ -42377,7 +42377,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "70",
+      "capacity": "50",
       "classTime": "三3-4",
       "courseId": "1200L019",
       "courseName": "未来医院",
@@ -43593,7 +43593,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "30",
+      "capacity": "20",
       "classTime": "一7-8 三5-6单 限钱院",
       "courseId": "12835023",
       "courseName": "生物统计学",
@@ -56884,7 +56884,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "70",
+      "capacity": "50",
       "classTime": "二3-4",
       "courseId": "1600R407",
       "courseName": "哲学智慧与创新思维",
@@ -59909,7 +59909,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "70",
+      "capacity": "50",
       "classTime": "二3-4 第1,2,3,9,10周课内教学,其余周次课外教学",
       "courseId": "16584170",
       "courseName": "毛泽东思想和中国特色社会主义理论体系概论(2)",
@@ -59925,7 +59925,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "70",
+      "capacity": "50",
       "classTime": "四3-4 第1,2,3,9,10周课内教学,其余周次课外教学",
       "courseId": "16584170",
       "courseName": "毛泽东思想和中国特色社会主义理论体系概论(2)",
@@ -60902,15 +60902,15 @@
     },
     {
       "campus": "宝山",
-      "capacity": "80",
+      "capacity": "0",
       "classTime": "四7-8(1-5周)",
       "courseId": "16584175",
       "courseName": "国家安全教育",
       "credit": "1",
       "limitations": [
-        "限制人数"
+        "人数已满"
       ],
-      "number": "9",
+      "number": "0",
       "position": "",
       "teacherId": "1014",
       "teacherName": "杨章文",
@@ -68268,7 +68268,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "70",
+      "capacity": "50",
       "classTime": "三3-4",
       "courseId": "2500J501",
       "courseName": "信息与安全",
@@ -76811,7 +76811,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "6516c4ed67ca55223c94b026b08e9009",
+  "hash": "e42c679f60b664de65fa75728a608566",
   "termName": "2024-2025学年春季学期",
-  "updateTimeMs": 1736333175968
+  "updateTimeMs": 1736343833312
 }
