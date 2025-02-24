@@ -61,8 +61,7 @@ jobs:
         uses: actions/setup-node@v4.0.2
         with:
           node-version: 18.x
-          cache: 'yarn'
-
+          
       - name: Install dependencies
         run: yarn install
 
