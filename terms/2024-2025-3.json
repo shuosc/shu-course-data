@@ -3516,13 +3516,13 @@
     },
     {
       "campus": "宝山",
-      "capacity": "24",
+      "capacity": "25",
       "classTime": "三03-04 男生篮球",
       "courseId": "00853203",
       "courseName": "篮球(基础)",
       "credit": "1",
       "limitations": [
-        "人数已满"
+        "限制人数"
       ],
       "number": "24",
       "position": "I区篮22",
@@ -4061,13 +4061,13 @@
     },
     {
       "campus": "宝山",
-      "capacity": "26",
+      "capacity": "27",
       "classTime": "三05-06 男生网球",
       "courseId": "00853206",
       "courseName": "网球(基础)",
       "credit": "1",
       "limitations": [
-        "人数已满"
+        "限制人数"
       ],
       "number": "26",
       "position": "E区网9",
@@ -4685,13 +4685,13 @@
     },
     {
       "campus": "宝山",
-      "capacity": "24",
+      "capacity": "25",
       "classTime": "三09-10 男女跆拳道",
       "courseId": "00853218",
       "courseName": "跆拳道(基础)",
       "credit": "1",
       "limitations": [
-        "人数已满"
+        "限制人数"
       ],
       "number": "24",
       "position": "体育馆2楼南侧",
@@ -4845,7 +4845,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "24",
+      "capacity": "28",
       "classTime": "三05-06 男女攀岩",
       "courseId": "00853219",
       "courseName": "攀岩(基础)",
@@ -11608,13 +11608,13 @@
     },
     {
       "campus": "宝山",
-      "capacity": "110",
+      "capacity": "111",
       "classTime": "一3-4 三3-4",
       "courseId": "01014127",
       "courseName": "微积分(3)",
       "credit": "4",
       "limitations": [
-        "限制人数"
+        "人数已满"
       ],
       "number": "111",
       "position": "DJ108",
@@ -11640,7 +11640,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "108",
+      "capacity": "111",
       "classTime": "一3-4 三3-4",
       "courseId": "01014127",
       "courseName": "微积分(3)",
@@ -12696,13 +12696,13 @@
     },
     {
       "campus": "宝山",
-      "capacity": "117",
+      "capacity": "118",
       "classTime": "二1-2 四1-2",
       "courseId": "01034118",
       "courseName": "大学物理(2)",
       "credit": "4",
       "limitations": [
-        "人数已满"
+        "限制人数"
       ],
       "number": "117",
       "position": "FJ103",
@@ -45596,7 +45596,7 @@
       "courseName": "毕业设计(论文)",
       "credit": "20",
       "limitations": [],
-      "number": "0",
+      "number": "1",
       "position": "不用",
       "teacherId": "3000",
       "teacherName": "魏枢",
@@ -46367,8 +46367,8 @@
       "number": "3",
       "position": "美院414",
       "teacherId": "1001",
-      "teacherName": "孙尧",
-      "teacherTitle": "副教授"
+      "teacherName": "金卿",
+      "teacherTitle": "讲师"
     },
     {
       "campus": "宝山",
@@ -50369,7 +50369,7 @@
         "人数已满"
       ],
       "number": "10",
-      "position": "美院301",
+      "position": "美院224",
       "teacherId": "1000",
       "teacherName": "韦萍",
       "teacherTitle": "副教授"
@@ -76896,7 +76896,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "e6a57fe4bc36c15776cb35ff495865ea",
+  "hash": "5a383bb721201d4ceb1ad24a3ebdea6b",
   "termName": "2024-2025学年春季学期",
-  "updateTimeMs": 1741659088957
+  "updateTimeMs": 1741662625286
 }
