@@ -4403,9 +4403,9 @@
       "courseName": "游泳(基础)",
       "credit": "1",
       "limitations": [
-        "人数已满"
+        "限制人数"
       ],
-      "number": "26",
+      "number": "25",
       "position": "游泳馆小池",
       "teacherId": "1953",
       "teacherName": "王永",
@@ -8640,7 +8640,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "0",
+      "number": "1",
       "position": "游泳馆二楼大池",
       "teacherId": "1001",
       "teacherName": "许汸",
@@ -8656,7 +8656,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "1",
+      "number": "2",
       "position": "游泳馆二楼大池",
       "teacherId": "1002",
       "teacherName": "尹默林",
@@ -8672,7 +8672,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "0",
+      "number": "1",
       "position": "游泳馆二楼大池",
       "teacherId": "1003",
       "teacherName": "卢琳",
@@ -12862,9 +12862,9 @@
       "courseName": "大学物理(2)",
       "credit": "4",
       "limitations": [
-        "限制人数"
+        "人数已满"
       ],
-      "number": "117",
+      "number": "118",
       "position": "FJ103",
       "teacherId": "1004",
       "teacherName": "洪峰",
@@ -13648,7 +13648,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "7",
+      "number": "8",
       "position": "F楼1楼",
       "teacherId": "1026",
       "teacherName": "张赛锋",
@@ -77056,7 +77056,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "48a9740f9c2c77b544b6919acffa13b6",
+  "hash": "b386c874e6a24be7bbc966ca630e80ea",
   "termName": "2024-2025学年春季学期",
-  "updateTimeMs": 1741851633639
+  "updateTimeMs": 1741855712099
 }
