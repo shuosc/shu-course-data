@@ -8640,7 +8640,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "4",
+      "number": "7",
       "position": "游泳馆二楼大池",
       "teacherId": "1001",
       "teacherName": "许汸",
@@ -8656,7 +8656,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "2",
+      "number": "14",
       "position": "游泳馆二楼大池",
       "teacherId": "1002",
       "teacherName": "尹默林",
@@ -8670,9 +8670,9 @@
       "courseName": "游泳(男、女)",
       "credit": "1",
       "limitations": [
-        "限制人数"
+        "人数已满"
       ],
-      "number": "1",
+      "number": "12",
       "position": "游泳馆二楼大池",
       "teacherId": "1003",
       "teacherName": "卢琳",
@@ -8688,7 +8688,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "3",
+      "number": "5",
       "position": "游泳馆二楼大池",
       "teacherId": "1004",
       "teacherName": "刘超云",
@@ -8704,7 +8704,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "1",
+      "number": "4",
       "position": "游泳馆二楼大池",
       "teacherId": "1005",
       "teacherName": "黄军海",
@@ -8720,7 +8720,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "6",
+      "number": "8",
       "position": "游泳馆二楼大池",
       "teacherId": "1006",
       "teacherName": "王永",
@@ -8736,7 +8736,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "3",
+      "number": "5",
       "position": "游泳馆二楼大池",
       "teacherId": "1007",
       "teacherName": "周璇",
@@ -8752,7 +8752,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "0",
+      "number": "5",
       "position": "游泳馆二楼大池",
       "teacherId": "1008",
       "teacherName": "刘超云",
@@ -8768,7 +8768,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "2",
+      "number": "4",
       "position": "游泳馆二楼大池",
       "teacherId": "1009",
       "teacherName": "陈婷",
@@ -8784,7 +8784,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "8",
+      "number": "10",
       "position": "游泳馆二楼大池",
       "teacherId": "1010",
       "teacherName": "陈婷",
@@ -8878,9 +8878,9 @@
       "courseName": "游泳(男、女)",
       "credit": "1",
       "limitations": [
-        "人数已满"
+        "限制人数"
       ],
-      "number": "22",
+      "number": "21",
       "position": "游泳馆二楼大池",
       "teacherId": "1974",
       "teacherName": "周璇",
@@ -57502,9 +57502,9 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
-        "限制人数"
+        "人数已满"
       ],
-      "number": "131",
+      "number": "130",
       "position": "J102",
       "teacherId": "1009",
       "teacherName": "刘子杰",
@@ -77056,7 +77056,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "1e9bc23ca2ca463219b6d801e0dc29de",
+  "hash": "fa52bf8895fd58fdd983ae46d8b71139",
   "termName": "2024-2025学年春季学期",
-  "updateTimeMs": 1741927472242
+  "updateTimeMs": 1741930940887
 }
