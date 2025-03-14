@@ -4085,7 +4085,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "27",
+      "number": "28",
       "position": "E区网9",
       "teacherId": "1844",
       "teacherName": "杨小明",
@@ -5347,9 +5347,9 @@
       "courseName": "操舞(基础)",
       "credit": "1",
       "limitations": [
-        "限制人数"
+        "人数已满"
       ],
-      "number": "23",
+      "number": "24",
       "position": "体育馆T115",
       "teacherId": "1591",
       "teacherName": "陶涛",
@@ -5411,9 +5411,9 @@
       "courseName": "操舞(基础)",
       "credit": "1",
       "limitations": [
-        "人数已满"
+        "限制人数"
       ],
-      "number": "24",
+      "number": "23",
       "position": "体育馆T115",
       "teacherId": "1625",
       "teacherName": "居佳琪",
@@ -8640,7 +8640,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "7",
+      "number": "8",
       "position": "游泳馆二楼大池",
       "teacherId": "1001",
       "teacherName": "许汸",
@@ -8670,9 +8670,9 @@
       "courseName": "游泳(男、女)",
       "credit": "1",
       "limitations": [
-        "人数已满"
+        "限制人数"
       ],
-      "number": "12",
+      "number": "13",
       "position": "游泳馆二楼大池",
       "teacherId": "1003",
       "teacherName": "卢琳",
@@ -8704,7 +8704,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "4",
+      "number": "5",
       "position": "游泳馆二楼大池",
       "teacherId": "1005",
       "teacherName": "黄军海",
@@ -8720,7 +8720,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "8",
+      "number": "10",
       "position": "游泳馆二楼大池",
       "teacherId": "1006",
       "teacherName": "王永",
@@ -8768,7 +8768,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "4",
+      "number": "5",
       "position": "游泳馆二楼大池",
       "teacherId": "1009",
       "teacherName": "陈婷",
@@ -8782,9 +8782,9 @@
       "courseName": "游泳(男、女)",
       "credit": "1",
       "limitations": [
-        "限制人数"
+        "人数已满"
       ],
-      "number": "10",
+      "number": "12",
       "position": "游泳馆二楼大池",
       "teacherId": "1010",
       "teacherName": "陈婷",
@@ -8880,7 +8880,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "21",
+      "number": "20",
       "position": "游泳馆二楼大池",
       "teacherId": "1974",
       "teacherName": "周璇",
@@ -9008,7 +9008,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "52",
+      "number": "53",
       "position": "D217",
       "teacherId": "1005",
       "teacherName": "方建华",
@@ -9168,7 +9168,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "49",
+      "number": "48",
       "position": "D217",
       "teacherId": "1015",
       "teacherName": "方建华",
@@ -15637,6 +15637,22 @@
       "teacherId": "1000",
       "teacherName": "陈园园",
       "teacherTitle": "副研究员"
+    },
+    {
+      "campus": "宝山",
+      "capacity": "10",
+      "classTime": "",
+      "courseId": "01046034",
+      "courseName": "激光原理与技术A",
+      "credit": "5",
+      "limitations": [
+        "限制人数"
+      ],
+      "number": "0",
+      "position": "",
+      "teacherId": "1000",
+      "teacherName": "杨艳芳",
+      "teacherTitle": "副教授"
     },
     {
       "campus": "宝山",
@@ -43996,8 +44012,8 @@
       "number": "18",
       "position": "B425",
       "teacherId": "1000",
-      "teacherName": "陈雨等",
-      "teacherTitle": "研究员"
+      "teacherName": "成富荣",
+      "teacherTitle": "讲师"
     },
     {
       "campus": "宝山",
@@ -44953,7 +44969,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "72",
+      "number": "73",
       "position": "J101",
       "teacherId": "1000",
       "teacherName": "胡建君",
@@ -52815,7 +52831,7 @@
         "限制人数"
       ],
       "number": "13",
-      "position": "上电楼408",
+      "position": "上电楼412",
       "teacherId": "3000",
       "teacherName": "王敏",
       "teacherTitle": "讲师"
@@ -67176,7 +67192,7 @@
         "限制人数"
       ],
       "number": "47",
-      "position": "D309",
+      "position": "FJ404",
       "teacherId": "1000",
       "teacherName": "PFAENDER Fabien等",
       "teacherTitle": ""
@@ -67192,7 +67208,7 @@
         "限制人数"
       ],
       "number": "19",
-      "position": "D204",
+      "position": "FJ306",
       "teacherId": "1000",
       "teacherName": "Antoine JOUGLET等",
       "teacherTitle": ""
@@ -67704,7 +67720,7 @@
         "限制人数"
       ],
       "number": "16",
-      "position": "D204",
+      "position": "FJ306",
       "teacherId": "1000",
       "teacherName": "Antoine JOUGLET等",
       "teacherTitle": ""
@@ -68745,7 +68761,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "47",
+      "number": "46",
       "position": "Ⅳ303",
       "teacherId": "3000",
       "teacherName": "陈蓉",
@@ -75298,7 +75314,7 @@
     {
       "campus": "嘉定",
       "capacity": "10",
-      "classTime": "三5-10",
+      "classTime": "三5-10 1-207(1周,2周) 微电子A楼超净间实验室(3-10周)",
       "courseId": "36055014",
       "courseName": "集成电路器件与工艺实验",
       "credit": "3",
@@ -75306,7 +75322,7 @@
         "人数已满"
       ],
       "number": "10",
-      "position": "微电子A楼超净间（容量10）",
+      "position": "1-207",
       "teacherId": "2001",
       "teacherName": "董渊等",
       "teacherTitle": "教授"
@@ -75314,7 +75330,7 @@
     {
       "campus": "嘉定",
       "capacity": "10",
-      "classTime": "三5-10",
+      "classTime": "三5-10 1-207(1周,2周) 微电子A楼超净间实验室(3-10周)",
       "courseId": "36055014",
       "courseName": "集成电路器件与工艺实验",
       "credit": "3",
@@ -75322,7 +75338,7 @@
         "人数已满"
       ],
       "number": "10",
-      "position": "微电子A楼超净间（容量10）",
+      "position": "1-207",
       "teacherId": "2002",
       "teacherName": "宋健等",
       "teacherTitle": "研究员"
@@ -75330,7 +75346,7 @@
     {
       "campus": "嘉定",
       "capacity": "10",
-      "classTime": "三5-10",
+      "classTime": "三5-10 1-207(1周,2周) 微电子A楼超净间实验室(3-10周)",
       "courseId": "36055014",
       "courseName": "集成电路器件与工艺实验",
       "credit": "3",
@@ -75338,7 +75354,7 @@
         "人数已满"
       ],
       "number": "10",
-      "position": "微电子A楼超净间（容量10）",
+      "position": "1-207",
       "teacherId": "2003",
       "teacherName": "胡鸿等",
       "teacherTitle": "副教授"
@@ -75346,7 +75362,7 @@
     {
       "campus": "嘉定",
       "capacity": "10",
-      "classTime": "三5-10",
+      "classTime": "三5-10 1-207(1周,2周) 微电子A楼超净间实验室(3-10周)",
       "courseId": "36055014",
       "courseName": "集成电路器件与工艺实验",
       "credit": "3",
@@ -75354,7 +75370,7 @@
         "人数已满"
       ],
       "number": "10",
-      "position": "微电子A楼超净间（容量10）",
+      "position": "1-207",
       "teacherId": "2004",
       "teacherName": "殷录桥等",
       "teacherTitle": "研究员"
@@ -75362,7 +75378,7 @@
     {
       "campus": "嘉定",
       "capacity": "10",
-      "classTime": "三5-10",
+      "classTime": "三5-10 1-207(1周,2周) 微电子A楼超净间实验室(3-10周)",
       "courseId": "36055014",
       "courseName": "集成电路器件与工艺实验",
       "credit": "3",
@@ -75370,7 +75386,7 @@
         "人数已满"
       ],
       "number": "10",
-      "position": "微电子A楼超净间（容量10）",
+      "position": "1-207",
       "teacherId": "2005",
       "teacherName": "邱阳等",
       "teacherTitle": "副教授"
@@ -75378,7 +75394,7 @@
     {
       "campus": "嘉定",
       "capacity": "10",
-      "classTime": "三5-10",
+      "classTime": "三5-10 1-207(1周,2周) 微电子A楼超净间实验室(3-10周)",
       "courseId": "36055014",
       "courseName": "集成电路器件与工艺实验",
       "credit": "3",
@@ -75386,7 +75402,7 @@
         "人数已满"
       ],
       "number": "10",
-      "position": "微电子A楼超净间（容量10）",
+      "position": "1-207",
       "teacherId": "2006",
       "teacherName": "薛杰等",
       "teacherTitle": "副教授"
@@ -77056,7 +77072,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "fa52bf8895fd58fdd983ae46d8b71139",
+  "hash": "58675088135d722082aaebde4eb66248",
   "termName": "2024-2025学年春季学期",
-  "updateTimeMs": 1741930940887
+  "updateTimeMs": 1741934959988
 }
