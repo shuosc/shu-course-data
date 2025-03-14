@@ -4403,9 +4403,9 @@
       "courseName": "游泳(基础)",
       "credit": "1",
       "limitations": [
-        "限制人数"
+        "人数已满"
       ],
-      "number": "25",
+      "number": "26",
       "position": "游泳馆小池",
       "teacherId": "1953",
       "teacherName": "王永",
@@ -8640,7 +8640,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "8",
+      "number": "9",
       "position": "游泳馆二楼大池",
       "teacherId": "1001",
       "teacherName": "许汸",
@@ -8688,7 +8688,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "5",
+      "number": "6",
       "position": "游泳馆二楼大池",
       "teacherId": "1004",
       "teacherName": "刘超云",
@@ -8704,7 +8704,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "5",
+      "number": "4",
       "position": "游泳馆二楼大池",
       "teacherId": "1005",
       "teacherName": "黄军海",
@@ -8720,7 +8720,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "10",
+      "number": "11",
       "position": "游泳馆二楼大池",
       "teacherId": "1006",
       "teacherName": "王永",
@@ -8752,7 +8752,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "5",
+      "number": "6",
       "position": "游泳馆二楼大池",
       "teacherId": "1008",
       "teacherName": "刘超云",
@@ -8782,9 +8782,9 @@
       "courseName": "游泳(男、女)",
       "credit": "1",
       "limitations": [
-        "人数已满"
+        "限制人数"
       ],
-      "number": "12",
+      "number": "13",
       "position": "游泳馆二楼大池",
       "teacherId": "1010",
       "teacherName": "陈婷",
@@ -11792,7 +11792,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "108",
+      "number": "109",
       "position": "FJ203",
       "teacherId": "1008",
       "teacherName": "李新祥",
@@ -15648,7 +15648,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "0",
+      "number": "2",
       "position": "",
       "teacherId": "1000",
       "teacherName": "杨艳芳",
@@ -42697,7 +42697,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "35",
+      "number": "36",
       "position": "C109",
       "teacherId": "1000",
       "teacherName": "王丽君",
@@ -47964,7 +47964,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "10",
+      "number": "11",
       "position": "美院322",
       "teacherId": "1000",
       "teacherName": "朱宏",
@@ -49647,7 +49647,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "18",
+      "number": "19",
       "position": "美院322",
       "teacherId": "1000",
       "teacherName": "陈志刚",
@@ -57806,9 +57806,9 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
-        "限制人数"
+        "人数已满"
       ],
-      "number": "129",
+      "number": "130",
       "position": "J102",
       "teacherId": "1027",
       "teacherName": "宋平宇",
@@ -57918,9 +57918,9 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
-        "人数已满"
+        "限制人数"
       ],
-      "number": "120",
+      "number": "119",
       "position": "CJ204",
       "teacherId": "1034",
       "teacherName": "汪艳",
@@ -59088,7 +59088,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "119",
+      "number": "118",
       "position": "1-333",
       "teacherId": "2003",
       "teacherName": "熊俊诚",
@@ -75943,9 +75943,9 @@
       "courseName": "国宝的前世今生",
       "credit": "2",
       "limitations": [
-        "人数已满"
+        "限制人数"
       ],
-      "number": "70",
+      "number": "69",
       "position": "DJ103",
       "teacherId": "1000",
       "teacherName": "黄继忠等",
@@ -77072,7 +77072,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "58675088135d722082aaebde4eb66248",
+  "hash": "cdd3d6ef8f614830e5cdb42279fd6e8f",
   "termName": "2024-2025学年春季学期",
-  "updateTimeMs": 1741934959988
+  "updateTimeMs": 1741937992470
 }
