@@ -8640,7 +8640,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "9",
+      "number": "10",
       "position": "游泳馆二楼大池",
       "teacherId": "1001",
       "teacherName": "许汸",
@@ -8656,7 +8656,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "14",
+      "number": "15",
       "position": "游泳馆二楼大池",
       "teacherId": "1002",
       "teacherName": "尹默林",
@@ -8736,7 +8736,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "5",
+      "number": "6",
       "position": "游泳馆二楼大池",
       "teacherId": "1007",
       "teacherName": "周璇",
@@ -8768,7 +8768,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "5",
+      "number": "7",
       "position": "游泳馆二楼大池",
       "teacherId": "1009",
       "teacherName": "陈婷",
@@ -8784,7 +8784,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "13",
+      "number": "14",
       "position": "游泳馆二楼大池",
       "teacherId": "1010",
       "teacherName": "陈婷",
@@ -8880,7 +8880,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "20",
+      "number": "19",
       "position": "游泳馆二楼大池",
       "teacherId": "1974",
       "teacherName": "周璇",
@@ -10944,7 +10944,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "29",
+      "number": "30",
       "position": "1-111",
       "teacherId": "2001",
       "teacherName": "张如倩",
@@ -15641,15 +15641,15 @@
     {
       "campus": "宝山",
       "capacity": "10",
-      "classTime": "",
+      "classTime": "一3-4 三3-4 四7-8单",
       "courseId": "01046034",
       "courseName": "激光原理与技术A",
       "credit": "5",
       "limitations": [
         "限制人数"
       ],
-      "number": "2",
-      "position": "",
+      "number": "3",
+      "position": "GJ103",
       "teacherId": "1000",
       "teacherName": "杨艳芳",
       "teacherTitle": "副教授"
@@ -22164,7 +22164,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "41",
+      "number": "42",
       "position": "D112",
       "teacherId": "1006",
       "teacherName": "张季红",
@@ -54142,9 +54142,9 @@
       "courseName": "运筹与决策(1)",
       "credit": "4",
       "limitations": [
-        "人数已满"
+        "限制人数"
       ],
-      "number": "40",
+      "number": "41",
       "position": "文博101 文博304",
       "teacherId": "2002",
       "teacherName": "严帅",
@@ -54158,9 +54158,9 @@
       "courseName": "信息管理与系统设计(1)",
       "credit": "4",
       "limitations": [
-        "人数已满"
+        "限制人数"
       ],
-      "number": "40",
+      "number": "41",
       "position": "文德203 ",
       "teacherId": "2001",
       "teacherName": "徐伟",
@@ -58110,9 +58110,9 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
-        "限制人数"
+        "人数已满"
       ],
-      "number": "119",
+      "number": "120",
       "position": "CJ203",
       "teacherId": "1046",
       "teacherName": "郭慧梅",
@@ -60385,7 +60385,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "122",
+      "number": "123",
       "position": "1-331",
       "teacherId": "2000",
       "teacherName": "王金伟",
@@ -60657,7 +60657,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "97",
+      "number": "98",
       "position": "1-231",
       "teacherId": "2000",
       "teacherName": "韩晓春",
@@ -60879,9 +60879,9 @@
       "courseName": "毛泽东思想和中国特色社会主义理论体系概论C",
       "credit": "3",
       "limitations": [
-        "限制人数"
+        "人数已满"
       ],
-      "number": "119",
+      "number": "120",
       "position": "EJ206",
       "teacherId": "1012",
       "teacherName": "徐海峰",
@@ -77072,7 +77072,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "cdd3d6ef8f614830e5cdb42279fd6e8f",
+  "hash": "9986447115277c0da5e2b26aff4fa4b0",
   "termName": "2024-2025学年春季学期",
-  "updateTimeMs": 1741937992470
+  "updateTimeMs": 1741942027640
 }
