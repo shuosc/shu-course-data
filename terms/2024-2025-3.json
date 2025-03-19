@@ -12531,7 +12531,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "109",
+      "number": "110",
       "position": "EJ104",
       "teacherId": "1009",
       "teacherName": "吕巍",
@@ -13871,10 +13871,10 @@
       "courseName": "大学物理(2)",
       "credit": "4",
       "limitations": [
-        "限制人数",
+        "人数已满",
         "禁止退课"
       ],
-      "number": "122",
+      "number": "123",
       "position": "FJ104",
       "teacherId": "1017",
       "teacherName": "杨艳芳",
@@ -55624,7 +55624,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "15",
+      "number": "16",
       "position": "Ⅳ410",
       "teacherId": "3000",
       "teacherName": "虞浩",
@@ -59738,7 +59738,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "10",
+      "number": "11",
       "position": "文博204 文博211",
       "teacherId": "2004",
       "teacherName": "姜爱萍",
@@ -81975,7 +81975,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "507860eec47f0e66b566f54b24acd218",
+  "hash": "a259c13ca4d6c0e8a1c6aeb19b16d5ab",
   "termName": "2024-2025学年春季学期",
-  "updateTimeMs": 1742406188000
+  "updateTimeMs": 1742410195265
 }
