@@ -1472,6 +1472,7 @@
       "credit": "1",
       "limitations": [
         "限制人数",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "166",
@@ -1489,6 +1490,7 @@
       "credit": "1",
       "limitations": [
         "限制人数",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "118",
@@ -3276,7 +3278,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "22",
+      "number": "23",
       "position": "J区北侧",
       "teacherId": "1314",
       "teacherName": "王长琦",
@@ -3732,10 +3734,10 @@
       "courseName": "篮球(基础)",
       "credit": "1",
       "limitations": [
-        "人数已满",
+        "限制人数",
         "禁止退课"
       ],
-      "number": "25",
+      "number": "24",
       "position": "I区篮22",
       "teacherId": "1084",
       "teacherName": "朱侨宇",
@@ -9379,7 +9381,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "20",
+      "number": "19",
       "position": "游泳馆二楼大池",
       "teacherId": "1954",
       "teacherName": "王永",
@@ -9648,10 +9650,10 @@
       "courseName": "工程制图与计算机绘图基础",
       "credit": "3",
       "limitations": [
-        "人数已满",
+        "限制人数",
         "禁止退课"
       ],
-      "number": "55",
+      "number": "54",
       "position": "D112",
       "teacherId": "1012",
       "teacherName": "刘霞",
@@ -9736,7 +9738,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "44",
+      "number": "45",
       "position": "D215",
       "teacherId": "1017",
       "teacherName": "沙凤龙",
@@ -9750,10 +9752,10 @@
       "courseName": "工程制图与计算机绘图基础",
       "credit": "3",
       "limitations": [
-        "人数已满",
+        "限制人数",
         "禁止退课"
       ],
-      "number": "50",
+      "number": "49",
       "position": "D216",
       "teacherId": "1018",
       "teacherName": "林成辉",
@@ -11178,6 +11180,7 @@
       "credit": "2",
       "limitations": [
         "人数已满",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "160",
@@ -11195,6 +11198,7 @@
       "credit": "2",
       "limitations": [
         "人数已满",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "160",
@@ -11212,6 +11216,7 @@
       "credit": "2",
       "limitations": [
         "限制人数",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "135",
@@ -11229,6 +11234,7 @@
       "credit": "2",
       "limitations": [
         "限制人数",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "126",
@@ -11246,6 +11252,7 @@
       "credit": "2",
       "limitations": [
         "限制人数",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "124",
@@ -11263,6 +11270,7 @@
       "credit": "2",
       "limitations": [
         "限制人数",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "125",
@@ -11874,10 +11882,10 @@
       "courseName": "多姿多彩力学世界",
       "credit": "1",
       "limitations": [
-        "限制人数",
+        "人数已满",
         "禁止退课"
       ],
-      "number": "29",
+      "number": "30",
       "position": "B416",
       "teacherId": "1000",
       "teacherName": "任九生",
@@ -14033,10 +14041,10 @@
       "courseName": "大学物理(3)",
       "credit": "4",
       "limitations": [
-        "人数已满",
+        "限制人数",
         "禁止退课"
       ],
-      "number": "83",
+      "number": "82",
       "position": "FJ303",
       "teacherId": "1000",
       "teacherName": "查国桥",
@@ -18675,7 +18683,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "1",
+      "number": "2",
       "position": "A117",
       "teacherId": "1000",
       "teacherName": "赵建中",
@@ -22449,7 +22457,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "28",
+      "number": "27",
       "position": "C607",
       "teacherId": "1008",
       "teacherName": "王红梅",
@@ -23585,10 +23593,10 @@
       "courseName": "通用英语C(3)",
       "credit": "2",
       "limitations": [
-        "限制人数",
+        "人数已满",
         "禁止退课"
       ],
-      "number": "44",
+      "number": "45",
       "position": "D112",
       "teacherId": "1008",
       "teacherName": "张季红",
@@ -36865,7 +36873,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "69",
+      "number": "68",
       "position": "J201",
       "teacherId": "1000",
       "teacherName": "林柳兰",
@@ -36950,7 +36958,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "63",
+      "number": "64",
       "position": "GJ204",
       "teacherId": "1000",
       "teacherName": "位莎",
@@ -60969,6 +60977,7 @@
       "credit": "0",
       "limitations": [
         "限制人数",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "131",
@@ -60996,7 +61005,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "125",
+      "capacity": "130",
       "classTime": "二11-12(3周,8周)",
       "courseId": "16583109",
       "courseName": "形势与政策",
@@ -61013,13 +61022,13 @@
     },
     {
       "campus": "宝山",
-      "capacity": "120",
+      "capacity": "130",
       "classTime": "二11-12(4周,9周)",
       "courseId": "16583109",
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
-        "人数已满",
+        "限制人数",
         "禁止退课"
       ],
       "number": "120",
@@ -61037,6 +61046,7 @@
       "credit": "0",
       "limitations": [
         "限制人数",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "126",
@@ -61064,7 +61074,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "124",
+      "capacity": "130",
       "classTime": "二9-10(3周,8周)",
       "courseId": "16583109",
       "courseName": "形势与政策",
@@ -61081,13 +61091,13 @@
     },
     {
       "campus": "宝山",
-      "capacity": "124",
+      "capacity": "130",
       "classTime": "二9-10(4周,9周)",
       "courseId": "16583109",
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
-        "人数已满",
+        "限制人数",
         "禁止退课"
       ],
       "number": "124",
@@ -61105,6 +61115,7 @@
       "credit": "0",
       "limitations": [
         "限制人数",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "131",
@@ -61132,7 +61143,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "130",
+      "capacity": "135",
       "classTime": "二3-4(3周,8周)",
       "courseId": "16583109",
       "courseName": "形势与政策",
@@ -61149,7 +61160,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "130",
+      "capacity": "135",
       "classTime": "二3-4(4周,9周)",
       "courseId": "16583109",
       "courseName": "形势与政策",
@@ -61173,6 +61184,7 @@
       "credit": "0",
       "limitations": [
         "限制人数",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "121",
@@ -61183,7 +61195,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "120",
+      "capacity": "125",
       "classTime": "二5-6(2周,7周)",
       "courseId": "16583109",
       "courseName": "形势与政策",
@@ -61200,7 +61212,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "120",
+      "capacity": "125",
       "classTime": "二5-6(3周,8周)",
       "courseId": "16583109",
       "courseName": "形势与政策",
@@ -61217,13 +61229,13 @@
     },
     {
       "campus": "宝山",
-      "capacity": "120",
+      "capacity": "125",
       "classTime": "二5-6(4周,9周)",
       "courseId": "16583109",
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
-        "人数已满",
+        "限制人数",
         "禁止退课"
       ],
       "number": "120",
@@ -61241,6 +61253,7 @@
       "credit": "0",
       "limitations": [
         "限制人数",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "123",
@@ -61377,6 +61390,7 @@
       "credit": "0",
       "limitations": [
         "限制人数",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "132",
@@ -61404,7 +61418,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "130",
+      "capacity": "135",
       "classTime": "三11-12(3周,8周)",
       "courseId": "16583109",
       "courseName": "形势与政策",
@@ -61421,7 +61435,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "130",
+      "capacity": "135",
       "classTime": "三11-12(4周,9周)",
       "courseId": "16583109",
       "courseName": "形势与政策",
@@ -61445,6 +61459,7 @@
       "credit": "0",
       "limitations": [
         "人数已满",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "120",
@@ -61513,6 +61528,7 @@
       "credit": "0",
       "limitations": [
         "人数已满",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "120",
@@ -61540,13 +61556,13 @@
     },
     {
       "campus": "宝山",
-      "capacity": "120",
+      "capacity": "125",
       "classTime": "三3-4(3周,8周)",
       "courseId": "16583109",
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
-        "人数已满",
+        "限制人数",
         "禁止退课"
       ],
       "number": "120",
@@ -61557,13 +61573,13 @@
     },
     {
       "campus": "宝山",
-      "capacity": "120",
+      "capacity": "125",
       "classTime": "三3-4(4周,9周)",
       "courseId": "16583109",
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
-        "人数已满",
+        "限制人数",
         "禁止退课"
       ],
       "number": "120",
@@ -61581,6 +61597,7 @@
       "credit": "0",
       "limitations": [
         "限制人数",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "125",
@@ -61649,6 +61666,7 @@
       "credit": "0",
       "limitations": [
         "人数已满",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "120",
@@ -61659,13 +61677,13 @@
     },
     {
       "campus": "宝山",
-      "capacity": "120",
+      "capacity": "125",
       "classTime": "三7-8(2周,7周)",
       "courseId": "16583109",
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
-        "人数已满",
+        "限制人数",
         "禁止退课"
       ],
       "number": "120",
@@ -61676,13 +61694,13 @@
     },
     {
       "campus": "宝山",
-      "capacity": "120",
+      "capacity": "125",
       "classTime": "三7-8(3周,8周)",
       "courseId": "16583109",
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
-        "人数已满",
+        "限制人数",
         "禁止退课"
       ],
       "number": "120",
@@ -61693,13 +61711,13 @@
     },
     {
       "campus": "宝山",
-      "capacity": "120",
+      "capacity": "125",
       "classTime": "三7-8(4周,9周)",
       "courseId": "16583109",
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
-        "人数已满",
+        "限制人数",
         "禁止退课"
       ],
       "number": "120",
@@ -61812,13 +61830,13 @@
     },
     {
       "campus": "宝山",
-      "capacity": "125",
+      "capacity": "130",
       "classTime": "四11-12(3周,8周)",
       "courseId": "16583109",
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
-        "人数已满",
+        "限制人数",
         "禁止退课"
       ],
       "number": "125",
@@ -61829,7 +61847,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "125",
+      "capacity": "130",
       "classTime": "四11-12(4周,9周)",
       "courseId": "16583109",
       "courseName": "形势与政策",
@@ -61880,13 +61898,13 @@
     },
     {
       "campus": "宝山",
-      "capacity": "95",
+      "capacity": "110",
       "classTime": "四5-6(3周,8周)",
       "courseId": "16583109",
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
-        "人数已满",
+        "限制人数",
         "禁止退课"
       ],
       "number": "95",
@@ -61948,13 +61966,13 @@
     },
     {
       "campus": "宝山",
-      "capacity": "95",
+      "capacity": "110",
       "classTime": "四3-4(3周,8周)",
       "courseId": "16583109",
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
-        "人数已满",
+        "限制人数",
         "禁止退课"
       ],
       "number": "95",
@@ -62033,13 +62051,13 @@
     },
     {
       "campus": "宝山",
-      "capacity": "95",
+      "capacity": "110",
       "classTime": "四5-6(4周,9周)",
       "courseId": "16583109",
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
-        "人数已满",
+        "限制人数",
         "禁止退课"
       ],
       "number": "95",
@@ -62067,7 +62085,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "120",
+      "capacity": "125",
       "classTime": "四7-8(2周,7周)",
       "courseId": "16583109",
       "courseName": "形势与政策",
@@ -62084,13 +62102,13 @@
     },
     {
       "campus": "宝山",
-      "capacity": "120",
+      "capacity": "125",
       "classTime": "四7-8(3周,8周)",
       "courseId": "16583109",
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
-        "人数已满",
+        "限制人数",
         "禁止退课"
       ],
       "number": "120",
@@ -62135,13 +62153,13 @@
     },
     {
       "campus": "宝山",
-      "capacity": "120",
+      "capacity": "125",
       "classTime": "四9-10(3周,8周)",
       "courseId": "16583109",
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
-        "人数已满",
+        "限制人数",
         "禁止退课"
       ],
       "number": "120",
@@ -62152,7 +62170,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "120",
+      "capacity": "125",
       "classTime": "四9-10(4周,9周)",
       "courseId": "16583109",
       "courseName": "形势与政策",
@@ -62186,13 +62204,13 @@
     },
     {
       "campus": "宝山",
-      "capacity": "120",
+      "capacity": "125",
       "classTime": "五1-2(2周,7周)",
       "courseId": "16583109",
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
-        "人数已满",
+        "限制人数",
         "禁止退课"
       ],
       "number": "120",
@@ -62203,7 +62221,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "120",
+      "capacity": "125",
       "classTime": "五1-2(3周,8周)",
       "courseId": "16583109",
       "courseName": "形势与政策",
@@ -62254,13 +62272,13 @@
     },
     {
       "campus": "宝山",
-      "capacity": "120",
+      "capacity": "125",
       "classTime": "五3-4(2周,7周)",
       "courseId": "16583109",
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
-        "人数已满",
+        "限制人数",
         "禁止退课"
       ],
       "number": "120",
@@ -62271,13 +62289,13 @@
     },
     {
       "campus": "宝山",
-      "capacity": "120",
+      "capacity": "125",
       "classTime": "五3-4(3周,8周)",
       "courseId": "16583109",
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
-        "人数已满",
+        "限制人数",
         "禁止退课"
       ],
       "number": "120",
@@ -62288,7 +62306,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "115",
+      "capacity": "125",
       "classTime": "五3-4(4周,9周)",
       "courseId": "16583109",
       "courseName": "形势与政策",
@@ -62312,6 +62330,7 @@
       "credit": "0",
       "limitations": [
         "限制人数",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "124",
@@ -62322,13 +62341,13 @@
     },
     {
       "campus": "宝山",
-      "capacity": "128",
+      "capacity": "130",
       "classTime": "一11-12(2周,7周)",
       "courseId": "16583109",
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
-        "人数已满",
+        "限制人数",
         "禁止退课"
       ],
       "number": "128",
@@ -62339,7 +62358,7 @@
     },
     {
       "campus": "宝山",
-      "capacity": "128",
+      "capacity": "130",
       "classTime": "一11-12(3周,8周)",
       "courseId": "16583109",
       "courseName": "形势与政策",
@@ -62356,13 +62375,13 @@
     },
     {
       "campus": "宝山",
-      "capacity": "124",
+      "capacity": "130",
       "classTime": "一11-12(4周,9周)",
       "courseId": "16583109",
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
-        "人数已满",
+        "限制人数",
         "禁止退课"
       ],
       "number": "124",
@@ -62448,6 +62467,7 @@
       "credit": "0",
       "limitations": [
         "人数已满",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "120",
@@ -62516,6 +62536,7 @@
       "credit": "0",
       "limitations": [
         "人数已满",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "120",
@@ -62526,13 +62547,13 @@
     },
     {
       "campus": "宝山",
-      "capacity": "120",
+      "capacity": "125",
       "classTime": "一5-6(2周,7周)",
       "courseId": "16583109",
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
-        "人数已满",
+        "限制人数",
         "禁止退课"
       ],
       "number": "120",
@@ -62543,13 +62564,13 @@
     },
     {
       "campus": "宝山",
-      "capacity": "120",
+      "capacity": "125",
       "classTime": "一5-6(3周,8周)",
       "courseId": "16583109",
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
-        "人数已满",
+        "限制人数",
         "禁止退课"
       ],
       "number": "120",
@@ -62584,6 +62605,7 @@
       "credit": "0",
       "limitations": [
         "人数已满",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "120",
@@ -62652,6 +62674,7 @@
       "credit": "0",
       "limitations": [
         "人数已满",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "120",
@@ -62822,6 +62845,7 @@
       "credit": "0",
       "limitations": [
         "人数已满",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "120",
@@ -62873,6 +62897,7 @@
       "credit": "0",
       "limitations": [
         "限制人数",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "85",
@@ -62924,6 +62949,7 @@
       "credit": "0",
       "limitations": [
         "人数已满",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "120",
@@ -62958,6 +62984,7 @@
       "credit": "0",
       "limitations": [
         "人数已满",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "121",
@@ -62992,6 +63019,7 @@
       "credit": "0",
       "limitations": [
         "人数已满",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "121",
@@ -63026,9 +63054,10 @@
       "credit": "0",
       "limitations": [
         "限制人数",
+        "禁止选课",
         "禁止退课"
       ],
-      "number": "81",
+      "number": "80",
       "position": "Ⅳ301",
       "teacherId": "3003",
       "teacherName": "宋津明",
@@ -63060,6 +63089,7 @@
       "credit": "0",
       "limitations": [
         "限制人数",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "119",
@@ -63094,6 +63124,7 @@
       "credit": "0",
       "limitations": [
         "限制人数",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "27",
@@ -63128,6 +63159,7 @@
       "credit": "0",
       "limitations": [
         "人数已满",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "120",
@@ -63162,6 +63194,7 @@
       "credit": "0",
       "limitations": [
         "人数已满",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "90",
@@ -63589,7 +63622,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "140",
+      "number": "141",
       "position": "CJ107",
       "teacherId": "1000",
       "teacherName": "宋平宇",
@@ -64182,6 +64215,7 @@
       "credit": "1",
       "limitations": [
         "限制人数",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "58",
@@ -64199,6 +64233,7 @@
       "credit": "1",
       "limitations": [
         "限制人数",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "46",
@@ -64216,6 +64251,7 @@
       "credit": "1",
       "limitations": [
         "限制人数",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "29",
@@ -64233,6 +64269,7 @@
       "credit": "1",
       "limitations": [
         "限制人数",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "37",
@@ -64250,6 +64287,7 @@
       "credit": "1",
       "limitations": [
         "人数已满",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "0",
@@ -64267,6 +64305,7 @@
       "credit": "1",
       "limitations": [
         "限制人数",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "20",
@@ -64284,6 +64323,7 @@
       "credit": "1",
       "limitations": [
         "限制人数",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "29",
@@ -64301,6 +64341,7 @@
       "credit": "1",
       "limitations": [
         "限制人数",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "17",
@@ -64318,6 +64359,7 @@
       "credit": "1",
       "limitations": [
         "人数已满",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "0",
@@ -64335,6 +64377,7 @@
       "credit": "1",
       "limitations": [
         "限制人数",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "14",
@@ -64352,6 +64395,7 @@
       "credit": "1",
       "limitations": [
         "限制人数",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "42",
@@ -64454,6 +64498,7 @@
       "credit": "1",
       "limitations": [
         "限制人数",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "10",
@@ -64471,6 +64516,7 @@
       "credit": "1",
       "limitations": [
         "人数已满",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "0",
@@ -64643,7 +64689,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "49",
+      "number": "47",
       "position": "A123",
       "teacherId": "1010",
       "teacherName": "范铁中",
@@ -65253,6 +65299,7 @@
       "credit": "1",
       "limitations": [
         "限制人数",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "119",
@@ -65270,6 +65317,7 @@
       "credit": "1",
       "limitations": [
         "限制人数",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "123",
@@ -65287,6 +65335,7 @@
       "credit": "1",
       "limitations": [
         "限制人数",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "121",
@@ -65304,6 +65353,7 @@
       "credit": "1",
       "limitations": [
         "限制人数",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "123",
@@ -65321,6 +65371,7 @@
       "credit": "1",
       "limitations": [
         "限制人数",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "62",
@@ -65338,6 +65389,7 @@
       "credit": "1",
       "limitations": [
         "限制人数",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "92",
@@ -65355,6 +65407,7 @@
       "credit": "1",
       "limitations": [
         "限制人数",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "94",
@@ -65372,6 +65425,7 @@
       "credit": "1",
       "limitations": [
         "限制人数",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "121",
@@ -65389,6 +65443,7 @@
       "credit": "1",
       "limitations": [
         "人数已满",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "120",
@@ -65406,6 +65461,7 @@
       "credit": "1",
       "limitations": [
         "限制人数",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "125",
@@ -65457,6 +65513,7 @@
       "credit": "1",
       "limitations": [
         "人数已满",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "120",
@@ -65474,6 +65531,7 @@
       "credit": "1",
       "limitations": [
         "限制人数",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "76",
@@ -65491,6 +65549,7 @@
       "credit": "1",
       "limitations": [
         "人数已满",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "120",
@@ -65508,6 +65567,7 @@
       "credit": "1",
       "limitations": [
         "人数已满",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "120",
@@ -65525,6 +65585,7 @@
       "credit": "1",
       "limitations": [
         "人数已满",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "120",
@@ -65612,7 +65673,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "121",
+      "number": "122",
       "position": "CJ107",
       "teacherId": "1022",
       "teacherName": "杨阳",
@@ -65746,6 +65807,7 @@
       "credit": "1",
       "limitations": [
         "人数已满",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "120",
@@ -65763,6 +65825,7 @@
       "credit": "1",
       "limitations": [
         "限制人数",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "32",
@@ -65780,6 +65843,7 @@
       "credit": "1",
       "limitations": [
         "限制人数",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "19",
@@ -65797,6 +65861,7 @@
       "credit": "1",
       "limitations": [
         "限制人数",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "72",
@@ -65814,6 +65879,7 @@
       "credit": "1",
       "limitations": [
         "人数已满",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "120",
@@ -65831,6 +65897,7 @@
       "credit": "1",
       "limitations": [
         "人数已满",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "120",
@@ -65865,6 +65932,7 @@
       "credit": "1",
       "limitations": [
         "限制人数",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "79",
@@ -65882,6 +65950,7 @@
       "credit": "1",
       "limitations": [
         "限制人数",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "121",
@@ -65899,6 +65968,7 @@
       "credit": "1",
       "limitations": [
         "人数已满",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "120",
@@ -65916,6 +65986,7 @@
       "credit": "1",
       "limitations": [
         "限制人数",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "119",
@@ -65933,6 +66004,7 @@
       "credit": "1",
       "limitations": [
         "限制人数",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "121",
@@ -65967,6 +66039,7 @@
       "credit": "1",
       "limitations": [
         "人数已满",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "120",
@@ -65984,6 +66057,7 @@
       "credit": "1",
       "limitations": [
         "人数已满",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "120",
@@ -66001,6 +66075,7 @@
       "credit": "1",
       "limitations": [
         "限制人数",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "101",
@@ -66018,6 +66093,7 @@
       "credit": "1",
       "limitations": [
         "限制人数",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "121",
@@ -66035,6 +66111,7 @@
       "credit": "1",
       "limitations": [
         "限制人数",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "123",
@@ -66052,6 +66129,7 @@
       "credit": "1",
       "limitations": [
         "限制人数",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "119",
@@ -66069,6 +66147,7 @@
       "credit": "1",
       "limitations": [
         "人数已满",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "120",
@@ -66086,6 +66165,7 @@
       "credit": "1",
       "limitations": [
         "限制人数",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "126",
@@ -66103,6 +66183,7 @@
       "credit": "1",
       "limitations": [
         "限制人数",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "121",
@@ -66120,6 +66201,7 @@
       "credit": "1",
       "limitations": [
         "限制人数",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "93",
@@ -66137,6 +66219,7 @@
       "credit": "1",
       "limitations": [
         "限制人数",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "121",
@@ -66154,6 +66237,7 @@
       "credit": "1",
       "limitations": [
         "人数已满",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "120",
@@ -66171,6 +66255,7 @@
       "credit": "1",
       "limitations": [
         "限制人数",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "123",
@@ -66188,6 +66273,7 @@
       "credit": "1",
       "limitations": [
         "限制人数",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "121",
@@ -66205,6 +66291,7 @@
       "credit": "1",
       "limitations": [
         "限制人数",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "70",
@@ -66222,6 +66309,7 @@
       "credit": "1",
       "limitations": [
         "限制人数",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "121",
@@ -66239,6 +66327,7 @@
       "credit": "1",
       "limitations": [
         "人数已满",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "120",
@@ -66256,6 +66345,7 @@
       "credit": "1",
       "limitations": [
         "限制人数",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "89",
@@ -66273,6 +66363,7 @@
       "credit": "1",
       "limitations": [
         "人数已满",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "120",
@@ -66290,6 +66381,7 @@
       "credit": "1",
       "limitations": [
         "限制人数",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "89",
@@ -66307,6 +66399,7 @@
       "credit": "1",
       "limitations": [
         "人数已满",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "120",
@@ -66511,6 +66604,7 @@
       "credit": "1",
       "limitations": [
         "限制人数",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "29",
@@ -66528,6 +66622,7 @@
       "credit": "1",
       "limitations": [
         "限制人数",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "22",
@@ -66579,6 +66674,7 @@
       "credit": "1",
       "limitations": [
         "限制人数",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "20",
@@ -66596,6 +66692,7 @@
       "credit": "1",
       "limitations": [
         "限制人数",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "68",
@@ -66630,6 +66727,7 @@
       "credit": "1",
       "limitations": [
         "人数已满",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "120",
@@ -66647,6 +66745,7 @@
       "credit": "1",
       "limitations": [
         "限制人数",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "26",
@@ -66664,6 +66763,7 @@
       "credit": "1",
       "limitations": [
         "人数已满",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "120",
@@ -66681,6 +66781,7 @@
       "credit": "1",
       "limitations": [
         "人数已满",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "90",
@@ -66698,6 +66799,7 @@
       "credit": "1",
       "limitations": [
         "人数已满",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "120",
@@ -66715,6 +66817,7 @@
       "credit": "1",
       "limitations": [
         "限制人数",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "124",
@@ -66732,6 +66835,7 @@
       "credit": "1",
       "limitations": [
         "限制人数",
+        "禁止选课",
         "禁止退课"
       ],
       "number": "123",
@@ -70118,7 +70222,7 @@
         "禁止退课"
       ],
       "number": "25",
-      "position": "C218",
+      "position": "C308",
       "teacherId": "1002",
       "teacherName": "张少琼",
       "teacherTitle": "讲师"
@@ -70458,7 +70562,7 @@
         "禁止退课"
       ],
       "number": "25",
-      "position": "C218",
+      "position": "C308",
       "teacherId": "1002",
       "teacherName": "张少琼",
       "teacherTitle": "讲师"
@@ -72633,7 +72737,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "58",
+      "number": "57",
       "position": "Ⅳ409",
       "teacherId": "3000",
       "teacherName": "刘寅斌",
@@ -81871,7 +81975,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "c4fb2b44d780a01a6f95acf46f70eb06",
+  "hash": "50e70688058c5e66b252279d3e2ca6af",
   "termName": "2024-2025学年春季学期",
-  "updateTimeMs": 1742354424938
+  "updateTimeMs": 1742356333805
 }
