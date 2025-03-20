@@ -3261,7 +3261,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "19",
+      "number": "20",
       "position": "J区北侧",
       "teacherId": "1311",
       "teacherName": "王长琦",
@@ -3479,10 +3479,10 @@
       "courseName": "篮球(基础)",
       "credit": "1",
       "limitations": [
-        "限制人数",
+        "人数已满",
         "禁止退课"
       ],
-      "number": "23",
+      "number": "24",
       "position": "B区篮2",
       "teacherId": "1014",
       "teacherName": "魏磊",
@@ -10366,7 +10366,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "10",
+      "number": "9",
       "position": "AJ207",
       "teacherId": "1000",
       "teacherName": "奚建群",
@@ -13058,7 +13058,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "50",
+      "number": "51",
       "position": "D123",
       "teacherId": "1001",
       "teacherName": "朱佩成",
@@ -13633,10 +13633,10 @@
       "courseName": "大学物理(2)",
       "credit": "4",
       "limitations": [
-        "限制人数",
+        "人数已满",
         "禁止退课"
       ],
-      "number": "111",
+      "number": "112",
       "position": "FJ203",
       "teacherId": "1003",
       "teacherName": "赵苏串",
@@ -16747,7 +16747,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "32",
+      "number": "33",
       "position": "C121",
       "teacherId": "1003",
       "teacherName": "孙丽宁",
@@ -18972,7 +18972,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "37",
+      "number": "38",
       "position": "A215",
       "teacherId": "1000",
       "teacherName": "石圆圆",
@@ -21216,7 +21216,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "19",
+      "number": "20",
       "position": "D218",
       "teacherId": "1000",
       "teacherName": "林威杰",
@@ -22695,7 +22695,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "19",
+      "number": "20",
       "position": "A302",
       "teacherId": "1010",
       "teacherName": "贺莉",
@@ -23324,7 +23324,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "38",
+      "number": "39",
       "position": "C109",
       "teacherId": "1002",
       "teacherName": "蔡石兴",
@@ -31144,7 +31144,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "47",
+      "number": "48",
       "position": "A102",
       "teacherId": "1002",
       "teacherName": "孙晶",
@@ -34065,10 +34065,10 @@
       "courseName": "信号与系统B(2)",
       "credit": "3",
       "limitations": [
-        "限制人数",
+        "人数已满",
         "禁止退课"
       ],
-      "number": "69",
+      "number": "70",
       "position": "GJ204",
       "teacherId": "1007",
       "teacherName": "张亮",
@@ -34218,10 +34218,10 @@
       "courseName": "微机原理B",
       "credit": "4",
       "limitations": [
-        "限制人数",
+        "人数已满",
         "禁止退课"
       ],
-      "number": "49",
+      "number": "50",
       "position": "D113",
       "teacherId": "1004",
       "teacherName": "王向阳",
@@ -39474,7 +39474,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "17",
+      "number": "18",
       "position": "计303",
       "teacherId": "1002",
       "teacherName": "王舒憬",
@@ -40375,7 +40375,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "37",
+      "number": "38",
       "position": "D216",
       "teacherId": "1002",
       "teacherName": "胡正涛",
@@ -55774,10 +55774,10 @@
       "courseName": "摄影工作坊(2)",
       "credit": "2",
       "limitations": [
-        "限制人数",
+        "人数已满",
         "禁止退课"
       ],
-      "number": "20",
+      "number": "21",
       "position": "上电楼小摄影棚",
       "teacherId": "3000",
       "teacherName": "虞浩",
@@ -59738,7 +59738,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "12",
+      "number": "14",
       "position": "文博204 文博211",
       "teacherId": "2004",
       "teacherName": "姜爱萍",
@@ -59908,7 +59908,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "17",
+      "number": "18",
       "position": "文博206 文博204",
       "teacherId": "2009",
       "teacherName": "高蓉",
@@ -61221,7 +61221,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "123",
+      "number": "124",
       "position": "J102",
       "teacherId": "1015",
       "teacherName": "奚建群",
@@ -71547,7 +71547,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "98",
+      "number": "99",
       "position": "EJ204",
       "teacherId": "1003",
       "teacherName": "张建军",
@@ -81975,7 +81975,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "5178dac246704e9eab2dcf487e293f40",
+  "hash": "bc015bccf36f9b9e42d95c51fbeab805",
   "termName": "2024-2025学年春季学期",
-  "updateTimeMs": 1742442667262
+  "updateTimeMs": 1742446064881
 }
