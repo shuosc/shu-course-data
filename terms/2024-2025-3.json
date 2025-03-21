@@ -3312,7 +3312,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "22",
+      "number": "23",
       "position": "J区北侧",
       "teacherId": "1316",
       "teacherName": "王长琦",
@@ -3448,7 +3448,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "21",
+      "number": "22",
       "position": "训练馆2楼",
       "teacherId": "1012",
       "teacherName": "魏磊",
@@ -4349,7 +4349,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "28",
+      "number": "27",
       "position": "E区网9",
       "teacherId": "1848",
       "teacherName": "杨小明",
@@ -5998,7 +5998,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "23",
+      "number": "24",
       "position": "C区风雨棚",
       "teacherId": "1137",
       "teacherName": "魏轶林",
@@ -6522,10 +6522,10 @@
       "courseName": "篮球(3)",
       "credit": "1",
       "limitations": [
-        "限制人数",
+        "人数已满",
         "禁止退课"
       ],
-      "number": "21",
+      "number": "22",
       "position": "C区风雨棚",
       "teacherId": "1121",
       "teacherName": "孙岩",
@@ -6913,10 +6913,10 @@
       "courseName": "羽毛球(3)",
       "credit": "1",
       "limitations": [
-        "人数已满",
+        "限制人数",
         "禁止退课"
       ],
-      "number": "28",
+      "number": "29",
       "position": "体育馆中心场地",
       "teacherId": "1445",
       "teacherName": "王江宇",
@@ -9157,10 +9157,10 @@
       "courseName": "游泳(男、女)",
       "credit": "1",
       "limitations": [
-        "限制人数",
+        "人数已满",
         "禁止退课"
       ],
-      "number": "13",
+      "number": "12",
       "position": "游泳馆二楼大池",
       "teacherId": "1002",
       "teacherName": "尹默林",
@@ -9313,7 +9313,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "12",
+      "number": "13",
       "position": "游泳馆二楼大池",
       "teacherId": "1091",
       "teacherName": "许汸",
@@ -9364,7 +9364,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "6",
+      "number": "7",
       "position": "游泳馆二楼大池",
       "teacherId": "1935",
       "teacherName": "卢琳",
@@ -9463,10 +9463,10 @@
       "courseName": "工程制图与计算机绘图基础",
       "credit": "3",
       "limitations": [
-        "人数已满",
+        "限制人数",
         "禁止退课"
       ],
-      "number": "50",
+      "number": "51",
       "position": "D216",
       "teacherId": "1001",
       "teacherName": "林成辉",
@@ -9551,7 +9551,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "53",
+      "number": "54",
       "position": "D215",
       "teacherId": "1006",
       "teacherName": "沙凤龙",
@@ -9619,7 +9619,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "52",
+      "number": "53",
       "position": "D112",
       "teacherId": "1010",
       "teacherName": "刘霞",
@@ -9840,7 +9840,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "91",
+      "number": "92",
       "position": "DJ203",
       "teacherId": "1003",
       "teacherName": "宋波",
@@ -9874,7 +9874,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "84",
+      "number": "85",
       "position": "DJ203",
       "teacherId": "1005",
       "teacherName": "宋波",
@@ -10095,7 +10095,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "58",
+      "number": "59",
       "position": "D504",
       "teacherId": "1004",
       "teacherName": "钟宝燕",
@@ -10567,10 +10567,10 @@
       "courseName": "大学生社会实践",
       "credit": "1",
       "limitations": [
-        "人数已满",
+        "限制人数",
         "禁止退课"
       ],
-      "number": "20",
+      "number": "21",
       "position": "A106",
       "teacherId": "1013",
       "teacherName": "王丽娜等",
@@ -11324,7 +11324,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "106",
+      "number": "105",
       "position": "1-231",
       "teacherId": "2000",
       "teacherName": "孙士庆",
@@ -11732,7 +11732,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "23",
+      "number": "24",
       "position": "D115",
       "teacherId": "1000",
       "teacherName": "王卿文等",
@@ -12497,7 +12497,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "113",
+      "number": "114",
       "position": "DJ108",
       "teacherId": "1007",
       "teacherName": "李小林",
@@ -12505,13 +12505,13 @@
     },
     {
       "campus": "宝山",
-      "capacity": "113",
+      "capacity": "116",
       "classTime": "一3-4 三3-4",
       "courseId": "01014127",
       "courseName": "微积分(3)",
       "credit": "4",
       "limitations": [
-        "人数已满",
+        "限制人数",
         "禁止退课"
       ],
       "number": "113",
@@ -12522,13 +12522,13 @@
     },
     {
       "campus": "宝山",
-      "capacity": "113",
+      "capacity": "116",
       "classTime": "一3-4 三3-4",
       "courseId": "01014127",
       "courseName": "微积分(3)",
       "credit": "4",
       "limitations": [
-        "人数已满",
+        "限制人数",
         "禁止退课"
       ],
       "number": "113",
@@ -13582,10 +13582,10 @@
       "courseName": "大学物理(1)",
       "credit": "4",
       "limitations": [
-        "人数已满",
+        "限制人数",
         "禁止退课"
       ],
-      "number": "81",
+      "number": "82",
       "position": "FJ206",
       "teacherId": "1000",
       "teacherName": "张丽杰",
@@ -13701,10 +13701,10 @@
       "courseName": "大学物理(2)",
       "credit": "4",
       "limitations": [
-        "人数已满",
+        "限制人数",
         "禁止退课"
       ],
-      "number": "112",
+      "number": "113",
       "position": "FJ206",
       "teacherId": "1007",
       "teacherName": "白丽华",
@@ -13899,13 +13899,13 @@
     },
     {
       "campus": "宝山",
-      "capacity": "112",
+      "capacity": "114",
       "classTime": "二7-8 四7-8",
       "courseId": "01034118",
       "courseName": "大学物理(2)",
       "credit": "4",
       "limitations": [
-        "限制人数",
+        "人数已满",
         "禁止退课"
       ],
       "number": "114",
@@ -14044,7 +14044,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "88",
+      "number": "89",
       "position": "FJ303",
       "teacherId": "1000",
       "teacherName": "查国桥",
@@ -16713,7 +16713,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "30",
+      "number": "31",
       "position": "C115",
       "teacherId": "1001",
       "teacherName": "朱玉洁",
@@ -19071,7 +19071,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "61",
+      "number": "62",
       "position": "BJ204",
       "teacherId": "1000",
       "teacherName": "黄超等",
@@ -19207,7 +19207,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "99",
+      "number": "101",
       "position": "CJ204",
       "teacherId": "1000",
       "teacherName": "朱善杰等",
@@ -19275,7 +19275,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "19",
+      "number": "20",
       "position": "A113",
       "teacherId": "1000",
       "teacherName": "张宇超",
@@ -19530,7 +19530,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "89",
+      "number": "92",
       "position": "EJ304",
       "teacherId": "1000",
       "teacherName": "韩戍",
@@ -19581,7 +19581,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "16",
+      "number": "17",
       "position": "B316",
       "teacherId": "1000",
       "teacherName": "景春雨等",
@@ -19598,7 +19598,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "59",
+      "number": "61",
       "position": "BJ104",
       "teacherId": "1000",
       "teacherName": "顾玥等",
@@ -19629,10 +19629,10 @@
       "courseName": "考古发现与华夏文明",
       "credit": "2",
       "limitations": [
-        "人数已满",
+        "限制人数",
         "禁止退课"
       ],
-      "number": "70",
+      "number": "71",
       "position": "BJ204",
       "teacherId": "1000",
       "teacherName": "宋蓉",
@@ -19680,10 +19680,10 @@
       "courseName": "自杀研究",
       "credit": "1",
       "limitations": [
-        "限制人数",
+        "人数已满",
         "禁止退课"
       ],
-      "number": "29",
+      "number": "30",
       "position": "B418",
       "teacherId": "1000",
       "teacherName": "刘长林",
@@ -22844,7 +22844,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "37",
+      "number": "38",
       "position": "C113",
       "teacherId": "1003",
       "teacherName": "赵嘉嘉",
@@ -22878,7 +22878,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "37",
+      "number": "38",
       "position": "C113",
       "teacherId": "1001",
       "teacherName": "赵嘉嘉",
@@ -22895,7 +22895,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "37",
+      "number": "38",
       "position": "C113",
       "teacherId": "1002",
       "teacherName": "赵嘉嘉",
@@ -22912,7 +22912,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "37",
+      "number": "38",
       "position": "C113",
       "teacherId": "1003",
       "teacherName": "赵嘉嘉",
@@ -22960,10 +22960,10 @@
       "courseName": "旅游英语",
       "credit": "2",
       "limitations": [
-        "人数已满",
+        "限制人数",
         "禁止退课"
       ],
-      "number": "35",
+      "number": "36",
       "position": "C111",
       "teacherId": "1006",
       "teacherName": "沈澄",
@@ -22977,10 +22977,10 @@
       "courseName": "旅游英语",
       "credit": "2",
       "limitations": [
-        "人数已满",
+        "限制人数",
         "禁止退课"
       ],
-      "number": "35",
+      "number": "36",
       "position": "C111",
       "teacherId": "1007",
       "teacherName": "沈澄",
@@ -22997,7 +22997,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "36",
+      "number": "37",
       "position": "C111",
       "teacherId": "1008",
       "teacherName": "沈澄",
@@ -23303,7 +23303,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "31",
+      "number": "35",
       "position": "A204",
       "teacherId": "1000",
       "teacherName": "钱洁雯",
@@ -23385,10 +23385,10 @@
       "courseName": "通用英语D(3)",
       "credit": "2",
       "limitations": [
-        "人数已满",
+        "限制人数",
         "禁止退课"
       ],
-      "number": "40",
+      "number": "42",
       "position": "C113",
       "teacherId": "1005",
       "teacherName": "陈荣",
@@ -23436,10 +23436,10 @@
       "courseName": "通用英语D(3)",
       "credit": "2",
       "limitations": [
-        "人数已满",
+        "限制人数",
         "禁止退课"
       ],
-      "number": "18",
+      "number": "19",
       "position": "Ⅳ406",
       "teacherId": "3002",
       "teacherName": "黄红",
@@ -23456,7 +23456,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "28",
+      "number": "29",
       "position": "A204",
       "teacherId": "1000",
       "teacherName": "钱洁雯",
@@ -23929,10 +23929,10 @@
       "courseName": "通用学术英语B(3)",
       "credit": "2",
       "limitations": [
-        "限制人数",
+        "人数已满",
         "禁止退课"
       ],
-      "number": "39",
+      "number": "40",
       "position": "C417",
       "teacherId": "1001",
       "teacherName": "张岚",
@@ -24306,7 +24306,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "35",
+      "number": "36",
       "position": "C113",
       "teacherId": "1023",
       "teacherName": "杨兆明",
@@ -24609,10 +24609,10 @@
       "courseName": "通用学术英语A(3)",
       "credit": "2",
       "limitations": [
-        "限制人数",
+        "人数已满",
         "禁止退课"
       ],
-      "number": "33",
+      "number": "34",
       "position": "A115",
       "teacherId": "1005",
       "teacherName": "陈莎",
@@ -24935,7 +24935,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "40",
+      "number": "39",
       "position": "A109",
       "teacherId": "1024",
       "teacherName": "白岸杨",
@@ -25136,10 +25136,10 @@
       "courseName": "英语口语",
       "credit": "2",
       "limitations": [
-        "人数已满",
+        "限制人数",
         "禁止退课"
       ],
-      "number": "40",
+      "number": "41",
       "position": "D303",
       "teacherId": "1003",
       "teacherName": "Ding Dong",
@@ -25153,10 +25153,10 @@
       "courseName": "英语口语",
       "credit": "2",
       "limitations": [
-        "人数已满",
+        "限制人数",
         "禁止退课"
       ],
-      "number": "40",
+      "number": "42",
       "position": "D303",
       "teacherId": "1004",
       "teacherName": "Ding Dong",
@@ -25187,10 +25187,10 @@
       "courseName": "英语口语",
       "credit": "2",
       "limitations": [
-        "人数已满",
+        "限制人数",
         "禁止退课"
       ],
-      "number": "40",
+      "number": "43",
       "position": "D303",
       "teacherId": "1006",
       "teacherName": "Ding Dong",
@@ -25204,10 +25204,10 @@
       "courseName": "英语口语",
       "credit": "2",
       "limitations": [
-        "人数已满",
+        "限制人数",
         "禁止退课"
       ],
-      "number": "40",
+      "number": "41",
       "position": "D303",
       "teacherId": "1007",
       "teacherName": "Ding Dong",
@@ -25238,10 +25238,10 @@
       "courseName": "英语阅读",
       "credit": "2",
       "limitations": [
-        "人数已满",
+        "限制人数",
         "禁止退课"
       ],
-      "number": "40",
+      "number": "41",
       "position": "D106",
       "teacherId": "1001",
       "teacherName": "吴羊",
@@ -25255,10 +25255,10 @@
       "courseName": "英语阅读",
       "credit": "2",
       "limitations": [
-        "人数已满",
+        "限制人数",
         "禁止退课"
       ],
-      "number": "40",
+      "number": "41",
       "position": "D106",
       "teacherId": "1002",
       "teacherName": "吴羊",
@@ -25289,10 +25289,10 @@
       "courseName": "英语阅读",
       "credit": "2",
       "limitations": [
-        "人数已满",
+        "限制人数",
         "禁止退课"
       ],
-      "number": "40",
+      "number": "42",
       "position": "D106",
       "teacherId": "1004",
       "teacherName": "吴羊",
@@ -25496,7 +25496,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "42",
+      "number": "43",
       "position": "C114",
       "teacherId": "1003",
       "teacherName": "王晓元",
@@ -25547,7 +25547,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "32",
+      "number": "33",
       "position": "D108",
       "teacherId": "1003",
       "teacherName": "吴雪颖",
@@ -25785,7 +25785,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "34",
+      "number": "35",
       "position": "A314",
       "teacherId": "1002",
       "teacherName": "李泳涛",
@@ -25870,7 +25870,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "20",
+      "number": "21",
       "position": "B316",
       "teacherId": "1003",
       "teacherName": "陈海叶",
@@ -25921,7 +25921,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "18",
+      "number": "19",
       "position": "D108",
       "teacherId": "1002",
       "teacherName": "吴雪颖",
@@ -27927,7 +27927,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "67",
+      "number": "69",
       "position": "J101",
       "teacherId": "1000",
       "teacherName": "祝波",
@@ -28063,7 +28063,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "71",
+      "number": "72",
       "position": "J101",
       "teacherId": "1000",
       "teacherName": "卢正刚等",
@@ -29199,10 +29199,10 @@
       "courseName": "国际金融",
       "credit": "4",
       "limitations": [
-        "限制人数",
+        "人数已满",
         "禁止退课"
       ],
-      "number": "32",
+      "number": "33",
       "position": "A112",
       "teacherId": "1001",
       "teacherName": "王国松",
@@ -31004,7 +31004,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "13",
+      "number": "12",
       "position": "A419",
       "teacherId": "1004",
       "teacherName": "蔡宇欣",
@@ -31803,7 +31803,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "11",
+      "number": "12",
       "position": "A117",
       "teacherId": "1000",
       "teacherName": "胡晓龙",
@@ -32412,10 +32412,10 @@
       "courseName": "创新创业与知识产权",
       "credit": "4",
       "limitations": [
-        "人数已满",
+        "限制人数",
         "禁止退课"
       ],
-      "number": "70",
+      "number": "71",
       "position": "AJ203",
       "teacherId": "1000",
       "teacherName": "徐红菊等",
@@ -32449,7 +32449,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "68",
+      "number": "69",
       "position": "J201",
       "teacherId": "1000",
       "teacherName": "袁曾",
@@ -33282,7 +33282,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "73",
+      "number": "74",
       "position": "GJ204",
       "teacherId": "1000",
       "teacherName": "滕国伟等",
@@ -33978,7 +33978,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "40",
+      "number": "41",
       "position": "材328",
       "teacherId": "1000",
       "teacherName": "吕东辉",
@@ -35372,7 +35372,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "67",
+      "number": "65",
       "position": "Ⅳ104",
       "teacherId": "3000",
       "teacherName": "岳涛",
@@ -36899,10 +36899,10 @@
       "courseName": "3D打印——从想象到现实",
       "credit": "2",
       "limitations": [
-        "人数已满",
+        "限制人数",
         "禁止退课"
       ],
-      "number": "70",
+      "number": "71",
       "position": "J201",
       "teacherId": "1000",
       "teacherName": "林柳兰",
@@ -37089,7 +37089,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "31",
+      "number": "32",
       "position": "D111",
       "teacherId": "1000",
       "teacherName": "胡涛",
@@ -37446,7 +37446,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "30",
+      "number": "29",
       "position": "计301",
       "teacherId": "1000",
       "teacherName": "张金松",
@@ -42673,6 +42673,20 @@
     },
     {
       "campus": "宝山",
+      "capacity": "50",
+      "classTime": "一7-8 三9-10",
+      "courseId": "10415099",
+      "courseName": "无机材料结晶化学",
+      "credit": "4",
+      "limitations": [],
+      "number": "0",
+      "position": "计308",
+      "teacherId": "1000",
+      "teacherName": "",
+      "teacherTitle": ""
+    },
+    {
+      "campus": "宝山",
       "capacity": "10",
       "classTime": "四5-6",
       "courseId": "10415102",
@@ -43906,7 +43920,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "117",
+      "number": "118",
       "position": "DJ203",
       "teacherId": "1000",
       "teacherName": "王勇等",
@@ -45470,7 +45484,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "97",
+      "number": "99",
       "position": "J102",
       "teacherId": "1000",
       "teacherName": "肖俊杰等",
@@ -54035,7 +54049,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "36",
+      "number": "38",
       "position": "Ⅳ403",
       "teacherId": "3000",
       "teacherName": "宋莹",
@@ -56973,10 +56987,10 @@
       "courseName": "全球创新与中国企业家精神",
       "credit": "3",
       "limitations": [
-        "限制人数",
+        "人数已满",
         "禁止退课"
       ],
-      "number": "65",
+      "number": "66",
       "position": "文博402",
       "teacherId": "2000",
       "teacherName": "蔡震尧",
@@ -57027,7 +57041,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "62",
+      "number": "63",
       "position": "文博402 文德303",
       "teacherId": "2002",
       "teacherName": "薛文骏",
@@ -57245,10 +57259,10 @@
       "courseName": "财务分析与决策",
       "credit": "4",
       "limitations": [
-        "限制人数",
+        "人数已满",
         "禁止退课"
       ],
-      "number": "42",
+      "number": "43",
       "position": "文博502 ",
       "teacherId": "2002",
       "teacherName": "阎蓓蓓",
@@ -57554,7 +57568,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "29",
+      "number": "28",
       "position": "文博301",
       "teacherId": "2001",
       "teacherName": "汪辉辉",
@@ -60954,7 +60968,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "106",
+      "number": "107",
       "position": "AJ203",
       "teacherId": "1001",
       "teacherName": "何英",
@@ -61040,7 +61054,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "131",
+      "number": "132",
       "position": "J102",
       "teacherId": "1002",
       "teacherName": "宋芳明",
@@ -61092,7 +61106,7 @@
         "禁止选课",
         "禁止退课"
       ],
-      "number": "125",
+      "number": "126",
       "position": "J102",
       "teacherId": "1005",
       "teacherName": "宋芳明",
@@ -61109,7 +61123,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "127",
+      "number": "129",
       "position": "J102",
       "teacherId": "1006",
       "teacherName": "宋芳明",
@@ -61126,7 +61140,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "132",
+      "number": "134",
       "position": "J102",
       "teacherId": "1007",
       "teacherName": "宋芳明",
@@ -61178,7 +61192,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "133",
+      "number": "134",
       "position": "J102",
       "teacherId": "1010",
       "teacherName": "刘子杰",
@@ -61195,7 +61209,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "136",
+      "number": "137",
       "position": "J102",
       "teacherId": "1011",
       "teacherName": "刘子杰",
@@ -61209,10 +61223,10 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
-        "限制人数",
+        "人数已满",
         "禁止退课"
       ],
-      "number": "134",
+      "number": "135",
       "position": "J102",
       "teacherId": "1012",
       "teacherName": "刘子杰",
@@ -61313,10 +61327,10 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
-        "人数已满",
+        "限制人数",
         "禁止退课"
       ],
-      "number": "125",
+      "number": "126",
       "position": "J102",
       "teacherId": "1018",
       "teacherName": "奚建群",
@@ -61398,10 +61412,10 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
-        "限制人数",
+        "人数已满",
         "禁止退课"
       ],
-      "number": "128",
+      "number": "130",
       "position": "AJ207",
       "teacherId": "1023",
       "teacherName": "王国建",
@@ -61556,7 +61570,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "45",
+      "number": "46",
       "position": "CJ204",
       "teacherId": "1032",
       "teacherName": "汪艳",
@@ -61726,10 +61740,10 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
-        "限制人数",
+        "人数已满",
         "禁止退课"
       ],
-      "number": "123",
+      "number": "125",
       "position": "J102",
       "teacherId": "1042",
       "teacherName": "童颖",
@@ -61930,10 +61944,10 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
-        "人数已满",
+        "限制人数",
         "禁止退课"
       ],
-      "number": "120",
+      "number": "119",
       "position": "J201",
       "teacherId": "1054",
       "teacherName": "冯君妍",
@@ -61950,7 +61964,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "97",
+      "number": "98",
       "position": "J201",
       "teacherId": "1055",
       "teacherName": "冯君妍",
@@ -62120,7 +62134,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "124",
+      "number": "125",
       "position": "J101",
       "teacherId": "1065",
       "teacherName": "孙士庆",
@@ -62390,10 +62404,10 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
-        "人数已满",
+        "限制人数",
         "禁止退课"
       ],
-      "number": "130",
+      "number": "131",
       "position": "FJ106",
       "teacherId": "1086",
       "teacherName": "张金翠",
@@ -62737,7 +62751,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "97",
+      "number": "98",
       "position": "AJ304",
       "teacherId": "1106",
       "teacherName": "王沁",
@@ -63009,10 +63023,10 @@
       "courseName": "形势与政策",
       "credit": "0",
       "limitations": [
-        "人数已满",
+        "限制人数",
         "禁止退课"
       ],
-      "number": "122",
+      "number": "123",
       "position": "1-231",
       "teacherId": "2013",
       "teacherName": "李昊匡",
@@ -63100,7 +63114,7 @@
         "禁止选课",
         "禁止退课"
       ],
-      "number": "78",
+      "number": "79",
       "position": "Ⅳ301",
       "teacherId": "3003",
       "teacherName": "宋津明",
@@ -63393,7 +63407,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "66",
+      "number": "67",
       "position": "CJ303",
       "teacherId": "1004",
       "teacherName": "许俊琳",
@@ -63495,7 +63509,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "119",
+      "number": "121",
       "position": "AJ107",
       "teacherId": "1010",
       "teacherName": "岳爱武",
@@ -63546,7 +63560,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "122",
+      "number": "123",
       "position": "CJ107",
       "teacherId": "1013",
       "teacherName": "杨阳",
@@ -63580,7 +63594,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "119",
+      "number": "120",
       "position": "FJ206",
       "teacherId": "1015",
       "teacherName": "韩玲",
@@ -63852,7 +63866,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "83",
+      "number": "84",
       "position": "BJ103",
       "teacherId": "1002",
       "teacherName": "张靖杰",
@@ -63903,7 +63917,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "117",
+      "number": "116",
       "position": "1-233",
       "teacherId": "2000",
       "teacherName": "宋政超",
@@ -64056,7 +64070,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "132",
+      "number": "134",
       "position": "AJ103",
       "teacherId": "1002",
       "teacherName": "曹青春",
@@ -64090,7 +64104,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "145",
+      "number": "146",
       "position": "DJ208",
       "teacherId": "1004",
       "teacherName": "申小翠",
@@ -64107,7 +64121,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "129",
+      "number": "131",
       "position": "DJ203",
       "teacherId": "1005",
       "teacherName": "赵静",
@@ -64124,7 +64138,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "129",
+      "number": "131",
       "position": "AJ103",
       "teacherId": "1006",
       "teacherName": "张青子衿",
@@ -64175,7 +64189,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "96",
+      "number": "97",
       "position": "AJ204",
       "teacherId": "1009",
       "teacherName": "李大山",
@@ -65345,7 +65359,7 @@
         "禁止选课",
         "禁止退课"
       ],
-      "number": "119",
+      "number": "121",
       "position": "CJ303",
       "teacherId": "1001",
       "teacherName": "熊俊诚",
@@ -65363,7 +65377,7 @@
         "禁止选课",
         "禁止退课"
       ],
-      "number": "123",
+      "number": "124",
       "position": "CJ303",
       "teacherId": "1002",
       "teacherName": "熊俊诚",
@@ -65435,7 +65449,7 @@
         "禁止选课",
         "禁止退课"
       ],
-      "number": "92",
+      "number": "93",
       "position": "CJ303",
       "teacherId": "1006",
       "teacherName": "许俊琳",
@@ -65699,7 +65713,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "36",
+      "number": "37",
       "position": "A314",
       "teacherId": "1021",
       "teacherName": "韩玲",
@@ -65733,7 +65747,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "125",
+      "number": "126",
       "position": "CJ203",
       "teacherId": "1023",
       "teacherName": "孙会岩",
@@ -65784,7 +65798,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "123",
+      "number": "124",
       "position": "AJ104",
       "teacherId": "1026",
       "teacherName": "杨秀君",
@@ -65801,7 +65815,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "122",
+      "number": "124",
       "position": "AJ107",
       "teacherId": "1027",
       "teacherName": "杨秀君",
@@ -65960,7 +65974,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "122",
+      "number": "123",
       "position": "CJ207",
       "teacherId": "1036",
       "teacherName": "张琳",
@@ -66157,7 +66171,7 @@
         "禁止选课",
         "禁止退课"
       ],
-      "number": "123",
+      "number": "124",
       "position": "CJ203",
       "teacherId": "1002",
       "teacherName": "盛宁",
@@ -66247,7 +66261,7 @@
         "禁止选课",
         "禁止退课"
       ],
-      "number": "93",
+      "number": "94",
       "position": "CJ207",
       "teacherId": "1007",
       "teacherName": "张靖杰",
@@ -66387,11 +66401,11 @@
       "courseName": "思想政治理论课(实践)(2)",
       "credit": "1",
       "limitations": [
-        "限制人数",
+        "人数已满",
         "禁止选课",
         "禁止退课"
       ],
-      "number": "89",
+      "number": "90",
       "position": "CJ304",
       "teacherId": "1015",
       "teacherName": "高红明",
@@ -66427,7 +66441,7 @@
         "禁止选课",
         "禁止退课"
       ],
-      "number": "91",
+      "number": "92",
       "position": "CJ304",
       "teacherId": "1017",
       "teacherName": "高红明",
@@ -66564,7 +66578,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "33",
+      "number": "34",
       "position": "C113",
       "teacherId": "1025",
       "teacherName": "李大山",
@@ -66581,7 +66595,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "65",
+      "number": "67",
       "position": "C113",
       "teacherId": "1026",
       "teacherName": "李大山",
@@ -66598,7 +66612,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "42",
+      "number": "43",
       "position": "A314",
       "teacherId": "1027",
       "teacherName": "张富文",
@@ -66949,7 +66963,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "52",
+      "number": "53",
       "position": "Ⅳ202",
       "teacherId": "3004",
       "teacherName": "申小翠",
@@ -69550,7 +69564,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "18",
+      "number": "19",
       "position": "B320",
       "teacherId": "1002",
       "teacherName": "张新玲等",
@@ -72658,10 +72672,10 @@
       "courseName": "电子商务入门",
       "credit": "2",
       "limitations": [
-        "人数已满",
+        "限制人数",
         "禁止退课"
       ],
-      "number": "70",
+      "number": "71",
       "position": "J201",
       "teacherId": "1000",
       "teacherName": "戴德宝",
@@ -72811,10 +72825,10 @@
       "courseName": "管理思维与方法",
       "credit": "4",
       "limitations": [
-        "限制人数",
+        "人数已满",
         "禁止退课"
       ],
-      "number": "69",
+      "number": "70",
       "position": "AJ107",
       "teacherId": "1000",
       "teacherName": "许学国等",
@@ -72967,7 +72981,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "41",
+      "number": "42",
       "position": "C121",
       "teacherId": "1000",
       "teacherName": "张慧",
@@ -72984,7 +72998,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "78",
+      "number": "79",
       "position": "CJ103",
       "teacherId": "1000",
       "teacherName": "丁华东等",
@@ -79988,7 +80002,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "100",
+      "number": "101",
       "position": "J101",
       "teacherId": "1000",
       "teacherName": "忻平等",
@@ -82018,7 +82032,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "e2c4891ac1dcab773da7de7acb6bfb6c",
+  "hash": "fa2920231e2fe8929b77f978a0ac04d9",
   "termName": "2024-2025学年春季学期",
-  "updateTimeMs": 1742526836782
+  "updateTimeMs": 1742529160366
 }
