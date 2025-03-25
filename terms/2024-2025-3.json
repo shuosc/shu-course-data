@@ -1782,7 +1782,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "20",
+      "number": "19",
       "position": "体育馆中心场地",
       "teacherId": "2423",
       "teacherName": "许凤",
@@ -2968,10 +2968,7 @@
       "courseId": "00853069",
       "courseName": "体育(3)(保健班)",
       "credit": "1",
-      "limitations": [
-        "限制人数",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "20",
       "position": "C314",
       "teacherId": "1611",
@@ -2985,10 +2982,7 @@
       "courseId": "00853069",
       "courseName": "体育(3)(保健班)",
       "credit": "1",
-      "limitations": [
-        "限制人数",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "9",
       "position": "C314",
       "teacherId": "1981",
@@ -3002,10 +2996,7 @@
       "courseId": "00853069",
       "courseName": "体育(3)(保健班)",
       "credit": "1",
-      "limitations": [
-        "限制人数",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "11",
       "position": "C315",
       "teacherId": "1992",
@@ -3019,10 +3010,7 @@
       "courseId": "00853072",
       "courseName": "体育(6)(保健班)",
       "credit": "1",
-      "limitations": [
-        "限制人数",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "17",
       "position": "C314",
       "teacherId": "1612",
@@ -3036,10 +3024,7 @@
       "courseId": "00853072",
       "courseName": "体育(6)(保健班)",
       "credit": "1",
-      "limitations": [
-        "限制人数",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "14",
       "position": "C315",
       "teacherId": "1982",
@@ -3053,10 +3038,7 @@
       "courseId": "00853072",
       "courseName": "体育(6)(保健班)",
       "credit": "1",
-      "limitations": [
-        "限制人数",
-        "禁止退课"
-      ],
+      "limitations": [],
       "number": "11",
       "position": "C315",
       "teacherId": "1991",
@@ -3581,10 +3563,10 @@
       "courseName": "篮球(基础)",
       "credit": "1",
       "limitations": [
-        "限制人数",
+        "人数已满",
         "禁止退课"
       ],
-      "number": "23",
+      "number": "24",
       "position": "I区篮22",
       "teacherId": "1072",
       "teacherName": "沈何为",
@@ -4941,10 +4923,10 @@
       "courseName": "跆拳道(基础)",
       "credit": "1",
       "limitations": [
-        "人数已满",
+        "限制人数",
         "禁止退课"
       ],
-      "number": "24",
+      "number": "23",
       "position": "体育馆2楼南侧",
       "teacherId": "1631",
       "teacherName": "程龙",
@@ -4958,10 +4940,10 @@
       "courseName": "跆拳道(基础)",
       "credit": "1",
       "limitations": [
-        "限制人数",
+        "人数已满",
         "禁止退课"
       ],
-      "number": "25",
+      "number": "24",
       "position": "体育馆2楼南侧",
       "teacherId": "1632",
       "teacherName": "程龙",
@@ -5485,10 +5467,10 @@
       "courseName": "高尔夫球(基础)",
       "credit": "1",
       "limitations": [
-        "人数已满",
+        "限制人数",
         "禁止退课"
       ],
-      "number": "28",
+      "number": "26",
       "position": "J区南侧高尔夫球场",
       "teacherId": "1292",
       "teacherName": "葛晓栋",
@@ -6029,10 +6011,10 @@
       "courseName": "排球(3)",
       "credit": "1",
       "limitations": [
-        "人数已满",
+        "限制人数",
         "禁止退课"
       ],
-      "number": "26",
+      "number": "25",
       "position": "C区风雨棚",
       "teacherId": "1155",
       "teacherName": "居蔚青",
@@ -6335,10 +6317,10 @@
       "courseName": "篮球(3)",
       "credit": "1",
       "limitations": [
-        "人数已满",
+        "限制人数",
         "禁止退课"
       ],
-      "number": "22",
+      "number": "21",
       "position": "I区篮26",
       "teacherId": "1024",
       "teacherName": "胡吉",
@@ -7970,7 +7952,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "18",
+      "number": "17",
       "position": "J区南侧高尔夫球场",
       "teacherId": "1245",
       "teacherName": "郭蘋蘋",
@@ -8752,7 +8734,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "26",
+      "number": "25",
       "position": "训练馆X107",
       "teacherId": "1583",
       "teacherName": "孙婷婷",
@@ -8939,7 +8921,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "28",
+      "number": "27",
       "position": "训练馆X106",
       "teacherId": "1713",
       "teacherName": "顾修红",
@@ -9157,10 +9139,10 @@
       "courseName": "游泳(男、女)",
       "credit": "1",
       "limitations": [
-        "人数已满",
+        "限制人数",
         "禁止退课"
       ],
-      "number": "12",
+      "number": "11",
       "position": "游泳馆二楼大池",
       "teacherId": "1002",
       "teacherName": "尹默林",
@@ -13140,11 +13122,11 @@
       "courseName": "数理方程",
       "credit": "4",
       "limitations": [],
-      "number": "7",
+      "number": "18",
       "position": "C123",
       "teacherId": "1000",
-      "teacherName": "",
-      "teacherTitle": ""
+      "teacherName": "盛万成",
+      "teacherTitle": "教授"
     },
     {
       "campus": "宝山",
@@ -17559,7 +17541,7 @@
       "limitations": [
         "限制人数"
       ],
-      "number": "3",
+      "number": "4",
       "position": "HA四楼",
       "teacherId": "1023",
       "teacherName": "刘洪江",
@@ -37461,7 +37443,7 @@
         "禁止退课"
       ],
       "number": "29",
-      "position": "计301",
+      "position": "机自大楼327机房",
       "teacherId": "1000",
       "teacherName": "张金松",
       "teacherTitle": "副教授"
@@ -58126,7 +58108,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "31",
+      "number": "30",
       "position": "德205,博301,德205，德205，德205",
       "teacherId": "2002",
       "teacherName": "陈海宁等",
@@ -58177,7 +58159,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "31",
+      "number": "30",
       "position": "德205,博302,德205，德205，德205",
       "teacherId": "2002",
       "teacherName": "赖俊彦等",
@@ -61206,7 +61188,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "135",
+      "number": "134",
       "position": "J102",
       "teacherId": "1010",
       "teacherName": "刘子杰",
@@ -64506,7 +64488,7 @@
       "number": "30",
       "position": "A221",
       "teacherId": "1013",
-      "teacherName": "王金伟",
+      "teacherName": "王金伟等",
       "teacherTitle": "副教授"
     },
     {
@@ -71516,7 +71498,7 @@
         "禁止退课"
       ],
       "number": "13",
-      "position": "C215",
+      "position": "B421",
       "teacherId": "1000",
       "teacherName": "MINASSIAN LAURE CAROLINE",
       "teacherTitle": ""
@@ -80443,7 +80425,7 @@
       "number": "13",
       "position": "微电子A楼206（容量16）",
       "teacherId": "2005",
-      "teacherName": "李炳均等",
+      "teacherName": "杨军等",
       "teacherTitle": ""
     },
     {
@@ -80460,7 +80442,7 @@
       "number": "15",
       "position": "微电子A楼206（容量16）",
       "teacherId": "2006",
-      "teacherName": "李炳均等",
+      "teacherName": "杨军等",
       "teacherTitle": ""
     },
     {
@@ -82045,7 +82027,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "17346152dc0edf17b71312b6025128dc",
+  "hash": "3b63c4a961bd62b5c1ae2966df91fab0",
   "termName": "2024-2025学年春季学期",
-  "updateTimeMs": 1742888487429
+  "updateTimeMs": 1742892517303
 }
