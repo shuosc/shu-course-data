@@ -4515,10 +4515,10 @@
       "courseName": "游泳(基础)",
       "credit": "1",
       "limitations": [
-        "限制人数",
+        "人数已满",
         "禁止退课"
       ],
-      "number": "25",
+      "number": "26",
       "position": "游泳馆小池",
       "teacherId": "1895",
       "teacherName": "陈婷",
@@ -4583,10 +4583,10 @@
       "courseName": "游泳(基础)",
       "credit": "1",
       "limitations": [
-        "人数已满",
+        "限制人数",
         "禁止退课"
       ],
-      "number": "26",
+      "number": "25",
       "position": "游泳馆小池",
       "teacherId": "1931",
       "teacherName": "卢琳",
@@ -5623,7 +5623,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "10",
+      "number": "11",
       "position": "体育馆T101",
       "teacherId": "1571",
       "teacherName": "李燕",
@@ -9125,7 +9125,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "10",
+      "number": "9",
       "position": "游泳馆二楼大池",
       "teacherId": "1001",
       "teacherName": "许汸",
@@ -12190,7 +12190,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "101",
+      "number": "100",
       "position": "1-231",
       "teacherId": "2001",
       "teacherName": "豆艳萍",
@@ -12207,7 +12207,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "119",
+      "number": "120",
       "position": "1-231",
       "teacherId": "2002",
       "teacherName": "张琴",
@@ -61153,7 +61153,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "131",
+      "number": "132",
       "position": "J102",
       "teacherId": "1008",
       "teacherName": "宋芳明",
@@ -68336,7 +68336,7 @@
         "禁止退课"
       ],
       "number": "30",
-      "position": "学院实验中心204",
+      "position": "Ⅳ311",
       "teacherId": "3000",
       "teacherName": "任瑞娟",
       "teacherTitle": "教授"
@@ -82027,7 +82027,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "674b1444dc28e5b612a11210e031d86b",
+  "hash": "a09d0c7931c236b8d8a30d7c4afc2824",
   "termName": "2024-2025学年春季学期",
-  "updateTimeMs": 1743061347488
+  "updateTimeMs": 1743065333006
 }
