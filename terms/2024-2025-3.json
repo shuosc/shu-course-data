@@ -12190,7 +12190,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "100",
+      "number": "99",
       "position": "1-231",
       "teacherId": "2001",
       "teacherName": "豆艳萍",
@@ -18880,7 +18880,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "23",
+      "number": "22",
       "position": "另行通知",
       "teacherId": "1000",
       "teacherName": "吕浡",
@@ -25815,7 +25815,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "23",
+      "number": "22",
       "position": "A314",
       "teacherId": "1004",
       "teacherName": "李泳涛",
@@ -61171,7 +61171,7 @@
         "禁止选课",
         "禁止退课"
       ],
-      "number": "132",
+      "number": "131",
       "position": "J102",
       "teacherId": "1009",
       "teacherName": "刘子杰",
@@ -70882,10 +70882,10 @@
       "courseName": "算法入门",
       "credit": "6",
       "limitations": [
-        "限制人数",
+        "人数已满",
         "禁止退课"
       ],
-      "number": "36",
+      "number": "35",
       "position": "D215",
       "teacherId": "1002",
       "teacherName": "Pierre Beauserroy等",
@@ -70902,7 +70902,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "36",
+      "number": "37",
       "position": "EJ206",
       "teacherId": "1003",
       "teacherName": "Pierre Beauserroy等",
@@ -82027,7 +82027,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "d76db8d05a1e8a79996406e653235fac",
+  "hash": "8242a44f470099a2a3f086fb2618c091",
   "termName": "2024-2025学年春季学期",
-  "updateTimeMs": 1743144656999
+  "updateTimeMs": 1743147710656
 }
