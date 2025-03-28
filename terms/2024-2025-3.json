@@ -12819,7 +12819,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "31",
+      "number": "32",
       "position": "D115",
       "teacherId": "1000",
       "teacherName": "王珂",
@@ -12901,10 +12901,10 @@
       "courseName": "微积分(3)(经管类)",
       "credit": "4",
       "limitations": [
-        "限制人数",
+        "人数已满",
         "禁止退课"
       ],
-      "number": "29",
+      "number": "30",
       "position": "C121",
       "teacherId": "1005",
       "teacherName": "孙建才",
@@ -28600,10 +28600,10 @@
       "courseName": "宏观经济学",
       "credit": "4",
       "limitations": [
-        "限制人数",
+        "人数已满",
         "禁止退课"
       ],
-      "number": "54",
+      "number": "55",
       "position": "AJ104",
       "teacherId": "1008",
       "teacherName": "许玲丽",
@@ -82027,7 +82027,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "4ed112efab621758991a7383c0ba904e",
+  "hash": "d76db8d05a1e8a79996406e653235fac",
   "termName": "2024-2025学年春季学期",
-  "updateTimeMs": 1743140757821
+  "updateTimeMs": 1743144656999
 }
