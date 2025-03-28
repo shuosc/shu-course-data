@@ -13122,7 +13122,7 @@
       "courseName": "数理方程",
       "credit": "4",
       "limitations": [],
-      "number": "20",
+      "number": "21",
       "position": "C123",
       "teacherId": "1000",
       "teacherName": "盛万成",
@@ -18065,7 +18065,7 @@
       "courseName": "有机化学G(2)",
       "credit": "3",
       "limitations": [],
-      "number": "10",
+      "number": "11",
       "position": "C117",
       "teacherId": "1000",
       "teacherName": "理珍",
@@ -72661,6 +72661,20 @@
     },
     {
       "campus": "宝山",
+      "capacity": "40",
+      "classTime": "二9-11",
+      "courseId": "23805019",
+      "courseName": "工程力学(2)",
+      "credit": "3",
+      "limitations": [],
+      "number": "1",
+      "position": "A321",
+      "teacherId": "1000",
+      "teacherName": "",
+      "teacherTitle": ""
+    },
+    {
+      "campus": "宝山",
       "capacity": "70",
       "classTime": "三1-2",
       "courseId": "2400J001",
@@ -82027,7 +82041,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "cf969c806941e5284864e1417ae89b09",
+  "hash": "3c6c28bcb30259b32a2ccde7e4ffb62d",
   "termName": "2024-2025学年春季学期",
-  "updateTimeMs": 1743151701279
+  "updateTimeMs": 1743155049251
 }
