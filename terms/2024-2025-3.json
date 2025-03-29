@@ -675,7 +675,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "2",
+      "number": "3",
       "position": "HE304",
       "teacherId": "1000",
       "teacherName": "楚海建",
@@ -10162,7 +10162,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "41",
+      "number": "42",
       "position": "Ⅳ211机房",
       "teacherId": "3000",
       "teacherName": "佘俊",
@@ -12765,10 +12765,10 @@
       "courseName": "微积分(3)",
       "credit": "4",
       "limitations": [
-        "限制人数",
+        "人数已满",
         "禁止退课"
       ],
-      "number": "94",
+      "number": "95",
       "position": "EJ204",
       "teacherId": "1024",
       "teacherName": "李新祥",
@@ -18490,7 +18490,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "6",
+      "number": "5",
       "position": "D212",
       "teacherId": "1000",
       "teacherName": "汪华苗",
@@ -28994,7 +28994,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "15",
+      "number": "16",
       "position": "经管109",
       "teacherId": "1002",
       "teacherName": "沈毅",
@@ -33822,7 +33822,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "28",
+      "number": "29",
       "position": "材326",
       "teacherId": "1001",
       "teacherName": "郭海润",
@@ -36235,7 +36235,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "77",
+      "number": "78",
       "position": "GJ204",
       "teacherId": "1000",
       "teacherName": "武星",
@@ -48367,10 +48367,10 @@
       "courseName": "综合艺术实验(2)",
       "credit": "1",
       "limitations": [
-        "人数已满",
+        "限制人数",
         "禁止退课"
       ],
-      "number": "5",
+      "number": "4",
       "position": "行健楼1112",
       "teacherId": "3004",
       "teacherName": "许宁",
@@ -48489,7 +48489,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "8",
+      "number": "9",
       "position": "Ⅳ110",
       "teacherId": "3000",
       "teacherName": "李垣",
@@ -51022,7 +51022,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "10",
+      "number": "9",
       "position": "行健楼1116",
       "teacherId": "3000",
       "teacherName": "汤宁容",
@@ -55300,10 +55300,10 @@
       "courseName": "语言技巧训练(3)",
       "credit": "4",
       "limitations": [
-        "人数已满",
+        "限制人数",
         "禁止退课"
       ],
-      "number": "20",
+      "number": "21",
       "position": "四教508",
       "teacherId": "3000",
       "teacherName": "吴笑",
@@ -56340,7 +56340,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "5",
+      "number": "6",
       "position": "Ⅳ103",
       "teacherId": "3000",
       "teacherName": "曲丽萍",
@@ -57102,10 +57102,10 @@
       "courseName": "金融风险管理",
       "credit": "3",
       "limitations": [
-        "人数已满",
+        "限制人数",
         "禁止退课"
       ],
-      "number": "65",
+      "number": "64",
       "position": "文博404",
       "teacherId": "2000",
       "teacherName": "张倩",
@@ -66941,7 +66941,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "98",
+      "number": "97",
       "position": "Ⅳ102",
       "teacherId": "3003",
       "teacherName": "申小翠",
@@ -69185,7 +69185,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "7",
+      "number": "6",
       "position": "另行通知",
       "teacherId": "1000",
       "teacherName": "林永亮",
@@ -82041,7 +82041,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "3c6c28bcb30259b32a2ccde7e4ffb62d",
+  "hash": "f7f732b9e6cad7f7a041f2bf295a2a89",
   "termName": "2024-2025学年春季学期",
-  "updateTimeMs": 1743223652075
+  "updateTimeMs": 1743227000254
 }
