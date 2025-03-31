@@ -3685,7 +3685,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "18",
+      "number": "19",
       "position": "I区篮20",
       "teacherId": "1082",
       "teacherName": "朱侨宇",
@@ -4226,10 +4226,10 @@
       "courseName": "网球(基础)",
       "credit": "1",
       "limitations": [
-        "限制人数",
+        "人数已满",
         "禁止退课"
       ],
-      "number": "27",
+      "number": "26",
       "position": "E区网9",
       "teacherId": "1791",
       "teacherName": "陆树兵",
@@ -4702,10 +4702,10 @@
       "courseName": "游泳(基础)",
       "credit": "1",
       "limitations": [
-        "人数已满",
+        "限制人数",
         "禁止退课"
       ],
-      "number": "26",
+      "number": "25",
       "position": "游泳馆小池",
       "teacherId": "1965",
       "teacherName": "尹默林",
@@ -9346,7 +9346,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "7",
+      "number": "6",
       "position": "游泳馆二楼大池",
       "teacherId": "1935",
       "teacherName": "卢琳",
@@ -10043,7 +10043,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "68",
+      "number": "69",
       "position": "D504",
       "teacherId": "1002",
       "teacherName": "钟宝燕",
@@ -30150,7 +30150,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "22",
+      "number": "23",
       "position": "A117",
       "teacherId": "1000",
       "teacherName": "温小琴等",
@@ -31051,7 +31051,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "72",
+      "number": "73",
       "position": "AJ104",
       "teacherId": "1000",
       "teacherName": "章贵桥",
@@ -32037,7 +32037,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "42",
+      "number": "41",
       "position": "另行通知",
       "teacherId": "1000",
       "teacherName": "李应招",
@@ -36575,7 +36575,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "46",
+      "number": "47",
       "position": "计204",
       "teacherId": "1000",
       "teacherName": "隋智美",
@@ -41913,7 +41913,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "40",
+      "number": "41",
       "position": "D217",
       "teacherId": "1000",
       "teacherName": "郭晓菲等",
@@ -82041,7 +82041,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "db2f8045c7ee6950ec377a073214bc7f",
+  "hash": "926e1d59f1ca8a083187ec3ebb96ce12",
   "termName": "2024-2025学年春季学期",
-  "updateTimeMs": 1743378105928
+  "updateTimeMs": 1743387661037
 }
