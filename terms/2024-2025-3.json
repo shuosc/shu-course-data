@@ -2105,7 +2105,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "20",
+      "number": "19",
       "position": "篮球场",
       "teacherId": "3039",
       "teacherName": "林建华",
@@ -2867,10 +2867,10 @@
       "courseName": "体育(6)",
       "credit": "1",
       "limitations": [
-        "限制人数",
+        "人数已满",
         "禁止退课"
       ],
-      "number": "21",
+      "number": "22",
       "position": "行健楼二楼",
       "teacherId": "3693",
       "teacherName": "徐漫云",
@@ -20784,7 +20784,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "15",
+      "number": "14",
       "position": "B318",
       "teacherId": "1000",
       "teacherName": "张宇超",
@@ -28209,10 +28209,10 @@
       "courseName": "大学生情感认知",
       "credit": "2",
       "limitations": [
-        "人数已满",
+        "限制人数",
         "禁止退课"
       ],
-      "number": "70",
+      "number": "69",
       "position": "J101",
       "teacherId": "1000",
       "teacherName": "李晨",
@@ -32275,7 +32275,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "16",
+      "number": "17",
       "position": "C123",
       "teacherId": "1000",
       "teacherName": "芦雪峰",
@@ -36235,7 +36235,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "78",
+      "number": "80",
       "position": "GJ204",
       "teacherId": "1000",
       "teacherName": "武星",
@@ -42675,7 +42675,7 @@
       "courseName": "无机材料结晶化学",
       "credit": "4",
       "limitations": [],
-      "number": "17",
+      "number": "20",
       "position": "计308",
       "teacherId": "1000",
       "teacherName": "陈长",
@@ -61635,7 +61635,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "122",
+      "number": "123",
       "position": "CJ204",
       "teacherId": "1036",
       "teacherName": "汪艳",
@@ -72667,7 +72667,7 @@
       "courseName": "工程力学(2)",
       "credit": "3",
       "limitations": [],
-      "number": "5",
+      "number": "13",
       "position": "A321",
       "teacherId": "1000",
       "teacherName": "",
@@ -82041,7 +82041,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "ec4f64e5246ee77a4409a49ddad01176",
+  "hash": "cae6327150708287f42e3704a0006999",
   "termName": "2024-2025学年春季学期",
-  "updateTimeMs": 1743399848340
+  "updateTimeMs": 1743406983190
 }
