@@ -2969,7 +2969,7 @@
       "courseName": "体育(3)(保健班)",
       "credit": "1",
       "limitations": [],
-      "number": "24",
+      "number": "27",
       "position": "C314",
       "teacherId": "1611",
       "teacherName": "郑莉芳",
@@ -2983,7 +2983,7 @@
       "courseName": "体育(3)(保健班)",
       "credit": "1",
       "limitations": [],
-      "number": "22",
+      "number": "23",
       "position": "C314",
       "teacherId": "1981",
       "teacherName": "金海秀",
@@ -2997,7 +2997,7 @@
       "courseName": "体育(3)(保健班)",
       "credit": "1",
       "limitations": [],
-      "number": "17",
+      "number": "20",
       "position": "C315",
       "teacherId": "1992",
       "teacherName": "李静静",
@@ -3011,7 +3011,7 @@
       "courseName": "体育(6)(保健班)",
       "credit": "1",
       "limitations": [],
-      "number": "34",
+      "number": "39",
       "position": "C314",
       "teacherId": "1612",
       "teacherName": "郑莉芳",
@@ -3025,7 +3025,7 @@
       "courseName": "体育(6)(保健班)",
       "credit": "1",
       "limitations": [],
-      "number": "27",
+      "number": "30",
       "position": "C315",
       "teacherId": "1982",
       "teacherName": "金海秀",
@@ -4702,10 +4702,10 @@
       "courseName": "游泳(基础)",
       "credit": "1",
       "limitations": [
-        "限制人数",
+        "人数已满",
         "禁止退课"
       ],
-      "number": "25",
+      "number": "26",
       "position": "游泳馆小池",
       "teacherId": "1965",
       "teacherName": "尹默林",
@@ -4855,10 +4855,10 @@
       "courseName": "体育舞蹈(基础)",
       "credit": "1",
       "limitations": [
-        "人数已满",
+        "限制人数",
         "禁止退课"
       ],
-      "number": "24",
+      "number": "23",
       "position": "训练馆X107",
       "teacherId": "1607",
       "teacherName": "俞华",
@@ -7833,7 +7833,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "24",
+      "number": "23",
       "position": "C区风雨棚",
       "teacherId": "1774",
       "teacherName": "陈利荣",
@@ -9054,10 +9054,10 @@
       "courseName": "自行车(3)",
       "credit": "1",
       "limitations": [
-        "限制人数",
+        "人数已满",
         "禁止退课"
       ],
-      "number": "25",
+      "number": "24",
       "position": "K区自行车训练基地（体育馆东门对面）",
       "teacherId": "1097",
       "teacherName": "许汸",
@@ -9380,7 +9380,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "16",
+      "number": "15",
       "position": "游泳馆二楼大池",
       "teacherId": "1974",
       "teacherName": "周璇",
@@ -82041,7 +82041,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "1c02a18837aa2a6ef2446d4a5ee52909",
+  "hash": "d475a65f6e5cd864a0dd4e337a65c41f",
   "termName": "2024-2025学年春季学期",
-  "updateTimeMs": 1743646493344
+  "updateTimeMs": 1743650084408
 }
