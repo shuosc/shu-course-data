@@ -672,10 +672,10 @@
       "courseName": "理论力学(1)(强)",
       "credit": "4",
       "limitations": [
-        "限制人数",
+        "人数已满",
         "禁止退课"
       ],
-      "number": "3",
+      "number": "1",
       "position": "HE304",
       "teacherId": "1000",
       "teacherName": "楚海建",
@@ -4464,10 +4464,10 @@
       "courseName": "游泳(基础)",
       "credit": "1",
       "limitations": [
-        "人数已满",
+        "限制人数",
         "禁止退课"
       ],
-      "number": "26",
+      "number": "25",
       "position": "游泳馆小池",
       "teacherId": "1891",
       "teacherName": "陈婷",
@@ -82041,7 +82041,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "ba63cbc8bfb70aaa8a7c3ff70047979a",
+  "hash": "a8492e01be46ffcd7d1c03b5f4af6db6",
   "termName": "2024-2025学年春季学期",
-  "updateTimeMs": 1744177437361
+  "updateTimeMs": 1744181497788
 }
