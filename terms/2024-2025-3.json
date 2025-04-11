@@ -10162,7 +10162,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "42",
+      "number": "43",
       "position": "Ⅳ211机房",
       "teacherId": "3000",
       "teacherName": "佘俊",
@@ -54467,10 +54467,10 @@
       "courseName": "视听元素分析(3)",
       "credit": "3",
       "limitations": [
-        "限制人数",
+        "人数已满",
         "禁止退课"
       ],
-      "number": "45",
+      "number": "46",
       "position": "Ⅳ408",
       "teacherId": "3000",
       "teacherName": "葛颖",
@@ -54501,10 +54501,10 @@
       "courseName": "影视摄像(2)",
       "credit": "3",
       "limitations": [
-        "人数已满",
+        "限制人数",
         "禁止退课"
       ],
-      "number": "43",
+      "number": "44",
       "position": "Ⅳ403",
       "teacherId": "3000",
       "teacherName": "王天翼",
@@ -54518,10 +54518,10 @@
       "courseName": "影视编辑(2)",
       "credit": "3",
       "limitations": [
-        "人数已满",
+        "限制人数",
         "禁止退课"
       ],
-      "number": "42",
+      "number": "43",
       "position": "四教211",
       "teacherId": "3000",
       "teacherName": "姜斌",
@@ -54538,7 +54538,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "35",
+      "number": "36",
       "position": "Ⅳ407",
       "teacherId": "3001",
       "teacherName": "刘延刚",
@@ -54793,7 +54793,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "44",
+      "number": "45",
       "position": "不用",
       "teacherId": "3000",
       "teacherName": "吴丽娜等",
@@ -61012,10 +61012,10 @@
       "courseName": "当代世界经济与政治",
       "credit": "3",
       "limitations": [
-        "人数已满",
+        "限制人数",
         "禁止退课"
       ],
-      "number": "132",
+      "number": "133",
       "position": "Ⅳ102",
       "teacherId": "3001",
       "teacherName": "孙士庆",
@@ -63335,7 +63335,7 @@
         "限制人数",
         "禁止退课"
       ],
-      "number": "123",
+      "number": "124",
       "position": "Ⅳ301",
       "teacherId": "3016",
       "teacherName": "王有英",
@@ -63485,10 +63485,10 @@
       "courseName": "中国近现代史纲要B",
       "credit": "3",
       "limitations": [
-        "人数已满",
+        "限制人数",
         "禁止退课"
       ],
-      "number": "124",
+      "number": "125",
       "position": "BJ203",
       "teacherId": "1009",
       "teacherName": "岳爱武",
@@ -64554,7 +64554,7 @@
         "禁止选课",
         "禁止退课"
       ],
-      "number": "10",
+      "number": "11",
       "position": "Ⅳ101",
       "teacherId": "3001",
       "teacherName": "魏冰娥",
@@ -66109,11 +66109,11 @@
       "courseName": "思想政治理论课(实践)(1)",
       "credit": "1",
       "limitations": [
-        "限制人数",
+        "人数已满",
         "禁止选课",
         "禁止退课"
       ],
-      "number": "119",
+      "number": "120",
       "position": "Ⅳ101",
       "teacherId": "3001",
       "teacherName": "王有英",
@@ -82041,7 +82041,7 @@
       "teacherTitle": "讲师"
     }
   ],
-  "hash": "ea0c14e7017cbf25b8ec8d9ee19b2c05",
+  "hash": "ad0c958fa0fe10e12c98b2f7ca015d5a",
   "termName": "2024-2025学年春季学期",
-  "updateTimeMs": 1744350405273
+  "updateTimeMs": 1744354247379
 }
