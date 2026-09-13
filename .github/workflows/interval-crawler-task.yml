@@ -1,11 +1,11 @@
 name: Interval Crawler Task
 
 on:
-  schedule:
-    - cron: '35 8 * 7-9,12 *'
-    - cron: '35 * * 1-6,10-11 *'
-  pull_request:
-    branches: ['main']
+  # schedule:
+  #   - cron: '35 8 * 7-9,12 *'
+  #   - cron: '35 * * 1-6,10-11 *'
+  # pull_request:
+  #   branches: ['main']
   workflow_dispatch:
 
 concurrency:
